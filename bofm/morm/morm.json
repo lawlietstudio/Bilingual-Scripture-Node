@@ -1,13 +1,16 @@
 {
   "book": {
+    "fr": "LIVRE DE MORMON",
     "en": "THE BOOK OF MORMON",
     "zh": "摩爾門書"
   },
   "theme": {
+    "fr": "Chapitre 1",
     "en": "Chapter 1",
     "zh": "第1章"
   },
   "introduction": {
+    "fr": "Ammaron donne des instructions à Mormon concernant les annales sacrées — La guerre commence entre les Néphites et les Lamanites — Les trois Néphites sont retirés — La méchanceté, l’incrédulité, les sorcelleries et les sortilèges règnent. Vers 321–326 apr. J.-C.",
     "en": "Ammaron instructs Mormon concerning the sacred records—War commences between the Nephites and the Lamanites—The Three Nephites are taken away—Wickedness, unbelief, sorceries, and witchcraft prevail. About A.D. 321–26.",
     "zh": "阿摩龍指示摩爾門神聖紀錄的事——尼腓人與拉曼人之間爆發戰爭——三位尼腓人被帶走——邪惡、不信、邪術、巫術猖獗。約主後321年至326年。"
   },
@@ -15,6 +18,7 @@
     {
       "number": 1,
       "introduction": {
+        "fr": "Ammaron donne des instructions à Mormon concernant les annales sacrées — La guerre commence entre les Néphites et les Lamanites — Les trois Néphites sont retirés — La méchanceté, l’incrédulité, les sorcelleries et les sortilèges règnent. Vers 321–326 apr. J.-C.",
         "en": "Ammaron instructs Mormon concerning the sacred records—War commences between the Nephites and the Lamanites—The Three Nephites are taken away—Wickedness, unbelief, sorceries, and witchcraft prevail. About A.D. 321–26.",
         "zh": "阿摩龍指示摩爾門神聖紀錄的事——尼腓人與拉曼人之間爆發戰爭——三位尼腓人被帶走——邪惡、不信、邪術、巫術猖獗。約主後321年至326年。"
       },
@@ -22,6 +26,7 @@
         {
           "key": "verse 1",
           "text": {
+            "fr": "Et maintenant, moi, Mormon, je fais le récit des choses que j’ai vues et entendues, et je l’appelle le Livre de Mormon.",
             "en": "And now I, Mormon, make a record of the things which I have both seen and heard, and call it the Book of Mormon.",
             "zh": "我，摩爾門，將我看到和聽到的事作成紀錄，稱為《摩爾門書》。"
           }
@@ -29,6 +34,7 @@
         {
           "key": "verse 2",
           "text": {
+            "fr": "À l’époque où il cacha les annales pour le Seigneur, Ammaron vint à moi (j’avais environ dix ans et je commençais à être quelque peu instruit selon la science de mon peuple) et il me dit : Je vois que tu es un enfant sérieux et que tu es rapide à observer ;",
             "en": "And about the time that Ammaron hid up the records unto the Lord, he came unto me, (I being about ten years of age, and I began to be learned somewhat after the manner of the learning of my people) and Ammaron said unto me: I perceive that thou art a sober child, and art quick to observe;",
             "zh": "大約在阿摩龍為主藏起紀錄的時期，他到我這裡來（當時我大約十歲，按照我同胞的學習方式開始受了一些教育）；阿摩龍對我說：我看你是個認真的孩子，也敏於觀察；"
           }
@@ -36,6 +42,7 @@
         {
           "key": "verse 3",
           "text": {
+            "fr": "c’est pourquoi, je voudrais qu’aux environs de ta vingt-quatrième année, tu te souviennes des choses que tu as observées concernant ce peuple ; et lorsque tu auras cet âge-là, va au pays d’Antum, à une colline qui sera appelée Shim ; et là j’ai déposé pour le Seigneur toutes les inscriptions sacrées concernant ce peuple.",
             "en": "Therefore, when ye are about twenty and four years old I would that ye should remember the things that ye have observed concerning this people; and when ye are of that age go to the land Antum, unto a hill which shall be called Shim; and there have I deposited unto the Lord all the sacred engravings concerning this people.",
             "zh": "因此，等你二十四歲左右的時候，我希望你要記得你觀察到的這人民的事情；到了那個年紀，你就去安德地一個叫歇姆的山丘上；我在那裡為主存放了與這人民有關的所有神聖鐫文。"
           }
@@ -43,6 +50,7 @@
         {
           "key": "verse 4",
           "text": {
+            "fr": "Et voici, tu prendras les plaques de Néphi pour toi, et les autres, tu les laisseras dans le lieu où elles sont ; et tu graveras sur les plaques de Néphi toutes les choses que tu as observées concernant ce peuple.",
             "en": "And behold, ye shall take the plates of Nephi unto yourself, and the remainder shall ye leave in the place where they are; and ye shall engrave on the plates of Nephi all the things that ye have observed concerning this people.",
             "zh": "看啊，你要取出尼腓片帶著，其餘的則留在原處；你要在尼腓片上刻寫你觀察到的這人民的所有事情。"
           }
@@ -50,6 +58,7 @@
         {
           "key": "verse 5",
           "text": {
+            "fr": "Et moi, Mormon, descendant de Néphi (et le nom de mon père était Mormon), je me souvins des choses qu’Ammaron m’avait commandées.",
             "en": "And I, Mormon, being a descendant of Nephi, (and my father’s name was Mormon) I remembered the things which Ammaron commanded me.",
             "zh": "我，摩爾門，是尼腓的後代（我父親的名字也叫摩爾門），我記得阿摩龍命令我的事。"
           }
@@ -57,6 +66,7 @@
         {
           "key": "verse 6",
           "text": {
+            "fr": "Et il arriva qu’à l’âge de onze ans, je fus emmené par mon père dans le pays situé du côté du sud, au pays de Zarahemla.",
             "en": "And it came to pass that I, being eleven years old, was carried by my father into the land southward, even to the land of Zarahemla.",
             "zh": "事情是這樣的，我十一歲時，父親帶我到南方，到柴雷罕拉地。"
           }
@@ -64,6 +74,7 @@
         {
           "key": "verse 7",
           "text": {
+            "fr": "Toute la surface du pays s’était couverte de bâtiments, et le peuple était presque aussi nombreux que le sable de la mer.",
             "en": "The whole face of the land had become covered with buildings, and the people were as numerous almost, as it were the sand of the sea.",
             "zh": "整個地面上都蓋了房屋，人口幾乎多如海沙。"
           }
@@ -71,6 +82,7 @@
         {
           "key": "verse 8",
           "text": {
+            "fr": "Et il arriva que cette année-là, il commença à y avoir une guerre entre les Néphites, qui étaient composés des Néphites, et des Jacobites, et des Joséphites, et des Zoramites ; et cette guerre fut entre les Néphites, et les Lamanites, et les Lémuélites, et les Ismaélites.",
             "en": "And it came to pass in this year there began to be a war between the Nephites, who consisted of the Nephites and the Jacobites and the Josephites and the Zoramites; and this war was between the Nephites, and the Lamanites and the Lemuelites and the Ishmaelites.",
             "zh": "事情是這樣的，在這同一年，由尼腓人、雅各人、約瑟人和卓倫人所組成的尼腓人與拉曼人、雷米爾人及以實瑪利人爆發戰爭。"
           }
@@ -78,6 +90,7 @@
         {
           "key": "verse 9",
           "text": {
+            "fr": "Or, les Lamanites, et les Lémuélites, et les Ismaélites étaient appelés Lamanites, et les deux partis étaient les Néphites et les Lamanites.",
             "en": "Now the Lamanites and the Lemuelites and the Ishmaelites were called Lamanites, and the two parties were Nephites and Lamanites.",
             "zh": "這時拉曼人、雷米爾人和以實瑪利人都稱為拉曼人；交戰的雙方為尼腓人和拉曼人。"
           }
@@ -85,6 +98,7 @@
         {
           "key": "verse 10",
           "text": {
+            "fr": "Et il arriva que la guerre commença entre eux dans les régions frontières de Zarahemla, près des eaux de Sidon.",
             "en": "And it came to pass that the war began to be among them in the borders of Zarahemla, by the waters of Sidon.",
             "zh": "事情是這樣的，於是戰爭就在西頓水流邊的柴雷罕拉邊境展開。"
           }
@@ -92,6 +106,7 @@
         {
           "key": "verse 11",
           "text": {
+            "fr": "Et il arriva que les Néphites avaient rassemblé un grand nombre d’hommes, au point de dépasser le nombre de trente mille. Et il arriva que, cette même année, ils eurent un certain nombre de batailles, dans lesquelles les Néphites battirent les Lamanites et en tuèrent beaucoup.",
             "en": "And it came to pass that the Nephites had gathered together a great number of men, even to exceed the number of thirty thousand. And it came to pass that they did have in this same year a number of battles, in which the Nephites did beat the Lamanites and did slay many of them.",
             "zh": "事情是這樣的，尼腓人集合了很多人，數目超過三萬。事情是這樣的，他們在這一年有許多戰役，在這些戰役中，尼腓人打敗拉曼人，殺了他們許多人。"
           }
@@ -99,6 +114,7 @@
         {
           "key": "verse 12",
           "text": {
+            "fr": "Et il arriva que les Lamanites renoncèrent à leur dessein, et la paix se fit dans le pays ; et la paix dura pendant environ quatre ans, de sorte qu’il n’y eut pas d’effusion de sang ;",
             "en": "And it came to pass that the Lamanites withdrew their design, and there was peace settled in the land; and peace did remain for the space of about four years, that there was no bloodshed.",
             "zh": "事情是這樣的，拉曼人撤消計畫，該地重見和平；和平持續約四年之久，未發生流血事件。"
           }
@@ -106,6 +122,7 @@
         {
           "key": "verse 13",
           "text": {
+            "fr": "mais la méchanceté régnait sur la surface de tout le pays, de sorte que le Seigneur retira ses disciples bien-aimés, et l’œuvre de miracles et de guérisons cessa à cause de l’iniquité du peuple.",
             "en": "But wickedness did prevail upon the face of the whole land, insomuch that the Lord did take away his beloved disciples, and the work of miracles and of healing did cease because of the iniquity of the people.",
             "zh": "但邪惡在整個地面上猖獗，以致主帶走祂所愛的門徒，奇蹟與治病之事也因人民的罪惡而停止。"
           }
@@ -113,6 +130,7 @@
         {
           "key": "verse 14",
           "text": {
+            "fr": "Et il n’y eut plus de dons venant du Seigneur, et le Saint-Esprit ne descendit plus sur personne à cause de leur méchanceté et de leur incrédulité.",
             "en": "And there were no gifts from the Lord, and the Holy Ghost did not come upon any, because of their wickedness and unbelief.",
             "zh": "因為他們的邪惡與不信，不再有來自主的恩賜，聖靈也不再臨到任何人。"
           }
@@ -120,6 +138,7 @@
         {
           "key": "verse 15",
           "text": {
+            "fr": "Et moi, ayant quinze ans et étant d’un esprit plutôt sérieux, je fus visité par le Seigneur, et goûtai et connus la bonté de Jésus.",
             "en": "And I, being fifteen years of age and being somewhat of a sober mind, therefore I was visited of the Lord, and tasted and knew of the goodness of Jesus.",
             "zh": "當時我十五歲，還算是心思謹慎，因此蒙主親訪，體會並領悟了耶穌的良善。"
           }
@@ -127,6 +146,7 @@
         {
           "key": "verse 16",
           "text": {
+            "fr": "Et je m’efforçai de prêcher à ce peuple, mais la bouche me fut fermée, et il me fut interdit de leur prêcher ; car voici, ils s’étaient volontairement rebellés contre leur Dieu ; et les disciples bien-aimés avaient été enlevés du pays à cause de leur iniquité.",
             "en": "And I did endeavor to preach unto this people, but my mouth was shut, and I was forbidden that I should preach unto them; for behold they had wilfully rebelled against their God; and the beloved disciples were taken away out of the land, because of their iniquity.",
             "zh": "我曾試著向這人民傳道，卻不得開口，我被禁止向他們傳道，因為看啊，他們故意反叛他們的神；主所愛的門徒也因人民的罪惡而被帶離這地。"
           }
@@ -134,6 +154,7 @@
         {
           "key": "verse 17",
           "text": {
+            "fr": "Mais je restai parmi eux, mais il me fut interdit de leur prêcher, à cause de l’endurcissement de leur cœur ; et à cause de l’endurcissement de leur cœur, le pays fut maudit à cause d’eux.",
             "en": "But I did remain among them, but I was forbidden to preach unto them, because of the hardness of their hearts; and because of the hardness of their hearts the land was cursed for their sake.",
             "zh": "但是我仍留在他們當中，卻被禁止向他們傳道，因為他們心地頑硬；由於他們心地頑硬，這地方因他們的緣故遭受詛罰。"
           }
@@ -141,6 +162,7 @@
         {
           "key": "verse 18",
           "text": {
+            "fr": "Et ces brigands de Gadianton, qui étaient parmi les Lamanites, infestaient le pays, de sorte que ses habitants commencèrent à cacher leurs trésors dans la terre ; et ils leur glissèrent entre les doigts, parce que le Seigneur avait maudit le pays, de sorte qu’ils ne pouvaient ni les conserver, ni les retenir.",
             "en": "And these Gadianton robbers, who were among the Lamanites, did infest the land, insomuch that the inhabitants thereof began to hide up their treasures in the earth; and they became slippery, because the Lord had cursed the land, that they could not hold them, nor retain them again.",
             "zh": "拉曼人中的甘大安敦盜匪橫行這地，居民就把他們的財寶藏在地下；這些財寶變得滑溜，因為主詛罰這地，使他們抓不住，也無法再留住這些財寶。"
           }
@@ -148,6 +170,7 @@
         {
           "key": "verse 19",
           "text": {
+            "fr": "Et il arriva qu’il y eut des sorcelleries, et des sortilèges, et de la magie ; et le pouvoir du Malin agit sur toute la surface du pays au point d’accomplir toutes les paroles d’Abinadi et aussi de Samuel, le Lamanite.",
             "en": "And it came to pass that there were sorceries, and witchcrafts, and magics; and the power of the evil one was wrought upon all the face of the land, even unto the fulfilling of all the words of Abinadi, and also Samuel the Lamanite.",
             "zh": "事情是這樣的，邪術、巫術、魔法猖獗；那邪惡者的勢力橫行整個地面上，應驗了阿賓納代及拉曼人撒母耳所說的每一句話。"
           }
@@ -157,6 +180,7 @@
     {
       "number": 2,
       "introduction": {
+        "fr": "Mormon conduit les armées néphites — Le sang et le carnage se répandent dans tout le pays — Les Néphites se lamentent et pleurent de la tristesse des damnés — Leur jour de grâce est passé — Mormon obtient les plaques de Néphi — Les guerres continuent. Vers 327–350 apr. J.-C.",
         "en": "Mormon leads the Nephite armies—Blood and carnage sweep the land—The Nephites lament and mourn with the sorrowing of the damned—Their day of grace is passed—Mormon obtains the plates of Nephi—Wars continue. About A.D. 327–50.",
         "zh": "摩爾門率領尼腓軍隊——遍地血腥和屠殺——尼腓人因受詛罰者的憂傷而悲慟哀號——他們蒙恩的日子已過——摩爾門取得尼腓片——戰爭繼續。約主後327年至350年。"
       },
@@ -164,6 +188,7 @@
         {
           "key": "verse 1",
           "text": {
+            "fr": "Et il arriva que, cette même année, la guerre éclata de nouveau entre les Néphites et les Lamanites. Et moi, malgré que je fusse jeune, j’étais d’une haute stature ; c’est pourquoi, le peuple de Néphi me nomma pour être son chef, ou le chef de ses armées.",
             "en": "And it came to pass in that same year there began to be a war again between the Nephites and the Lamanites. And notwithstanding I being young, was large in stature; therefore the people of Nephi appointed me that I should be their leader, or the leader of their armies.",
             "zh": "事情是這樣的，同一年，尼腓人和拉曼人又重燃戰火。儘管我還年輕，但是身材高大；因此，尼腓人選派我作他們的領袖，也就是作他們軍隊的領袖。"
           }
@@ -171,6 +196,7 @@
         {
           "key": "verse 2",
           "text": {
+            "fr": "C’est ainsi qu’il arriva que, dans ma seizième année, j’allai à la tête d’une armée de Néphites contre les Lamanites ; et trois cent vingt-six ans étaient passés.",
             "en": "Therefore it came to pass that in my sixteenth year I did go forth at the head of an army of the Nephites, against the Lamanites; therefore three hundred and twenty and six years had passed away.",
             "zh": "因此事情是這樣的，我十六歲那年，就率領一支尼腓軍隊與拉曼人作戰；於是三百二十六年過去了。"
           }
@@ -178,6 +204,7 @@
         {
           "key": "verse 3",
           "text": {
+            "fr": "Et il arriva que la trois cent vingt-septième année, les Lamanites tombèrent sur nous avec une puissance extrêmement grande, de sorte qu’ils effrayèrent mes armées ; c’est pourquoi, elles ne voulurent pas se battre et elles commencèrent à se retirer vers les régions du nord.",
             "en": "And it came to pass that in the three hundred and twenty and seventh year the Lamanites did come upon us with exceedingly great power, insomuch that they did frighten my armies; therefore they would not fight, and they began to retreat towards the north countries.",
             "zh": "事情是這樣的，在第三百二十七年，拉曼人以極強大的軍力突襲我們，令我軍大為驚駭；於是他們不願作戰，開始向北部地區撤退。"
           }
@@ -185,6 +212,7 @@
         {
           "key": "verse 4",
           "text": {
+            "fr": "Et il arriva que nous arrivâmes à la ville d’Angola, et nous prîmes possession de la ville et fîmes des préparatifs pour nous défendre contre les Lamanites. Et il arriva que nous fortifiâmes la ville de toutes nos forces ; mais malgré toutes nos fortifications, les Lamanites tombèrent sur nous et nous chassèrent de la ville.",
             "en": "And it came to pass that we did come to the city of Angola, and we did take possession of the city, and make preparations to defend ourselves against the Lamanites. And it came to pass that we did fortify the city with our might; but notwithstanding all our fortifications the Lamanites did come upon us and did drive us out of the city.",
             "zh": "事情是這樣的，我們來到安哥拉城，佔領該城，並為抵抗拉曼人作準備。事情是這樣的，我們盡力鞏固該城；但儘管我們做了一切防禦工事，拉曼人還是來突襲我們，把我們趕出該城。"
           }
@@ -192,6 +220,7 @@
         {
           "key": "verse 5",
           "text": {
+            "fr": "Et ils nous chassèrent aussi du pays de David.",
             "en": "And they did also drive us forth out of the land of David.",
             "zh": "他們還把我們趕出大衛地。"
           }
@@ -199,6 +228,7 @@
         {
           "key": "verse 6",
           "text": {
+            "fr": "Et nous marchâmes et arrivâmes au pays de Josué, qui était dans les régions frontières, à l’ouest, près du bord de la mer.",
             "en": "And we marched forth and came to the land of Joshua, which was in the borders west by the seashore.",
             "zh": "我們向前走，到了海岸附近西部邊陲的約書亞地。"
           }
@@ -206,6 +236,7 @@
         {
           "key": "verse 7",
           "text": {
+            "fr": "Et il arriva que nous rassemblâmes notre peuple aussi vite que possible, afin de le réunir en un seul corps.",
             "en": "And it came to pass that we did gather in our people as fast as it were possible, that we might get them together in one body.",
             "zh": "事情是這樣的，我們儘快將人民集合，以成一體。"
           }
@@ -213,6 +244,7 @@
         {
           "key": "verse 8",
           "text": {
+            "fr": "Mais voici, le pays était rempli de brigands et de Lamanites ; et malgré la grande destruction qui était suspendue au-dessus de mon peuple, il ne se repentait pas de ses mauvaises actions ; c’est pourquoi le sang et le carnage se répandirent sur toute la surface du pays, tant de la part des Néphites que de la part des Lamanites ; et ce fut une révolution complète sur toute la surface du pays.",
             "en": "But behold, the land was filled with robbers and with Lamanites; and notwithstanding the great destruction which hung over my people, they did not repent of their evil doings; therefore there was blood and carnage spread throughout all the face of the land, both on the part of the Nephites and also on the part of the Lamanites; and it was one complete revolution throughout all the face of the land.",
             "zh": "但是看啊，那地方盡是盜匪和拉曼人；儘管大毀滅已臨頭，我人民還是不悔改他們的惡行；因此，血腥和屠殺遍及整個地面上，尼腓人這邊與拉曼人那邊都如此；這是一場全面的動亂，遍及整個地面上。"
           }
@@ -220,6 +252,7 @@
         {
           "key": "verse 9",
           "text": {
+            "fr": "Et maintenant, les Lamanites avaient un roi, et son nom était Aaron ; et il vint contre nous avec une armée de quarante-quatre mille. Et voici, je lui résistai avec quarante-deux mille. Et il arriva que je le battis avec mon armée, de sorte qu’il s’enfuit devant moi. Et voici, tout cela se fit, et trois cent trente années étaient passées.",
             "en": "And now, the Lamanites had a king, and his name was Aaron; and he came against us with an army of forty and four thousand. And behold, I withstood him with forty and two thousand. And it came to pass that I beat him with my army that he fled before me. And behold, all this was done, and three hundred and thirty years had passed away.",
             "zh": "拉曼人有個國王，名叫亞倫；他帶了一支四萬四千人的軍隊來攻打我們；看啊，我以四萬兩千人抵抗他。事情是這樣的，我領軍擊敗他，他就逃走了。看啊，這一切都發生了，三百三十年過去了。"
           }
@@ -227,6 +260,7 @@
         {
           "key": "verse 10",
           "text": {
+            "fr": "Et il arriva que les Néphites commencèrent à se repentir de leur iniquité et commencèrent à crier comme l’avait prophétisé Samuel, le prophète ; car voici, nul ne pouvait garder ce qui était à lui, à cause des voleurs, et des brigands, et des assassins, et de la magie, et des sortilèges qui étaient dans le pays.",
             "en": "And it came to pass that the Nephites began to repent of their iniquity, and began to cry even as had been prophesied by Samuel the prophet; for behold no man could keep that which was his own, for the thieves, and the robbers, and the murderers, and the magic art, and the witchcraft which was in the land.",
             "zh": "事情是這樣的，尼腓人開始悔改他們的罪惡，並且正如先知撒母耳預言的，開始哭號；因為看啊，沒有人能保有自己的東西，因為到處都是竊賊、盜匪、殺人犯、法術和巫術。"
           }
@@ -234,6 +268,7 @@
         {
           "key": "verse 11",
           "text": {
+            "fr": "Ainsi, il commença à y avoir un deuil et une lamentation dans tout le pays à cause de ces choses, et plus spécialement parmi le peuple de Néphi.",
             "en": "Thus there began to be a mourning and a lamentation in all the land because of these things, and more especially among the people of Nephi.",
             "zh": "為了這些事情，全地的人開始悲慟哀號，尤其是尼腓人。"
           }
@@ -241,6 +276,7 @@
         {
           "key": "verse 12",
           "text": {
+            "fr": "Et il arriva que lorsque moi, Mormon, je vis leurs lamentations, et leur deuil, et leur tristesse devant le Seigneur, mon cœur commença à se réjouir au-dedans de moi, connaissant la miséricorde et la longanimité du Seigneur, et pensant, par conséquent, qu’il serait miséricordieux envers eux, de sorte qu’ils redeviendraient un peuple juste.",
             "en": "And it came to pass that when I, Mormon, saw their lamentation and their mourning and their sorrow before the Lord, my heart did begin to rejoice within me, knowing the mercies and the long-suffering of the Lord, therefore supposing that he would be merciful unto them that they would again become a righteous people.",
             "zh": "事情是這樣的，我，摩爾門，見他們在主前悲慟、哀號、憂傷，內心開始十分高興，因為我知道主的慈悲和恆久忍耐，因此以為祂會憐憫他們，使他們再成為正義的民族。"
           }
@@ -248,6 +284,7 @@
         {
           "key": "verse 13",
           "text": {
+            "fr": "Mais voici, cette joie, qui était la mienne, fut vaine, car leur tristesse ne les portait pas au repentir, à cause de la bonté de Dieu ; mais c’était plutôt la tristesse des damnés, parce que le Seigneur n’allait plus leur permettre de trouver du bonheur dans le péché.",
             "en": "But behold this my joy was vain, for their sorrowing was not unto repentance, because of the goodness of God; but it was rather the sorrowing of the damned, because the Lord would not always suffer them to take happiness in sin.",
             "zh": "但是看啊，我空歡喜一場，因為他們的憂傷並未使他們因神的良善而悔改，而是受詛罰者的憂傷，因為主不會一直讓他們從犯罪中得到快樂。"
           }
@@ -255,6 +292,7 @@
         {
           "key": "verse 14",
           "text": {
+            "fr": "Et ils ne venaient pas à Jésus, le cœur brisé et l’esprit contrit, mais ils maudissaient Dieu et souhaitaient mourir. Néanmoins, ils se battaient avec l’épée pour défendre leur vie.",
             "en": "And they did not come unto Jesus with broken hearts and contrite spirits, but they did curse God, and wish to die. Nevertheless they would struggle with the sword for their lives.",
             "zh": "他們未帶著破碎的心和痛悔的靈歸向耶穌，反而詛咒神，並且希望一死；不過他們還是用劍掙扎求生。"
           }
@@ -262,6 +300,7 @@
         {
           "key": "verse 15",
           "text": {
+            "fr": "Et il arriva que la tristesse s’empara de nouveau de moi, et je vis que le jour de grâce était passé pour eux, à la fois temporellement et spirituellement ; car j’en voyais des milliers abattus, en rébellion ouverte contre leur Dieu et entassés comme du fumier sur la surface du pays. Et ainsi, trois cent quarante-quatre années étaient passées.",
             "en": "And it came to pass that my sorrow did return unto me again, and I saw that the day of grace was passed with them, both temporally and spiritually; for I saw thousands of them hewn down in open rebellion against their God, and heaped up as dung upon the face of the land. And thus three hundred and forty and four years had passed away.",
             "zh": "事情是這樣的，我又悲從中來，我看到他們屬世與屬靈蒙恩的時期都過去了；我看到他們數千人在公然反叛神時被砍倒，如糞土般堆在地面上。三百四十四年就這樣過去了。"
           }
@@ -269,6 +308,7 @@
         {
           "key": "verse 16",
           "text": {
+            "fr": "Et il arriva que la trois cent quarante-cinquième année, les Néphites commencèrent à fuir devant les Lamanites ; et ils furent poursuivis jusqu’à ce qu’ils arrivent au pays de Jashon, avant qu’il soit possible de les arrêter dans leur retraite.",
             "en": "And it came to pass that in the three hundred and forty and fifth year the Nephites did begin to flee before the Lamanites; and they were pursued until they came even to the land of Jashon, before it was possible to stop them in their retreat.",
             "zh": "事情是這樣的，第三百四十五年，尼腓人開始逃離拉曼人；他們被拉曼人追擊，在拉曼人能阻止他們撤退以前，逃到了耶尚地。"
           }
@@ -276,6 +316,7 @@
         {
           "key": "verse 17",
           "text": {
+            "fr": "Et maintenant, la ville de Jashon était près du pays où Ammaron avait déposé les annales pour le Seigneur, afin qu’elles ne fussent pas détruites. Et voici, j’étais allé, selon la parole d’Ammaron, prendre les plaques de Néphi, et je fis des annales, selon les paroles d’Ammaron.",
             "en": "And now, the city of Jashon was near the land where Ammaron had deposited the records unto the Lord, that they might not be destroyed. And behold I had gone according to the word of Ammaron, and taken the plates of Nephi, and did make a record according to the words of Ammaron.",
             "zh": "耶尚城靠近阿摩龍為主存放紀錄以免毀損的地方。看啊，我照阿摩龍的話，到那裡取出尼腓片，並照阿摩龍的話記錄。"
           }
@@ -283,6 +324,7 @@
         {
           "key": "verse 18",
           "text": {
+            "fr": "Et sur les plaques de Néphi, je fis le récit complet de toute la méchanceté et de toutes les abominations ; mais sur ces plaques, je m’abstins de faire le récit complet de leur méchanceté et de leurs abominations, car voici, une scène continuelle de méchanceté et d’abominations est devant mes yeux depuis que je suis à même de contempler les voies de l’homme.",
             "en": "And upon the plates of Nephi I did make a full account of all the wickedness and abominations; but upon these plates I did forbear to make a full account of their wickedness and abominations, for behold, a continual scene of wickedness and abominations has been before mine eyes ever since I have been sufficient to behold the ways of man.",
             "zh": "我在尼腓片上詳盡記載了所有的邪惡和憎行；但在這些頁片上，我盡量避免詳述他們的邪惡和憎行，因為看啊，自我懂事以來，邪惡和憎行觸目皆是，從未間斷。"
           }
@@ -290,6 +332,7 @@
         {
           "key": "verse 19",
           "text": {
+            "fr": "Et malheur à moi à cause de leur méchanceté ; car, toute ma vie, mon cœur a été rempli de tristesse à cause de leur méchanceté ; néanmoins, je sais que je serai élevé au dernier jour.",
             "en": "And wo is me because of their wickedness; for my heart has been filled with sorrow because of their wickedness, all my days; nevertheless, I know that I shall be lifted up at the last day.",
             "zh": "他們的邪惡令我痛苦；因為每一天，我的心因他們的邪惡而充滿悲傷；然而我知道在末日我必被高舉。"
           }
@@ -297,6 +340,7 @@
         {
           "key": "verse 20",
           "text": {
+            "fr": "Et il arriva que cette année-là, le peuple de Néphi fut de nouveau traqué et chassé. Et il arriva que nous fûmes chassés jusqu’à ce que nous fussions arrivés dans la direction du nord au pays qui était appelé Sem.",
             "en": "And it came to pass that in this year the people of Nephi again were hunted and driven. And it came to pass that we were driven forth until we had come northward to the land which was called Shem.",
             "zh": "事情是這樣的，這一年尼腓人又遭追捕、驅逐。事情是這樣的，我們一直被驅逐到北方一個叫閃的地方。"
           }
@@ -304,6 +348,7 @@
         {
           "key": "verse 21",
           "text": {
+            "fr": "Et il arriva que nous fortifiâmes la ville de Sem et nous rassemblâmes notre peuple autant qu’il était possible, afin de pouvoir peut-être le sauver de la destruction.",
             "en": "And it came to pass that we did fortify the city of Shem, and we did gather in our people as much as it were possible, that perhaps we might save them from destruction.",
             "zh": "事情是這樣的，我們鞏固了閃城，儘量集合人民，希望能救他們脫離毀滅。"
           }
@@ -311,6 +356,7 @@
         {
           "key": "verse 22",
           "text": {
+            "fr": "Et il arriva que la trois cent quarante-sixième année, ils nous attaquèrent de nouveau.",
             "en": "And it came to pass in the three hundred and forty and sixth year they began to come upon us again.",
             "zh": "事情是這樣的，第三百四十六年，他們開始又來突襲我們。"
           }
@@ -318,6 +364,7 @@
         {
           "key": "verse 23",
           "text": {
+            "fr": "Et il arriva que je parlai à mon peuple et l’exhortai, avec une grande énergie, à résister hardiment devant les Lamanites et à se battre pour ses femmes, et ses enfants, et ses maisons, et ses foyers.",
             "en": "And it came to pass that I did speak unto my people, and did urge them with great energy, that they would stand boldly before the Lamanites and fight for their wives, and their children, and their houses, and their homes.",
             "zh": "事情是這樣的，我對人民講話，極力鼓勵他們勇敢地站在拉曼人面前，為他們的妻子、他們的兒女、他們的房舍和他們的家庭而戰。"
           }
@@ -325,6 +372,7 @@
         {
           "key": "verse 24",
           "text": {
+            "fr": "Et mes paroles l’excitèrent quelque peu à la vigueur, de sorte qu’il ne prit pas la fuite devant les Lamanites, mais leur résista avec hardiesse.",
             "en": "And my words did arouse them somewhat to vigor, insomuch that they did not flee from before the Lamanites, but did stand with boldness against them.",
             "zh": "我的話使他們振作了一些，他們不再逃離拉曼人，卻勇敢地抵抗他們。"
           }
@@ -332,6 +380,7 @@
         {
           "key": "verse 25",
           "text": {
+            "fr": "Et il arriva que nous combattîmes avec une armée de trente mille contre une armée de cinquante mille. Et il arriva que nous leur résistâmes avec une telle fermeté qu’ils s’enfuirent devant nous.",
             "en": "And it came to pass that we did contend with an army of thirty thousand against an army of fifty thousand. And it came to pass that we did stand before them with such firmness that they did flee from before us.",
             "zh": "事情是這樣的，我們以三萬人的部隊抵抗五萬人的部隊。事情是這樣的，我們如此堅定地站在他們面前，他們逃離了我們。"
           }
@@ -339,6 +388,7 @@
         {
           "key": "verse 26",
           "text": {
+            "fr": "Et il arriva que lorsqu’ils eurent fui, nous les poursuivîmes avec nos armées, et les rencontrâmes de nouveau, et les battîmes ; néanmoins, la force du Seigneur n’était pas avec nous ; oui, nous étions livrés à nous-mêmes, de sorte que l’Esprit du Seigneur ne demeurait pas en nous ; c’est pourquoi nous étions devenus faibles comme nos frères.",
             "en": "And it came to pass that when they had fled we did pursue them with our armies, and did meet them again, and did beat them; nevertheless the strength of the Lord was not with us; yea, we were left to ourselves, that the Spirit of the Lord did not abide in us; therefore we had become weak like unto our brethren.",
             "zh": "事情是這樣的，他們逃，我們的部隊就追，再度和他們交戰，並打敗了他們；然而，主的力量並未和我們同在，是的，主的靈不和我們同在，留下我們自己，因此我們變得像我們的弟兄一樣軟弱。"
           }
@@ -346,6 +396,7 @@
         {
           "key": "verse 27",
           "text": {
+            "fr": "Et mon cœur était attristé à cause de cette grande calamité qui était celle de mon peuple, à cause de sa méchanceté et de ses abominations. Mais voici, nous marchâmes sur les Lamanites et les brigands de Gadianton, jusqu’à ce que nous eussions de nouveau pris possession des pays de notre héritage.",
             "en": "And my heart did sorrow because of this the great calamity of my people, because of their wickedness and their abominations. But behold, we did go forth against the Lamanites and the robbers of Gadianton, until we had again taken possession of the lands of our inheritance.",
             "zh": "我的人民因自己的邪惡和憎行遭此大難，令我痛心，但是看啊，我們還是去抵抗拉曼人和甘大安敦盜匪，直到我們再次佔領我們繼承的土地為止。"
           }
@@ -353,6 +404,7 @@
         {
           "key": "verse 28",
           "text": {
+            "fr": "Et la trois cent quarante-neuvième année était passée. Et la trois cent cinquantième année, nous conclûmes, avec les Lamanites et les brigands de Gadianton, un traité par lequel nous divisâmes les pays de notre héritage.",
             "en": "And the three hundred and forty and ninth year had passed away. And in the three hundred and fiftieth year we made a treaty with the Lamanites and the robbers of Gadianton, in which we did get the lands of our inheritance divided.",
             "zh": "第三百四十九年過去了。第三百五十年，我們和拉曼人及甘大安敦盜匪訂了條約，在條約中劃分我們繼承的土地。"
           }
@@ -360,6 +412,7 @@
         {
           "key": "verse 29",
           "text": {
+            "fr": "Et les Lamanites nous donnèrent le pays situé du côté du nord, oui, jusqu’au passage étroit qui menait au pays situé du côté du sud. Et nous donnâmes aux Lamanites tout le pays situé du côté du sud.",
             "en": "And the Lamanites did give unto us the land northward, yea, even to the narrow passage which led into the land southward. And we did give unto the Lamanites all the land southward.",
             "zh": "拉曼人給我們北部地方的土地，直延伸到通往南部地方窄小的通道，我們給拉曼人整個南部地方的土地。"
           }
@@ -369,6 +422,7 @@
     {
       "number": 3,
       "introduction": {
+        "fr": "Mormon appelle les Néphites au repentir — Ils remportent une grande victoire et se glorifient de leur force — Mormon refuse de les diriger, et les prières qu’il fait pour eux sont dépourvues de foi — Le Livre de Mormon invite les douze tribus d’Israël à croire en l’Évangile. Vers 360–362 apr. J.-C.",
         "en": "Mormon cries repentance unto the Nephites—They gain a great victory and glory in their own strength—Mormon refuses to lead them, and his prayers for them are without faith—The Book of Mormon invites the twelve tribes of Israel to believe the gospel. About A.D. 360–62.",
         "zh": "摩爾門呼籲尼腓人悔改——他們獲得大勝，並誇耀自己的力量——摩爾門拒絕領導他們；他為他們禱告，對這禱告卻毫無信心——《摩爾門經》邀請以色列十二支派相信福音。約主後360年至362年。"
       },
@@ -376,6 +430,7 @@
         {
           "key": "verse 1",
           "text": {
+            "fr": "Et il arriva que les Lamanites ne revinrent pas livrer bataille avant que dix autres années fussent passées. Et voici, j’avais employé mon peuple, les Néphites, à préparer ses terres et ses armes en vue du moment de la bataille.",
             "en": "And it came to pass that the Lamanites did not come to battle again until ten years more had passed away. And behold, I had employed my people, the Nephites, in preparing their lands and their arms against the time of battle.",
             "zh": "事情是這樣的，又過了十年，拉曼人沒有再來作戰。看啊，我使我的人民，尼腓人，忙於準備他們的土地和武器，以備戰時所需。"
           }
@@ -383,6 +438,7 @@
         {
           "key": "verse 2",
           "text": {
+            "fr": "Et il arriva que le Seigneur me dit : Crie à ce peuple : Repentez-vous et venez à moi, et soyez baptisés, et édifiez de nouveau mon Église, et vous serez épargnés.",
             "en": "And it came to pass that the Lord did say unto me: Cry unto this people—Repent ye, and come unto me, and be ye baptized, and build up again my church, and ye shall be spared.",
             "zh": "事情是這樣的，主對我說：向這人民大聲疾呼——你們要悔改，歸向我，你們要接受洗禮，重建我的教會，這樣你們必得保全。"
           }
@@ -390,6 +446,7 @@
         {
           "key": "verse 3",
           "text": {
+            "fr": "Et je criai à ce peuple, mais ce fut en vain, et il ne se rendait pas compte que c’était le Seigneur qui l’avait épargné et lui accordait une occasion de se repentir. Et voici, il s’endurcit le cœur contre le Seigneur, son Dieu.",
             "en": "And I did cry unto this people, but it was in vain; and they did not realize that it was the Lord that had spared them, and granted unto them a chance for repentance. And behold they did harden their hearts against the Lord their God.",
             "zh": "我向這人民大聲疾呼，但沒有用；他們不明白是主保全了他們，賜給他們悔改的機會。看啊，他們竟硬起心來違背主他們的神。"
           }
@@ -397,6 +454,7 @@
         {
           "key": "verse 4",
           "text": {
+            "fr": "Et il arriva que lorsque cette dixième année fut passée, ce qui faisait en tout trois cent soixante années depuis la venue du Christ, le roi des Lamanites m’envoya une épître, qui me faisait savoir qu’ils se préparaient à revenir nous livrer bataille.",
             "en": "And it came to pass that after this tenth year had passed away, making, in the whole, three hundred and sixty years from the coming of Christ, the king of the Lamanites sent an epistle unto me, which gave unto me to know that they were preparing to come again to battle against us.",
             "zh": "事情是這樣的，這第十年過去後，自基督來臨一共過了三百六十年，這時，拉曼人的國王送信給我，讓我知道他們正準備再來和我們作戰。"
           }
@@ -404,6 +462,7 @@
         {
           "key": "verse 5",
           "text": {
+            "fr": "Et il arriva que je commandai à mon peuple de se rassembler au pays de Désolation, dans une ville qui était dans les régions frontières, près du passage étroit qui menait au pays situé du côté du sud.",
             "en": "And it came to pass that I did cause my people that they should gather themselves together at the land Desolation, to a city which was in the borders, by the narrow pass which led into the land southward.",
             "zh": "事情是這樣的，我命令人民在荒蕪地集合，到邊界上的一個城市，那城市靠近通往南部地方的地峽。"
           }
@@ -411,6 +470,7 @@
         {
           "key": "verse 6",
           "text": {
+            "fr": "Et nous plaçâmes là notre armée, afin d’arrêter les armées des Lamanites, afin qu’elles ne prennent possession d’aucune de nos terres ; c’est pourquoi nous nous fortifiâmes contre eux de toutes nos forces.",
             "en": "And there we did place our armies, that we might stop the armies of the Lamanites, that they might not get possession of any of our lands; therefore we did fortify against them with all our force.",
             "zh": "我們在那裡佈署部隊，以遏阻拉曼人的部隊，使他們不能佔領我們的任何土地；因此我們以全部兵力防禦他們。"
           }
@@ -418,6 +478,7 @@
         {
           "key": "verse 7",
           "text": {
+            "fr": "Et il arriva que la trois cent soixante et unième année, les Lamanites descendirent à la ville de Désolation pour nous livrer bataille ; et il arriva que, cette année-là, nous les battîmes, de sorte qu’ils retournèrent dans leurs terres.",
             "en": "And it came to pass that in the three hundred and sixty and first year the Lamanites did come down to the city of Desolation to battle against us; and it came to pass that in that year we did beat them, insomuch that they did return to their own lands again.",
             "zh": "事情是這樣的，第三百六十一年，拉曼人下到荒蕪城和我們作戰；事情是這樣的，那年我們打敗了他們，他們又回到自己的土地。"
           }
@@ -425,6 +486,7 @@
         {
           "key": "verse 8",
           "text": {
+            "fr": "Et la trois cent soixante-deuxième année, ils redescendirent livrer bataille. Et nous les battîmes de nouveau et en tuâmes un grand nombre, et leurs morts furent jetés dans la mer.",
             "en": "And in the three hundred and sixty and second year they did come down again to battle. And we did beat them again, and did slay a great number of them, and their dead were cast into the sea.",
             "zh": "第三百六十二年，他們又下來作戰。我們再度打敗他們，殺了他們很多人；他們的屍體都被丟到海裡。"
           }
@@ -432,6 +494,7 @@
         {
           "key": "verse 9",
           "text": {
+            "fr": "Et alors, à cause de cette grande chose que mon peuple, les Néphites, avait faite, ils commencèrent à se vanter de leur force et commencèrent à jurer devant les cieux qu’ils se vengeraient du sang de leurs frères qui avaient été tués par leurs ennemis.",
             "en": "And now, because of this great thing which my people, the Nephites, had done, they began to boast in their own strength, and began to swear before the heavens that they would avenge themselves of the blood of their brethren who had been slain by their enemies.",
             "zh": "我的人民尼腓人做了這件大事，就開始誇耀自己的力量，並開始指天起誓，要親自為那些被敵人殺死的弟兄所流的血報仇。"
           }
@@ -439,6 +502,7 @@
         {
           "key": "verse 10",
           "text": {
+            "fr": "Et ils jurèrent par les cieux, et aussi par le trône de Dieu, qu’ils iraient livrer bataille à leurs ennemis et les retrancheraient de la surface du pays.",
             "en": "And they did swear by the heavens, and also by the throne of God, that they would go up to battle against their enemies, and would cut them off from the face of the land.",
             "zh": "他們指天起誓，也指著神的寶座起誓，要上去和敵人作戰，要把他們從地面上剪除。"
           }
@@ -446,6 +510,7 @@
         {
           "key": "verse 11",
           "text": {
+            "fr": "Et il arriva que moi, Mormon, je refusai absolument, à partir de ce moment-là, d’être commandant et chef de ce peuple, à cause de sa méchanceté et de son abomination.",
             "en": "And it came to pass that I, Mormon, did utterly refuse from this time forth to be a commander and a leader of this people, because of their wickedness and abomination.",
             "zh": "事情是這樣的，我，摩爾門，由於他們的邪惡與憎行，斷然拒絕從這時候起再作這人民的統帥和領袖。"
           }
@@ -453,6 +518,7 @@
         {
           "key": "verse 12",
           "text": {
+            "fr": "Voici, je les avais dirigés, malgré leur méchanceté je les avais conduits de nombreuses fois à la bataille et les avais aimés de tout mon cœur, selon l’amour de Dieu qui était en moi ; et mon âme s’était déversée tout le jour pour eux en prières à mon Dieu ; néanmoins, je le faisais sans la foi, à cause de l’endurcissement de leur cœur.",
             "en": "Behold, I had led them, notwithstanding their wickedness I had led them many times to battle, and had loved them, according to the love of God which was in me, with all my heart; and my soul had been poured out in prayer unto my God all the day long for them; nevertheless, it was without faith, because of the hardness of their hearts.",
             "zh": "看啊，我帶領過他們，不計他們的邪惡，多次帶領他們作戰，並憑著我裡面的神的愛，全心愛他們；我整天向神傾訴心聲，為他們禱告；然而，由於他們心地頑硬，我對那禱告毫無信心。"
           }
@@ -460,6 +526,7 @@
         {
           "key": "verse 13",
           "text": {
+            "fr": "Et trois fois je les ai délivrés des mains de leurs ennemis, et ils ne se sont pas repentis de leurs péchés.",
             "en": "And thrice have I delivered them out of the hands of their enemies, and they have repented not of their sins.",
             "zh": "我三次救他們脫離敵人的手，他們仍不悔改他們的罪。"
           }
@@ -467,6 +534,7 @@
         {
           "key": "verse 14",
           "text": {
+            "fr": "Et lorsqu’ils eurent juré par tout ce qui leur avait été interdit par notre Seigneur et Sauveur Jésus-Christ, qu’ils iraient livrer bataille à leurs ennemis, et venger le sang de leurs frères, voici, la voix du Seigneur me parvint, disant :",
             "en": "And when they had sworn by all that had been forbidden them by our Lord and Savior Jesus Christ, that they would go up unto their enemies to battle, and avenge themselves of the blood of their brethren, behold the voice of the Lord came unto me, saying:",
             "zh": "他們指著我們的主和救主耶穌基督禁止的一切起誓，要上去和他們的敵人作戰，親自為他們弟兄流的血報仇時，看啊，主的聲音臨到我，說："
           }
@@ -474,6 +542,7 @@
         {
           "key": "verse 15",
           "text": {
+            "fr": "À moi la vengeance, c’est moi qui rétribuerai ; et parce que ce peuple ne s’est pas repenti après que je l’ai délivré, voici, il sera retranché de la surface de la terre.",
             "en": "Vengeance is mine, and I will repay; and because this people repented not after I had delivered them, behold, they shall be cut off from the face of the earth.",
             "zh": "復仇在我，我必報應；因為這人民在我救了他們後還不悔改，看啊，他們必從地面上被剪除。"
           }
@@ -481,6 +550,7 @@
         {
           "key": "verse 16",
           "text": {
+            "fr": "Et il arriva que je refusai absolument de monter contre mes ennemis ; et je fis ce que le Seigneur m’avait commandé ; et je me tins en témoin passif pour manifester au monde les choses que je voyais et entendais, selon les manifestations de l’Esprit, qui avait témoigné des choses à venir.",
             "en": "And it came to pass that I utterly refused to go up against mine enemies; and I did even as the Lord had commanded me; and I did stand as an idle witness to manifest unto the world the things which I saw and heard, according to the manifestations of the Spirit which had testified of things to come.",
             "zh": "事情是這樣的，我斷然拒絕上去攻打敵人；我完全按照主命令我的去做；我只作個袖手旁觀的證人，依照那為將要發生之事作證的靈的顯示，將我看到和聽到的事公諸世人。"
           }
@@ -488,6 +558,7 @@
         {
           "key": "verse 17",
           "text": {
+            "fr": "C’est pourquoi je vous écris, à vous, les Gentils, et aussi à toi, maison d’Israël, qui seras sur le point de te préparer à retourner au pays de ton héritage lorsque l’œuvre commencera ;",
             "en": "Therefore I write unto you, Gentiles, and also unto you, house of Israel, when the work shall commence, that ye shall be about to prepare to return to the land of your inheritance;",
             "zh": "因此我寫給你們外邦人，也寫給你們以色列家族，將來那事工一開始，你們就快要準備回你們繼承的土地了；"
           }
@@ -495,6 +566,7 @@
         {
           "key": "verse 18",
           "text": {
+            "fr": "oui, voici, j’écris à toutes les extrémités de la terre ; oui, à vous, les douze tribus d’Israël, qui serez jugées selon vos œuvres par les douze que Jésus a choisis pour être ses disciples au pays de Jérusalem.",
             "en": "Yea, behold, I write unto all the ends of the earth; yea, unto you, twelve tribes of Israel, who shall be judged according to your works by the twelve whom Jesus chose to be his disciples in the land of Jerusalem.",
             "zh": "是的，看啊，我寫給大地各端的人；是的，寫給你們以色列十二支派；你們以色列十二支派將來要按自己的行為，接受耶穌在耶路撒冷地揀選的十二門徒的審判。"
           }
@@ -502,6 +574,7 @@
         {
           "key": "verse 19",
           "text": {
+            "fr": "Et j’écris aussi au reste de ce peuple, qui sera aussi jugé par les douze que Jésus a choisis dans ce pays ; et ils seront jugés par les douze autres que Jésus a choisis au pays de Jérusalem.",
             "en": "And I write also unto the remnant of this people, who shall also be judged by the twelve whom Jesus chose in this land; and they shall be judged by the other twelve whom Jesus chose in the land of Jerusalem.",
             "zh": "我也寫給這人民的遺裔，這遺裔將來要接受耶穌在這地揀選的十二人的審判；這十二人則要接受耶穌在耶路撒冷地揀選的另外十二人的審判。"
           }
@@ -509,6 +582,7 @@
         {
           "key": "verse 20",
           "text": {
+            "fr": "Et ces choses, l’Esprit me les manifeste ; c’est pourquoi je vous écris à tous. Et c’est pour cela que je vous écris, pour que vous sachiez que vous devrez tous vous tenir devant le siège du jugement du Christ, oui, toute âme qui appartient à toute la famille humaine d’Adam ; et vous devez vous y tenir pour être jugés de vos œuvres, qu’elles soient bonnes ou mauvaises ;",
             "en": "And these things doth the Spirit manifest unto me; therefore I write unto you all. And for this cause I write unto you, that ye may know that ye must all stand before the judgment-seat of Christ, yea, every soul who belongs to the whole human family of Adam; and ye must stand to be judged of your works, whether they be good or evil;",
             "zh": "靈向我顯示這些事，我就寫給你們每一個人。因此，我寫給你們，使你們知道，你們都必須站在基督的審判寶座前，是的，全亞當家族的每個人都必須如此；無論你們的行為是好是壞，你們都必須站在那裡按自己的行為受審判；"
           }
@@ -516,6 +590,7 @@
         {
           "key": "verse 21",
           "text": {
+            "fr": "et aussi, afin que vous croyiez en l’Évangile de Jésus-Christ, que vous aurez parmi vous ; et aussi afin que les Juifs, le peuple de l’alliance du Seigneur, aient un autre témoin que celui qu’ils ont vu et entendu, pour attester que Jésus, qu’ils ont mis à mort, était le Christ lui-même et Dieu lui-même.",
             "en": "And also that ye may believe the gospel of Jesus Christ, which ye shall have among you; and also that the Jews, the covenant people of the Lord, shall have other witness besides him whom they saw and heard, that Jesus, whom they slew, was the very Christ and the very God.",
             "zh": "也使你們相信你們將要獲得的耶穌基督的福音；也使主的約民猶太人，除了他們看到和聽到的那位以外，有其他見證人，證明他們殺害的耶穌是真正的基督，是真正的神。"
           }
@@ -523,6 +598,7 @@
         {
           "key": "verse 22",
           "text": {
+            "fr": "Et je voudrais pouvoir vous persuader, vous toutes, extrémités de la terre, de vous repentir et de vous préparer à vous tenir devant le siège du jugement du Christ.",
             "en": "And I would that I could persuade all ye ends of the earth to repent and prepare to stand before the judgment-seat of Christ.",
             "zh": "但願我能勸服大地各端的每個人悔改，準備好站在基督的審判寶座前。"
           }
@@ -532,6 +608,7 @@
     {
       "number": 4,
       "introduction": {
+        "fr": "La guerre et le carnage continuent — Les méchants punissent les méchants — Il règne une méchanceté plus grande que jamais auparavant dans tout Israël — Des femmes et des enfants sont sacrifiés aux idoles — Les Lamanites commencent à balayer les Néphites devant eux. Vers 363–375 apr. J.-C.",
         "en": "War and carnage continue—The wicked punish the wicked—Greater wickedness prevails than ever before in all Israel—Women and children are sacrificed to idols—The Lamanites begin to sweep the Nephites before them. About A.D. 363–75.",
         "zh": "戰爭與屠殺不斷——惡人懲罰惡人——邪惡猖獗，為整個以色列前所未有——殺婦女和小孩祭偶像——拉曼人開始掃蕩尼腓人。約主後363年至375年。"
       },
@@ -539,6 +616,7 @@
         {
           "key": "verse 1",
           "text": {
+            "fr": "Et alors, il arriva que la trois cent soixante-troisième année, les Néphites allèrent, avec leurs armées, livrer bataille aux Lamanites, en dehors du pays de Désolation.",
             "en": "And now it came to pass that in the three hundred and sixty and third year the Nephites did go up with their armies to battle against the Lamanites, out of the land Desolation.",
             "zh": "事情是這樣的，第三百六十三年，尼腓人和他們的部隊離開荒蕪地，上去和拉曼人作戰。"
           }
@@ -546,6 +624,7 @@
         {
           "key": "verse 2",
           "text": {
+            "fr": "Et il arriva que les armées des Néphites furent repoussées au pays de Désolation. Et pendant qu’elles étaient encore fatiguées, une armée fraîche de Lamanites tomba sur elles ; et ils eurent une furieuse bataille, de sorte que les Lamanites prirent possession de la ville de Désolation, et tuèrent beaucoup de Néphites, et firent beaucoup de prisonniers.",
             "en": "And it came to pass that the armies of the Nephites were driven back again to the land of Desolation. And while they were yet weary, a fresh army of the Lamanites did come upon them; and they had a sore battle, insomuch that the Lamanites did take possession of the city Desolation, and did slay many of the Nephites, and did take many prisoners.",
             "zh": "事情是這樣的，尼腓人的部隊再被趕回荒蕪地。他們正疲乏之際，一支精神飽滿的拉曼軍前來突襲；雙方苦戰後，拉曼人佔領了荒蕪城，殺了許多尼腓人，也俘走許多人。"
           }
@@ -553,6 +632,7 @@
         {
           "key": "verse 3",
           "text": {
+            "fr": "Et le reste s’enfuit et se joignit aux habitants de la ville de Téancum. Or, la ville de Téancum se trouvait dans les régions frontières près du bord de la mer ; et elle était également près de la ville de Désolation.",
             "en": "And the remainder did flee and join the inhabitants of the city Teancum. Now the city Teancum lay in the borders by the seashore; and it was also near the city Desolation.",
             "zh": "其餘的人逃往鐵安肯城，加入那裡的居民。鐵安肯城位於海岸附近的邊境，鄰近荒蕪城。"
           }
@@ -560,6 +640,7 @@
         {
           "key": "verse 4",
           "text": {
+            "fr": "Et c’était parce que les armées des Néphites étaient allées livrer bataille aux Lamanites qu’elles commençaient à être frappées ; car sans cela, les Lamanites n’auraient pu avoir aucun pouvoir sur elles.",
             "en": "And it was because the armies of the Nephites went up unto the Lamanites that they began to be smitten; for were it not for that, the Lamanites could have had no power over them.",
             "zh": "這是因為尼腓人的部隊上去攻擊拉曼人，他們才開始被擊打；不然，拉曼人也無力戰勝他們。"
           }
@@ -567,6 +648,7 @@
         {
           "key": "verse 5",
           "text": {
+            "fr": "Mais voici, les jugements de Dieu viennent sur les méchants, et c’est par les méchants que les méchants sont punis ; car ce sont les méchants qui excitent le cœur des enfants des hommes à l’effusion du sang.",
             "en": "But, behold, the judgments of God will overtake the wicked; and it is by the wicked that the wicked are punished; for it is the wicked that stir up the hearts of the children of men unto bloodshed.",
             "zh": "但是看啊，神的懲罰必制伏惡人，而且惡人自有惡人來懲罰；因為就是惡人煽動人類兒女的心去殺人流血的。"
           }
@@ -574,6 +656,7 @@
         {
           "key": "verse 6",
           "text": {
+            "fr": "Et il arriva que les Lamanites firent des préparatifs pour attaquer la ville de Téancum.",
             "en": "And it came to pass that the Lamanites did make preparations to come against the city Teancum.",
             "zh": "事情是這樣的，拉曼人準備進攻鐵安肯城。"
           }
@@ -581,6 +664,7 @@
         {
           "key": "verse 7",
           "text": {
+            "fr": "Et il arriva que la trois cent soixante-quatrième année, les Lamanites attaquèrent la ville de Téancum, afin de prendre également possession de la ville de Téancum.",
             "en": "And it came to pass in the three hundred and sixty and fourth year the Lamanites did come against the city Teancum, that they might take possession of the city Teancum also.",
             "zh": "事情是這樣的，第三百六十四年，拉曼人進攻鐵安肯城，想一併佔領鐵安肯城。"
           }
@@ -588,6 +672,7 @@
         {
           "key": "verse 8",
           "text": {
+            "fr": "Et il arriva qu’ils furent repoussés et refoulés par les Néphites. Et lorsque les Néphites virent qu’ils avaient chassé les Lamanites, ils se vantèrent de nouveau de leur force ; et ils allèrent avec leur force et reprirent possession de la ville de Désolation.",
             "en": "And it came to pass that they were repulsed and driven back by the Nephites. And when the Nephites saw that they had driven the Lamanites they did again boast of their own strength; and they went forth in their own might, and took possession again of the city Desolation.",
             "zh": "事情是這樣的，他們被尼腓人擊退並逐回。尼腓人見自己逐退了拉曼人，又誇耀自己的力量；他們靠自己的力量前進，再次佔領荒蕪城。"
           }
@@ -595,6 +680,7 @@
         {
           "key": "verse 9",
           "text": {
+            "fr": "Et maintenant, toutes ces choses avaient été faites, et des milliers d’hommes avaient été tués de part et d’autre, tant les Néphites que les Lamanites.",
             "en": "And now all these things had been done, and there had been thousands slain on both sides, both the Nephites and the Lamanites.",
             "zh": "這些事情全都發生了，尼腓人和拉曼人雙方都有數千人陣亡。"
           }
@@ -602,6 +688,7 @@
         {
           "key": "verse 10",
           "text": {
+            "fr": "Et il arriva que la trois cent soixante-sixième année était passée, et les Lamanites vinrent de nouveau livrer bataille aux Néphites ; et cependant, les Néphites ne se repentaient pas du mal qu’ils avaient fait, mais persistaient continuellement dans leur méchanceté.",
             "en": "And it came to pass that the three hundred and sixty and sixth year had passed away, and the Lamanites came again upon the Nephites to battle; and yet the Nephites repented not of the evil they had done, but persisted in their wickedness continually.",
             "zh": "事情是這樣的，過了第三百六十六年，拉曼人又來攻打尼腓人；尼腓人仍不悔改他們的惡行，執意繼續作惡。"
           }
@@ -609,6 +696,7 @@
         {
           "key": "verse 11",
           "text": {
+            "fr": "Et il est impossible à la langue de décrire ou à l’homme d’écrire une description parfaite de l’horrible spectacle de sang et de carnage qui était parmi le peuple, tant des Néphites que des Lamanites ; et tous les cœurs étaient endurcis, de sorte qu’ils prenaient plaisir à répandre continuellement le sang.",
             "en": "And it is impossible for the tongue to describe, or for man to write a perfect description of the horrible scene of the blood and carnage which was among the people, both of the Nephites and of the Lamanites; and every heart was hardened, so that they delighted in the shedding of blood continually.",
             "zh": "尼腓人和拉曼人雙方血腥和屠殺的恐怖景象，言語無法形容，筆墨也無法完全描述；每個人硬起了心，喜愛不斷流人血。"
           }
@@ -616,6 +704,7 @@
         {
           "key": "verse 12",
           "text": {
+            "fr": "Et il n’y avait jamais eu une aussi grande méchanceté parmi tous les enfants de Léhi, ni même parmi toute la maison d’Israël, selon les paroles du Seigneur, que parmi ce peuple.",
             "en": "And there never had been so great wickedness among all the children of Lehi, nor even among all the house of Israel, according to the words of the Lord, as was among this people.",
             "zh": "根據主的話，這人民邪惡之至，無論是李海所有的子孫還是整個以色列家族，皆前所未有。"
           }
@@ -623,6 +712,7 @@
         {
           "key": "verse 13",
           "text": {
+            "fr": "Et il arriva que les Lamanites prirent possession de la ville de Désolation, et cela parce que leur nombre dépassait le nombre des Néphites.",
             "en": "And it came to pass that the Lamanites did take possession of the city Desolation, and this because their number did exceed the number of the Nephites.",
             "zh": "事情是這樣的，拉曼人佔領了荒蕪城，因為他們的人數比尼腓人多。"
           }
@@ -630,6 +720,7 @@
         {
           "key": "verse 14",
           "text": {
+            "fr": "Et ils marchèrent aussi contre la ville de Téancum, et en chassèrent les habitants, et firent beaucoup de prisonniers, femmes et enfants, et les offrirent en sacrifice à leurs idoles.",
             "en": "And they did also march forward against the city Teancum, and did drive the inhabitants forth out of her, and did take many prisoners both women and children, and did offer them up as sacrifices unto their idol gods.",
             "zh": "他們還進攻鐵安肯城，逐出城裡的居民，俘虜許多婦女和小孩，並把他們當祭品獻給他們的偶像。"
           }
@@ -637,6 +728,7 @@
         {
           "key": "verse 15",
           "text": {
+            "fr": "Et il arriva que la trois cent soixante-septième année, les Néphites, en colère parce que les Lamanites avaient sacrifié leurs femmes et leurs enfants, allèrent contre les Lamanites avec une colère extrêmement grande, de sorte qu’ils battirent de nouveau les Lamanites et les chassèrent de leurs pays.",
             "en": "And it came to pass that in the three hundred and sixty and seventh year, the Nephites being angry because the Lamanites had sacrificed their women and their children, that they did go against the Lamanites with exceedingly great anger, insomuch that they did beat again the Lamanites, and drive them out of their lands.",
             "zh": "事情是這樣的，第三百六十七年，尼腓人因拉曼人用他們的婦女和小孩作祭品而發怒，於是滿懷憤怒攻打拉曼人，結果又打敗拉曼人，將他們趕出他們的土地。"
           }
@@ -644,6 +736,7 @@
         {
           "key": "verse 16",
           "text": {
+            "fr": "Et les Lamanites ne revinrent plus contre les Néphites avant la trois cent soixante-quinzième année.",
             "en": "And the Lamanites did not come again against the Nephites until the three hundred and seventy and fifth year.",
             "zh": "直到第三百七十五年，拉曼人都沒有再來攻打尼腓人。"
           }
@@ -651,6 +744,7 @@
         {
           "key": "verse 17",
           "text": {
+            "fr": "Et cette année-là, ils descendirent contre les Néphites avec toute leur puissance ; et on ne les compta pas à cause de leur grand nombre.",
             "en": "And in this year they did come down against the Nephites with all their powers; and they were not numbered because of the greatness of their number.",
             "zh": "這一年他們傾全力下來攻打尼腓人；他們人數眾多，未曾計算。"
           }
@@ -658,6 +752,7 @@
         {
           "key": "verse 18",
           "text": {
+            "fr": "Et à partir de ce moment-là, les Néphites n’obtinrent plus de pouvoir sur les Lamanites, mais commencèrent à être balayés par eux comme la rosée devant le soleil.",
             "en": "And from this time forth did the Nephites gain no power over the Lamanites, but began to be swept off by them even as a dew before the sun.",
             "zh": "從這時起，尼腓人再也無法勝過拉曼人，卻像陽光下的露水，開始被拉曼人掃蕩。"
           }
@@ -665,6 +760,7 @@
         {
           "key": "verse 19",
           "text": {
+            "fr": "Et il arriva que les Lamanites descendirent contre la ville de Désolation, et une bataille extrêmement furieuse fut livrée au pays de Désolation, au cours de laquelle ils battirent les Néphites.",
             "en": "And it came to pass that the Lamanites did come down against the city Desolation; and there was an exceedingly sore battle fought in the land Desolation, in the which they did beat the Nephites.",
             "zh": "事情是這樣的，拉曼人下來攻打荒蕪城；在荒蕪地有一場極為慘烈的戰事，他們打敗了尼腓人。"
           }
@@ -672,6 +768,7 @@
         {
           "key": "verse 20",
           "text": {
+            "fr": "Et ils s’enfuirent de nouveau devant eux, et ils arrivèrent à la ville de Boaz ; et là, ils résistèrent aux Lamanites avec une hardiesse extrême, de sorte que les Lamanites ne les battirent que lorsqu’ils revinrent une deuxième fois contre eux.",
             "en": "And they fled again from before them, and they came to the city Boaz; and there they did stand against the Lamanites with exceeding boldness, insomuch that the Lamanites did not beat them until they had come again the second time.",
             "zh": "尼腓人又逃離他們，逃到波阿斯城；他們在那裡奮勇抵抗拉曼人，使拉曼人無法打敗他們，直到第二次攻擊。"
           }
@@ -679,6 +776,7 @@
         {
           "key": "verse 21",
           "text": {
+            "fr": "Et lorsqu’ils furent venus une deuxième fois, les Néphites furent chassés et massacrés en un massacre extrêmement grand ; de nouveau, leurs femmes et leurs enfants furent sacrifiés aux idoles.",
             "en": "And when they had come the second time, the Nephites were driven and slaughtered with an exceedingly great slaughter; their women and their children were again sacrificed unto idols.",
             "zh": "拉曼人第二次攻擊時，尼腓人敗退，遭大肆屠殺，他們的婦女和小孩又被獻給偶像。"
           }
@@ -686,6 +784,7 @@
         {
           "key": "verse 22",
           "text": {
+            "fr": "Et il arriva que les Néphites s’enfuirent de nouveau devant eux, prenant tous les habitants avec eux, tant dans les bourgs que dans les villages.",
             "en": "And it came to pass that the Nephites did again flee from before them, taking all the inhabitants with them, both in towns and villages.",
             "zh": "事情是這樣的，尼腓人又帶著城鎮鄉村的全體居民逃離他們。"
           }
@@ -693,6 +792,7 @@
         {
           "key": "verse 23",
           "text": {
+            "fr": "Et alors, moi, Mormon, voyant que les Lamanites étaient sur le point de détruire le pays, j’allai à la colline de Shim et pris toutes les annales qu’Ammaron avait cachées pour le Seigneur.",
             "en": "And now I, Mormon, seeing that the Lamanites were about to overthrow the land, therefore I did go to the hill Shim, and did take up all the records which Ammaron had hid up unto the Lord.",
             "zh": "我，摩爾門，眼看拉曼人就要征服此地，就前往歇姆山，取出阿摩龍為主藏起來的所有紀錄。"
           }
@@ -702,6 +802,7 @@
     {
       "number": 5,
       "introduction": {
+        "fr": "Mormon conduit de nouveau les armées néphites dans des batailles marquées par le sang et le carnage — Le Livre de Mormon paraîtra pour convaincre tout Israël que Jésus est le Christ — À cause de leur incrédulité, les Lamanites seront dispersés, et l’Esprit cessera de lutter avec eux — Dans les derniers jours, ils recevront l’Évangile grâce aux Gentils. Vers 375–384 apr. J.-C.",
         "en": "Mormon again leads the Nephite armies in battles of blood and carnage—The Book of Mormon will come forth to convince all Israel that Jesus is the Christ—Because of their unbelief, the Lamanites will be scattered, and the Spirit will cease to strive with them—They will receive the gospel from the Gentiles in the latter days. About A.D. 375–84.",
         "zh": "摩爾門再度率領尼腓軍參與血腥和屠殺的戰爭——《摩爾門經》會問世，使所有以色列人相信耶穌是基督——拉曼人由於不信，會被分散，主的靈也會停止對他們努力——他們會在後期時代從外邦人那裡獲得福音。約主後375年至384年。"
       },
@@ -709,6 +810,7 @@
         {
           "key": "verse 1",
           "text": {
+            "fr": "Et il arriva que j’allai parmi les Néphites et me repentis du serment que j’avais fait de ne plus les aider ; et ils me donnèrent de nouveau le commandement de leurs armées, car ils me considéraient comme quelqu’un qui pouvait les délivrer de leurs afflictions.",
             "en": "And it came to pass that I did go forth among the Nephites, and did repent of the oath which I had made that I would no more assist them; and they gave me command again of their armies, for they looked upon me as though I could deliver them from their afflictions.",
             "zh": "事情是這樣的，我到尼腓人那裡，收回我不再幫他們的誓言；他們再度把軍隊的指揮權交給我，因為他們視我為拯救他們脫離苦難的人。"
           }
@@ -716,6 +818,7 @@
         {
           "key": "verse 2",
           "text": {
+            "fr": "Mais voici, j’étais sans espoir, car je connaissais les jugements du Seigneur qui allaient s’abattre sur eux ; car ils ne se repentaient pas de leurs iniquités, mais luttaient pour conserver la vie, sans faire appel à cet Être qui les avait créés.",
             "en": "But behold, I was without hope, for I knew the judgments of the Lord which should come upon them; for they repented not of their iniquities, but did struggle for their lives without calling upon that Being who created them.",
             "zh": "但是看啊，我並不抱希望，因為我知道主的懲罰必降臨他們；他們不悔改他們的罪，一味掙扎求生，卻不呼求創造他們的神。"
           }
@@ -723,6 +826,7 @@
         {
           "key": "verse 3",
           "text": {
+            "fr": "Et il arriva que les Lamanites vinrent contre nous, alors que nous nous étions enfuis à la ville de Jourdain ; mais voici, ils furent repoussés, de sorte qu’ils ne prirent pas la ville à ce moment-là.",
             "en": "And it came to pass that the Lamanites did come against us as we had fled to the city of Jordan; but behold, they were driven back that they did not take the city at that time.",
             "zh": "事情是這樣的，我們逃到約旦城後，拉曼人來攻擊我們；但是看啊，他們被逐退，未能在當時攻佔該城。"
           }
@@ -730,6 +834,7 @@
         {
           "key": "verse 4",
           "text": {
+            "fr": "Et il arriva qu’ils vinrent de nouveau contre nous, et nous conservâmes la ville. Et il y eut aussi d’autres villes qui furent conservées par les Néphites, places fortes qui les arrêtèrent, de sorte qu’ils ne purent entrer dans la région qui s’étendait devant nous, pour détruire les habitants de notre pays.",
             "en": "And it came to pass that they came against us again, and we did maintain the city. And there were also other cities which were maintained by the Nephites, which strongholds did cut them off that they could not get into the country which lay before us, to destroy the inhabitants of our land.",
             "zh": "事情是這樣的，他們又來攻擊我們，但我們守住了該城。還有別的城市也被尼腓人守住了；這些堅固的堡壘阻擋他們，使他們無法進入我們前面的區域，殺害我們土地上的居民。"
           }
@@ -737,6 +842,7 @@
         {
           "key": "verse 5",
           "text": {
+            "fr": "Mais il arriva que tous les pays à côté desquels nous étions passés et dont les habitants n’avaient pas été rassemblés, furent détruits par les Lamanites, et leurs bourgs, et leurs villages, et leurs villes furent brûlés par le feu ; et ainsi, trois cent soixante-dix-neuf ans étaient passés.",
             "en": "But it came to pass that whatsoever lands we had passed by, and the inhabitants thereof were not gathered in, were destroyed by the Lamanites, and their towns, and villages, and cities were burned with fire; and thus three hundred and seventy and nine years passed away.",
             "zh": "但是事情是這樣的，凡我們經過的地方，而其居民沒有聚集的，都被拉曼人毀滅了，他們的城鎮鄉村都被火燒了；三百七十九年就這樣過去了。"
           }
@@ -744,6 +850,7 @@
         {
           "key": "verse 6",
           "text": {
+            "fr": "Et il arriva que la trois cent quatre-vingtième année, les Lamanites vinrent de nouveau nous livrer bataille, et nous leur résistâmes hardiment ; mais tout cela était en vain, car leur nombre était si grand qu’ils foulaient le peuple des Néphites sous leurs pieds.",
             "en": "And it came to pass that in the three hundred and eightieth year the Lamanites did come again against us to battle, and we did stand against them boldly; but it was all in vain, for so great were their numbers that they did tread the people of the Nephites under their feet.",
             "zh": "事情是這樣的，第三百八十年，拉曼人又來和我們作戰，我們奮勇抵抗，卻毫無用處，因為他們人數如此眾多，將尼腓人踩在腳下。"
           }
@@ -751,6 +858,7 @@
         {
           "key": "verse 7",
           "text": {
+            "fr": "Et il arriva que nous prîmes de nouveau la fuite, et ceux dont la fuite était plus rapide que l’avance des Lamanites échappèrent, et ceux dont la fuite ne dépassait pas l’avance des Lamanites furent balayés et détruits.",
             "en": "And it came to pass that we did again take to flight, and those whose flight was swifter than the Lamanites’ did escape, and those whose flight did not exceed the Lamanites’ were swept down and destroyed.",
             "zh": "事情是這樣的，我們又再逃跑，跑得比拉曼人快的逃過了，跑不過拉曼人的都被掃蕩毀滅了。"
           }
@@ -758,6 +866,7 @@
         {
           "key": "verse 8",
           "text": {
+            "fr": "Et maintenant, voici, moi, Mormon, je ne désire pas déchirer l’âme des hommes en leur exposant l’affreux spectacle de sang et de carnage qui se présenta à mes yeux ; mais, sachant que ces choses doivent certainement être dévoilées, et que tout ce qui est caché doit être révélé sur les toits —",
             "en": "And now behold, I, Mormon, do not desire to harrow up the souls of men in casting before them such an awful scene of blood and carnage as was laid before mine eyes; but I, knowing that these things must surely be made known, and that all things which are hid must be revealed upon the house-tops—",
             "zh": "現在看啊，我，摩爾門，不願將眼前如此恐怖的血腥和屠殺景象呈現在世人面前，折磨他們的靈魂；但我知道，這些事一定會公布，一切隱藏的事都必在屋頂上透露出來——"
           }
@@ -765,6 +874,7 @@
         {
           "key": "verse 9",
           "text": {
+            "fr": "et aussi que la connaissance de ces choses doit parvenir au reste de ce peuple, et aussi aux Gentils, dont le Seigneur a dit qu’ils disperseraient ce peuple, et que ce peuple serait compté pour rien parmi eux — c’est pourquoi, j’écris un court abrégé, n’osant pas faire le récit complet des choses que j’ai vues, à cause du commandement que j’ai reçu, et aussi afin que vous n’ayez pas une trop grande tristesse à cause de la méchanceté de ce peuple.",
             "en": "And also that a knowledge of these things must come unto the remnant of these people, and also unto the Gentiles, who the Lord hath said should scatter this people, and this people should be counted as naught among them—therefore I write a small abridgment, daring not to give a full account of the things which I have seen, because of the commandment which I have received, and also that ye might not have too great sorrow because of the wickedness of this people.",
             "zh": "也知道這些事一定會讓這些人民的遺裔和外邦人知道；主說過外邦人要分散這人民，而這人民要被他們視為無物——因為我所受的命令，又因不想讓你們為這人民的邪惡太過悲傷，所以我不敢細述所見之事，只稍作節錄。"
           }
@@ -772,6 +882,7 @@
         {
           "key": "verse 10",
           "text": {
+            "fr": "Et maintenant, voici, cela je le dis à leur postérité, et aussi aux Gentils qui se préoccupent de la maison d’Israël, qui comprennent et savent d’où viennent leurs bénédictions.",
             "en": "And now behold, this I speak unto their seed, and also to the Gentiles who have care for the house of Israel, that realize and know from whence their blessings come.",
             "zh": "現在看啊，我這話是對他們的後裔說的，也是對關心以色列家族，了解並知道他們的祝福從哪裡來的外邦人說的。"
           }
@@ -779,6 +890,7 @@
         {
           "key": "verse 11",
           "text": {
+            "fr": "Car je sais que ceux-là seront attristés de la calamité de la maison d’Israël ; oui, ils seront attristés de la destruction de ce peuple ; ils seront attristés de ce que ce peuple ne s’est pas repenti, de sorte qu’il aurait pu être serré dans les bras de Jésus.",
             "en": "For I know that such will sorrow for the calamity of the house of Israel; yea, they will sorrow for the destruction of this people; they will sorrow that this people had not repented that they might have been clasped in the arms of Jesus.",
             "zh": "因為我知道這些人會為以色列家族的大災難而悲傷；是的，他們會為這人民的毀滅而悲傷；他們會痛惜這人民沒有悔改，否則這人民可能就被耶穌緊緊抱在懷裡了。"
           }
@@ -786,6 +898,7 @@
         {
           "key": "verse 12",
           "text": {
+            "fr": "Or, ces choses sont écrites au reste de la maison de Jacob, et elles sont écrites de cette manière parce que Dieu sait que la méchanceté ne les leur fera pas parvenir ; et elles doivent être cachées pour le Seigneur, afin de paraître lorsqu’il le jugera bon.",
             "en": "Now these things are written unto the remnant of the house of Jacob; and they are written after this manner, because it is known of God that wickedness will not bring them forth unto them; and they are to be hid up unto the Lord that they may come forth in his own due time.",
             "zh": "這些事是寫給雅各家族遺裔的；之所以這樣寫，是因為神知道，邪惡不會把這些紀錄帶給他們；這些紀錄要為主藏起，好在祂認為適當的時刻問世。"
           }
@@ -793,6 +906,7 @@
         {
           "key": "verse 13",
           "text": {
+            "fr": "Et tel est le commandement que j’ai reçu. Et voici, elles paraîtront selon le commandement du Seigneur, lorsqu’il le jugera bon dans sa sagesse.",
             "en": "And this is the commandment which I have received; and behold, they shall come forth according to the commandment of the Lord, when he shall see fit, in his wisdom.",
             "zh": "這是我所受的命令；看啊，這些紀錄要按照主的命令，憑祂的智慧認為適合的時候問世。"
           }
@@ -800,6 +914,7 @@
         {
           "key": "verse 14",
           "text": {
+            "fr": "Et voici, elles iront aux incrédules d’entre les Juifs ; et elles iront dans le but de les persuader que Jésus est le Christ, le Fils du Dieu vivant, afin que le Père puisse réaliser, par son Bien-aimé, son grand dessein éternel, qui est de ramener les Juifs, ou toute la maison d’Israël, au pays de leur héritage, que le Seigneur, leur Dieu, leur a donné, pour accomplir son alliance ;",
             "en": "And behold, they shall go unto the unbelieving of the Jews; and for this intent shall they go—that they may be persuaded that Jesus is the Christ, the Son of the living God; that the Father may bring about, through his most Beloved, his great and eternal purpose, in restoring the Jews, or all the house of Israel, to the land of their inheritance, which the Lord their God hath given them, unto the fulfilling of his covenant;",
             "zh": "看啊，這些紀錄要傳到不相信的猶太人那裡；傳給他們的目的是使他們相信耶穌就是基督，是活神的兒子；使父得以藉其最心愛者實現祂偉大而永恆的目的，讓猶太人或整個以色列家族，回到主他們的神賜給他們繼承的土地，履行祂的聖約；"
           }
@@ -807,6 +922,7 @@
         {
           "key": "verse 15",
           "text": {
+            "fr": "et aussi pour que la postérité de ce peuple croie plus complètement en son Évangile, qui ira des Gentils parmi elle ; car ce peuple sera dispersé et deviendra un peuple sombre, souillé et repoussant, au-delà de toute description de ce qui a jamais été parmi nous, oui, de ce qui a été parmi les Lamanites, et cela à cause de son incrédulité et de son idolâtrie.",
             "en": "And also that the seed of this people may more fully believe his gospel, which shall go forth unto them from the Gentiles; for this people shall be scattered, and shall become a dark, a filthy, and a loathsome people, beyond the description of that which ever hath been amongst us, yea, even that which hath been among the Lamanites, and this because of their unbelief and idolatry.",
             "zh": "也使這人民的後裔更徹底相信祂的福音，那福音將從外邦人傳給他們；因這人民必被分散，成為我們之中，是的，甚至拉曼人之中，前所未有，難以形容的深色、污穢、令人厭棄的民族；這是他們不信和拜偶像的後果。"
           }
@@ -814,6 +930,7 @@
         {
           "key": "verse 16",
           "text": {
+            "fr": "Car voici, l’Esprit du Seigneur a déjà cessé de lutter avec leurs pères ; et ils sont sans Christ et sans Dieu dans le monde ; et ils sont chassés comme la balle emportée par le vent.",
             "en": "For behold, the Spirit of the Lord hath already ceased to strive with their fathers; and they are without Christ and God in the world; and they are driven about as chaff before the wind.",
             "zh": "因為看啊，主的靈早已停止對他們祖先努力了；他們在這世上沒有基督與神和他們同在；他們像糠秕，被風吹散。"
           }
@@ -821,6 +938,7 @@
         {
           "key": "verse 17",
           "text": {
+            "fr": "Ils étaient jadis un peuple agréable et ils avaient le Christ pour berger ; oui, ils étaient conduits par Dieu le Père.",
             "en": "They were once a delightsome people, and they had Christ for their shepherd; yea, they were led even by God the Father.",
             "zh": "他們曾經是可愛的民族，有基督作他們的牧羊人，是的，由父神帶領。"
           }
@@ -828,6 +946,7 @@
         {
           "key": "verse 18",
           "text": {
+            "fr": "Mais maintenant, voici, ils sont conduits çà et là par Satan, comme la balle est emportée par le vent, ou comme un navire sans voile ni ancre, et sans rien pour le gouverner, est ballotté sur les vagues ; et ils sont comme lui.",
             "en": "But now, behold, they are led about by Satan, even as chaff is driven before the wind, or as a vessel is tossed about upon the waves, without sail or anchor, or without anything wherewith to steer her; and even as she is, so are they.",
             "zh": "但是現在看啊，他們由撒但帶領，像糠秕被風吹散，或像浪中顛簸的船，沒有帆，沒有錨，也沒有任何東西可以控制方向；他們就像這船一樣。"
           }
@@ -835,6 +954,7 @@
         {
           "key": "verse 19",
           "text": {
+            "fr": "Et voici, le Seigneur a réservé les bénédictions qu’ils auraient pu recevoir dans le pays aux Gentils qui posséderont le pays.",
             "en": "And behold, the Lord hath reserved their blessings, which they might have received in the land, for the Gentiles who shall possess the land.",
             "zh": "看啊，主已把他們本來可在此地得到的祝福，保留給將來要擁有此地的外邦人。"
           }
@@ -842,6 +962,7 @@
         {
           "key": "verse 20",
           "text": {
+            "fr": "Mais voici, il arrivera qu’ils seront chassés et dispersés par les Gentils ; et lorsqu’ils auront été chassés et dispersés par les Gentils, voici, alors le Seigneur se souviendra de l’alliance qu’il a faite avec Abraham et avec toute la maison d’Israël.",
             "en": "But behold, it shall come to pass that they shall be driven and scattered by the Gentiles; and after they have been driven and scattered by the Gentiles, behold, then will the Lord remember the covenant which he made unto Abraham and unto all the house of Israel.",
             "zh": "但是看啊，事情將是這樣，他們要被外邦人驅趕、分散；他們被外邦人驅趕、分散後，看啊，主必記得祂和亞伯拉罕及整個以色列家族立的聖約。"
           }
@@ -849,6 +970,7 @@
         {
           "key": "verse 21",
           "text": {
+            "fr": "Et le Seigneur se souviendra aussi des prières que les justes lui ont adressées pour eux.",
             "en": "And also the Lord will remember the prayers of the righteous, which have been put up unto him for them.",
             "zh": "主也必記得義人為他們向祂獻上的祈禱。"
           }
@@ -856,6 +978,7 @@
         {
           "key": "verse 22",
           "text": {
+            "fr": "Et alors, ô Gentils, comment pourrez-vous subsister devant la puissance de Dieu, si vous ne vous repentez pas et ne vous détournez pas de vos voies mauvaises ?",
             "en": "And then, O ye Gentiles, how can ye stand before the power of God, except ye shall repent and turn from your evil ways?",
             "zh": "那時，外邦人啊，除非你們悔改，從你們邪惡的路上回頭，否則你們在神的大能前怎能站立得住呢？"
           }
@@ -863,6 +986,7 @@
         {
           "key": "verse 23",
           "text": {
+            "fr": "Ne savez-vous pas que vous êtes dans les mains de Dieu ? Ne savez-vous pas qu’il a tout pouvoir et qu’à son grand commandement, la terre sera roulée comme un livre ?",
             "en": "Know ye not that ye are in the hands of God? Know ye not that he hath all power, and at his great command the earth shall be rolled together as a scroll?",
             "zh": "你們不知道自己在神的手中嗎？你們不知道祂有一切大能，在祂偉大的命令下，大地要好像書卷被捲起來嗎？"
           }
@@ -870,6 +994,7 @@
         {
           "key": "verse 24",
           "text": {
+            "fr": "C’est pourquoi, repentez-vous, et humiliez-vous devant lui, de peur qu’il ne sorte en justice contre vous — de peur qu’un reste de la postérité de Jacob n’aille parmi vous comme un lion, et ne vous déchire, et qu’il n’y ait personne pour délivrer.",
             "en": "Therefore, repent ye, and humble yourselves before him, lest he shall come out in justice against you—lest a remnant of the seed of Jacob shall go forth among you as a lion, and tear you in pieces, and there is none to deliver.",
             "zh": "因此，你們要悔改，在祂面前謙抑自己，免得祂用公道對待你們——免得雅各後裔的遺裔將來像獅子般到你們那裡，將你們撕成碎片，沒有人能解救。"
           }
@@ -879,6 +1004,7 @@
     {
       "number": 6,
       "introduction": {
+        "fr": "Les Néphites se rassemblent au pays de Cumorah pour les batailles finales — Mormon cache les annales sacrées dans la colline de Cumorah — Les Lamanites sont victorieux, et la nation néphite est détruite — Des centaines de milliers sont tués par l’épée. Vers 385 apr. J.-C.",
         "en": "The Nephites gather to the land of Cumorah for the final battles—Mormon hides the sacred records in the hill Cumorah—The Lamanites are victorious, and the Nephite nation is destroyed—Hundreds of thousands are slain with the sword. About A.D. 385.",
         "zh": "尼腓人聚集於克謨拉地，準備決戰——摩爾門將神聖紀錄藏在克謨拉山——拉曼人戰勝，尼腓民族滅亡——成千上萬人死於刀劍下。約主後385年。"
       },
@@ -886,6 +1012,7 @@
         {
           "key": "verse 1",
           "text": {
+            "fr": "Et maintenant, je termine mes annales concernant la destruction de mon peuple, les Néphites. Et il arriva que nous marchâmes devant les Lamanites.",
             "en": "And now I finish my record concerning the destruction of my people, the Nephites. And it came to pass that we did march forth before the Lamanites.",
             "zh": "現在我要完成我人民尼腓人滅亡的紀錄。事情是這樣的，我們在拉曼人之前行進。"
           }
@@ -893,6 +1020,7 @@
         {
           "key": "verse 2",
           "text": {
+            "fr": "Et moi, Mormon, j’écrivis une épître au roi des Lamanites et lui demandai de nous permettre de rassembler notre peuple au pays de Cumorah, près d’une colline qui était appelée Cumorah, et là nous pourrions leur livrer bataille.",
             "en": "And I, Mormon, wrote an epistle unto the king of the Lamanites, and desired of him that he would grant unto us that we might gather together our people unto the land of Cumorah, by a hill which was called Cumorah, and there we could give them battle.",
             "zh": "我，摩爾門，寫了封信給拉曼王，要求他准許我們將人民集合到一座叫克謨拉的山丘附近的克謨拉地，在那裡和他們作戰。"
           }
@@ -900,6 +1028,7 @@
         {
           "key": "verse 3",
           "text": {
+            "fr": "Et il arriva que le roi des Lamanites m’accorda ce que je désirais.",
             "en": "And it came to pass that the king of the Lamanites did grant unto me the thing which I desired.",
             "zh": "事情是這樣的，拉曼王答應我要求的事。"
           }
@@ -907,6 +1036,7 @@
         {
           "key": "verse 4",
           "text": {
+            "fr": "Et il arriva que nous marchâmes jusqu’au pays de Cumorah et dressâmes nos tentes tout autour de la colline de Cumorah ; et c’était dans un pays d’eaux, de rivières et de sources nombreuses ; et là, nous avions l’espoir d’avoir l’avantage sur les Lamanites.",
             "en": "And it came to pass that we did march forth to the land of Cumorah, and we did pitch our tents around about the hill Cumorah; and it was in a land of many waters, rivers, and fountains; and here we had hope to gain advantage over the Lamanites.",
             "zh": "事情是這樣的，我們行進到了克謨拉地，在克謨拉山周圍紮營；那是個有很多水流、河川和泉水的地方；在這裡我們有希望比拉曼人佔上風。"
           }
@@ -914,6 +1044,7 @@
         {
           "key": "verse 5",
           "text": {
+            "fr": "Et lorsque trois cent quatre vingt-quatre années furent passées, nous avions rassemblé tout le reste de notre peuple au pays de Cumorah.",
             "en": "And when three hundred and eighty and four years had passed away, we had gathered in all the remainder of our people unto the land of Cumorah.",
             "zh": "三百八十四年過去了，我們已把剩下的人民全部集合在克謨拉地。"
           }
@@ -921,6 +1052,7 @@
         {
           "key": "verse 6",
           "text": {
+            "fr": "Et il arriva que lorsque nous eûmes rassemblé tout notre peuple en un seul au pays de Cumorah, voici, moi, Mormon, je commençai à être vieux ; et sachant que ce serait la dernière lutte de mon peuple, et ayant reçu du Seigneur le commandement de ne pas laisser les annales, qui avaient été transmises par nos pères, qui étaient sacrées, tomber entre les mains des Lamanites (car les Lamanites les détruiraient), je fis alors ces annales-ci à partir des plaques de Néphi et cachai dans la colline de Cumorah toutes les annales qui m’avaient été confiées par la main du Seigneur, sauf ces quelques plaques que je donnai à mon fils Moroni.",
             "en": "And it came to pass that when we had gathered in all our people in one to the land of Cumorah, behold I, Mormon, began to be old; and knowing it to be the last struggle of my people, and having been commanded of the Lord that I should not suffer the records which had been handed down by our fathers, which were sacred, to fall into the hands of the Lamanites, (for the Lamanites would destroy them) therefore I made this record out of the plates of Nephi, and hid up in the hill Cumorah all the records which had been entrusted to me by the hand of the Lord, save it were these few plates which I gave unto my son Moroni.",
             "zh": "事情是這樣的，我們把全體人民集合在克謨拉地後，看啊，我，摩爾門，開始老了；我知道這是我人民最後的掙扎，而且主曾命令我，不可讓我們祖先傳下來的神聖紀錄落到拉曼人手中，（因為拉曼人會毀滅它），所以我從尼腓片上摘錄這紀錄，並且除了我交給我兒子摩羅乃的這些少數頁片外，主的手託付我的全部紀錄，我都藏在克謨拉山裡。"
           }
@@ -928,6 +1060,7 @@
         {
           "key": "verse 7",
           "text": {
+            "fr": "Et il arriva que mon peuple, avec ses femmes et ses enfants, vit alors les armées des Lamanites marcher vers lui ; et avec cette crainte affreuse de la mort qui remplit le cœur de tous les méchants, ils attendirent de les recevoir.",
             "en": "And it came to pass that my people, with their wives and their children, did now behold the armies of the Lamanites marching towards them; and with that awful fear of death which fills the breasts of all the wicked, did they await to receive them.",
             "zh": "事情是這樣的，我的人民和他們的妻子以及他們的兒女看到拉曼軍隊朝他們前進；他們懷著惡人心中對死亡的莫大恐懼，等著迎接他們。"
           }
@@ -935,6 +1068,7 @@
         {
           "key": "verse 8",
           "text": {
+            "fr": "Et il arriva qu’ils vinrent nous livrer bataille, et toutes les âmes étaient remplies de terreur à cause de leur grand nombre.",
             "en": "And it came to pass that they came to battle against us, and every soul was filled with terror because of the greatness of their numbers.",
             "zh": "事情是這樣的，他們來和我們作戰；由於他們人數眾多，每一個人都滿懷恐懼。"
           }
@@ -942,6 +1076,7 @@
         {
           "key": "verse 9",
           "text": {
+            "fr": "Et il arriva qu’ils tombèrent sur mon peuple avec l’épée, et avec l’arc, et avec la flèche, et avec la hache, et avec toutes sortes d’armes de guerre.",
             "en": "And it came to pass that they did fall upon my people with the sword, and with the bow, and with the arrow, and with the ax, and with all manner of weapons of war.",
             "zh": "事情是這樣的，他們用刀劍、用弓、用箭、用斧頭，並用種種作戰武器攻擊我的人民。"
           }
@@ -949,6 +1084,7 @@
         {
           "key": "verse 10",
           "text": {
+            "fr": "Et il arriva que mes hommes furent abattus, oui, mes dix mille qui étaient avec moi, et je tombai blessé au milieu d’eux ; et ils passèrent à côté de moi, de sorte qu’ils ne mirent pas fin à ma vie.",
             "en": "And it came to pass that my men were hewn down, yea, even my ten thousand who were with me, and I fell wounded in the midst; and they passed by me that they did not put an end to my life.",
             "zh": "事情是這樣的，我的人被砍倒了，是的，和我一起的一萬人都被砍倒了，我也受傷倒在他們當中；他們經過我身邊，卻沒有結束我的性命。"
           }
@@ -956,6 +1092,7 @@
         {
           "key": "verse 11",
           "text": {
+            "fr": "Et lorsqu’ils furent passés et eurent abattu tout mon peuple sauf vingt-quatre d’entre nous (parmi lesquels mon fils Moroni), nous, qui avions survécu aux morts de notre peuple, nous vîmes, le lendemain, lorsque les Lamanites furent retournés à leurs camps, du sommet de la colline de Cumorah, les dix mille de mon peuple, que j’avais conduits aux premières lignes, qui étaient abattus.",
             "en": "And when they had gone through and hewn down all my people save it were twenty and four of us, (among whom was my son Moroni) and we having survived the dead of our people, did behold on the morrow, when the Lamanites had returned unto their camps, from the top of the hill Cumorah, the ten thousand of my people who were hewn down, being led in the front by me.",
             "zh": "他們過去砍倒我所有的人，只剩我們二十四人（我兒子摩羅乃也在內）在我們的人死後還活著，第二天，拉曼人回他們的軍營後，我們從克謨拉山頂上，看到我所率領的一萬人已被砍倒。"
           }
@@ -963,6 +1100,7 @@
         {
           "key": "verse 12",
           "text": {
+            "fr": "Et nous vîmes aussi les dix mille de mon peuple qui avaient été conduits par mon fils Moroni.",
             "en": "And we also beheld the ten thousand of my people who were led by my son Moroni.",
             "zh": "我們也看到我兒子摩羅乃帶的一萬人。"
           }
@@ -970,6 +1108,7 @@
         {
           "key": "verse 13",
           "text": {
+            "fr": "Et voici, les dix mille de Gidgiddonah étaient tombés, et lui aussi parmi eux.",
             "en": "And behold, the ten thousand of Gidgiddonah had fallen, and he also in the midst.",
             "zh": "看啊，吉吉度拿的一萬人已戰死，他也在其中。"
           }
@@ -977,6 +1116,7 @@
         {
           "key": "verse 14",
           "text": {
+            "fr": "Et Lamah était tombé avec ses dix mille ; et Guilgal était tombé avec ses dix mille ; et Limhah était tombé avec ses dix mille, et Jénéum était tombé avec ses dix mille, et Cumenihah, et Moronihah, et Antionum, et Shiblom, et Sem, et Josh étaient tombés, chacun avec ses dix mille.",
             "en": "And Lamah had fallen with his ten thousand; and Gilgal had fallen with his ten thousand; and Limhah had fallen with his ten thousand; and Jeneum had fallen with his ten thousand; and Cumenihah, and Moronihah, and Antionum, and Shiblom, and Shem, and Josh, had fallen with their ten thousand each.",
             "zh": "籃馬和他的一萬人戰死了；吉甲和他的一萬人戰死了；林哈和他的一萬人戰死了；約尼安和他的一萬人戰死了；寇米乃哈、摩羅乃哈、安鐵昂納、希伯倫、閃、佐希及他們每人所帶的一萬人都已戰死。"
           }
@@ -984,6 +1124,7 @@
         {
           "key": "verse 15",
           "text": {
+            "fr": "Et il arriva qu’il y en avait dix autres qui étaient tombés par l’épée, chacun avec ses dix mille ; oui, tout mon peuple était tombé, sauf ces vingt-quatre qui étaient avec moi, et aussi un petit nombre qui s’étaient échappés dans les régions du sud et un petit nombre qui avaient déserté et étaient passés chez les Lamanites ; et leur chair, et leurs os, et leur sang gisaient sur la surface de la terre, laissés par les mains de ceux qui les avaient tués, pour pourrir sur le pays, et se décomposer, et retourner à la terre, leur mère.",
             "en": "And it came to pass that there were ten more who did fall by the sword, with their ten thousand each; yea, even all my people, save it were those twenty and four who were with me, and also a few who had escaped into the south countries, and a few who had deserted over unto the Lamanites, had fallen; and their flesh, and bones, and blood lay upon the face of the earth, being left by the hands of those who slew them to molder upon the land, and to crumble and to return to their mother earth.",
             "zh": "事情是這樣的，另有十個人和他們各自帶的一萬人都死於刀劍之下；是的，我所有的人民，除了和我一起的二十四人、少數逃進南部地區的人，以及少數投向拉曼人的以外，都已戰死；殺他們的人，任他們的屍骨和血鋪陳在地面上，任他們在那裡腐敗、朽壞而歸於孕育眾生的大地。"
           }
@@ -991,6 +1132,7 @@
         {
           "key": "verse 16",
           "text": {
+            "fr": "Et mon âme fut déchirée d’angoisse à cause de ceux de mon peuple qui avaient été tués, et je m’écriai :",
             "en": "And my soul was rent with anguish, because of the slain of my people, and I cried:",
             "zh": "由於我人民遭此殺戮，我的靈魂痛苦萬分，我喊道："
           }
@@ -998,6 +1140,7 @@
         {
           "key": "verse 17",
           "text": {
+            "fr": "Ô belles créatures, comment avez-vous pu vous éloigner des voies du Seigneur ? Ô belles créatures, comment avez-vous pu rejeter ce Jésus qui se tenait, les bras ouverts, pour vous recevoir ?",
             "en": "O ye fair ones, how could ye have departed from the ways of the Lord! O ye fair ones, how could ye have rejected that Jesus, who stood with open arms to receive you!",
             "zh": "你們這些俊美的人啊，你們怎會離開主的道呢！你們這些俊美的人啊，你們怎會拒絕站在那裡張開臂膀迎接你們的耶穌呢！"
           }
@@ -1005,6 +1148,7 @@
         {
           "key": "verse 18",
           "text": {
+            "fr": "Voici, si vous n’aviez pas fait cela, vous ne seriez pas tombés. Mais voici, vous êtes tombés, et je pleure votre perte.",
             "en": "Behold, if ye had not done this, ye would not have fallen. But behold, ye are fallen, and I mourn your loss.",
             "zh": "看啊，你們若不這樣，就不會敗亡。但是看啊，如今你們敗亡，我為失去你們而悲嘆。"
           }
@@ -1012,6 +1156,7 @@
         {
           "key": "verse 19",
           "text": {
+            "fr": "Ô fils et filles si beaux, pères et mères, maris et épouses, belles créatures, comment se peut-il que vous soyez tombés ?",
             "en": "O ye fair sons and daughters, ye fathers and mothers, ye husbands and wives, ye fair ones, how is it that ye could have fallen!",
             "zh": "你們這些俊美的兒女、父母、丈夫、妻子們，你們這些俊美的人啊，你們怎麼會敗亡！"
           }
@@ -1019,6 +1164,7 @@
         {
           "key": "verse 20",
           "text": {
+            "fr": "Mais voici, vous vous en êtes allés, et mon chagrin ne peut causer votre retour.",
             "en": "But behold, ye are gone, and my sorrows cannot bring your return.",
             "zh": "但是看啊，你們已經走了，任我怎樣悲傷也無法挽回。"
           }
@@ -1026,6 +1172,7 @@
         {
           "key": "verse 21",
           "text": {
+            "fr": "Et le jour viendra bientôt où votre corps mortel revêtira l’immortalité, et où ces corps qui maintenant tombent en corruption deviendront des corps incorruptibles ; et alors vous vous tiendrez devant le siège du jugement du Christ, pour être jugés selon vos œuvres ; et si vous êtes justes, alors vous serez bénis avec vos pères qui s’en sont allés avant vous.",
             "en": "And the day soon cometh that your mortal must put on immortality, and these bodies which are now moldering in corruption must soon become incorruptible bodies; and then ye must stand before the judgment-seat of Christ, to be judged according to your works; and if it so be that ye are righteous, then are ye blessed with your fathers who have gone before you.",
             "zh": "那日子就快來到，你們必死的身體必然穿上不死，這些正腐朽的身體很快就要成為不朽的身體；然後你們必站在基督的審判寶座前，按照你們的行為受審判；如果你們正義，就必與先你們而去的祖先同享祝福。"
           }
@@ -1033,6 +1180,7 @@
         {
           "key": "verse 22",
           "text": {
+            "fr": "Oh ! que ne vous êtes-vous repentis avant que cette grande destruction ne s’abatte sur vous ! Mais voici, vous vous en êtes allés, et le Père, oui, le Père éternel du ciel, connaît votre état ; et il agit envers vous selon sa justice et sa miséricorde.",
             "en": "O that ye had repented before this great destruction had come upon you. But behold, ye are gone, and the Father, yea, the Eternal Father of heaven, knoweth your state; and he doeth with you according to his justice and mercy.",
             "zh": "唉！要是你們在這大毀滅到臨之前悔改就好了。但是看啊，你們已經走了，而父，是的，天上永恆之父，知道你們的情形；祂必以其公道與慈悲對待你們。"
           }
@@ -1042,6 +1190,7 @@
     {
       "number": 7,
       "introduction": {
+        "fr": "Mormon invite les Lamanites des derniers jours à croire au Christ, à accepter son Évangile et à être sauvés — Tous ceux qui croient en la Bible croiront aussi au Livre de Mormon. Vers 385 apr. J.-C.",
         "en": "Mormon invites the Lamanites of the latter days to believe in Christ, accept His gospel, and be saved—All who believe the Bible will also believe the Book of Mormon. About A.D. 385.",
         "zh": "摩爾門邀請後期時代的拉曼人相信基督、接受祂的福音並得救——凡相信《聖經》的，也會相信《摩爾門經》。約主後385年。"
       },
@@ -1049,6 +1198,7 @@
         {
           "key": "verse 1",
           "text": {
+            "fr": "Et maintenant, voici, je voudrais parler quelque peu au reste de ce peuple qui est épargné, si Dieu lui donne mes paroles, afin qu’il soit informé des choses de ses pères ; oui, je vous parle, reste de la maison d’Israël ; et voici les paroles que je dis :",
             "en": "And now, behold, I would speak somewhat unto the remnant of this people who are spared, if it so be that God may give unto them my words, that they may know of the things of their fathers; yea, I speak unto you, ye remnant of the house of Israel; and these are the words which I speak:",
             "zh": "看啊，如果神會把我的話賜給這得免一死的人民的遺裔，讓他們知道他們祖先的事，那麼，我要對他們講幾句話；是的，我對你們這些以色列家族的遺裔講話；這些就是我要講的話："
           }
@@ -1056,6 +1206,7 @@
         {
           "key": "verse 2",
           "text": {
+            "fr": "Sachez que vous êtes de la maison d’Israël.",
             "en": "Know ye that ye are of the house of Israel.",
             "zh": "你們要知道你們屬於以色列家族。"
           }
@@ -1063,6 +1214,7 @@
         {
           "key": "verse 3",
           "text": {
+            "fr": "Sachez que vous devez venir au repentir, sinon vous ne pouvez être sauvés.",
             "en": "Know ye that ye must come unto repentance, or ye cannot be saved.",
             "zh": "你們要知道你們必須悔改，否則無法得救。"
           }
@@ -1070,6 +1222,7 @@
         {
           "key": "verse 4",
           "text": {
+            "fr": "Sachez que vous devez déposer vos armes de guerre et ne plus mettre vos délices dans l’effusion du sang, et ne plus les prendre, à moins que Dieu ne vous le commande.",
             "en": "Know ye that ye must lay down your weapons of war, and delight no more in the shedding of blood, and take them not again, save it be that God shall command you.",
             "zh": "你們要知道你們必須放下作戰武器，不再喜愛流人血；不要再拿起作戰武器，除非神命令你們。"
           }
@@ -1077,6 +1230,7 @@
         {
           "key": "verse 5",
           "text": {
+            "fr": "Sachez que vous devez en arriver à connaître vos pères, et vous repentir de tous vos péchés et de toutes vos iniquités, et croire en Jésus-Christ, qu’il est le Fils de Dieu, et qu’il fut tué par les Juifs, et que par le pouvoir du Père il est ressuscité, grâce à quoi il a remporté la victoire sur le tombeau ; et en lui aussi est englouti l’aiguillon de la mort.",
             "en": "Know ye that ye must come to the knowledge of your fathers, and repent of all your sins and iniquities, and believe in Jesus Christ, that he is the Son of God, and that he was slain by the Jews, and by the power of the Father he hath risen again, whereby he hath gained the victory over the grave; and also in him is the sting of death swallowed up.",
             "zh": "你們要知道你們必須認識你們的祖先，悔改你們一切罪惡和不義，相信耶穌基督，相信祂是神的兒子，相信祂被猶太人殺死，並已藉著父的大能復活了，因此祂已勝過了墳墓；死亡的毒鉤也因祂而被吞沒。"
           }
@@ -1084,6 +1238,7 @@
         {
           "key": "verse 6",
           "text": {
+            "fr": "Et il réalise la résurrection des morts, par laquelle l’homme doit être ressuscité pour se tenir devant son siège du jugement.",
             "en": "And he bringeth to pass the resurrection of the dead, whereby man must be raised to stand before his judgment-seat.",
             "zh": "祂促成死人的復活，藉此世人都必復活，站在祂的審判寶座前。"
           }
@@ -1091,6 +1246,7 @@
         {
           "key": "verse 7",
           "text": {
+            "fr": "Et il a réalisé la rédemption du monde, par laquelle, à celui qui est trouvé innocent devant lui le jour du jugement, il est donné de demeurer en la présence de Dieu dans son royaume, pour chanter sans cesse des louanges avec les chœurs là-haut, au Père, et au Fils, et au Saint-Esprit, qui sont un seul Dieu, dans un état de bonheur qui n’a pas de fin.",
             "en": "And he hath brought to pass the redemption of the world, whereby he that is found guiltless before him at the judgment day hath it given unto him to dwell in the presence of God in his kingdom, to sing ceaseless praises with the choirs above, unto the Father, and unto the Son, and unto the Holy Ghost, which are one God, in a state of happiness which hath no end.",
             "zh": "祂完成了世界的救贖，所以凡在審判日被祂判為無罪的，就獲賜在神國與神同住，和天上的唱詩班，永遠歌頌同為一神的父、子、聖靈，幸福無疆。"
           }
@@ -1098,6 +1254,7 @@
         {
           "key": "verse 8",
           "text": {
+            "fr": "C’est pourquoi, repentez-vous, et soyez baptisés au nom de Jésus, et saisissez-vous de l’Évangile du Christ, qui sera placé devant vous, non seulement dans ces annales-ci, mais aussi dans les annales qui parviendront des Juifs aux Gentils, annales qui viendront des Gentils à vous.",
             "en": "Therefore repent, and be baptized in the name of Jesus, and lay hold upon the gospel of Christ, which shall be set before you, not only in this record but also in the record which shall come unto the Gentiles from the Jews, which record shall come from the Gentiles unto you.",
             "zh": "所以要悔改，奉耶穌的名受洗，持守將要傳給你們的基督的福音；這福音不僅在這紀錄中，也在那從猶太人傳給外邦人，再由外邦人傳給你們的紀錄中。"
           }
@@ -1105,6 +1262,7 @@
         {
           "key": "verse 9",
           "text": {
+            "fr": "Car voici, ceci est écrit dans l’intention que vous croyiez cela ; et si vous croyez cela, vous croirez ceci aussi ; et si vous croyez ceci, vous saurez ce qui concerne vos pères, et aussi les œuvres merveilleuses qui ont été accomplies parmi eux par le pouvoir de Dieu.",
             "en": "For behold, this is written for the intent that ye may believe that; and if ye believe that ye will believe this also; and if ye believe this ye will know concerning your fathers, and also the marvelous works which were wrought by the power of God among them.",
             "zh": "因為看啊，這部紀錄就是為了使你們相信那部紀錄而寫的；如果你們相信那部，你們也必相信這部；如果你們相信這部，你們必知道你們祖先的事，也必知道那些藉著神的大能行在他們之中的奇妙事工。"
           }
@@ -1112,6 +1270,7 @@
         {
           "key": "verse 10",
           "text": {
+            "fr": "Et vous saurez aussi que vous êtes un reste de la postérité de Jacob ; c’est pourquoi vous êtes comptés parmi le peuple de la première alliance ; et si vous croyez au Christ et êtes baptisés, premièrement d’eau, ensuite de feu et du Saint-Esprit, suivant l’exemple de notre Sauveur, selon ce qu’il nous a commandé, tout ira bien pour vous au jour du jugement. Amen.",
             "en": "And ye will also know that ye are a remnant of the seed of Jacob; therefore ye are numbered among the people of the first covenant; and if it so be that ye believe in Christ, and are baptized, first with water, then with fire and with the Holy Ghost, following the example of our Savior, according to that which he hath commanded us, it shall be well with you in the day of judgment. Amen.",
             "zh": "你們也必知道你們是雅各後裔的遺裔；所以你們是被算在最初的約民裡的；如果你們相信基督，並遵照救主命令我們的，效法祂的榜樣受洗，先受水的洗禮，再受火與聖靈的洗禮，那麼到審判的日子，你們的景況一定很好。阿們。"
           }
@@ -1121,6 +1280,7 @@
     {
       "number": 8,
       "introduction": {
+        "fr": "Les Lamanites pourchassent et tuent les Néphites — Le Livre de Mormon paraîtra par le pouvoir de Dieu — Malheurs prononcés contre ceux qui manifestent de la colère et la volonté de lutter contre l’œuvre du Seigneur — Les annales néphites paraîtront en un jour de méchanceté, de dégénérescence et d’apostasie. Vers 400–421 apr. J.-C.",
         "en": "The Lamanites seek out and destroy the Nephites—The Book of Mormon will come forth by the power of God—Woes pronounced upon those who breathe out wrath and strife against the work of the Lord—The Nephite record will come forth in a day of wickedness, degeneracy, and apostasy. About A.D. 400–421.",
         "zh": "拉曼人追捕尼腓人，並消滅他們——《摩爾門經》將來必藉神的大能問世——對主的事工表示憤怒與反對者，必有災禍——尼腓人的紀錄將於邪惡、墮落及叛教的日子問世。約主後400年至421年。"
       },
@@ -1128,6 +1288,7 @@
         {
           "key": "verse 1",
           "text": {
+            "fr": "Voici, moi, Moroni, je finis les annales de mon père, Mormon. Voici, je n’ai que peu de choses à écrire, choses qui m’ont été commandées par mon père.",
             "en": "Behold I, Moroni, do finish the record of my father, Mormon. Behold, I have but few things to write, which things I have been commanded by my father.",
             "zh": "看啊，我，摩羅乃，要完成我父親摩爾門的紀錄。看啊，我只有幾件我父親命令的事要寫。"
           }
@@ -1135,6 +1296,7 @@
         {
           "key": "verse 2",
           "text": {
+            "fr": "Et alors, il arriva qu’après la grande et terrible bataille de Cumorah, voici, les Néphites qui s’étaient échappés dans la région située du côté du sud furent traqués par les Lamanites, jusqu’à ce qu’ils fussent tous détruits.",
             "en": "And now it came to pass that after the great and tremendous battle at Cumorah, behold, the Nephites who had escaped into the country southward were hunted by the Lamanites, until they were all destroyed.",
             "zh": "事情是這樣的，在克謨拉慘烈而可怕的戰役後，看啊，逃進南部地區的尼腓人被拉曼人追捕，直到全被消滅。"
           }
@@ -1142,6 +1304,7 @@
         {
           "key": "verse 3",
           "text": {
+            "fr": "Et mon père fut aussi tué par eux, et quant à moi, je reste seul pour écrire la triste histoire de la destruction de mon peuple. Mais voici, il s’en est allé, et j’accomplis le commandement de mon père. Et je ne sais pas s’ils me tueront.",
             "en": "And my father also was killed by them, and I even remain alone to write the sad tale of the destruction of my people. But behold, they are gone, and I fulfil the commandment of my father. And whether they will slay me, I know not.",
             "zh": "我父親也被他們殺了，我獨自留下來寫我人民毀滅的悲慘故事。但是看啊，他們都走了，而我則要完成我父親的命令。他們是否要殺我，我不知道。"
           }
@@ -1149,6 +1312,7 @@
         {
           "key": "verse 4",
           "text": {
+            "fr": "C’est pourquoi je vais écrire et cacher les annales dans la terre ; et peu importe où je vais.",
             "en": "Therefore I will write and hide up the records in the earth; and whither I go it mattereth not.",
             "zh": "因此我要寫下紀錄，並將紀錄藏在地下，我要去哪裡，就不重要了。"
           }
@@ -1156,6 +1320,7 @@
         {
           "key": "verse 5",
           "text": {
+            "fr": "Voici, mon père a fait ces annales, et il a écrit dans quelle intention elles ont été faites. Et voici, je l’écrirais aussi si j’avais de la place sur les plaques, mais je n’en ai pas ; et du métal, je n’en ai pas, car je suis seul. Mon père a été tué à la bataille, et toute ma parenté, et je n’ai pas d’amis ni où aller ; et je ne sais pas combien de temps le Seigneur souffrira que je vive.",
             "en": "Behold, my father hath made this record, and he hath written the intent thereof. And behold, I would write it also if I had room upon the plates, but I have not; and ore I have none, for I am alone. My father hath been slain in battle, and all my kinsfolk, and I have not friends nor whither to go; and how long the Lord will suffer that I may live I know not.",
             "zh": "看啊，我父親已作了這紀錄，其目的他已載明。看啊，如果頁片上還有空位給我，我也要寫下這紀錄的目的，但是沒有了；我也沒有金屬，因為我獨自一人。我父親已陣亡，我所有的親戚也如此，我沒有朋友，也沒有地方可去，我不知道主還要讓我活多久。"
           }
@@ -1163,6 +1328,7 @@
         {
           "key": "verse 6",
           "text": {
+            "fr": "Voici, quatre cents années sont passées depuis la venue de notre Seigneur et Sauveur.",
             "en": "Behold, four hundred years have passed away since the coming of our Lord and Savior.",
             "zh": "看啊，自從我們的主和救主降世以來，四百年已過去了。"
           }
@@ -1170,6 +1336,7 @@
         {
           "key": "verse 7",
           "text": {
+            "fr": "Et voici, les Lamanites ont traqué mon peuple, les Néphites, de ville en ville et de lieu en lieu jusqu’à ce qu’il ne soit plus ; et grande a été sa chute ; oui, grande et étonnante est la destruction de mon peuple, les Néphites.",
             "en": "And behold, the Lamanites have hunted my people, the Nephites, down from city to city and from place to place, even until they are no more; and great has been their fall; yea, great and marvelous is the destruction of my people, the Nephites.",
             "zh": "看啊，拉曼人到處追捕我的人民尼腓人，一城接一城，一地又一地，直到他們絕盡為止；他們徹底敗亡了；是的，我人民尼腓人的毀滅多麼慘重和叫人難以相信。"
           }
@@ -1177,6 +1344,7 @@
         {
           "key": "verse 8",
           "text": {
+            "fr": "Et voici, c’est la main du Seigneur qui l’a fait. Et voici, aussi, les Lamanites sont en guerre les uns contre les autres ; et toute la surface de ce pays n’est qu’un cercle continuel de meurtres et d’effusions de sang ; et nul ne connaît la fin de la guerre.",
             "en": "And behold, it is the hand of the Lord which hath done it. And behold also, the Lamanites are at war one with another; and the whole face of this land is one continual round of murder and bloodshed; and no one knoweth the end of the war.",
             "zh": "看啊，這事是主的手做的。看啊，拉曼人也彼此作戰；這整個地面上盡是殺人流血，循環不已；沒有人知道戰爭何日終了。"
           }
@@ -1184,6 +1352,7 @@
         {
           "key": "verse 9",
           "text": {
+            "fr": "Et maintenant, voici, je ne parle plus à leur sujet, car il n’y a que les Lamanites et les brigands qui existent à la surface du pays.",
             "en": "And now, behold, I say no more concerning them, for there are none save it be the Lamanites and robbers that do exist upon the face of the land.",
             "zh": "現在看啊，我不再講他們的事了，因為除了拉曼人和盜匪外，這地面上已沒有別的人了。"
           }
@@ -1191,6 +1360,7 @@
         {
           "key": "verse 10",
           "text": {
+            "fr": "Et il n’y en a aucun qui connaît le vrai Dieu, si ce n’est les disciples de Jésus, qui ont demeuré dans le pays jusqu’à ce que la méchanceté du peuple soit si grande que le Seigneur ne souffre plus qu’ils demeurent parmi le peuple ; et nul ne sait s’ils sont sur la surface du pays.",
             "en": "And there are none that do know the true God save it be the disciples of Jesus, who did tarry in the land until the wickedness of the people was so great that the Lord would not suffer them to remain with the people; and whether they be upon the face of the land no man knoweth.",
             "zh": "除了耶穌的門徒外，沒有人認識真神；他們曾留在此地，直到人民邪惡到主不讓他們留在人民當中為止；他們是否仍在這地面上，沒有人知道。"
           }
@@ -1198,6 +1368,7 @@
         {
           "key": "verse 11",
           "text": {
+            "fr": "Mais voici, mon père et moi les avons vus, et ils nous ont servis.",
             "en": "But behold, my father and I have seen them, and they have ministered unto us.",
             "zh": "但是看啊，我父親和我見過他們，他們曾施助我們。"
           }
@@ -1205,6 +1376,7 @@
         {
           "key": "verse 12",
           "text": {
+            "fr": "Et quiconque reçoit ces annales et ne les condamne pas à cause des imperfections qui s’y trouvent, celui-là connaîtra des choses plus grandes que celles-ci. Voici, je suis Moroni ; et si c’était possible, je vous ferais tout connaître.",
             "en": "And whoso receiveth this record, and shall not condemn it because of the imperfections which are in it, the same shall know of greater things than these. Behold, I am Moroni; and were it possible, I would make all things known unto you.",
             "zh": "凡獲得這紀錄，不因其中的缺點而指責的，必將知道比這些更偉大的事。看啊，我是摩羅乃；如果可能，我要讓你們知道一切事情。"
           }
@@ -1212,6 +1384,7 @@
         {
           "key": "verse 13",
           "text": {
+            "fr": "Voici, je finis de parler de ce peuple. Je suis le fils de Mormon, et mon père était descendant de Néphi.",
             "en": "Behold, I make an end of speaking concerning this people. I am the son of Mormon, and my father was a descendant of Nephi.",
             "zh": "看啊，有關這人民的事，我講到此為止。我是摩爾門的兒子，我父親是尼腓的後代。"
           }
@@ -1219,6 +1392,7 @@
         {
           "key": "verse 14",
           "text": {
+            "fr": "Et je suis celui-là même qui cache ces annales pour le Seigneur ; les plaques n’ont aucune valeur, à cause du commandement du Seigneur. Car il dit, en vérité, que nul ne les aura pour obtenir du gain ; mais les annales qui s’y trouvent ont une grande valeur, et quiconque les amènera à la lumière, le Seigneur le bénira.",
             "en": "And I am the same who hideth up this record unto the Lord; the plates thereof are of no worth, because of the commandment of the Lord. For he truly saith that no one shall have them to get gain; but the record thereof is of great worth; and whoso shall bring it to light, him will the Lord bless.",
             "zh": "為主藏起這紀錄的人就是我；由於主的誡命，那些用來記錄的頁片並不值錢，因為祂確實說過，沒有人能以這些頁片謀利；但上面的紀錄卻大有價值；凡公布這紀錄的，主必祝福。"
           }
@@ -1226,6 +1400,7 @@
         {
           "key": "verse 15",
           "text": {
+            "fr": "Car nul ne peut avoir le pouvoir de les amener à la lumière, si cela ne lui est donné par Dieu ; car Dieu veut que cela se fasse l’œil fixé uniquement sur sa gloire, ou sur le bien-être du peuple ancien et longtemps dispersé de l’alliance du Seigneur.",
             "en": "For none can have power to bring it to light save it be given him of God; for God wills that it shall be done with an eye single to his glory, or the welfare of the ancient and long dispersed covenant people of the Lord.",
             "zh": "除非神賜予力量，否則任何人都沒有力量公布這紀錄，因為神希望做這事的人，能將眼睛專注於祂的榮耀或主分散已久的古代約民的福祉上。"
           }
@@ -1233,6 +1408,7 @@
         {
           "key": "verse 16",
           "text": {
+            "fr": "Et béni soit celui qui amènera ces choses à la lumière ; car elles seront amenées des ténèbres à la lumière, selon la parole de Dieu ; oui, elles seront sorties de la terre, et brilleront hors des ténèbres, et parviendront à la connaissance du peuple ; et cela se fera par le pouvoir de Dieu.",
             "en": "And blessed be he that shall bring this thing to light; for it shall be brought out of darkness unto light, according to the word of God; yea, it shall be brought out of the earth, and it shall shine forth out of darkness, and come unto the knowledge of the people; and it shall be done by the power of God.",
             "zh": "那位要公布這紀錄的人必蒙祝福；因這紀錄必依神的話，從黑暗被帶到光明；是的，必從地下取出，在黑暗中照耀，為世人所知；此事必藉神的大能完成。"
           }
@@ -1240,6 +1416,7 @@
         {
           "key": "verse 17",
           "text": {
+            "fr": "Et s’il y a des fautes, ce sont les fautes d’un homme. Mais voici, nous ne connaissons pas de faute ; néanmoins Dieu sait tout ; c’est pourquoi, celui qui condamne, qu’il prenne garde de peur d’être en danger du feu de l’enfer.",
             "en": "And if there be faults they be the faults of a man. But behold, we know no fault; nevertheless God knoweth all things; therefore, he that condemneth, let him be aware lest he shall be in danger of hell fire.",
             "zh": "如果有什麼錯誤，那是人的錯誤。但是看啊，我們不知道有什麼錯誤，神卻通曉萬事；所以，凡指責的應知警惕，免得有受地獄之火的危險。"
           }
@@ -1247,6 +1424,7 @@
         {
           "key": "verse 18",
           "text": {
+            "fr": "Et celui qui dit : Montrez-moi, ou vous serez frappés, qu’il prenne garde, de peur qu’il ne commande ce qui est interdit par le Seigneur.",
             "en": "And he that saith: Show unto me, or ye shall be smitten—let him beware lest he commandeth that which is forbidden of the Lord.",
             "zh": "凡說：給我看，否則就擊打你的——要當心，免得命令了主禁止的事。"
           }
@@ -1254,6 +1432,7 @@
         {
           "key": "verse 19",
           "text": {
+            "fr": "Car voici, celui qui juge avec témérité sera jugé à son tour avec témérité ; car son salaire sera selon ses œuvres ; c’est pourquoi, celui qui frappe sera frappé à son tour par le Seigneur.",
             "en": "For behold, the same that judgeth rashly shall be judged rashly again; for according to his works shall his wages be; therefore, he that smiteth shall be smitten again, of the Lord.",
             "zh": "因為看啊，凡輕率論斷的，也必被輕率論斷，因為人必照其工作得報酬；所以，擊打人的，也必被主擊打。"
           }
@@ -1261,6 +1440,7 @@
         {
           "key": "verse 20",
           "text": {
+            "fr": "Voici ce que dit l’Écriture : l’homme ne frappera pas, ni ne jugera ; car le jugement m’appartient, dit le Seigneur, et la vengeance m’appartient aussi, et je rétribuerai.",
             "en": "Behold what the scripture says—man shall not smite, neither shall he judge; for judgment is mine, saith the Lord, and vengeance is mine also, and I will repay.",
             "zh": "看啊，經文是怎麼說的——人不可擊打，也不可論斷；因為主說，審判在我，復仇也在我，我必報應。"
           }
@@ -1268,6 +1448,7 @@
         {
           "key": "verse 21",
           "text": {
+            "fr": "Et celui qui respirera la colère et les discordes contre l’œuvre du Seigneur et contre le peuple de l’alliance du Seigneur, qui est la maison d’Israël, et dira : Nous détruirons l’œuvre du Seigneur, et le Seigneur ne se souviendra pas de l’alliance qu’il a faite avec la maison d’Israël, celui-là est en danger d’être abattu et jeté au feu ;",
             "en": "And he that shall breathe out wrath and strifes against the work of the Lord, and against the covenant people of the Lord who are the house of Israel, and shall say: We will destroy the work of the Lord, and the Lord will not remember his covenant which he hath made unto the house of Israel—the same is in danger to be hewn down and cast into the fire;",
             "zh": "凡對主的事工和主的約民以色列家族說出憤怒與反對的話語，並說：我們要破壞主的事工，主不會記得祂與以色列家族所立的聖約的——這樣的人已處於要被砍下並丟在火裡的危險了；"
           }
@@ -1275,6 +1456,7 @@
         {
           "key": "verse 22",
           "text": {
+            "fr": "car les desseins éternels du Seigneur se dérouleront jusqu’à ce que toutes ses promesses soient accomplies.",
             "en": "For the eternal purposes of the Lord shall roll on, until all his promises shall be fulfilled.",
             "zh": "因為主的永恆目的必向前推進，直到祂所有的應許都實現為止。"
           }
@@ -1282,6 +1464,7 @@
         {
           "key": "verse 23",
           "text": {
+            "fr": "Sondez les prophéties d’Ésaïe. Voici, je ne peux pas les écrire. Oui, voici, je vous dis que les saints qui m’ont précédé, qui ont possédé ce pays, crieront, oui, du fond de la poussière, et crieront au Seigneur, et comme le Seigneur vit, il se souviendra de l’alliance qu’il a faite avec eux.",
             "en": "Search the prophecies of Isaiah. Behold, I cannot write them. Yea, behold I say unto you, that those saints who have gone before me, who have possessed this land, shall cry, yea, even from the dust will they cry unto the Lord; and as the Lord liveth he will remember the covenant which he hath made with them.",
             "zh": "要查考以賽亞的預言。看啊，我無法寫出這些預言來。是的，看啊，我告訴你們，那些先我而去，曾擁有此地的聖徒必將呼求，是的，從塵埃中向主呼求；像主活著一樣真實，祂必記得與他們立的聖約。"
           }
@@ -1289,6 +1472,7 @@
         {
           "key": "verse 24",
           "text": {
+            "fr": "Et il connaît leurs prières et sait qu’elles étaient en faveur de leurs frères. Et il connaît leur foi, car en son nom ils pouvaient déplacer des montagnes ; et en son nom ils pouvaient faire trembler la terre ; et par le pouvoir de sa parole, ils faisaient s’écrouler les prisons ; oui, même la fournaise ardente ne pouvait leur faire du mal, ni les bêtes sauvages, ni les serpents venimeux, à cause du pouvoir de sa parole.",
             "en": "And he knoweth their prayers, that they were in behalf of their brethren. And he knoweth their faith, for in his name could they remove mountains; and in his name could they cause the earth to shake; and by the power of his word did they cause prisons to tumble to the earth; yea, even the fiery furnace could not harm them, neither wild beasts nor poisonous serpents, because of the power of his word.",
             "zh": "祂知道他們為他們的弟兄作的禱告；祂知道他們的信心，因為他們奉祂的名能移山，奉祂的名能使大地震動，藉著祂話語的力量使監獄倒塌在地；是的，由於祂話語的力量，熾烈的熔爐與毒蛇野獸都傷不了他們。"
           }
@@ -1296,6 +1480,7 @@
         {
           "key": "verse 25",
           "text": {
+            "fr": "Et voici, leurs prières étaient aussi en faveur de celui à qui le Seigneur permettrait de faire paraître ces choses.",
             "en": "And behold, their prayers were also in behalf of him that the Lord should suffer to bring these things forth.",
             "zh": "看啊，他們也為主將讓他公布這紀錄的那人禱告。"
           }
@@ -1303,6 +1488,7 @@
         {
           "key": "verse 26",
           "text": {
+            "fr": "Et nul ne doit dire qu’elles ne viendront pas, car elles viendront sûrement, car le Seigneur l’a dit ; car elles sortiront de la terre, par la main du Seigneur, et nul ne peut l’arrêter ; et cela se fera un jour où l’on dira que les miracles ont cessé ; et cela viendra comme si quelqu’un parlait d’entre les morts.",
             "en": "And no one need say they shall not come, for they surely shall, for the Lord hath spoken it; for out of the earth shall they come, by the hand of the Lord, and none can stay it; and it shall come in a day when it shall be said that miracles are done away; and it shall come even as if one should speak from the dead.",
             "zh": "誰都不用說這紀錄不會問世，因為這紀錄一定會問世，因為主已這樣說了；這紀錄必藉主的手出土，誰也阻止不了；這紀錄會在人說奇蹟已停止的時候問世；其問世必像死人說話一般。"
           }
@@ -1310,6 +1496,7 @@
         {
           "key": "verse 27",
           "text": {
+            "fr": "Et cela viendra un jour où le sang des saints criera au Seigneur à cause des combinaisons secrètes et des œuvres de ténèbres.",
             "en": "And it shall come in a day when the blood of saints shall cry unto the Lord, because of secret combinations and the works of darkness.",
             "zh": "這紀錄會在聖徒們的血，因祕密幫派和黑暗工作而向主呼求的時候問世。"
           }
@@ -1317,6 +1504,7 @@
         {
           "key": "verse 28",
           "text": {
+            "fr": "Oui, cela viendra un jour où le pouvoir de Dieu sera nié et où les Églises deviendront souillées et enflées dans l’orgueil de leur cœur ; oui, un jour où les chefs des Églises et les instructeurs se lèveront dans l’orgueil de leur cœur au point d’être jaloux de ceux qui appartiennent à leurs Églises.",
             "en": "Yea, it shall come in a day when the power of God shall be denied, and churches become defiled and be lifted up in the pride of their hearts; yea, even in a day when leaders of churches and teachers shall rise in the pride of their hearts, even to the envying of them who belong to their churches.",
             "zh": "是的，這紀錄會在神的大能被否認、各教會都變得腐敗、其教會成員都內心驕傲而自大；是的，也就是各教會領袖和教師都內心驕傲而自高，甚至嫉妒屬於他們教會的人時問世。"
           }
@@ -1324,6 +1512,7 @@
         {
           "key": "verse 29",
           "text": {
+            "fr": "Oui, cela viendra un jour où l’on entendra parler d’incendies, et de tempêtes, et de vapeurs de fumée dans des pays étrangers ;",
             "en": "Yea, it shall come in a day when there shall be heard of fires, and tempests, and vapors of smoke in foreign lands;",
             "zh": "是的，這紀錄會在聽到外地有火災、暴風雨和煙霧的時候問世；"
           }
@@ -1331,6 +1520,7 @@
         {
           "key": "verse 30",
           "text": {
+            "fr": "et on entendra aussi parler de guerres, de bruits de guerres et de tremblements de terre en divers lieux.",
             "en": "And there shall also be heard of wars, rumors of wars, and earthquakes in divers places.",
             "zh": "那時也會聽到各地有戰爭、戰爭的風聲和地震。"
           }
@@ -1338,6 +1528,7 @@
         {
           "key": "verse 31",
           "text": {
+            "fr": "Oui, cela viendra un jour où il y aura de grandes souillures à la surface de la terre ; il y aura des meurtres, et du brigandage, et du mensonge, et des tromperies, et des fornications, et toutes sortes d’abominations ; où il y en aura beaucoup qui diront : Faites ceci, ou faites cela, et cela n’a pas d’importance, car le Seigneur soutiendra de telles personnes au dernier jour. Mais malheur à ceux-là, car ils sont dans le fiel de l’amertume et dans les liens de l’iniquité.",
             "en": "Yea, it shall come in a day when there shall be great pollutions upon the face of the earth; there shall be murders, and robbing, and lying, and deceivings, and whoredoms, and all manner of abominations; when there shall be many who will say, Do this, or do that, and it mattereth not, for the Lord will uphold such at the last day. But wo unto such, for they are in the gall of bitterness and in the bonds of iniquity.",
             "zh": "是的，這紀錄會在地面上嚴重污染的時候問世；那時必有謀殺、搶劫、謊言、欺騙、淫亂和種種憎行；那時必有許多人要說：做這事、做那事，沒有關係，因為到末日主必支持這種人。但是這種人有禍了，因為他們在苦膽之中，在罪惡的束縛裡。"
           }
@@ -1345,6 +1536,7 @@
         {
           "key": "verse 32",
           "text": {
+            "fr": "Oui, cela viendra un jour où seront édifiées des Églises qui diront : Venez à moi, et, pour votre argent, vos péchés vous seront pardonnés.",
             "en": "Yea, it shall come in a day when there shall be churches built up that shall say: Come unto me, and for your money you shall be forgiven of your sins.",
             "zh": "是的，這紀錄會在有教會建立起來，並說：到我這裡來，你們的罪因你們的錢而被赦免的時候問世。"
           }
@@ -1352,6 +1544,7 @@
         {
           "key": "verse 33",
           "text": {
+            "fr": "Ô peuple méchant, et pervers, et au cou roide, pourquoi vous êtes-vous édifié des Églises pour obtenir du gain ? Pourquoi avez-vous défiguré la sainte parole de Dieu, afin d’attirer la damnation sur votre âme ? Voici, tournez-vous vers les révélations de Dieu ; car voici, le temps vient, ce jour-là, où toutes ces choses doivent s’accomplir.",
             "en": "O ye wicked and perverse and stiffnecked people, why have ye built up churches unto yourselves to get gain? Why have ye transfigured the holy word of God, that ye might bring damnation upon your souls? Behold, look ye unto the revelations of God; for behold, the time cometh at that day when all these things must be fulfilled.",
             "zh": "你們這些邪惡、頑固又倔強的人啊，為什麼為自己建立教會來謀利呢？為甚麼改變神的神聖話語，為自己的靈魂招來罪罰呢？看啊，你們要注意神的啟示，因為看啊，這一切應驗那天，時辰就到了。"
           }
@@ -1359,6 +1552,7 @@
         {
           "key": "verse 34",
           "text": {
+            "fr": "Voici, le Seigneur m’a montré des choses grandes et merveilleuses concernant ce qui doit venir sous peu, ce jour-là où ces choses paraîtront parmi vous.",
             "en": "Behold, the Lord hath shown unto me great and marvelous things concerning that which must shortly come, at that day when these things shall come forth among you.",
             "zh": "看啊，主已向我顯示和這紀錄在你們中間問世那天，必隨之而來的事有關的偉大而奇妙的事。"
           }
@@ -1366,6 +1560,7 @@
         {
           "key": "verse 35",
           "text": {
+            "fr": "Voici, je vous parle comme si vous étiez présents, et cependant vous ne l’êtes pas. Mais voici, Jésus-Christ vous a montrés à moi, et je sais ce que vous faites.",
             "en": "Behold, I speak unto you as if ye were present, and yet ye are not. But behold, Jesus Christ hath shown you unto me, and I know your doing.",
             "zh": "看啊，我對你們講話，就當你們是在我眼前一樣，然而你們並不在我眼前，但是看啊，耶穌基督已將你們顯示於我，我知道你們的行為。"
           }
@@ -1373,6 +1568,7 @@
         {
           "key": "verse 36",
           "text": {
+            "fr": "Et je sais que vous marchez dans l’orgueil de votre cœur ; et il n’y en a aucun, si ce n’est un petit nombre seulement, qui ne s’enfle pas dans l’orgueil de son cœur, au point de porter de très beaux habits, au point de se livrer à l’envie, et aux discordes, et à la malice, et aux persécutions, et à toutes sortes d’iniquités ; et vos Églises, oui, toutes, sont devenues souillées à cause de l’orgueil de votre cœur.",
             "en": "And I know that ye do walk in the pride of your hearts; and there are none save a few only who do not lift themselves up in the pride of their hearts, unto the wearing of very fine apparel, unto envying, and strifes, and malice, and persecutions, and all manner of iniquities; and your churches, yea, even every one, have become polluted because of the pride of your hearts.",
             "zh": "我知道你們行事內心驕傲；除了少數人外，莫不內心驕傲而自大；穿著精美的衣服、嫉妒、不和、怨恨、迫害，行種種罪惡；你們的教會，是的，每一個教會，都因你們內心驕傲而被污染了。"
           }
@@ -1380,6 +1576,7 @@
         {
           "key": "verse 37",
           "text": {
+            "fr": "Car voici, vous aimez l’argent, et vos biens, et vos beaux habits, et l’ornementation de vos Églises, plus que vous n’aimez les pauvres et les nécessiteux, les malades et les affligés.",
             "en": "For behold, ye do love money, and your substance, and your fine apparel, and the adorning of your churches, more than ye love the poor and the needy, the sick and the afflicted.",
             "zh": "因為看啊，你們愛金錢，愛你們的財產、你們精美的衣服和你們教堂的裝飾，更甚於愛貧困疾苦的人。"
           }
@@ -1387,6 +1584,7 @@
         {
           "key": "verse 38",
           "text": {
+            "fr": "Ô souillures, hypocrites, instructeurs, qui vous vendez pour ce qui se corrompra, pourquoi avez-vous souillé la sainte Église de Dieu ? Pourquoi avez-vous honte de prendre sur vous le nom du Christ ? Pourquoi ne pensez-vous pas qu’un bonheur sans fin a une valeur plus grande que cette misère qui ne meurt jamais — à cause des louanges du monde ?",
             "en": "O ye pollutions, ye hypocrites, ye teachers, who sell yourselves for that which will canker, why have ye polluted the holy church of God? Why are ye ashamed to take upon you the name of Christ? Why do ye not think that greater is the value of an endless happiness than that misery which never dies—because of the praise of the world?",
             "zh": "你們這些為了會腐化人心的東西出賣自己的污穢者、偽善者和教師啊，為什麼污染神的神聖教會呢？為什麼恥於承受基督的名呢？為什麼因世人的稱讚，就不覺得無窮的幸福比無盡的悲慘更有價值呢？"
           }
@@ -1394,6 +1592,7 @@
         {
           "key": "verse 39",
           "text": {
+            "fr": "Pourquoi vous ornez-vous de ce qui n’a pas de vie et souffrez cependant que les affamés, et les nécessiteux, et les nus, et les malades, et les affligés passent à côté de vous sans que vous ne les remarquiez ?",
             "en": "Why do ye adorn yourselves with that which hath no life, and yet suffer the hungry, and the needy, and the naked, and the sick and the afflicted to pass by you, and notice them not?",
             "zh": "為什麼用沒有生命的東西裝飾自己，卻任飢餓、貧困、無衣蔽體、患病、受苦的人在你們面前走過而不予理會呢？"
           }
@@ -1401,6 +1600,7 @@
         {
           "key": "verse 40",
           "text": {
+            "fr": "Oui, pourquoi bâtissez-vous vos abominations secrètes pour obtenir du gain et faire en sorte que les veuves se lamentent devant le Seigneur, et aussi que les orphelins se lamentent devant le Seigneur, et aussi que le sang de leurs pères et de leurs maris crie du sol vers le Seigneur, pour que la vengeance s’abatte sur votre tête ?",
             "en": "Yea, why do ye build up your secret abominations to get gain, and cause that widows should mourn before the Lord, and also orphans to mourn before the Lord, and also the blood of their fathers and their husbands to cry unto the Lord from the ground, for vengeance upon your heads?",
             "zh": "是的，為什麼建立祕密憎行來謀利，使寡婦在主前哀哭，使孤兒也在主前哀哭，使他們的父親和他們丈夫的血從地下向主呼求，要在你們頭上復仇？"
           }
@@ -1408,6 +1608,7 @@
         {
           "key": "verse 41",
           "text": {
+            "fr": "Voici, l’épée de la vengeance est suspendue au-dessus de vous ; et le moment vient bientôt où il vengera le sang des saints sur vous, car il ne souffrira plus leurs cris.",
             "en": "Behold, the sword of vengeance hangeth over you; and the time soon cometh that he avengeth the blood of the saints upon you, for he will not suffer their cries any longer.",
             "zh": "看啊，復仇之劍已懸在你們頭上；時候很快就到，祂要在你們身上為聖徒們的血復仇，因祂不忍再聽他們呼求。"
           }
@@ -1417,6 +1618,7 @@
     {
       "number": 9,
       "introduction": {
+        "fr": "Moroni invite ceux qui ne croient pas au Christ à se repentir — Il proclame un Dieu de miracles, qui donne des révélations et déverse les dons et les signes sur les fidèles — Les miracles cessent à cause de l’incrédulité — Les signes suivent ceux qui croient — Exhortation aux hommes à avoir de la sagesse et à garder les commandements. Vers 401–421 apr. J.-C.",
         "en": "Moroni calls upon those who do not believe in Christ to repent—He proclaims a God of miracles, who gives revelations and pours out gifts and signs upon the faithful—Miracles cease because of unbelief—Signs follow those who believe—Men are exhorted to be wise and keep the commandments. About A.D. 401–21.",
         "zh": "摩羅乃呼籲不相信基督的人悔改——他宣布有一奇蹟之神，祂賜啟示、傾恩賜和徵兆予忠信者——奇蹟因不信而停止——信的人有徵兆隨著他們——勸世人要聰明並遵守誡命。約主後401年至421年。"
       },
@@ -1424,6 +1626,7 @@
         {
           "key": "verse 1",
           "text": {
+            "fr": "Et maintenant, je parle aussi concernant ceux qui ne croient pas au Christ.",
             "en": "And now, I speak also concerning those who do not believe in Christ.",
             "zh": "現在我也要談談那些不相信基督的人。"
           }
@@ -1431,6 +1634,7 @@
         {
           "key": "verse 2",
           "text": {
+            "fr": "Voici, croirez-vous le jour où vous serez visités — voici, lorsque le Seigneur viendra, oui, ce grand jour où la terre sera roulée comme un livre et où les éléments embrasés se dissoudront, oui, en ce grand jour où vous serez amenés à vous tenir devant l’Agneau de Dieu — direz-vous alors qu’il n’y a pas de Dieu ?",
             "en": "Behold, will ye believe in the day of your visitation—behold, when the Lord shall come, yea, even that great day when the earth shall be rolled together as a scroll, and the elements shall melt with fervent heat, yea, in that great day when ye shall be brought to stand before the Lamb of God—then will ye say that there is no God?",
             "zh": "看啊，在降罰你們的日子，你們是否會相信？看啊，在主來臨，大地好像書卷被捲起來，各元素被熾熱熔化的大日子，是的，在你們被帶去站在神的羔羊面前的大日子，那時你們還會說沒有神嗎？"
           }
@@ -1438,6 +1642,7 @@
         {
           "key": "verse 3",
           "text": {
+            "fr": "Nierez-vous alors encore le Christ, ou pourrez-vous contempler l’Agneau de Dieu ? Pensez-vous que vous demeurerez avec lui, avec la conscience de votre culpabilité ? Pensez-vous que vous pourriez être heureux de demeurer avec cet Être saint, alors que votre âme est tenaillée par la conscience de votre culpabilité d’avoir constamment enfreint ses lois ?",
             "en": "Then will ye longer deny the Christ, or can ye behold the Lamb of God? Do ye suppose that ye shall dwell with him under a consciousness of your guilt? Do ye suppose that ye could be happy to dwell with that holy Being, when your souls are racked with a consciousness of guilt that ye have ever abused his laws?",
             "zh": "那時你們還要否認基督嗎？或者，你們能看到神的羔羊嗎？你們以為能在自覺有罪的情況下與祂同住嗎？你們以為因你們違反過祂的律法，自覺有罪，你們的靈魂因此而飽受折磨時，還能快樂地和聖潔的神同住嗎？"
           }
@@ -1445,6 +1650,7 @@
         {
           "key": "verse 4",
           "text": {
+            "fr": "Voici, je vous dis que vous seriez plus malheureux de demeurer avec un Dieu saint et juste, avec la conscience de votre souillure devant lui, que de demeurer avec les âmes damnées en enfer.",
             "en": "Behold, I say unto you that ye would be more miserable to dwell with a holy and just God, under a consciousness of your filthiness before him, than ye would to dwell with the damned souls in hell.",
             "zh": "看啊，我告訴你們，你們若自覺在神前是污穢的，那麼，和聖潔而公正的神住在一起，要比和受罪罰的靈魂同住在地獄中更悲慘。"
           }
@@ -1452,6 +1658,7 @@
         {
           "key": "verse 5",
           "text": {
+            "fr": "Car voici, lorsque vous serez amenés à voir votre nudité devant Dieu, et aussi la gloire de Dieu, et la sainteté de Jésus-Christ, cela allumera sur vous une flamme d’un feu qui ne s’éteint pas.",
             "en": "For behold, when ye shall be brought to see your nakedness before God, and also the glory of God, and the holiness of Jesus Christ, it will kindle a flame of unquenchable fire upon you.",
             "zh": "因為看啊，你們被帶到神前，看到自己的赤裸，又看到神的榮耀和耶穌基督的神聖，你們心中必燃起撲不滅的火焰。"
           }
@@ -1459,6 +1666,7 @@
         {
           "key": "verse 6",
           "text": {
+            "fr": "Oh ! alors, incrédules, tournez-vous vers le Seigneur ; implorez de toutes vos forces le Père, au nom de Jésus, afin d’être peut-être trouvés sans tache, purs, beaux et blancs, purifiés par le sang de l’Agneau en ce grand et dernier jour.",
             "en": "O then ye unbelieving, turn ye unto the Lord; cry mightily unto the Father in the name of Jesus, that perhaps ye may be found spotless, pure, fair, and white, having been cleansed by the blood of the Lamb, at that great and last day.",
             "zh": "你們這些不相信的人啊，轉向主吧，奉耶穌的名，懇切呼求父，使你們被羔羊的血洗淨後，或許能在最後的大日子，被判為無瑕、純潔、美好和潔白。"
           }
@@ -1466,6 +1674,7 @@
         {
           "key": "verse 7",
           "text": {
+            "fr": "Et en outre, je vous parle, à vous qui niez les révélations de Dieu et dites qu’elles ont cessé, qu’il n’y a pas de révélations, ni de prophéties, ni de dons, ni de guérisons, ni de don des langues, ni d’interprétation des langues ;",
             "en": "And again I speak unto you who deny the revelations of God, and say that they are done away, that there are no revelations, nor prophecies, nor gifts, nor healing, nor speaking with tongues, and the interpretation of tongues;",
             "zh": "我再對你們那些否認神的啟示，說啟示已停止，說已沒有啟示、沒有預言、沒有恩賜、沒有治病、沒有說方言，也沒有翻譯方言的人說；"
           }
@@ -1473,6 +1682,7 @@
         {
           "key": "verse 8",
           "text": {
+            "fr": "voici, je vous le dis, celui qui nie ces choses ne connaît pas l’Évangile du Christ ; oui, il n’a pas lu les Écritures ; si oui, il ne les comprend pas.",
             "en": "Behold I say unto you, he that denieth these things knoweth not the gospel of Christ; yea, he has not read the scriptures; if so, he does not understand them.",
             "zh": "看啊，我對你們說，凡否認這些的，就是不認識基督的福音；是的，這樣的人沒有讀過經文；如果讀過，那就是不了解經文。"
           }
@@ -1480,6 +1690,7 @@
         {
           "key": "verse 9",
           "text": {
+            "fr": "Car ne lisons-nous pas que Dieu est le même hier, aujourd’hui et à jamais, et qu’en lui il n’y a ni variation, ni ombre de changement ?",
             "en": "For do we not read that God is the same yesterday, today, and forever, and in him there is no variableness neither shadow of changing?",
             "zh": "我們不是讀過神是昨日、今日、永遠都一樣的，在祂沒有改變、也沒有變更的跡象嗎？"
           }
@@ -1487,6 +1698,7 @@
         {
           "key": "verse 10",
           "text": {
+            "fr": "Et maintenant, si vous vous êtes imaginé un Dieu qui varie et en qui il y a une ombre de changement, alors vous vous êtes imaginé un Dieu qui n’est pas un Dieu de miracles.",
             "en": "And now, if ye have imagined up unto yourselves a god who doth vary, and in whom there is shadow of changing, then have ye imagined up unto yourselves a god who is not a God of miracles.",
             "zh": "如果你們想像出一位易變而有變更跡象的神，那麼你們便替自己想像出一位不是奇蹟之神的神了。"
           }
@@ -1494,6 +1706,7 @@
         {
           "key": "verse 11",
           "text": {
+            "fr": "Mais voici, je vais vous montrer un Dieu de miracles, le Dieu d’Abraham, et le Dieu d’Isaac, et le Dieu de Jacob ; et c’est ce même Dieu qui a créé les cieux et la terre, et tout ce qui s’y trouve.",
             "en": "But behold, I will show unto you a God of miracles, even the God of Abraham, and the God of Isaac, and the God of Jacob; and it is that same God who created the heavens and the earth, and all things that in them are.",
             "zh": "但是看啊，我要向你們顯示一位奇蹟之神，就是亞伯拉罕的神、以撒的神和雅各的神；就是這同一位神創造了諸天和大地及其中的萬物。"
           }
@@ -1501,6 +1714,7 @@
         {
           "key": "verse 12",
           "text": {
+            "fr": "Voici, il a créé Adam, et par Adam vint la chute de l’homme. Et à cause de la chute de l’homme vint Jésus-Christ, le Père et le Fils ; et à cause de Jésus-Christ est venue la rédemption de l’homme.",
             "en": "Behold, he created Adam, and by Adam came the fall of man. And because of the fall of man came Jesus Christ, even the Father and the Son; and because of Jesus Christ came the redemption of man.",
             "zh": "看啊，祂創造了亞當，經由亞當而有了人類的墜落。由於人類的墜落，降臨了耶穌基督，就是那父與子；由於耶穌基督，而有了人類的救贖。"
           }
@@ -1508,6 +1722,7 @@
         {
           "key": "verse 13",
           "text": {
+            "fr": "Et à cause de la rédemption de l’homme, qui est venue par Jésus-Christ, ils sont ramenés en la présence du Seigneur ; oui, c’est en cela que tous les hommes sont rachetés, parce que la mort du Christ réalise la résurrection, qui réalise la rédemption d’un sommeil sans fin, sommeil dont tous les hommes seront réveillés par le pouvoir de Dieu, lorsque la trompette sonnera ; et ils se lèveront, petits et grands, et tous se tiendront devant sa barre, rachetés et délivrés de ce lien éternel de la mort, laquelle mort est une mort temporelle.",
             "en": "And because of the redemption of man, which came by Jesus Christ, they are brought back into the presence of the Lord; yea, this is wherein all men are redeemed, because the death of Christ bringeth to pass the resurrection, which bringeth to pass a redemption from an endless sleep, from which sleep all men shall be awakened by the power of God when the trump shall sound; and they shall come forth, both small and great, and all shall stand before his bar, being redeemed and loosed from this eternal band of death, which death is a temporal death.",
             "zh": "由於那經由耶穌基督而來的人類的救贖，他們被帶回主面前；是的，這就是所有的人得救贖的方式，因為基督的死促成了復活，復活促成了救贖，而解除了無盡的睡眠，當號角一響，所有的人都要靠著神的大能，從那睡眠中醒來，無論渺小的或偉大的，都要出來，站在祂的審判欄前，被救贖，脫離死亡的永恆枷鎖，那死亡是屬世的死亡。"
           }
@@ -1515,6 +1730,7 @@
         {
           "key": "verse 14",
           "text": {
+            "fr": "Et alors vient le jugement du Saint sur eux ; et alors vient le moment où celui qui est souillé restera souillé, et celui qui est juste restera juste, et celui qui est heureux restera heureux, et celui qui est malheureux restera malheureux.",
             "en": "And then cometh the judgment of the Holy One upon them; and then cometh the time that he that is filthy shall be filthy still; and he that is righteous shall be righteous still; he that is happy shall be happy still; and he that is unhappy shall be unhappy still.",
             "zh": "然後那聖者的審判就要臨到他們；然後時候就來到，污穢的仍必污穢；正義的仍必正義；快樂的仍必快樂；不快樂的仍必不快樂。"
           }
@@ -1522,6 +1738,7 @@
         {
           "key": "verse 15",
           "text": {
+            "fr": "Et maintenant, ô vous tous qui vous êtes imaginé un Dieu qui ne peut faire de miracles, je vous le demande : toutes ces choses dont j’ai parlé sont-elles arrivées ? La fin est-elle déjà venue ? Voici, je vous dis que non ; et Dieu n’a pas cessé d’être un Dieu de miracles.",
             "en": "And now, O all ye that have imagined up unto yourselves a god who can do no miracles, I would ask of you, have all these things passed, of which I have spoken? Has the end come yet? Behold I say unto you, Nay; and God has not ceased to be a God of miracles.",
             "zh": "現在，你們這些替自己想像出一位不能行奇蹟的神的人啊，我問你們，我講的這一切都過去了嗎？那結局到了嗎？看啊，我告訴你們，沒有，神依然是奇蹟之神。"
           }
@@ -1529,6 +1746,7 @@
         {
           "key": "verse 16",
           "text": {
+            "fr": "Voici, les choses que Dieu a accomplies ne sont-elles pas merveilleuses à nos yeux ? Oui, et qui peut comprendre les œuvres merveilleuses de Dieu ?",
             "en": "Behold, are not the things that God hath wrought marvelous in our eyes? Yea, and who can comprehend the marvelous works of God?",
             "zh": "看啊，神行的事在我們看來不奇妙嗎？是的，誰能理解神奇妙的事工呢？"
           }
@@ -1536,6 +1754,7 @@
         {
           "key": "verse 17",
           "text": {
+            "fr": "Qui dira que ce ne fut pas un miracle que, par sa parole, le ciel et la terre soient ? Et par le pouvoir de sa parole, l’homme fut créé de la poussière de la terre ; et par le pouvoir de sa parole, des miracles ont été accomplis.",
             "en": "Who shall say that it was not a miracle that by his word the heaven and the earth should be; and by the power of his word man was created of the dust of the earth; and by the power of his word have miracles been wrought?",
             "zh": "誰說那不是奇蹟呢？藉著祂的話就有了天地；藉著祂話語的力量，用地上的塵土創造了人；藉著祂話語的力量行了許多奇蹟。"
           }
@@ -1543,6 +1762,7 @@
         {
           "key": "verse 18",
           "text": {
+            "fr": "Et qui dira que Jésus-Christ n’a pas fait beaucoup de grands miracles ? Et beaucoup de grands miracles furent accomplis par les mains des apôtres.",
             "en": "And who shall say that Jesus Christ did not do many mighty miracles? And there were many mighty miracles wrought by the hands of the apostles.",
             "zh": "誰說耶穌基督沒有行許多大奇蹟呢？使徒的手也行過許多大奇蹟。"
           }
@@ -1550,6 +1770,7 @@
         {
           "key": "verse 19",
           "text": {
+            "fr": "Et si des miracles furent accomplis alors, pourquoi Dieu a-t-il cessé d’être un Dieu de miracles tout en étant un Être immuable ? Et voici, je vous dis qu’il ne change pas ; si oui, il cesserait d’être Dieu ; et il ne cesse pas d’être Dieu et est un Dieu de miracles.",
             "en": "And if there were miracles wrought then, why has God ceased to be a God of miracles and yet be an unchangeable Being? And behold, I say unto you he changeth not; if so he would cease to be God; and he ceaseth not to be God, and is a God of miracles.",
             "zh": "如果那時行過奇蹟，何以神不再是奇蹟之神，卻仍是不變之神呢？看啊，我告訴你們，祂是不會變的；如果會變，祂就不再是神了；祂依然是神，而且是一位奇蹟之神。"
           }
@@ -1557,6 +1778,7 @@
         {
           "key": "verse 20",
           "text": {
+            "fr": "Et la raison pour laquelle il cesse de faire des miracles parmi les enfants des hommes, c’est parce qu’ils dégénèrent dans l’incrédulité, et s’éloignent de la voie droite, et ne connaissent pas le Dieu en qui ils devraient avoir confiance.",
             "en": "And the reason why he ceaseth to do miracles among the children of men is because that they dwindle in unbelief, and depart from the right way, and know not the God in whom they should trust.",
             "zh": "祂所以在人類兒女中停止行奇蹟，是因為他們已在不信中衰落，離了正道，並且不認識他們應當信賴的神。"
           }
@@ -1564,6 +1786,7 @@
         {
           "key": "verse 21",
           "text": {
+            "fr": "Voici, je vous dis que quiconque croit au Christ, ne doutant en aucune façon, tout ce qu’il demandera au Père, au nom du Christ, lui sera accordé ; et cette promesse est pour tous, pour les extrémités de la terre.",
             "en": "Behold, I say unto you that whoso believeth in Christ, doubting nothing, whatsoever he shall ask the Father in the name of Christ it shall be granted him; and this promise is unto all, even unto the ends of the earth.",
             "zh": "看啊，我告訴你們，凡相信基督，沒有絲毫懷疑的，他奉基督的名，無論向父求什麼，都必蒙賜予；這應許是給每一個人的，甚至給大地各端的人的。"
           }
@@ -1571,6 +1794,7 @@
         {
           "key": "verse 22",
           "text": {
+            "fr": "Car voici, ainsi dit Jésus-Christ, le Fils de Dieu, à ses disciples qui allaient demeurer, oui, et aussi à tous ses disciples, aux oreilles de la multitude : Allez par tout le monde, et prêchez l’Évangile à toute la création ;",
             "en": "For behold, thus said Jesus Christ, the Son of God, unto his disciples who should tarry, yea, and also to all his disciples, in the hearing of the multitude: Go ye into all the world, and preach the gospel to every creature;",
             "zh": "因為看啊，神的兒子耶穌基督曾在群眾聽得到的地方，對祂那些要留下來的門徒，是的，也對其他所有的門徒這樣說：你們往普天下去，傳福音給萬民聽；"
           }
@@ -1578,6 +1802,7 @@
         {
           "key": "verse 23",
           "text": {
+            "fr": "Celui qui croira et qui sera baptisé sera sauvé, mais celui qui ne croira pas sera condamné ;",
             "en": "And he that believeth and is baptized shall be saved, but he that believeth not shall be damned;",
             "zh": "信而受洗的必然得救，不信的必被定罪；"
           }
@@ -1585,6 +1810,7 @@
         {
           "key": "verse 24",
           "text": {
+            "fr": "Voici les signes qui accompagneront ceux qui auront cru : En mon nom, ils chasseront les démons ; ils parleront de nouvelles langues ; ils saisiront des serpents ; et s’ils boivent quelque breuvage mortel, il ne leur fera point de mal ; ils imposeront les mains aux malades, et les malades seront guéris ;",
             "en": "And these signs shall follow them that believe—in my name shall they cast out devils; they shall speak with new tongues; they shall take up serpents; and if they drink any deadly thing it shall not hurt them; they shall lay hands on the sick and they shall recover;",
             "zh": "信的人必有這些徵兆隨著他們，就是奉我的名趕鬼，說新方言，拿起蛇來，若喝了什麼致命的東西，也必不受害，手按病人，病人就必好了；"
           }
@@ -1592,6 +1818,7 @@
         {
           "key": "verse 25",
           "text": {
+            "fr": "et quiconque croira en mon nom, ne doutant en aucune façon, je lui confirmerai toutes mes paroles jusqu’aux extrémités de la terre.",
             "en": "And whosoever shall believe in my name, doubting nothing, unto him will I confirm all my words, even unto the ends of the earth.",
             "zh": "凡信我名，沒有絲毫懷疑的，我必向他證實我的每一句話，甚至向大地各端的人證實。"
           }
@@ -1599,6 +1826,7 @@
         {
           "key": "verse 26",
           "text": {
+            "fr": "Et maintenant, voici, qui peut résister aux œuvres du Seigneur ? Qui peut nier ses paroles ? Qui s’élèvera contre la toute-puissance du Seigneur ? Qui méprisera les œuvres du Seigneur ? Qui méprisera les enfants du Christ ? Voici, vous tous qui méprisez les œuvres du Seigneur, car vous serez dans l’étonnement et vous périrez.",
             "en": "And now, behold, who can stand against the works of the Lord? Who can deny his sayings? Who will rise up against the almighty power of the Lord? Who will despise the works of the Lord? Who will despise the children of Christ? Behold, all ye who are despisers of the works of the Lord, for ye shall wonder and perish.",
             "zh": "現在看啊，誰能阻擋主的事工呢？誰能否定他的話呢？誰會起來對抗主無比的大能呢？誰會藐視主的事工呢？誰會藐視基督的兒女呢？看啊，你們這些藐視主事工的人，你們必驚奇並滅亡。"
           }
@@ -1606,6 +1834,7 @@
         {
           "key": "verse 27",
           "text": {
+            "fr": "Oh ! alors, ne méprisez pas, et ne vous étonnez pas, mais écoutez les paroles du Seigneur, et demandez au Père, au nom de Jésus, ce dont vous avez besoin. Ne doutez pas, mais croyez, et commencez comme dans les temps anciens, et venez au Seigneur de tout votre cœur, et travaillez à votre salut avec crainte et tremblement devant lui.",
             "en": "O then despise not, and wonder not, but hearken unto the words of the Lord, and ask the Father in the name of Jesus for what things soever ye shall stand in need. Doubt not, but be believing, and begin as in times of old, and come unto the Lord with all your heart, and work out your own salvation with fear and trembling before him.",
             "zh": "因此不要藐視，也不要驚奇，卻要注意聽主的話，奉耶穌的名向父祈求你們需要的任何東西。不要懷疑，只要相信，開始像古時那樣，全心歸向主，在主前恐懼戰兢完成自己的救恩。"
           }
@@ -1613,6 +1842,7 @@
         {
           "key": "verse 28",
           "text": {
+            "fr": "Ayez de la sagesse pendant les jours de votre épreuve ; dépouillez-vous de toute impureté ; ne demandez pas afin de tout dépenser pour vos passions, mais demandez avec une fermeté inébranlable afin de ne céder à aucune tentation, mais afin de servir le Dieu vrai et vivant.",
             "en": "Be wise in the days of your probation; strip yourselves of all uncleanness; ask not, that ye may consume it on your lusts, but ask with a firmness unshaken, that ye will yield to no temptation, but that ye will serve the true and living God.",
             "zh": "在受驗證的日子中要聰明，要除去一切不潔，不要祈求你要浪費在私欲上的事物，卻要堅定不移地祈求，使你們不會向任何誘惑屈服，使你們能事奉真實而活著的神。"
           }
@@ -1620,6 +1850,7 @@
         {
           "key": "verse 29",
           "text": {
+            "fr": "Veillez à ne pas être baptisés indignement ; veillez à ne pas prendre la Sainte-Cène du Christ indignement ; mais veillez à tout faire avec dignité, et faites-le au nom de Jésus-Christ, le Fils du Dieu vivant ; et si vous faites cela et persévérez jusqu’à la fin, vous ne serez en aucune façon chassés.",
             "en": "See that ye are not baptized unworthily; see that ye partake not of the sacrament of Christ unworthily; but see that ye do all things in worthiness, and do it in the name of Jesus Christ, the Son of the living God; and if ye do this, and endure to the end, ye will in nowise be cast out.",
             "zh": "切勿不配稱地受洗；切勿不配稱地領受基督的聖餐；務必配稱地做一切事，並奉活神的兒子耶穌基督的名做；如果你們這樣做，並持守到底，你們絕不會被趕出去。"
           }
@@ -1627,6 +1858,7 @@
         {
           "key": "verse 30",
           "text": {
+            "fr": "Voici, je vous parle comme si je parlais d’entre les morts ; car je sais que vous aurez mes paroles.",
             "en": "Behold, I speak unto you as though I spake from the dead; for I know that ye shall have my words.",
             "zh": "看啊，我對你們講話，就像死人說話一般，因為我知道你們會得到我的話。"
           }
@@ -1634,6 +1866,7 @@
         {
           "key": "verse 31",
           "text": {
+            "fr": "Ne me condamnez pas à cause de mon imperfection, ni mon père à cause de son imperfection, ni ceux qui ont écrit avant lui ; mais rendez plutôt grâces à Dieu de ce qu’il vous a manifesté nos imperfections, afin que vous puissiez apprendre à être plus sages que nous ne l’avons été.",
             "en": "Condemn me not because of mine imperfection, neither my father, because of his imperfection, neither them who have written before him; but rather give thanks unto God that he hath made manifest unto you our imperfections, that ye may learn to be more wise than we have been.",
             "zh": "不要因為我的不完美譴責我，不要因我父親的不完美譴責他，也不要譴責在他之前寫紀錄的人；卻要感謝神向你們顯明了我們的缺點，好讓你們學得比我們聰明。"
           }
@@ -1641,6 +1874,7 @@
         {
           "key": "verse 32",
           "text": {
+            "fr": "Et maintenant, voici, nous avons écrit ces annales selon notre connaissance, dans les caractères qui sont appelés parmi nous l’égyptien réformé, transmis et altérés par nous, selon notre manière de parler.",
             "en": "And now, behold, we have written this record according to our knowledge, in the characters which are called among us the reformed Egyptian, being handed down and altered by us, according to our manner of speech.",
             "zh": "現在看啊，我們已用我們稱為改良埃及文的文字，就我們所知，寫下了這部紀錄；這種文字是流傳下來後，由我們根據我們的語言習慣加以變更的。"
           }
@@ -1648,6 +1882,7 @@
         {
           "key": "verse 33",
           "text": {
+            "fr": "Et si nos plaques avaient été suffisamment grandes, nous aurions écrit en hébreu ; mais l’hébreu a été altéré aussi par nous ; et si nous avions pu écrire en hébreu, voici, vous n’auriez eu aucune imperfection dans nos annales.",
             "en": "And if our plates had been sufficiently large we should have written in Hebrew; but the Hebrew hath been altered by us also; and if we could have written in Hebrew, behold, ye would have had no imperfection in our record.",
             "zh": "如果我們的頁片夠大，我們就用希伯來文寫了；但希伯來文也經我們變更了；如果我們能用希伯來文寫，看啊，你們在我們的紀錄中就看不到什麼缺點了。"
           }
@@ -1655,6 +1890,7 @@
         {
           "key": "verse 34",
           "text": {
+            "fr": "Mais le Seigneur sait les choses que nous avons écrites, et aussi qu’aucun autre peuple ne connaît notre langue ; et parce qu’aucun autre peuple ne connaît notre langue, il a préparé des moyens pour son interprétation.",
             "en": "But the Lord knoweth the things which we have written, and also that none other people knoweth our language; and because that none other people knoweth our language, therefore he hath prepared means for the interpretation thereof.",
             "zh": "但是主知道我們寫的事，也知道沒有別的民族懂我們的語言；並且因為沒有別的民族懂我們的語言，所以祂預備了翻譯這紀錄的工具。"
           }
@@ -1662,6 +1898,7 @@
         {
           "key": "verse 35",
           "text": {
+            "fr": "Et ces choses sont écrites afin que nous puissions débarrasser nos vêtements du sang de nos frères, qui ont dégénéré dans l’incrédulité.",
             "en": "And these things are written that we may rid our garments of the blood of our brethren, who have dwindled in unbelief.",
             "zh": "我們把這些事情寫了下來，使我們的衣服不致沾上我們弟兄的血，就是那些在不信中衰落的弟兄。"
           }
@@ -1669,6 +1906,7 @@
         {
           "key": "verse 36",
           "text": {
+            "fr": "Et voici, les choses que nous avons désirées concernant nos frères, oui, qu’ils soient ramenés à la connaissance du Christ, sont conformes aux prières de tous les saints qui ont demeuré dans le pays.",
             "en": "And behold, these things which we have desired concerning our brethren, yea, even their restoration to the knowledge of Christ, are according to the prayers of all the saints who have dwelt in the land.",
             "zh": "看啊，我們希望我們弟兄的這些事，是的，就是希望他們再認識基督這件事，是與所有曾住在此地的聖徒的禱告一致的。"
           }
@@ -1676,6 +1914,7 @@
         {
           "key": "verse 37",
           "text": {
+            "fr": "Et puisse le Seigneur Jésus-Christ accorder que leurs prières soient exaucées selon leur foi ; et puisse Dieu le Père se souvenir de l’alliance qu’il a faite avec la maison d’Israël ; et puisse-t-il la bénir à jamais, par la foi au nom de Jésus-Christ. Amen.",
             "en": "And may the Lord Jesus Christ grant that their prayers may be answered according to their faith; and may God the Father remember the covenant which he hath made with the house of Israel; and may he bless them forever, through faith on the name of Jesus Christ. Amen.",
             "zh": "願主耶穌基督恩准，讓他們的禱告得以按照他們的信心蒙答覆；願父神記起祂和以色列家族立的聖約；願祂經由他們對耶穌基督的名的信心，永遠祝福他們，阿們。"
           }

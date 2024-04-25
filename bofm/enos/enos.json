@@ -1,13 +1,16 @@
 {
   "book": {
+    "fr": "LIVRE D’ÉNOS",
     "en": "THE BOOK OF ENOS",
     "zh": "以挪士書"
   },
   "theme": {
+    "fr": "Chapitre 1",
     "en": "Chapter 1",
     "zh": "第1章"
   },
   "introduction": {
+    "fr": "Énos prie avec ferveur et obtient le pardon de ses péchés — La voix du Seigneur parvient à son esprit, promettant le salut pour les Lamanites à une époque future — Les Néphites cherchent à ramener les Lamanites — Énos se réjouit de son Rédempteur. Vers 420 av. J.-C.",
     "en": "Enos prays mightily and gains a remission of his sins—The voice of the Lord comes into his mind, promising salvation for the Lamanites in a future day—The Nephites sought to reclaim the Lamanites—Enos rejoices in his Redeemer. About 420 B.C.",
     "zh": "以挪士熱烈祈禱而獲得罪的赦免——主的聲音進入他心中，應許在日後賜給拉曼人救恩——尼腓人設法矯正拉曼人——以挪士因救贖主歡欣。約主前420年。"
   },
@@ -15,6 +18,7 @@
     {
       "number": 1,
       "introduction": {
+        "fr": "Énos prie avec ferveur et obtient le pardon de ses péchés — La voix du Seigneur parvient à son esprit, promettant le salut pour les Lamanites à une époque future — Les Néphites cherchent à ramener les Lamanites — Énos se réjouit de son Rédempteur. Vers 420 av. J.-C.",
         "en": "Enos prays mightily and gains a remission of his sins—The voice of the Lord comes into his mind, promising salvation for the Lamanites in a future day—The Nephites sought to reclaim the Lamanites—Enos rejoices in his Redeemer. About 420 B.C.",
         "zh": "以挪士熱烈祈禱而獲得罪的赦免——主的聲音進入他心中，應許在日後賜給拉曼人救恩——尼腓人設法矯正拉曼人——以挪士因救贖主歡欣。約主前420年。"
       },
@@ -22,6 +26,7 @@
         {
           "key": "verse 1",
           "text": {
+            "fr": "Voici, il arriva que moi, Énos, sachant que mon père était un juste — car il m’instruisit dans sa langue, et aussi en me corrigeant et en m’avertissant selon le Seigneur — et béni soit le nom de mon Dieu pour cela —",
             "en": "Behold, it came to pass that I, Enos, knowing my father that he was a just man—for he taught me in his language, and also in the nurture and admonition of the Lord—and blessed be the name of my God for it—",
             "zh": "看啊，事情是這樣的，我，以挪士，知道我父親是個義人——因為他教我他的語文，也照著主教養、告誡我們的方式教導——所以，我神的名是應當稱頌的。"
           }
@@ -29,6 +34,7 @@
         {
           "key": "verse 2",
           "text": {
+            "fr": "et je vais vous parler de la lutte que je soutins devant Dieu, avant de recevoir le pardon de mes péchés.",
             "en": "And I will tell you of the wrestle which I had before God, before I received a remission of my sins.",
             "zh": "我要告訴你們，我獲得罪的赦免前，在神前的掙扎。"
           }
@@ -36,6 +42,7 @@
         {
           "key": "verse 3",
           "text": {
+            "fr": "Voici, j’allai chasser des bêtes dans les forêts ; et les paroles que j’avais souvent entendu mon père dire concernant la vie éternelle et la joie des saints pénétraient profondément mon cœur.",
             "en": "Behold, I went to hunt beasts in the forests; and the words which I had often heard my father speak concerning eternal life, and the joy of the saints, sunk deep into my heart.",
             "zh": "看啊，我到森林去打獵，而那些我常聽到父親講的，關於永生和聖徒的喜樂的話，深深印在我心中。"
           }
@@ -43,6 +50,7 @@
         {
           "key": "verse 4",
           "text": {
+            "fr": "Et mon âme était affamée ; et je m’agenouillai devant mon Créateur et je criai vers lui en une prière et une supplication ferventes pour mon âme ; et je criai vers lui toute la journée ; oui, et lorsque vint la nuit, j’élevais toujours très haut la voix, de sorte qu’elle atteignit les cieux.",
             "en": "And my soul hungered; and I kneeled down before my Maker, and I cried unto him in mighty prayer and supplication for mine own soul; and all the day long did I cry unto him; yea, and when the night came I did still raise my voice high that it reached the heavens.",
             "zh": "我的靈魂飢餓；我跪在造物主前，用熱烈的禱告與祈求為我的靈魂向祂呼求；我整天向祂呼求，夜幕低垂時，我仍提高聲音，使之上達天庭。"
           }
@@ -50,6 +58,7 @@
         {
           "key": "verse 5",
           "text": {
+            "fr": "Et une voix me parvint, disant : Énos, tes péchés te sont pardonnés, et tu seras béni.",
             "en": "And there came a voice unto me, saying: Enos, thy sins are forgiven thee, and thou shalt be blessed.",
             "zh": "有個聲音臨到我說：以挪士，你的罪得赦了，你必蒙福。"
           }
@@ -57,6 +66,7 @@
         {
           "key": "verse 6",
           "text": {
+            "fr": "Et moi, Énos, je savais que Dieu ne pouvait mentir ; c’est pourquoi, ma culpabilité était balayée.",
             "en": "And I, Enos, knew that God could not lie; wherefore, my guilt was swept away.",
             "zh": "我，以挪士，知道神不會說謊，所以，我的罪已抹掉了。"
           }
@@ -64,6 +74,7 @@
         {
           "key": "verse 7",
           "text": {
+            "fr": "Et je dis : Seigneur, comment cela se fait-il ?",
             "en": "And I said: Lord, how is it done?",
             "zh": "我說：主啊，這是怎麼做成的？"
           }
@@ -71,6 +82,7 @@
         {
           "key": "verse 8",
           "text": {
+            "fr": "Et il me dit : À cause de ta foi au Christ, que tu n’as encore jamais entendu ni vu. Et beaucoup d’années passeront avant qu’il ne se manifeste dans la chair ; c’est pourquoi, va, ta foi t’a purifié.",
             "en": "And he said unto me: Because of thy faith in Christ, whom thou hast never before heard nor seen. And many years pass away before he shall manifest himself in the flesh; wherefore, go to, thy faith hath made thee whole.",
             "zh": "祂對我說：因為你對那未聞其聲、未見其面的基督有信心。再過許多年，祂就要以肉身顯現；因此，去吧，你的信心使你潔淨了。"
           }
@@ -78,6 +90,7 @@
         {
           "key": "verse 9",
           "text": {
+            "fr": "Or, il arriva que lorsque j’eus entendu ces paroles, je commençai à éprouver du désir pour le bien-être de mes frères, les Néphites ; c’est pourquoi je déversai mon âme tout entière à Dieu pour eux.",
             "en": "Now, it came to pass that when I had heard these words I began to feel a desire for the welfare of my brethren, the Nephites; wherefore, I did pour out my whole soul unto God for them.",
             "zh": "事情是這樣的，我聽了這些話，心裡開始想到我弟兄尼腓人的福祉；於是我就為他們向神傾訴心聲。"
           }
@@ -85,6 +98,7 @@
         {
           "key": "verse 10",
           "text": {
+            "fr": "Et pendant que je luttais ainsi spirituellement, voici, la voix du Seigneur parvint encore à mon esprit, disant : J’interviendrai à l’égard de tes frères selon leur diligence à garder mes commandements. Je leur ai donné cette terre, et c’est une terre sainte ; et je ne la maudis pas, sauf pour cause d’iniquité ; c’est pourquoi j’interviendrai à l’égard de tes frères selon ce que j’ai dit ; et leurs transgressions, je les ferai retomber avec de la tristesse sur leur propre tête.",
             "en": "And while I was thus struggling in the spirit, behold, the voice of the Lord came into my mind again, saying: I will visit thy brethren according to their diligence in keeping my commandments. I have given unto them this land, and it is a holy land; and I curse it not save it be for the cause of iniquity; wherefore, I will visit thy brethren according as I have said; and their transgressions will I bring down with sorrow upon their own heads.",
             "zh": "我在靈中如此掙扎時，看啊，主的聲音又進入我心中說：我要按照你弟兄遵守誡命的程度來祝福或懲罰他們。我已把這地賜給他們，這是聖地，除非因為罪惡，否則我不會詛咒這地；所以，我會照我所說的來賞罰你的弟兄；他們若犯罪，我必使悲哀臨到他們頭上。"
           }
@@ -92,6 +106,7 @@
         {
           "key": "verse 11",
           "text": {
+            "fr": "Et lorsque moi, Énos, j’eus entendu ces paroles, ma foi au Seigneur commença à être inébranlable ; et je le priai avec beaucoup de longues luttes pour mes frères, les Lamanites.",
             "en": "And after I, Enos, had heard these words, my faith began to be unshaken in the Lord; and I prayed unto him with many long strugglings for my brethren, the Lamanites.",
             "zh": "我，以挪士，聽了這些話以後，對主的信心開始變得堅定不移；我為我的弟兄拉曼人，多次長時間努力向主祈禱。"
           }
@@ -99,6 +114,7 @@
         {
           "key": "verse 12",
           "text": {
+            "fr": "Et il arriva que lorsque j’eus prié et travaillé en toute diligence, le Seigneur me dit : Je vais t’accorder selon ton désir, à cause de ta foi.",
             "en": "And it came to pass that after I had prayed and labored with all diligence, the Lord said unto me: I will grant unto thee according to thy desires, because of thy faith.",
             "zh": "事情是這樣的，我祈求並盡最大的努力工作後，主對我說：由於你的信心，我會按照你的願望成全你。"
           }
@@ -106,6 +122,7 @@
         {
           "key": "verse 13",
           "text": {
+            "fr": "Et alors, voici ce que je désirais de lui : que si mon peuple, les Néphites, tombait en transgression et était détruit d’une quelconque manière et que les Lamanites ne fussent pas détruits, que le Seigneur Dieu préservât des annales de mon peuple, les Néphites ; même si ce devait être par la puissance de son saint bras, qu’elles pussent être apportées un jour futur aux Lamanites, afin qu’ils fussent peut-être amenés au salut :",
             "en": "And now behold, this was the desire which I desired of him—that if it should so be, that my people, the Nephites, should fall into transgression, and by any means be destroyed, and the Lamanites should not be destroyed, that the Lord God would preserve a record of my people, the Nephites; even if it so be by the power of his holy arm, that it might be brought forth at some future day unto the Lamanites, that, perhaps, they might be brought unto salvation—",
             "zh": "現在看啊，這就是我的願望：倘若我的人民，尼腓人，陷入罪中而萬一被消滅，而拉曼人未被消滅，主神會保全我人民尼腓人的紀錄；如果這紀錄要藉祂聖臂的大能來保全，但願日後能傳給拉曼人，這樣，他們或許能得到救恩。"
           }
@@ -113,6 +130,7 @@
         {
           "key": "verse 14",
           "text": {
+            "fr": "car, en ce moment, nos efforts pour les ramener à la vraie foi étaient vains. Et ils juraient dans leur colère que, si c’était possible, ils nous détruiraient, nos annales et nous, et aussi toutes les traditions de nos pères.",
             "en": "For at the present our strugglings were vain in restoring them to the true faith. And they swore in their wrath that, if it were possible, they would destroy our records and us, and also all the traditions of our fathers.",
             "zh": "因為目前我們使他們恢復真正信仰的努力都白費了。他們在憤怒中誓言，倘若辦得到，他們就消滅我們和我們的紀錄，以及所有來自我們祖先的傳統。"
           }
@@ -120,6 +138,7 @@
         {
           "key": "verse 15",
           "text": {
+            "fr": "C’est pourquoi, sachant que le Seigneur Dieu était capable de préserver nos annales, je criai vers lui continuellement, car il m’avait dit : Tout ce que tu demanderas avec foi, croyant que tu le recevras au nom du Christ, tu le recevras.",
             "en": "Wherefore, I knowing that the Lord God was able to preserve our records, I cried unto him continually, for he had said unto me: Whatsoever thing ye shall ask in faith, believing that ye shall receive in the name of Christ, ye shall receive it.",
             "zh": "因為我知道主神有能力保全我們的紀錄，所以我不停地向祂呼求，因祂曾對我說：無論求什麼，只要有信心，奉基督的名求，並相信你會得到，就必得著。"
           }
@@ -127,6 +146,7 @@
         {
           "key": "verse 16",
           "text": {
+            "fr": "Et j’avais la foi, et je criai à Dieu pour qu’il préservât les annales ; et il fit alliance avec moi qu’il les apporterait aux Lamanites lorsqu’il le jugerait bon.",
             "en": "And I had faith, and I did cry unto God that he would preserve the records; and he covenanted with me that he would bring them forth unto the Lamanites in his own due time.",
             "zh": "我有信心，我也求神保全這紀錄。祂與我立約，要在祂認為適當的時刻把這紀錄傳給拉曼人。"
           }
@@ -134,6 +154,7 @@
         {
           "key": "verse 17",
           "text": {
+            "fr": "Et moi, Énos, je sus qu’il en serait selon l’alliance qu’il avait faite ; c’est pourquoi mon âme s’apaisa.",
             "en": "And I, Enos, knew it would be according to the covenant which he had made; wherefore my soul did rest.",
             "zh": "我，以挪士，知道此事必照主所立的約實現，所以我的靈魂就平靜了。"
           }
@@ -141,6 +162,7 @@
         {
           "key": "verse 18",
           "text": {
+            "fr": "Et le Seigneur me dit : Tes pères ont aussi requis cela de moi ; et il leur sera fait selon leur foi, car leur foi était semblable à la tienne.",
             "en": "And the Lord said unto me: Thy fathers have also required of me this thing; and it shall be done unto them according to their faith; for their faith was like unto thine.",
             "zh": "主對我說：你的祖先也曾要求我這事，這事必照他們的信心成就；他們也和你一樣有信心。"
           }
@@ -148,6 +170,7 @@
         {
           "key": "verse 19",
           "text": {
+            "fr": "Et alors il arriva que moi, Énos, j’allai parmi le peuple de Néphi, prophétisant concernant les choses à venir et témoignant des choses que j’avais entendues et vues.",
             "en": "And now it came to pass that I, Enos, went about among the people of Nephi, prophesying of things to come, and testifying of the things which I had heard and seen.",
             "zh": "事情是這樣的，我，以挪士，就到尼腓人中預言未來的事，也為我所看到和聽到的事作證。"
           }
@@ -155,6 +178,7 @@
         {
           "key": "verse 20",
           "text": {
+            "fr": "Et je rends témoignage que le peuple de Néphi chercha diligemment à ramener les Lamanites à la vraie foi en Dieu. Mais nos efforts furent vains ; leur haine était irréductible, et ils étaient conduits par leur nature mauvaise, de sorte qu’ils devinrent sauvages, et féroces, et un peuple sanguinaire, plein d’idolâtrie et de souillure, se nourrissant de bêtes de proie, demeurant sous des tentes, et errant çà et là dans le désert avec une courte ceinture de peau autour des reins et la tête rasée ; et leur adresse était dans l’arc, et dans le cimeterre, et la hache. Et beaucoup d’entre eux ne mangeaient que de la viande crue ; et ils cherchaient continuellement à nous détruire.",
             "en": "And I bear record that the people of Nephi did seek diligently to restore the Lamanites unto the true faith in God. But our labors were vain; their hatred was fixed, and they were led by their evil nature that they became wild, and ferocious, and a blood-thirsty people, full of idolatry and filthiness; feeding upon beasts of prey; dwelling in tents, and wandering about in the wilderness with a short skin girdle about their loins and their heads shaven; and their skill was in the bow, and in the cimeter, and the ax. And many of them did eat nothing save it was raw meat; and they were continually seeking to destroy us.",
             "zh": "我作證尼腓人努力試圖使拉曼人恢復對神真正的信仰，但我們的努力都白費了；他們的仇恨根深蒂固，邪惡的本性使他們變得野蠻、兇殘，變成一個嗜殺的民族，污穢與拜偶像隨處可見，他們以猛獸為食、住帳篷，在曠野中飄泊不定；他們剃光頭、以短皮塊繫腰，擅於使用弓、斧、彎刀。他們許多人除了生肉以外，什麼都不吃；他們不斷企圖消滅我們。"
           }
@@ -162,6 +186,7 @@
         {
           "key": "verse 21",
           "text": {
+            "fr": "Et il arriva que le peuple de Néphi laboura la terre, et cultiva toutes sortes de grains, et de fruits, et éleva de nombreux troupeaux, et des troupeaux de toutes sortes de bétail de toute espèce, et des chèvres, et des chèvres sauvages, et aussi beaucoup de chevaux.",
             "en": "And it came to pass that the people of Nephi did till the land, and raise all manner of grain, and of fruit, and flocks of herds, and flocks of all manner of cattle of every kind, and goats, and wild goats, and also many horses.",
             "zh": "事情是這樣的，尼腓人則耕地，種植各樣穀類和果類，牧養牲口，有各種牛，有山羊和野山羊，也有許多馬匹。"
           }
@@ -169,6 +194,7 @@
         {
           "key": "verse 22",
           "text": {
+            "fr": "Et il y avait un nombre extrêmement grand de prophètes parmi nous. Et le peuple était un peuple au cou roide, dur d’entendement.",
             "en": "And there were exceedingly many prophets among us. And the people were a stiffnecked people, hard to understand.",
             "zh": "我們當中有許多先知，這人民卻非常倔強，不聽教導。"
           }
@@ -176,6 +202,7 @@
         {
           "key": "verse 23",
           "text": {
+            "fr": "Et il n’y avait rien, sinon une extrême sévérité, et la prédication et la prédiction de guerres, et de querelles, et de destructions, et de leur rappeler continuellement la mort, et la durée de l’éternité, et les jugements et le pouvoir de Dieu, et toutes ces choses — les aiguillonner continuellement pour les garder dans la crainte du Seigneur — je dis qu’il n’y avait rien moins que ces choses, et des paroles d’une extrême clarté, qui pût les empêcher de déchoir rapidement vers la destruction. Et c’est de la sorte que j’écris à leur sujet.",
             "en": "And there was nothing save it was exceeding harshness, preaching and prophesying of wars, and contentions, and destructions, and continually reminding them of death, and the duration of eternity, and the judgments and the power of God, and all these things—stirring them up continually to keep them in the fear of the Lord. I say there was nothing short of these things, and exceedingly great plainness of speech, would keep them from going down speedily to destruction. And after this manner do I write concerning them.",
             "zh": "對他們沒別的可做，只有極度嚴厲，以及宣講和預言戰爭、紛爭、毀滅，不停地提醒他們關於死亡、永恆的長久、神的懲罰與大能，以及所有這類事情——不斷喚醒他們要敬畏主。我說只有這些事，和極為明白的言詞，才能使他們不必很快走向毀滅。我就這樣寫他們的事情。"
           }
@@ -183,6 +210,7 @@
         {
           "key": "verse 24",
           "text": {
+            "fr": "Et j’ai vu dans le cours de ma vie des guerres entre les Néphites et les Lamanites.",
             "en": "And I saw wars between the Nephites and Lamanites in the course of my days.",
             "zh": "我在有生之年，目睹了尼腓人與拉曼人之間的戰爭。"
           }
@@ -190,6 +218,7 @@
         {
           "key": "verse 25",
           "text": {
+            "fr": "Et il arriva que je commençai à être vieux, et cent soixante-dix-neuf ans étaient passés depuis le moment où notre père Léhi avait quitté Jérusalem.",
             "en": "And it came to pass that I began to be old, and an hundred and seventy and nine years had passed away from the time that our father Lehi left Jerusalem.",
             "zh": "事情是這樣的，我開始老了，自我們祖先李海離開耶路撒冷，已過了一百七十九年。"
           }
@@ -197,6 +226,7 @@
         {
           "key": "verse 26",
           "text": {
+            "fr": "Et je vis que j’allais bientôt descendre dans la tombe, ayant été poussé par le pouvoir de Dieu à prêcher et à prophétiser à ce peuple, et à annoncer la parole, selon la vérité qui est dans le Christ. Et je l’ai annoncée toute ma vie, et je m’en suis réjoui plus que de toute autre chose au monde.",
             "en": "And I saw that I must soon go down to my grave, having been wrought upon by the power of God that I must preach and prophesy unto this people, and declare the word according to the truth which is in Christ. And I have declared it in all my days, and have rejoiced in it above that of the world.",
             "zh": "我自知不久人世，神的大能促使我必須向這人民宣講和預言，照著基督的真理，宣告這些話。我在我所有的日子中宣講了祂的話，並因祂的話而無比快樂。"
           }
@@ -204,6 +234,7 @@
         {
           "key": "verse 27",
           "text": {
+            "fr": "Et je vais bientôt à mon lieu de repos, qui est avec mon Rédempteur ; car je sais qu’en lui j’aurai le repos. Et je me réjouis en pensant au jour où mon corps mortel revêtira l’immortalité et se tiendra devant lui ; alors je verrai sa face avec plaisir, et il me dira : Viens à moi, béni, il y a une place préparée pour toi dans les demeures de mon Père. Amen.",
             "en": "And I soon go to the place of my rest, which is with my Redeemer; for I know that in him I shall rest. And I rejoice in the day when my mortal shall put on immortality, and shall stand before him; then shall I see his face with pleasure, and he will say unto me: Come unto me, ye blessed, there is a place prepared for you in the mansions of my Father. Amen.",
             "zh": "我很快就要到我安息的地方，與我的救贖主同在，我知道我必得在祂裡面享安息。我因我必死的身體將穿上不死而站在祂面前的那天而快樂；那時我必滿懷喜悅地見祂的面，祂會對我說：你這蒙福的人，到我這裡來，在我父的家裡，已為你預備了地方。阿們。"
           }

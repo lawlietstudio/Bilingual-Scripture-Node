@@ -1,13 +1,16 @@
 {
   "book": {
+    "fr": "PAROLES DE MORMON",
     "en": "THE WORDS OF MORMON",
     "zh": "摩爾門語"
   },
   "theme": {
+    "fr": "Chapitre 1",
     "en": "Chapter 1",
     "zh": "第1章"
   },
   "introduction": {
+    "fr": "Mormon abrège les grandes plaques de Néphi — Il annexe les petites plaques aux autres — Le roi Benjamin fait régner la paix dans le pays. Vers 385 apr. J.-C.",
     "en": "Mormon abridges the large plates of Nephi—He puts the small plates with the other plates—King Benjamin establishes peace in the land. About A.D. 385.",
     "zh": "摩爾門節錄尼腓大片——他把小片和其他頁片放在一起——便雅憫王在那地建立和平。約主後385年。"
   },
@@ -15,6 +18,7 @@
     {
       "number": 1,
       "introduction": {
+        "fr": "Mormon abrège les grandes plaques de Néphi — Il annexe les petites plaques aux autres — Le roi Benjamin fait régner la paix dans le pays. Vers 385 apr. J.-C.",
         "en": "Mormon abridges the large plates of Nephi—He puts the small plates with the other plates—King Benjamin establishes peace in the land. About A.D. 385.",
         "zh": "摩爾門節錄尼腓大片——他把小片和其他頁片放在一起——便雅憫王在那地建立和平。約主後385年。"
       },
@@ -22,6 +26,7 @@
         {
           "key": "verse 1",
           "text": {
+            "fr": "Et maintenant, moi, Mormon, étant sur le point de remettre entre les mains de mon fils, Moroni, les annales que je suis occupé à faire, voici, j’ai été témoin de la destruction presque totale de mon peuple, les Néphites.",
             "en": "And now I, Mormon, being about to deliver up the record which I have been making into the hands of my son Moroni, behold I have witnessed almost all the destruction of my people, the Nephites.",
             "zh": "現在我，摩爾門，就要把我正在寫的紀錄交在我的兒子摩羅乃手中，看啊，我已目睹我人民尼腓人幾乎全部毀滅。"
           }
@@ -29,6 +34,7 @@
         {
           "key": "verse 2",
           "text": {
+            "fr": "Et c’est bien des centaines d’années après la venue du Christ que je remets ces annales entre les mains de mon fils ; et je suppose qu’il sera témoin de l’entière destruction de mon peuple. Mais veuille Dieu lui accorder de leur survivre, afin d’écrire quelque peu à leur sujet, et quelque peu concernant le Christ, afin que cela leur profite peut-être un jour.",
             "en": "And it is many hundred years after the coming of Christ that I deliver these records into the hands of my son; and it supposeth me that he will witness the entire destruction of my people. But may God grant that he may survive them, that he may write somewhat concerning them, and somewhat concerning Christ, that perhaps some day it may profit them.",
             "zh": "我把這些紀錄交在我兒子手中時，已是基督來臨後好幾百年，我想他會目睹我人民徹底毀滅，願神准許他活得比他們久，使他能寫一些他們的事，也寫一些關於基督的事。他所寫的，將來或許對他們有益。"
           }
@@ -36,6 +42,7 @@
         {
           "key": "verse 3",
           "text": {
+            "fr": "Et maintenant, je parle quelque peu de ce que j’ai écrit ; car après avoir fait l’abrégé des plaques de Néphi jusqu’au règne de ce roi Benjamin dont parlait Amaléki, j’ai cherché parmi les annales qui avaient été remises entre mes mains, et j’ai trouvé ces plaques, qui contenaient cette petite histoire des prophètes depuis Jacob jusqu’au règne de ce roi Benjamin ; et aussi beaucoup de paroles de Néphi.",
             "en": "And now, I speak somewhat concerning that which I have written; for after I had made an abridgment from the plates of Nephi, down to the reign of this king Benjamin, of whom Amaleki spake, I searched among the records which had been delivered into my hands, and I found these plates, which contained this small account of the prophets, from Jacob down to the reign of this king Benjamin, and also many of the words of Nephi.",
             "zh": "現在我要談談我所寫的事；我節錄尼腓片，一直節錄到亞瑪力所說的這位便雅憫王的統治期間，然後去查看交在我手中的紀錄，結果找到這些頁片，裡面包含從雅各到這位便雅憫王的統治期間，眾先知的簡短記事，以及尼腓所說的許多話。"
           }
@@ -43,6 +50,7 @@
         {
           "key": "verse 4",
           "text": {
+            "fr": "Et comme les choses qui sont sur ces plaques me plaisent, à cause des prophéties de la venue du Christ, et comme mes pères savent que beaucoup d’entre elles se sont accomplies, oui, et je sais aussi que tout ce qui a été prophétisé à notre sujet jusqu’à ce jour s’est accompli, et que tout ce qui va au-delà de ce jour s’accomplira certainement —",
             "en": "And the things which are upon these plates pleasing me, because of the prophecies of the coming of Christ; and my fathers knowing that many of them have been fulfilled; yea, and I also know that as many things as have been prophesied concerning us down to this day have been fulfilled, and as many as go beyond this day must surely come to pass—",
             "zh": "我喜愛這些頁片上所記載的事情，因為其中有基督來臨的預言；我祖先知道很多預言都應驗了，是的，我也知道凡有關我們的預言，到目前為止都應驗了，而那些有關未來的預言，也必應驗。"
           }
@@ -50,6 +58,7 @@
         {
           "key": "verse 5",
           "text": {
+            "fr": "C’est pourquoi, j’ai choisi ces choses pour terminer mes annales, et ce reste de mes annales, je vais le prendre des plaques de Néphi ; et je ne peux écrire la centième partie des choses de mon peuple.",
             "en": "Wherefore, I chose these things, to finish my record upon them, which remainder of my record I shall take from the plates of Nephi; and I cannot write the hundredth part of the things of my people.",
             "zh": "所以，我選擇這些事情，來完成我這部分的紀錄，我紀錄的其餘部分，要取自尼腓片；我人民的事情，我連百分之一都無法記載。"
           }
@@ -57,6 +66,7 @@
         {
           "key": "verse 6",
           "text": {
+            "fr": "Mais voici, je vais prendre ces plaques, qui contiennent ces prophéties et ces révélations, et les mettre avec le reste de mes annales, car elles sont précieuses pour moi ; et je sais qu’elles seront précieuses pour mes frères.",
             "en": "But behold, I shall take these plates, which contain these prophesyings and revelations, and put them with the remainder of my record, for they are choice unto me; and I know they will be choice unto my brethren.",
             "zh": "但是看啊，我要把包含這些預言和啟示的頁片，與我紀錄的其餘部分放在一起，因為對我而言，這些部分是精選的，我知道對我的弟兄而言，這些也會是精選的。"
           }
@@ -64,6 +74,7 @@
         {
           "key": "verse 7",
           "text": {
+            "fr": "Et je fais cela dans un but sage ; car c’est ce qui m’est chuchoté, selon l’inspiration de l’Esprit du Seigneur qui est en moi. Et maintenant, je ne sais pas tout ; mais le Seigneur sait tout ce qui est à venir ; c’est pourquoi, il agit en moi pour que je fasse selon sa volonté.",
             "en": "And I do this for a wise purpose; for thus it whispereth me, according to the workings of the Spirit of the Lord which is in me. And now, I do not know all things; but the Lord knoweth all things which are to come; wherefore, he worketh in me to do according to his will.",
             "zh": "我這麼做是為了一個睿智的目的，因為依照那在我裡面的主的靈的指引，有個聲音輕聲對我這樣說。我雖不明白所有的事，但主知道未來所有的事，所以，祂啟發我照祂的旨意去做。"
           }
@@ -71,6 +82,7 @@
         {
           "key": "verse 8",
           "text": {
+            "fr": "Et je prie Dieu pour mes frères, afin qu’ils parviennent encore une fois à la connaissance de Dieu, oui, à la rédemption par le Christ ; afin qu’ils soient encore une fois un peuple agréable.",
             "en": "And my prayer to God is concerning my brethren, that they may once again come to the knowledge of God, yea, the redemption of Christ; that they may once again be a delightsome people.",
             "zh": "我求神眷顧我的弟兄，使他們能重新認識神，是的，認識基督的救贖，使他們能再成為可愛的民族。"
           }
@@ -78,6 +90,7 @@
         {
           "key": "verse 9",
           "text": {
+            "fr": "Et maintenant, moi, Mormon, je vais clôturer mes annales, que je tire des plaques de Néphi ; et je le fais selon la connaissance et l’intelligence que Dieu m’a données.",
             "en": "And now I, Mormon, proceed to finish out my record, which I take from the plates of Nephi; and I make it according to the knowledge and the understanding which God has given me.",
             "zh": "現在我，摩爾門，就要完成我取自尼腓片的紀錄，我是藉著神賜給我的知識和理解記錄的。"
           }
@@ -85,6 +98,7 @@
         {
           "key": "verse 10",
           "text": {
+            "fr": "C’est pourquoi, il arriva donc que lorsque Amaléki eut remis ces plaques entre les mains du roi Benjamin, celui-ci les prit et les mit avec les autres plaques qui contenaient les annales transmises par les rois, de génération en génération, jusqu’au temps du roi Benjamin.",
             "en": "Wherefore, it came to pass that after Amaleki had delivered up these plates into the hands of king Benjamin, he took them and put them with the other plates, which contained records which had been handed down by the kings, from generation to generation until the days of king Benjamin.",
             "zh": "因此事情是這樣的，亞瑪力把這些頁片交在便雅憫王手中後，便雅憫王就把這些頁片與其他頁片放在一起，其中包含列王代代相傳，直到便雅憫王的時代的紀錄。"
           }
@@ -92,6 +106,7 @@
         {
           "key": "verse 11",
           "text": {
+            "fr": "Et du roi Benjamin, elles furent transmises, de génération en génération, jusqu’à ce qu’elles me tombent entre les mains. Et moi, Mormon, je prie Dieu qu’elles soient dorénavant préservées ; et je sais qu’elles seront préservées, car de grandes choses y sont écrites, d’après lesquelles mon peuple et ses frères seront jugés lors du grand et dernier jour, selon la parole de Dieu qui est écrite.",
             "en": "And they were handed down from king Benjamin, from generation to generation until they have fallen into my hands. And I, Mormon, pray to God that they may be preserved from this time henceforth. And I know that they will be preserved; for there are great things written upon them, out of which my people and their brethren shall be judged at the great and last day, according to the word of God which is written.",
             "zh": "然後再由便雅憫王，代代相傳，直到傳入我手中。我，摩爾門，求神使這些頁片今後能得保全，我知道這些頁片必得保全，因為其中記載了許多偉大的事；我的人民和他們的弟兄在最後的大日子，都要按照其中所記載的神的話接受審判。"
           }
@@ -99,6 +114,7 @@
         {
           "key": "verse 12",
           "text": {
+            "fr": "Et maintenant, concernant ce roi Benjamin : il y eut quelques dissensions parmi son peuple.",
             "en": "And now, concerning this king Benjamin—he had somewhat of contentions among his own people.",
             "zh": "現在，關於這位便雅憫王——他自己的人民中有一些紛爭。"
           }
@@ -106,6 +122,7 @@
         {
           "key": "verse 13",
           "text": {
+            "fr": "Et il arriva aussi que les armées des Lamanites descendirent du pays de Néphi pour livrer bataille à son peuple. Mais voici, le roi Benjamin rassembla ses armées, et il les affronta ; et il combattit avec la force de son bras, avec l’épée de Laban.",
             "en": "And it came to pass also that the armies of the Lamanites came down out of the land of Nephi, to battle against his people. But behold, king Benjamin gathered together his armies, and he did stand against them; and he did fight with the strength of his own arm, with the sword of Laban.",
             "zh": "事情是這樣的，拉曼軍也從尼腓地下來，要與他的人民作戰。但是看啊，便雅憫王召集他的軍隊，他抵抗他們；他以拉班劍，親自與敵人作戰。"
           }
@@ -113,6 +130,7 @@
         {
           "key": "verse 14",
           "text": {
+            "fr": "Et c’est avec la force du Seigneur qu’ils combattirent leurs ennemis, jusqu’à ce qu’ils eussent tué bien des milliers de Lamanites. Et il arriva qu’ils combattirent les Lamanites jusqu’à ce qu’ils les eussent chassés de tous les pays de leur héritage.",
             "en": "And in the strength of the Lord they did contend against their enemies, until they had slain many thousands of the Lamanites. And it came to pass that they did contend against the Lamanites until they had driven them out of all the lands of their inheritance.",
             "zh": "他們憑主的力量與敵人戰鬥，直到殺死數千名拉曼人。事情是這樣的，他們與拉曼人戰鬥，直到把他們趕出他們繼承的所有土地。"
           }
@@ -120,6 +138,7 @@
         {
           "key": "verse 15",
           "text": {
+            "fr": "Et il arriva que lorsqu’il y eut eu de faux Christs, et que la bouche leur eut été fermée, et qu’ils eurent été punis selon leurs crimes ;",
             "en": "And it came to pass that after there had been false Christs, and their mouths had been shut, and they punished according to their crimes;",
             "zh": "事情是這樣的，在有了一些假基督，他們被禁止發言，並按其罪行受懲罰後；"
           }
@@ -127,6 +146,7 @@
         {
           "key": "verse 16",
           "text": {
+            "fr": "et lorsqu’il y eut eu de faux prophètes, et de faux prédicateurs et instructeurs parmi le peuple, et que tous ceux-ci eurent été punis selon leurs crimes ; et lorsqu’il y eut eu beaucoup de querelles et beaucoup de dissidences au profit des Lamanites, voici, il arriva que le roi Benjamin, avec l’aide des saints prophètes qui étaient parmi son peuple —",
             "en": "And after there had been false prophets, and false preachers and teachers among the people, and all these having been punished according to their crimes; and after there having been much contention and many dissensions away unto the Lamanites, behold, it came to pass that king Benjamin, with the assistance of the holy prophets who were among his people—",
             "zh": "在人民中有了假先知、假宣教士、假教師，他們也都按其罪行受懲罰後；在有很多紛爭，許多人叛離，投向拉曼人後，看啊，事情是這樣的，便雅憫王在人民中聖先知的協助下——"
           }
@@ -134,6 +154,7 @@
         {
           "key": "verse 17",
           "text": {
+            "fr": "car voici, le roi Benjamin était un saint homme, et il régna en justice sur son peuple ; et il y avait beaucoup de saints hommes dans le pays, et ils annonçaient la parole de Dieu avec puissance et avec autorité ; et ils faisaient usage d’une grande rigueur à cause de la roideur de cou du peuple —",
             "en": "For behold, king Benjamin was a holy man, and he did reign over his people in righteousness; and there were many holy men in the land, and they did speak the word of God with power and with authority; and they did use much sharpness because of the stiffneckedness of the people—",
             "zh": "看啊，便雅憫王是個聖潔的人，以正義統治人民；這地也有許多聖潔的人，他們以神的大能與權柄宣講神的話；由於這人民倔強，他們的話都十分嚴厲——"
           }
@@ -141,6 +162,7 @@
         {
           "key": "verse 18",
           "text": {
+            "fr": "C’est pourquoi, avec l’aide de ceux-ci, le roi Benjamin, en travaillant de toute la puissance de son corps et des facultés de toute son âme, ainsi que les prophètes, fit encore une fois régner la paix dans le pays.",
             "en": "Wherefore, with the help of these, king Benjamin, by laboring with all the might of his body and the faculty of his whole soul, and also the prophets, did once more establish peace in the land.",
             "zh": "因此，在這些人以及眾先知的協助下，便雅憫王藉盡心工作再次在這地建立和平。"
           }
