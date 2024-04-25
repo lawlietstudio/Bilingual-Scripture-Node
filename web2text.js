@@ -1,9 +1,9 @@
 const puppeteer = require('puppeteer');
 const fs = require('fs');
 
-// var chapter = "dc-testament/dc/";
+var chapter = "dc-testament/dc/";
 // ["1-ne","2-ne","3-ne","4-ne","alma","enos","ether","hel","jacob","jarom","morm","moro","mosiah","omni","w-of-m"]
-var chapter = "bofm/w-of-m/";
+// var chapter = "bofm/w-of-m/";
 const langeng = "eng";
 const langzho = "zho";
 const langfra = "fra";

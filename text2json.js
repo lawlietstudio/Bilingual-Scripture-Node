@@ -26,7 +26,7 @@ const parseText = (text) => {
             introCapture = false; // Stop capturing after the first line following chapter title
         } else if (verseMatch && currentChapter) {
             currentVerseNumber += 1;
-            currentChapter.verses.push({ key: `verse ${currentVerseNumber}`, text: verseMatch[0].trim() });
+            currentChapter.verses.push({ key: `${currentVerseNumber}`, text: verseMatch[0].trim() });
         }
     });
 
