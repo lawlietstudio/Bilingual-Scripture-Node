@@ -75,7 +75,7 @@ const extractBookDetails = (text) => {
 
 const main = () => {
     const mainFolderName = "pgp"
-    const folderNames = ["moses"]
+    const folderNames = ["moses", "abr"]
     // const folderName = "1-ne"
     for (folderName of folderNames) {
         const dirPath = path.join(__dirname, `${mainFolderName}/${folderName}`);
