@@ -3,12 +3,14 @@ const fs = require('fs');
 
 // var chapter = "dc-testament/dc/";
 // ["moses", "abr"]
-var chapter = "pgp/abr/";
+// var chapter = "pgp/abr/";
 // ["1-ne","2-ne","3-ne","4-ne","alma","enos","ether","hel","jacob","jarom","morm","moro","mosiah","omni","w-of-m"]
-// var chapter = "bofm/w-of-m/";
+var chapter = "pgp/moses/";
 const langeng = "eng";
 const langzho = "zho";
 const langfra = "fra";
+const langjpn = "jpn";
+const langkor = "kor";
 
 async function scrapeText(chapter, lang) {
     const url = `https://www.churchofjesuschrist.org/study/scriptures/${chapter}?lang=${lang}`;
@@ -60,14 +62,20 @@ async function saveToFile(chapter, lang, content) {
 async function main() {
     for (var i = 1; i <= 139; i++) {
         newChapter = chapter + i
-        const textEng = await scrapeText(newChapter, langeng);
-        await saveToFile(newChapter, langeng, textEng);
+        // const textEng = await scrapeText(newChapter, langeng);
+        // await saveToFile(newChapter, langeng, textEng);
 
-        const textZho = await scrapeText(newChapter, langzho);
-        await saveToFile(newChapter, langzho, textZho);
+        // const textZho = await scrapeText(newChapter, langzho);
+        // await saveToFile(newChapter, langzho, textZho);
 
-        const textFra = await scrapeText(newChapter, langfra);
-        await saveToFile(newChapter, langfra, textFra);
+        // const textFra = await scrapeText(newChapter, langfra);
+        // await saveToFile(newChapter, langfra, textFra);
+
+        const textJpn = await scrapeText(newChapter, langjpn);
+        await saveToFile(newChapter, langjpn, textJpn);
+
+        const textKor = await scrapeText(newChapter, langkor);
+        await saveToFile(newChapter, langkor, textKor);
     }
 }
 
