@@ -1,0 +1,217 @@
+{
+  "book": {
+    "fr": "PAROLES DE MORMON",
+    "en": "THE WORDS OF MORMON",
+    "zh": "摩爾門語",
+    "jp": "モルモンの言こと葉ば",
+    "kr": "몰몬의 말씀"
+  },
+  "theme": {
+    "fr": "Chapitre 1",
+    "en": "Chapter 1",
+    "zh": "第1章",
+    "jp": "第1章",
+    "kr": "제 1 장"
+  },
+  "introduction": {
+    "fr": "Mormon abrège les grandes plaques de Néphi — Il annexe les petites plaques aux autres — Le roi Benjamin fait régner la paix dans le pays. Vers 385 apr. J.-C.",
+    "en": "Mormon abridges the large plates of Nephi—He puts the small plates with the other plates—King Benjamin establishes peace in the land. About A.D. 385.",
+    "zh": "摩爾門節錄尼腓大片——他把小片和其他頁片放在一起——便雅憫王在那地建立和平。約主後385年。",
+    "jp": "モルモン，ニーファイの大たい版はんを短みじかくまとめ，小しょう版はんをほかの版はんと一いっ緒しょにする。ベニヤミン王おう，国こく内ないに平へい和わを確かく立りつする。紀き元げん約やく三百八十五年ねん。",
+    "kr": "몰몬이 니파이의 큰 판을 요약함—그가 작은 판을 다른 판과 함께 둠—베냐민 왕이 그 땅에 평화를 이룸. 주후 385년경."
+  },
+  "chapters": [
+    {
+      "number": 1,
+      "introduction": {
+        "fr": "Mormon abrège les grandes plaques de Néphi — Il annexe les petites plaques aux autres — Le roi Benjamin fait régner la paix dans le pays. Vers 385 apr. J.-C.",
+        "en": "Mormon abridges the large plates of Nephi—He puts the small plates with the other plates—King Benjamin establishes peace in the land. About A.D. 385.",
+        "zh": "摩爾門節錄尼腓大片——他把小片和其他頁片放在一起——便雅憫王在那地建立和平。約主後385年。",
+        "jp": "モルモン，ニーファイの大たい版はんを短みじかくまとめ，小しょう版はんをほかの版はんと一いっ緒しょにする。ベニヤミン王おう，国こく内ないに平へい和わを確かく立りつする。紀き元げん約やく三百八十五年ねん。",
+        "kr": "몰몬이 니파이의 큰 판을 요약함—그가 작은 판을 다른 판과 함께 둠—베냐민 왕이 그 땅에 평화를 이룸. 주후 385년경."
+      },
+      "verses": [
+        {
+          "key": "1",
+          "text": {
+            "fr": "Et maintenant, moi, Mormon, étant sur le point de remettre entre les mains de mon fils, Moroni, les annales que je suis occupé à faire, voici, j’ai été témoin de la destruction presque totale de mon peuple, les Néphites.",
+            "en": "And now I, Mormon, being about to deliver up the record which I have been making into the hands of my son Moroni, behold I have witnessed almost all the destruction of my people, the Nephites.",
+            "zh": "現在我，摩爾門，就要把我正在寫的紀錄交在我的兒子摩羅乃手中，看啊，我已目睹我人民尼腓人幾乎全部毀滅。",
+            "jp": "ところで，わたしモルモンは，これまで自じ分ぶんが作つくってきた記き録ろくを息むす子こモロナイの手てに渡わたそうとしている。見みよ，わたしはすでにわたしの民たみであるニーファイ人じんがほとんどすべて滅ほろびてしまうのを見みた。",
+            "kr": "그리고 이제 나 몰몬은 이제까지 내가 만들어 오던 기록을 나의 아들 모로나이의 손에 넘기려 하매, 보라 나는 내 백성 니파이인들이 거의 다 멸망하였음을 목격하였노라."
+          }
+        },
+        {
+          "key": "2",
+          "text": {
+            "fr": "Et c’est bien des centaines d’années après la venue du Christ que je remets ces annales entre les mains de mon fils ; et je suppose qu’il sera témoin de l’entière destruction de mon peuple. Mais veuille Dieu lui accorder de leur survivre, afin d’écrire quelque peu à leur sujet, et quelque peu concernant le Christ, afin que cela leur profite peut-être un jour.",
+            "en": "And it is many hundred years after the coming of Christ that I deliver these records into the hands of my son; and it supposeth me that he will witness the entire destruction of my people. But may God grant that he may survive them, that he may write somewhat concerning them, and somewhat concerning Christ, that perhaps some day it may profit them.",
+            "zh": "我把這些紀錄交在我兒子手中時，已是基督來臨後好幾百年，我想他會目睹我人民徹底毀滅，願神准許他活得比他們久，使他能寫一些他們的事，也寫一些關於基督的事。他所寫的，將來或許對他們有益。",
+            "jp": "キリストの来らい臨りん後ご数すう百ひゃく年ねんたった今いま，わたしはこれらの記き録ろくを息むす子この手てに渡わたす。息むす子こは，わたしの民たみの完かん全ぜんな滅めつ亡ぼうを目もく撃げきするであろう。しかし，息むす子こが彼かれらよりも長ながく生いきて，彼かれらについて多た少しょうのことを，またキリストについても多た少しょうのことを書かき記しるして，それがいつの日ひか彼かれらを益えきするものとなるように神かみに祈いのる。",
+            "kr": "또 내가 이 기록들을 내 아들의 손에 넘기는 것은 그리스도께서 오신 지 수백 년 후이니, 내 생각에 그는 내 백성의 완전한 멸망을 목격하리로다. 그러나 하나님께서 그로 그들 뒤에 살아남게 하사, 그들에 관하여 얼마간 기록하게 하시고, 또 그리스도에 관하여 얼마간 기록하게 하사, 혹 언젠가 그 기록이 그들에게 유익한 것이 되게 하시기를 바라노라."
+          }
+        },
+        {
+          "key": "3",
+          "text": {
+            "fr": "Et maintenant, je parle quelque peu de ce que j’ai écrit ; car après avoir fait l’abrégé des plaques de Néphi jusqu’au règne de ce roi Benjamin dont parlait Amaléki, j’ai cherché parmi les annales qui avaient été remises entre mes mains, et j’ai trouvé ces plaques, qui contenaient cette petite histoire des prophètes depuis Jacob jusqu’au règne de ce roi Benjamin ; et aussi beaucoup de paroles de Néphi.",
+            "en": "And now, I speak somewhat concerning that which I have written; for after I had made an abridgment from the plates of Nephi, down to the reign of this king Benjamin, of whom Amaleki spake, I searched among the records which had been delivered into my hands, and I found these plates, which contained this small account of the prophets, from Jacob down to the reign of this king Benjamin, and also many of the words of Nephi.",
+            "zh": "現在我要談談我所寫的事；我節錄尼腓片，一直節錄到亞瑪力所說的這位便雅憫王的統治期間，然後去查看交在我手中的紀錄，結果找到這些頁片，裡面包含從雅各到這位便雅憫王的統治期間，眾先知的簡短記事，以及尼腓所說的許多話。",
+            "jp": "ところで，わたしはこれまで書かき記しるしてきたことについて少すこし述のべよう。わたしはニーファイの版はんから短みじかくまとめたものを，アマレカイの述のべたこのベニヤミン王おうの治ち世せいに至いたるまで作つくり終おえた後のち，以い前ぜんにわたしの手てに渡わたされたいろいろな記き録ろくを調しらべてみたところ，ヤコブからこのベニヤミン王おうの治ち世せいに至いたるまでの預よ言げん者しゃたちの短みじかい話はなしと，ニーファイのたくさんの言こと葉ばが載のっているこの版はんが見みつかった。",
+            "kr": "그리고 이제 나는 내가 기록한 바에 관하여 얼마간 말하노니, 아맬레카이가 언급한 이 베냐민 왕의 치세에 이르기까지의 요약을 내가 니파이의 판으로부터 만들고 나서, 나는 내 손에 넘겨진 기록들을 살피다가, 야곱으로부터 이 베냐민 왕의 치세에 이르는 선지자들의 이 작은 기사가 실려 있고, 니파이의 말이 또한 많이 실려 있는 이 판을 발견하였느니라."
+          }
+        },
+        {
+          "key": "4",
+          "text": {
+            "fr": "Et comme les choses qui sont sur ces plaques me plaisent, à cause des prophéties de la venue du Christ, et comme mes pères savent que beaucoup d’entre elles se sont accomplies, oui, et je sais aussi que tout ce qui a été prophétisé à notre sujet jusqu’à ce jour s’est accompli, et que tout ce qui va au-delà de ce jour s’accomplira certainement —",
+            "en": "And the things which are upon these plates pleasing me, because of the prophecies of the coming of Christ; and my fathers knowing that many of them have been fulfilled; yea, and I also know that as many things as have been prophesied concerning us down to this day have been fulfilled, and as many as go beyond this day must surely come to pass—",
+            "zh": "我喜愛這些頁片上所記載的事情，因為其中有基督來臨的預言；我祖先知道很多預言都應驗了，是的，我也知道凡有關我們的預言，到目前為止都應驗了，而那些有關未來的預言，也必應驗。",
+            "jp": "この版はんに書かき記しるされていることの中なかに，キリストの来らい臨りんの預よ言げんがあるので，わたしは喜よろこんでいる。わたしの先せん祖ぞは，預よ言げんの多おおくが成じょう就じゅしたのを知しっていた。そして，わたしもまた今日きょうまで，わたしたちについて預よ言げんされてきたことがすべて成じょう就じゅしたこと，また将しょう来らいについての預よ言げんもすべて必かならず成じょう就じゅすることを知しっている。",
+            "kr": "그리고 그리스도의 오심에 대한 예언들로 말미암아 이 판에 있는 것들이 나를 기쁘게 하며, 또 나의 조상들은 그 가운데 많은 것이 이루어졌음을 알았고, 그뿐 아니라 나 또한 우리에 관하여 이 날까지 예언된 것이 모두 이루어졌고, 이 날 이후에 관한 것은 반드시 기필코 이룰 것임을 아노니—"
+          }
+        },
+        {
+          "key": "5",
+          "text": {
+            "fr": "C’est pourquoi, j’ai choisi ces choses pour terminer mes annales, et ce reste de mes annales, je vais le prendre des plaques de Néphi ; et je ne peux écrire la centième partie des choses de mon peuple.",
+            "en": "Wherefore, I chose these things, to finish my record upon them, which remainder of my record I shall take from the plates of Nephi; and I cannot write the hundredth part of the things of my people.",
+            "zh": "所以，我選擇這些事情，來完成我這部分的紀錄，我紀錄的其餘部分，要取自尼腓片；我人民的事情，我連百分之一都無法記載。",
+            "jp": "それゆえ，わたしはこれらの事こと柄がらを選えらんで，それらに関かん連れんさせてわたしの記き録ろくを終おえよう。わたしの記き録ろくの残のこりの部ぶ分ぶんは，ニーファイの版はんから抜ぬいて書かこう。わたしは，自じ分ぶんの民たみのことを百分ぶんの一も書かき記しるすことができない。",
+            "kr": "그런즉 나는 이러한 것들을 택하여 그 위에 나의 기록을 완성하고자 하되, 내 기록의 나머지는 니파이의 판에서 취하리라. 그러나 나는 내 백성에 대한 일을 백분의 일도 기록할 수 없도다."
+          }
+        },
+        {
+          "key": "6",
+          "text": {
+            "fr": "Mais voici, je vais prendre ces plaques, qui contiennent ces prophéties et ces révélations, et les mettre avec le reste de mes annales, car elles sont précieuses pour moi ; et je sais qu’elles seront précieuses pour mes frères.",
+            "en": "But behold, I shall take these plates, which contain these prophesyings and revelations, and put them with the remainder of my record, for they are choice unto me; and I know they will be choice unto my brethren.",
+            "zh": "但是看啊，我要把包含這些預言和啟示的頁片，與我紀錄的其餘部分放在一起，因為對我而言，這些部分是精選的，我知道對我的弟兄而言，這些也會是精選的。",
+            "jp": "しかし見みよ，わたしはこれらの預よ言げんと啓けい示じの載のっているこの版はんを取とって，わたしの記き録ろくの残のこりの部ぶ分ぶんと一いっ緒しょにしよう。これらの預よ言げんと啓けい示じはわたしにとって貴とうといものであり，またわたしの同胞はらからにも貴とうといものになることを知しっているからである。",
+            "kr": "그러나 보라, 나는 이 예언과 계시들이 실려 있는 이 판을 취하여, 이를 내 기록의 나머지와 함께 두리니, 이는 그것이 내게 소중한 것임이요, 또 그것이 나의 형제들에게 소중한 것이 될 줄을 내가 앎이라."
+          }
+        },
+        {
+          "key": "7",
+          "text": {
+            "fr": "Et je fais cela dans un but sage ; car c’est ce qui m’est chuchoté, selon l’inspiration de l’Esprit du Seigneur qui est en moi. Et maintenant, je ne sais pas tout ; mais le Seigneur sait tout ce qui est à venir ; c’est pourquoi, il agit en moi pour que je fasse selon sa volonté.",
+            "en": "And I do this for a wise purpose; for thus it whispereth me, according to the workings of the Spirit of the Lord which is in me. And now, I do not know all things; but the Lord knoweth all things which are to come; wherefore, he worketh in me to do according to his will.",
+            "zh": "我這麼做是為了一個睿智的目的，因為依照那在我裡面的主的靈的指引，有個聲音輕聲對我這樣說。我雖不明白所有的事，但主知道未來所有的事，所以，祂啟發我照祂的旨意去做。",
+            "jp": "わたしは，ある賢けん明めいな目もく的てきのためにこのようにする。わたしの内うちにある主しゅの御み霊たまの働はたらきによって，わたしにそのようなささやきがあるからである。わたしはすべてのことを知しっているわけではないが，主しゅは将しょう来らい起おこることをすべて御ご存ぞんじである。したがって主しゅは，御ご自じ分ぶんの御み心こころどおりに行おこなうように，わたしに働はたらきかけられるのである。",
+            "kr": "또 내가 이렇게 하는 것은 한 현명한 목적을 위함이니, 이는 내 안에 있는 주의 영의 역사하심을 따라, 이같이 내게 속삭이는 바가 있음이라. 이제 나는 만사를 다 알지 못하나, 주께서는 장차 이를 일을 모두 아시나니, 그런즉 그는 그의 뜻대로 행하시고자 내 안에서 역사하시는도다."
+          }
+        },
+        {
+          "key": "8",
+          "text": {
+            "fr": "Et je prie Dieu pour mes frères, afin qu’ils parviennent encore une fois à la connaissance de Dieu, oui, à la rédemption par le Christ ; afin qu’ils soient encore une fois un peuple agréable.",
+            "en": "And my prayer to God is concerning my brethren, that they may once again come to the knowledge of God, yea, the redemption of Christ; that they may once again be a delightsome people.",
+            "zh": "我求神眷顧我的弟兄，使他們能重新認識神，是的，認識基督的救贖，使他們能再成為可愛的民族。",
+            "jp": "わたしが神かみにささげる祈いのりは，わたしの同胞はらからのことであって，彼かれらが再ふたたび神かみについて，まことにキリストの贖あがないについて知しるようになり，また再ふたたび喜よろこばしい民たみとなれるようにということである。",
+            "kr": "그리고 하나님께 드리는 나의 기도는 나의 형제들에 관한 것이니, 그들이 다시 한 번 하나님에 대한 지식, 곧 그리스도의 구속을 알기에 이르러 그들이 다시 한 번 기뻐하심을 입는 백성이 되게 해 주십사 하는 것이니라."
+          }
+        },
+        {
+          "key": "9",
+          "text": {
+            "fr": "Et maintenant, moi, Mormon, je vais clôturer mes annales, que je tire des plaques de Néphi ; et je le fais selon la connaissance et l’intelligence que Dieu m’a données.",
+            "en": "And now I, Mormon, proceed to finish out my record, which I take from the plates of Nephi; and I make it according to the knowledge and the understanding which God has given me.",
+            "zh": "現在我，摩爾門，就要完成我取自尼腓片的紀錄，我是藉著神賜給我的知識和理解記錄的。",
+            "jp": "さて，わたしモルモンは，ニーファイの版はんから抜ぬき書がきして作つくるわたしの記き録ろくを書かき上あげる仕し事ごとを続つづけよう。わたしはこの記き録ろくを，神かみが授さずけてくださった知ち識しきと理り解かいに応おうじて作つくる。",
+            "kr": "그러면 이제 나 몰몬은 계속하여 니파이의 판에서 취하는 바 내 기록을 끝까지 완성하고자 하노니, 나는 하나님께서 내게 주신 지식과 총명을 좇아 이를 만드노라."
+          }
+        },
+        {
+          "key": "10",
+          "text": {
+            "fr": "C’est pourquoi, il arriva donc que lorsque Amaléki eut remis ces plaques entre les mains du roi Benjamin, celui-ci les prit et les mit avec les autres plaques qui contenaient les annales transmises par les rois, de génération en génération, jusqu’au temps du roi Benjamin.",
+            "en": "Wherefore, it came to pass that after Amaleki had delivered up these plates into the hands of king Benjamin, he took them and put them with the other plates, which contained records which had been handed down by the kings, from generation to generation until the days of king Benjamin.",
+            "zh": "因此事情是這樣的，亞瑪力把這些頁片交在便雅憫王手中後，便雅憫王就把這些頁片與其他頁片放在一起，其中包含列王代代相傳，直到便雅憫王的時代的紀錄。",
+            "jp": "そこで，アマレカイがこの版はんをベニヤミン王おうの手てに渡わたしたところ，ベニヤミン王おうはこれを受うけ取とって，彼かれの代だいまで歴れき代だいの王おうが譲ゆずり伝つたえてきた記き録ろくを含ふくむほかの版はんと一いっ緒しょにした。",
+            "kr": "그리하여 이렇게 되었나니 아맬레카이가 이 판을 베냐민 왕의 손에 넘겨 준 후, 그는 이를 취하여 이를 베냐민왕의 시대에 이르기까지 대대로 열왕에 의해 전해져 내려온 기록이 실려 있는 다른 판과 함께 두었더라."
+          }
+        },
+        {
+          "key": "11",
+          "text": {
+            "fr": "Et du roi Benjamin, elles furent transmises, de génération en génération, jusqu’à ce qu’elles me tombent entre les mains. Et moi, Mormon, je prie Dieu qu’elles soient dorénavant préservées ; et je sais qu’elles seront préservées, car de grandes choses y sont écrites, d’après lesquelles mon peuple et ses frères seront jugés lors du grand et dernier jour, selon la parole de Dieu qui est écrite.",
+            "en": "And they were handed down from king Benjamin, from generation to generation until they have fallen into my hands. And I, Mormon, pray to God that they may be preserved from this time henceforth. And I know that they will be preserved; for there are great things written upon them, out of which my people and their brethren shall be judged at the great and last day, according to the word of God which is written.",
+            "zh": "然後再由便雅憫王，代代相傳，直到傳入我手中。我，摩爾門，求神使這些頁片今後能得保全，我知道這些頁片必得保全，因為其中記載了許多偉大的事；我的人民和他們的弟兄在最後的大日子，都要按照其中所記載的神的話接受審判。",
+            "jp": "そしてこれらは，ベニヤミン王おうから代よ々よ譲ゆずり伝つたえられて，わたしの手てに入はいったのである。わたしモルモンは，これらがこれから先さきも残のこされるように神かみに祈いのっている。またこれらが残のこされることをわたしは知しっている。これらの版はんには重じゅう要ような事こと柄がらが書かき記しるされており，わたしの民たみとその同胞はらからは，書かき記しるされている神かみの言こと葉ばのとおりに，大おおいなる終おわりの日ひにそのことによって裁さばきを受うけるからである。",
+            "kr": "그리고 이것이 베냐민 왕으로부터 대대로 전해져 내려와 나의 수중에 들어왔나니, 나 몰몬은 이때로부터 이후로 이 판들이 보전되기를 하나님께 간구하노라. 또 나는 이 판들이 보전될 줄을 아노니, 이는 그 위에 위대한 일들이 기록되어 있음이라. 이로 말미암아 기록된 하나님의 말씀에 따라 나의 백성과 그들의 형제들이 큰 마지막 날에 심판을 받으리로다."
+          }
+        },
+        {
+          "key": "12",
+          "text": {
+            "fr": "Et maintenant, concernant ce roi Benjamin : il y eut quelques dissensions parmi son peuple.",
+            "en": "And now, concerning this king Benjamin—he had somewhat of contentions among his own people.",
+            "zh": "現在，關於這位便雅憫王——他自己的人民中有一些紛爭。",
+            "jp": "ところで，このベニヤミン王おうのことであるが，彼かれの時じ代だいに民たみの中なかに多た少しょうの争あらそいがあった。",
+            "kr": "그리고 이제 이 베냐민 왕에 관하여—그의 때에 그의 백성들 가운데 다소 다툼이 있었느니라."
+          }
+        },
+        {
+          "key": "13",
+          "text": {
+            "fr": "Et il arriva aussi que les armées des Lamanites descendirent du pays de Néphi pour livrer bataille à son peuple. Mais voici, le roi Benjamin rassembla ses armées, et il les affronta ; et il combattit avec la force de son bras, avec l’épée de Laban.",
+            "en": "And it came to pass also that the armies of the Lamanites came down out of the land of Nephi, to battle against his people. But behold, king Benjamin gathered together his armies, and he did stand against them; and he did fight with the strength of his own arm, with the sword of Laban.",
+            "zh": "事情是這樣的，拉曼軍也從尼腓地下來，要與他的人民作戰。但是看啊，便雅憫王召集他的軍隊，他抵抗他們；他以拉班劍，親自與敵人作戰。",
+            "jp": "そして，レーマン人じんの軍ぐん隊たいがニーファイの地ちから下くだって来きて，ベニヤミン王おうの民たみを攻せめた。しかし見みよ，ベニヤミン王おうは軍ぐん隊たいを召しょう集しゅうして彼かれらに立たち向むかった。彼かれはラバンの剣つるぎを持もち，自じ分ぶん自じ身しんの腕うでの力ちからを振ふるって戦たたかった。",
+            "kr": "또한 이렇게 되었나니 레이맨인들의 군대가 그의 백성을 대적하여 싸우려고 니파이 땅에서 내려왔더라. 그러나 보라, 베냐민 왕이 그의 군대를 함께 모으고, 그들에 맞서 라반의 검을 들고 그 자신의 팔의 힘으로 싸웠더라."
+          }
+        },
+        {
+          "key": "14",
+          "text": {
+            "fr": "Et c’est avec la force du Seigneur qu’ils combattirent leurs ennemis, jusqu’à ce qu’ils eussent tué bien des milliers de Lamanites. Et il arriva qu’ils combattirent les Lamanites jusqu’à ce qu’ils les eussent chassés de tous les pays de leur héritage.",
+            "en": "And in the strength of the Lord they did contend against their enemies, until they had slain many thousands of the Lamanites. And it came to pass that they did contend against the Lamanites until they had driven them out of all the lands of their inheritance.",
+            "zh": "他們憑主的力量與敵人戰鬥，直到殺死數千名拉曼人。事情是這樣的，他們與拉曼人戰鬥，直到把他們趕出他們繼承的所有土地。",
+            "jp": "そして，ベニヤミン王おうの軍ぐん隊たいは主しゅの力ちからを頂いただいて敵てきと戦たたかい，ついにレーマン人じんを何なん千ぜん人にんも殺ころした。彼かれらはレーマン人じんと戦たたかって，自じ分ぶんたちの受うけ継つぎの地ちの全ぜん域いきからレーマン人じんを追おい払はらったのである。",
+            "kr": "또 주의 힘을 의지하여 그들이 그 대적과 싸워 이윽고 레이맨인 수천을 도륙하였으며, 또 이렇게 되었나니 그들이 레이맨인들과 싸워서 이윽고 그들의 기업의 모든 땅에서 레이맨인들을 몰아내었더라."
+          }
+        },
+        {
+          "key": "15",
+          "text": {
+            "fr": "Et il arriva que lorsqu’il y eut eu de faux Christs, et que la bouche leur eut été fermée, et qu’ils eurent été punis selon leurs crimes ;",
+            "en": "And it came to pass that after there had been false Christs, and their mouths had been shut, and they punished according to their crimes;",
+            "zh": "事情是這樣的，在有了一些假基督，他們被禁止發言，並按其罪行受懲罰後；",
+            "jp": "また，偽にせキリストが現あらわれたが，彼かれらは口くちを閉とざされ，罪ざい科かに応おうじて罰ばっせられた。",
+            "kr": "또 이렇게 되었나니 거짓 그리스도들이 있었으나, 그들의 입이 닫혀지고 그들이 자기의 범죄에 따라 처벌을 받은 후,"
+          }
+        },
+        {
+          "key": "16",
+          "text": {
+            "fr": "et lorsqu’il y eut eu de faux prophètes, et de faux prédicateurs et instructeurs parmi le peuple, et que tous ceux-ci eurent été punis selon leurs crimes ; et lorsqu’il y eut eu beaucoup de querelles et beaucoup de dissidences au profit des Lamanites, voici, il arriva que le roi Benjamin, avec l’aide des saints prophètes qui étaient parmi son peuple —",
+            "en": "And after there had been false prophets, and false preachers and teachers among the people, and all these having been punished according to their crimes; and after there having been much contention and many dissensions away unto the Lamanites, behold, it came to pass that king Benjamin, with the assistance of the holy prophets who were among his people—",
+            "zh": "在人民中有了假先知、假宣教士、假教師，他們也都按其罪行受懲罰後；在有很多紛爭，許多人叛離，投向拉曼人後，看啊，事情是這樣的，便雅憫王在人民中聖先知的協助下——",
+            "jp": "そして，民たみの中なかに偽にせ預よ言げん者しゃや偽にせ説せっ教きょう者しゃ，偽にせ教きょう師しも現あらわれたが，彼かれらも皆みな，それぞれの罪ざい科かに応おうじて罰ばっせられた。また，多おおくの争あらそいが起おこり，多おおくの者ものが離り反はんしてレーマン人じんのもとへ去さって行いったが，その後のち，見みよ，ベニヤミン王おうは，民たみの中なかにいる聖せいなる預よ言げん者しゃたちの助たすけを得えた。",
+            "kr": "그리고 백성 가운데 거짓 선지자들과 거짓 설교자들과 교사들이 있었으나, 이들 모두가 자기의 범죄에 따라 처벌을 받은 후, 그리고 많은 다툼이 있고 많은 자들이 이반하여 레이맨인들에게로 가는 일이 있은 후, 보라 이렇게 되었나니 베냐민 왕은 그의 백성 가운데 있는 거룩한 선지자들의 도움을 얻어—"
+          }
+        },
+        {
+          "key": "17",
+          "text": {
+            "fr": "car voici, le roi Benjamin était un saint homme, et il régna en justice sur son peuple ; et il y avait beaucoup de saints hommes dans le pays, et ils annonçaient la parole de Dieu avec puissance et avec autorité ; et ils faisaient usage d’une grande rigueur à cause de la roideur de cou du peuple —",
+            "en": "For behold, king Benjamin was a holy man, and he did reign over his people in righteousness; and there were many holy men in the land, and they did speak the word of God with power and with authority; and they did use much sharpness because of the stiffneckedness of the people—",
+            "zh": "看啊，便雅憫王是個聖潔的人，以正義統治人民；這地也有許多聖潔的人，他們以神的大能與權柄宣講神的話；由於這人民倔強，他們的話都十分嚴厲——",
+            "jp": "見みよ，ベニヤミン王おうは聖せいなる人ひとであり，義ぎをもって自じ分ぶんの民たみを治おさめた。また，国こく内ないには聖せいなる人ひとが大おお勢ぜいおり，彼かれらは力ちからと権けん能のうをもって神かみの言こと葉ばを語かたった。しかも，民たみが強ごう情じょうであったために，彼かれらは非ひ常じょうに厳きびしい言こと葉ばを用もちいた。",
+            "kr": "이는 보라, 베냐민 왕은 거룩한 사람이라, 그가 의 가운데 자기 백성을 다스렸고, 또 그 땅에 거룩한 자들이 많이 있어 그들이 권능과 권세로 하나님의 말씀을 고하였으며, 백성들의 목이 뻣뻣함으로 인하여 그들이 날카로움을 많이 사용하였음이라—"
+          }
+        },
+        {
+          "key": "18",
+          "text": {
+            "fr": "C’est pourquoi, avec l’aide de ceux-ci, le roi Benjamin, en travaillant de toute la puissance de son corps et des facultés de toute son âme, ainsi que les prophètes, fit encore une fois régner la paix dans le pays.",
+            "en": "Wherefore, with the help of these, king Benjamin, by laboring with all the might of his body and the faculty of his whole soul, and also the prophets, did once more establish peace in the land.",
+            "zh": "因此，在這些人以及眾先知的協助下，便雅憫王藉盡心工作再次在這地建立和平。",
+            "jp": "こうして，ベニヤミン王おうはこれらの人ひと々びとの助たすけを得えて，自じ分ぶんの体たい力りょくの限かぎりを尽つくし，能のう力りょくの限かぎりを尽つくして働はたらくことによって，預よ言げん者しゃたちの助たすけを受うけながら，国こく内ないにもう一いち度ど平へい和わを確かく立りつしたのであった。",
+            "kr": "그리하여 이들의 도움과 함께 베냐민 왕은 그의 육신의 모든 힘과 그의 온 영혼의 능력을 다해 일하고, 또한 선지자들과 함께 일함으로써 한 번 더 그 땅에 평화를 이루었더라."
+          }
+        }
+      ]
+    }
+  ]
+}

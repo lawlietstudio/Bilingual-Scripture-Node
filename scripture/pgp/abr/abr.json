@@ -1,0 +1,1445 @@
+{
+  "book": {
+    "fr": "LIVRE D’ABRAHAM",
+    "en": "THE BOOK OF ABRAHAM",
+    "zh": "亞伯拉罕書",
+    "jp": "アブラハム書しょ",
+    "kr": "아브라함서"
+  },
+  "theme": {
+    "fr": "Traduit du papyrus par Joseph Smith",
+    "en": "Translated from the Papyrus, by Joseph Smith",
+    "zh": "約瑟·斯密譯自紙草紙上的紀錄",
+    "jp": "ジョセフ・スミスがパピルスから翻ほん訳やくしたもの",
+    "kr": "조셉 스미스가 파피루스에서 번역한 것임."
+  },
+  "introduction": {
+    "fr": "Traduction de textes anciens qui, des catacombes d’Égypte, sont tombés entre nos mains. Écrits d’Abraham du temps où il était en Égypte, appelés Livre d’Abraham, écrits de sa main sur papyrus.",
+    "en": "A Translation of some ancient Records that have fallen into our hands from the catacombs of Egypt. The writings of Abraham while he was in Egypt, called the Book of Abraham, written by his own hand, upon papyrus.",
+    "zh": "一些古代紀錄的譯文，該紀錄出自埃及地下墓穴，後來落入我們手中。亞伯拉罕在埃及時寫的紀錄，叫作《亞伯拉罕書》，是他親手寫在紙草紙上的。",
+    "jp": "エジプトの地ち下か墓ぼ地ちから得えられた幾いくつかの昔むかしの記き録ろくの翻ほん訳やく。「アブラハム書しょ」と呼よばれる，アブラハムがエジプトにいた間あいだに彼かれ自じ身しんの手てでパピルスに記しるした書かき物もの。",
+    "kr": "애굽의 지하 묘지에서 우리 손으로 들어오게 된 어떤 고대 기록의 번역물. 아브라함이 애굽에 있을 동안에 기록한 것으로 아브라함서라 하며 그가 파피루스에 자신의 손으로 쓴 것임(교회사 2:235~236, 348~351)."
+  },
+  "chapters": [
+    {
+      "number": 1,
+      "introduction": {
+        "fr": "Abraham recherche les bénédictions de l’ordre patriarcal — Il est persécuté par de faux prêtres en Chaldée — Jéhovah le sauve — Passage en revue des origines et du gouvernement de l’Égypte.",
+        "en": "Abraham seeks the blessings of the patriarchal order—He is persecuted by false priests in Chaldea—Jehovah saves him—The origins and government of Egypt are reviewed.",
+        "zh": "亞伯拉罕尋求教長體制的祝福——他在迦勒底被假祭司迫害——耶和華拯救他——回顧埃及的起源與政權。",
+        "jp": "アブラハム，族ぞく長ちょう制せい度どの祝しゅく福ふくを求もとめる。アブラハム，カルデヤで偽にせ祭さい司したちによって迫はく害がいされる。エホバがアブラハムを救すくい出だされる。エジプトの起き源げんと政せい体たいが概がい観かんされる。",
+        "kr": "아브라함이 축복사의 반차의 축복을 구함—그가 갈대아에서 거짓 제사장들에게 박해를 받음—여호와께서 그를 구하심—애굽의 기원과 정부가 언급됨."
+      },
+      "verses": [
+        {
+          "key": "1",
+          "text": {
+            "fr": "Dans le pays des Chaldéens, dans la résidence de mes pères, moi, Abraham, je vis qu’il était nécessaire de me procurer un autre lieu de résidence ;",
+            "en": "In the land of the Chaldeans, at the residence of my fathers, I, Abraham, saw that it was needful for me to obtain another place of residence;",
+            "zh": "在我祖先的住所，迦勒底人的土地上，我，亞伯拉罕明白我必須另覓住所；",
+            "jp": "わたしの先せん祖ぞが住すんでいたカルデヤ人びとの地ちにおいて，わたしアブラハムは，別べつの居きょ住じゅうの地ちを得えることが自じ分ぶんにとって必ひつ要ようであるのを知しった。",
+            "kr": "나 아브라함은 내 조상의 거주지였던 갈대아 사람의 땅에서 거주할 다른 곳을 얻음이 내게 필요한 줄 깨달았고,"
+          }
+        },
+        {
+          "key": "2",
+          "text": {
+            "fr": "et voyant qu’il y avait là davantage de bonheur, de paix et de repos pour moi, je recherchai les bénédictions des pères et le droit auquel je devais être ordonné pour administrer celles-ci ; ayant moi-même été disciple de la justice, désirant aussi être possesseur d’une grande connaissance, être un meilleur disciple de la justice, posséder une plus grande connaissance, être le père de nombreuses nations, un prince de la paix, et désirant recevoir des instructions et garder les commandements de Dieu, je devins héritier légitime, Grand Prêtre, détenant le droit qui appartenait aux pères.",
+            "en": "And, finding there was greater happiness and peace and rest for me, I sought for the blessings of the fathers, and the right whereunto I should be ordained to administer the same; having been myself a follower of righteousness, desiring also to be one who possessed great knowledge, and to be a greater follower of righteousness, and to possess a greater knowledge, and to be a father of many nations, a prince of peace, and desiring to receive instructions, and to keep the commandments of God, I became a rightful heir, a High Priest, holding the right belonging to the fathers.",
+            "zh": "而且，由於發現我可以得到更大的幸福、平安與安息，我就尋求祖先們的祝福，和我應被按立來施行同樣祝福的權利；因我一向是正義的追隨者，也渴望作個擁有豐富知識的人，作個更偉大的正義的追隨者，擁有更豐富的知識，作多國之父，和平之君，並渴望得到教導，遵守神的誡命，我就成了合法的繼承人，是個大祭司，持有屬於祖先們的權利。",
+            "jp": "また，わたしのためにさらに大おおいなる幸こう福ふくと平へい安あんと安あん息そくがあるのを知しり，わたしは先せん祖ぞの祝しゅく福ふくと，わたしが聖せい任にんされるべきそれらの祝しゅく福ふくをつかさどる権けん利りとを得えようと努つとめた。わたしは自じ分ぶん自じ身しんが義ぎに従したがう者ものであったので，また，多おおくの知ち識しきを持もつ者ものとなり，義ぎに従したがうさらに大おおいなる者ものとなることを望のぞみ，もっと多おおくの知ち識しきを持もち，多おおくの国こく民みんの先せん祖ぞ，平へい和わの君きみとなることを望のぞみ，また数かず々かずの指し示じを受うけ，神かみの戒いましめを守まもることを望のぞんだので，先せん祖ぞに属ぞくする権けん利りを持もつ正せい当とうな相そう続ぞく人にん，大だい祭さい司しとなった。",
+            "kr": "나를 위한 더 큰 행복과 평화와 안식이 있음을 알고, 나는 조상의 축복을 구하고 그 축복을 베푸는 직분에 성임될 권리를 구하였느니라. 나는 내 자신이 의의 추종자였으므로 또한 큰 지식을 지니는 자가 되며, 의의 더 큰 추종자가 되고, 더 큰 지식을 지니며, 많은 민족의 조상과 평화의 왕자가 되기를 원하였으므로, 그리고 여러 가지 가르침을 받으며 하나님의 계명을 지키기기를 원하였으므로, 나는 조상에게 속한 권리를 지닌 정당한 상속인이요 대제사장이 되었느니라."
+          }
+        },
+        {
+          "key": "3",
+          "text": {
+            "fr": "Il me fut conféré venant des pères ; il descendit des pères depuis le commencement des temps, oui depuis le commencement, ou avant la fondation de la terre jusqu’à présent, le droit du premier-né, ou du premier homme, qui est Adam, ou premier père, par l’intermédiaire des pères jusqu’à moi.",
+            "en": "It was conferred upon me from the fathers; it came down from the fathers, from the beginning of time, yea, even from the beginning, or before the foundation of the earth, down to the present time, even the right of the firstborn, or the first man, who is Adam, or first father, through the fathers unto me.",
+            "zh": "這權利是由祖先們授予我的；這權利是從時間的開始起，是的，即從太初起，或大地奠基以前，由祖先們傳下來，直到現在的；此即長子，或第一個人的權利，他就是亞當，或第一個父親，經由祖先們傳給我。",
+            "jp": "それは先せん祖ぞからわたしに授さずけられた。それは先せん祖ぞから，時ときの初はじめから，まことに初はじめから，すなわち地ちが造つくられる前まえから現げん在ざいまで伝つたわったものである。それは長ちょう子し，すなわち最さい初しょの人ひと，すなわちアダム，すなわち最さい初しょの先せん祖ぞの権けん利りであり，先せん祖ぞたちを通とおしてわたしに至いたったものである。",
+            "kr": "그것은 조상으로부터 내게 부여되었느니라. 그것은 조상으로부터 내려왔으니, 현세의 시작 때부터, 참으로 바로 태초로부터 또는 땅의 기초가 놓이기 전부터, 현재에까지 내려왔으니, 바로 장자의 권리, 곧 첫 사람인 아담, 곧 첫 아버지의 권리가 조상들을 통하여 내게 내려왔느니라."
+          }
+        },
+        {
+          "key": "4",
+          "text": {
+            "fr": "Je recherchai ma désignation à la Prêtrise, selon le décret lancé par Dieu aux pères concernant la postérité.",
+            "en": "I sought for mine appointment unto the Priesthood according to the appointment of God unto the fathers concerning the seed.",
+            "zh": "我按照神對祖先們有關子孫的任命，尋求我對聖職的任命。",
+            "jp": "わたしは，子し孫そんに関かんして先せん祖ぞに与あたえられた神かみの定さだめに従したがって，神しん権けんに任にんじられることを求もとめた。",
+            "kr": "나는 자손에 관하여 조상들에게 주신 하나님의 임명에 따라 신권에 임명되기를 구하였느니라."
+          }
+        },
+        {
+          "key": "5",
+          "text": {
+            "fr": "Mes pères, qui s’étaient détournés de leur justice et des saints commandements que le Seigneur, leur Dieu, leur avait donnés, pour adorer les dieux des païens, refusèrent absolument d’écouter ma voix ;",
+            "en": "My fathers, having turned from their righteousness, and from the holy commandments which the Lord their God had given unto them, unto the worshiping of the gods of the heathen, utterly refused to hearken to my voice;",
+            "zh": "我的祖先們背離了他們的正義，背離了主他們的神給他們的神聖誡命，而崇拜異教的神，完全拒絕聽我的聲音；",
+            "jp": "わたしの先せん祖ぞは，彼かれらの義ぎと主しゅなる彼かれらの神かみが与あたえられた聖せいなる戒いましめから離はなれて，異い教きょう徒との神かみ々がみを礼れい拝はいし，わたしの言こと葉ばを聴きくのをまったく拒こばんだ。",
+            "kr": "나의 조상들은 그들의 의에서 또 주 그들의 하나님이 그들에게 주신 거룩한 계명에서 돌이켜 이방인의 신들을 섬기며, 나의 음성에 귀 기울이기를 온전히 거절하였느니라."
+          }
+        },
+        {
+          "key": "6",
+          "text": {
+            "fr": "car leur cœur était décidé à faire le mal et entièrement tourné vers le dieu d’Elkéna, et le dieu de Libna, et le dieu de Mamacra, et le dieu de Korasch, et le dieu de Pharaon, roi d’Égypte.",
+            "en": "For their hearts were set to do evil, and were wholly turned to the god of Elkenah, and the god of Libnah, and the god of Mahmackrah, and the god of Korash, and the god of Pharaoh, king of Egypt;",
+            "zh": "因為他們的心放在作惡上，完全轉向厄克拿的神、立拿的神、瑪瑪克拉的神、口艾西的神和埃及王法老的神；",
+            "jp": "彼かえらは悪あくを行おこなうことをその心こころに留とめ，エルケナの神かみと，リブナの神かみと，マーマクラの神かみと，コラシの神かみと，エジプトの王おうパロの神かみにすっかり頼たより切きっていたからである。",
+            "kr": "이는 그들의 마음이 악을 행하기로 정하여졌음이요, 엘케나의 신과 립나의 신과 마막크라의 신과 고라스의 신과 애굽왕 바로의 신에게로 전적으로 돌이켰음이더라."
+          }
+        },
+        {
+          "key": "7",
+          "text": {
+            "fr": "C’est pourquoi, ils tournèrent leur cœur vers les sacrifices des païens, offrant leurs enfants à leurs idoles muettes, et ils n’écoutèrent pas ma voix, mais s’efforcèrent de m’ôter la vie par la main du prêtre d’Elkéna. Le prêtre d’Elkéna était aussi le prêtre de Pharaon.",
+            "en": "Therefore they turned their hearts to the sacrifice of the heathen in offering up their children unto these dumb idols, and hearkened not unto my voice, but endeavored to take away my life by the hand of the priest of Elkenah. The priest of Elkenah was also the priest of Pharaoh.",
+            "zh": "所以他們把心轉向異教徒的犧牲上，將他們的子女獻給這些啞巴偶像，不聽從我的聲音，卻竭力要藉厄克拿的祭司的手取我的性命。厄克拿的祭司也是法老的祭司。",
+            "jp": "そこで，彼かれらは異い教きょう徒との犠ぎ牲せいにその心こころを向むけて，これら口くちの利きけない偶ぐう像ぞうに彼かれらの子こ供どもたちをささげ，わたしの声こえを聴きこうとせず，エルケナの祭さい司しの手てによってわたしの命いのちを取とろうとした。エルケナの祭さい司しはまた，パロの祭さい司しであった。",
+            "kr": "그러므로 그들은 이들 말 못하는 우상들에게 그들의 자녀를 바치는 이방인의 희생에 그들의 마음을 돌이키고 내 음성에 귀 기울이지 아니하고 도리어 엘케나의 제사장의 손으로 내 생명을 빼앗으려 하였느니라. 엘케나의 제사장은 또한 바로의 제사장이기도 하더라."
+          }
+        },
+        {
+          "key": "8",
+          "text": {
+            "fr": "Or, à cette époque, le prêtre de Pharaon, roi d’Égypte, avait coutume d’offrir des hommes, des femmes et des enfants sur l’autel qui avait été élevé dans le pays de Chaldée pour faire des offrandes à ces dieux étrangers.",
+            "en": "Now, at this time it was the custom of the priest of Pharaoh, the king of Egypt, to offer up upon the altar which was built in the land of Chaldea, for the offering unto these strange gods, men, women, and children.",
+            "zh": "而這時候，埃及王法老的祭司的習俗是，在迦勒底土地所建的祭壇上，獻上男人、女人和孩子，作為給這些異國諸神的祭品。",
+            "jp": "さて当とう時じ，カルデヤの地ちに築きずかれた祭さい壇だん上じょうでこれら異い国こくの神かみ々がみへの犠ぎ牲せいとして男だん女じょや子こ供どもをささげることが，エジプトの王おうパロの祭さい司しの習ならわしであった。",
+            "kr": "이제 이때 애굽왕 바로의 제사장의 관습은 이들 이방 신들에게 바치는 제물로 갈대아 땅에 세워진 제단 위에 남자와 여자와 아이들을 바치는 것이었더라."
+          }
+        },
+        {
+          "key": "9",
+          "text": {
+            "fr": "Et il arriva que le prêtre fit une offrande au dieu de Pharaon, et aussi au dieu de Schagréel à la manière des Égyptiens. Or le dieu de Schagréel était le soleil.",
+            "en": "And it came to pass that the priest made an offering unto the god of Pharaoh, and also unto the god of Shagreel, even after the manner of the Egyptians. Now the god of Shagreel was the sun.",
+            "zh": "事情是這樣的，祭司按照埃及人的樣式向法老的神獻祭，也向夏瑞兒的神獻祭。這時夏瑞兒的神就是太陽。",
+            "jp": "そして，祭さい司しはエジプト人じんの流りゅう儀ぎに従したがって，パロの神かみにささげ物ものをし，またシャグレールの神かみにもささげ物ものをした。ところで，シャグレールの神かみは太たい陽ようであった。",
+            "kr": "그리고 이렇게 되었나니, 제사장은 애굽인의 방식에 따라 바로의 신과 또한 샤그르엘의 신에게 제물을 바치더라. 이제 샤그르엘의 신은 태양이더라."
+          }
+        },
+        {
+          "key": "10",
+          "text": {
+            "fr": "Et le prêtre de Pharaon offrit même un enfant comme sacrifice d’actions de grâces sur l’autel qui se dressait près de la colline appelée colline de Potiphar, au début de la plaine d’Olischem.",
+            "en": "Even the thank-offering of a child did the priest of Pharaoh offer upon the altar which stood by the hill called Potiphar’s Hill, at the head of the plain of Olishem.",
+            "zh": "法老的祭司甚至在歐立協平原前頭，稱為波提乏山的山邊所立的祭壇上，獻上了一個小孩作感謝祭。",
+            "jp": "パロの祭さい司しは，オリシェムの平へい野やの奥おくにあるポテパルの丘おかと呼よばれた丘おかのそばにあった祭さい壇だん上じょうで，子こ供どもを感かん謝しゃのささげ物ものとしてささげることさえ行おこなった。",
+            "kr": "바로의 제사장은 올리셈 평원 어귀에 있는 보디발의 산이라 하는 산 곁에 세워진 제단 위에 심지어 어린아이를 감사 제물로 바치더라."
+          }
+        },
+        {
+          "key": "11",
+          "text": {
+            "fr": "Or, ce prêtre avait offert sur cet autel trois vierges à la fois, lesquelles étaient filles d’Onita, membre de la lignée royale provenant directement des reins de Cham. Ces vierges avaient été sacrifiées à cause de leur vertu ; elles n’avaient pas voulu se prosterner pour adorer des dieux de bois ou de pierre ; c’est pourquoi elles furent tuées sur cet autel, et cela se fit à la manière des Égyptiens.",
+            "en": "Now, this priest had offered upon this altar three virgins at one time, who were the daughters of Onitah, one of the royal descent directly from the loins of Ham. These virgins were offered up because of their virtue; they would not bow down to worship gods of wood or of stone, therefore they were killed upon this altar, and it was done after the manner of the Egyptians.",
+            "zh": "而這祭司曾一次在這祭壇上獻了三個童女，她們是含的嫡系，一個王室的後裔，歐尼塔的女兒。這些童女因她們的美德而被獻祭；她們不願俯伏敬拜那木頭或石頭做的神，所以她們就在這祭壇上被殺害，而這是按照埃及人的樣式做的。",
+            "jp": "さて，この祭さい司しは，かつてこの祭さい壇だん上じょうで三人にんのおとめをささげた。このおとめたちは，ハムの直ちょっ系けいの王おう家けの一人ひとりであるオニタの娘むすめたちであった。このおとめたちはその節せっ操そうのゆえにささげられたのである。彼かの女じょたちは木きや石いしの神かみ々がみをひれ伏ふして拝おがもうとしなかったために，この祭さい壇だん上じょうで殺ころされた。そして，それはエジプト人じんの流りゅう儀ぎに従したがって行おこなわれた。",
+            "kr": "이제 이 제사장은 한 번에 세 처녀를 이 제단에 바치기도 하였으니, 이들은 함의 허리에서 나온 직계 왕족의 한 사람인 오니타의 딸들이었더라. 이 처녀들은 그들의 유덕함으로 말미암아 바쳐졌나니, 그들이 나무나 돌로 된 신들에게 엎드려 절하지 않으려 하였으므로 그들은 이 제단 위에서 죽임을 당하였으니, 이 일은 애굽인의 방식에 따라 행하여졌더라."
+          }
+        },
+        {
+          "key": "12",
+          "text": {
+            "fr": "Et il arriva que les prêtres se saisirent de moi avec violence, afin de me tuer aussi, comme ils l’avaient fait à ces vierges sur cet autel ; et afin que vous ayez une connaissance de cet autel, je vous renvoie à la représentation qui figure au commencement de cet écrit.",
+            "en": "And it came to pass that the priests laid violence upon me, that they might slay me also, as they did those virgins upon this altar; and that you may have a knowledge of this altar, I will refer you to the representation at the commencement of this record.",
+            "zh": "事情是這樣的，祭司們用暴力待我，以便像在這祭壇上殺害那些童女一樣殺害我；為了讓你們對這祭壇有所了解，我要請你們參考本紀錄開始的圖示。",
+            "jp": "さて，祭さい司したちはわたしに暴ぼう力りょくを振ふるい，この祭さい壇だん上じょうでそのおとめたちを殺ころしたように，わたしも殺ころそうとした。この祭さい壇だんについて知しるために，この記き録ろくの初はじめにある絵え図ずを参さん照しょうしてほしい。",
+            "kr": "그리고 이렇게 되었나니, 그 제사장들이 내게 폭력을 휘둘러 그들이 이 제단 위에서 그 처녀들을 죽인 것같이 나를 또한 죽이려 하였더라. 너희가 이 제단에 대하여 알 수 있도록 나는 너희가 이 기록의 첫머리에 있는 그림을 참조하기 바라노라."
+          }
+        },
+        {
+          "key": "13",
+          "text": {
+            "fr": "Il avait la forme d’un bois de lit, tel qu’on en trouvait chez les Chaldéens, et il était placé devant les dieux d’Elkéna, de Libna, de Mamacra, de Korasch, et aussi devant un dieu semblable à celui de Pharaon, roi d’Égypte.",
+            "en": "It was made after the form of a bedstead, such as was had among the Chaldeans, and it stood before the gods of Elkenah, Libnah, Mahmackrah, Korash, and also a god like unto that of Pharaoh, king of Egypt.",
+            "zh": "那是按照迦勒底人的床架的式樣造的，它立在厄克拿、立拿、瑪瑪克拉、口艾西等的神面前，也立在像埃及王法老的神那樣的神面前。",
+            "jp": "それはカルデヤ人びとの間あいだで用もちいられたような寝しん台だいの形かたちに倣ならって造つくられ，エルケナ，リブナ，マーマクラ，コラシの神かみ々がみの前まえ，およびエジプトの王おうパロの神かみに似にた神かみの前まえに置おかれていた。",
+            "kr": "그것은 갈대아 사람들 가운데 있던 것 같은 침대 모양을 따라 만들어졌으며, 엘케나, 립나, 마막크라, 고라스의 신들과 또한 애굽왕 바로의 신을 닮은 신 앞에 세워져 있더라."
+          }
+        },
+        {
+          "key": "14",
+          "text": {
+            "fr": "Pour que vous vous fassiez une idée de ces dieux, je vous en ai donné la représentation dans les figures qui sont au début ; ce genre de figures est appelé, par les Chaldéens, Ralinos, ce qui signifie hiéroglyphes.",
+            "en": "That you may have an understanding of these gods, I have given you the fashion of them in the figures at the beginning, which manner of figures is called by the Chaldeans Rahleenos, which signifies hieroglyphics.",
+            "zh": "為了讓你們了解這些神，我已在開始的圖形裡將他們的形狀畫給你們，而迦勒底人稱那圖形的樣式為拉立諾，意思是象形文字。",
+            "jp": "あなたがたがこれらの神かみ々がみについて理り解かいできるように，わたしは冒ぼう頭とうの図ず形けい中ちゅうにそれらの型かたを示しめした。このような種しゅ類るいの図ず形けいを，カルデヤ人びとはラーレーノスと呼よぶ。それは象しょう形けい文も字じという意い味みである。",
+            "kr": "너희가 이 신들을 이해할 수 있도록 나는 시작 부분에 있는 그림 중에 그들의 모습을 보여 주었느니라. 이러한 모습의 도형을 갈대아인은 랄르에노스라 부르나니, 이는 상형문자를 의미하느니라."
+          }
+        },
+        {
+          "key": "15",
+          "text": {
+            "fr": "Et comme ils levaient les mains sur moi, afin de m’offrir en sacrifice et de m’ôter la vie, voici, j’élevai la voix vers le Seigneur, mon Dieu, et le Seigneur entendit et écouta, et il me remplit de la vision du Tout-Puissant, et l’ange qui est devant sa face se tint auprès de moi et défit immédiatement mes liens.",
+            "en": "And as they lifted up their hands upon me, that they might offer me up and take away my life, behold, I lifted up my voice unto the Lord my God, and the Lord hearkened and heard, and he filled me with the vision of the Almighty, and the angel of his presence stood by me, and immediately unloosed my bands;",
+            "zh": "他們舉起手來抓我，好把我獻上並取我性命的時候，看啊，我提高聲音呼求主我的神，主垂聽而聽見了，祂以全能者的異象充滿我，祂面前的天使站在我旁邊，立刻解開我的束縛；",
+            "jp": "彼かれらがわたしをささげて命いのちを取とるために，その手てをわたしの上うえに振ふり上あげたとき，見みよ，わたしは主しゅなる神かみに声こえを上あげた。すると，主しゅは耳みみを傾かたむけて聞きいてくださり，全ぜん能のう者しゃの示じ現げんでわたしを満みたしてくださった。そして，主しゅの前まえの天てん使しがわたしの傍かたわらに立たち，直ただちに縄なわを解といてくれた。",
+            "kr": "그들이 나를 제물로 바치고 내 생명을 빼앗으려고 그들의 손을 내 위로 들어 올렸을 때 보라, 내가 주 나의 하나님께 나의 목소리를 높였더니, 주께서 귀 기울여 들으시고, 전능자의 시현으로 나를 채우셨고 그가 임재하시는 곳의 천사가 내 곁에 서서 즉시 내 결박을 풀었더라."
+          }
+        },
+        {
+          "key": "16",
+          "text": {
+            "fr": "Et sa voix me dit : Abraham, Abraham, voici, mon nom est Jéhovah, je t’ai entendu, et je suis descendu pour te délivrer et pour t’emmener de la maison de ton père, et de toute ta parenté, dans un pays étranger dont tu ne sais rien ;",
+            "en": "And his voice was unto me: Abraham, Abraham, behold, my name is Jehovah, and I have heard thee, and have come down to deliver thee, and to take thee away from thy father’s house, and from all thy kinsfolk, into a strange land which thou knowest not of;",
+            "zh": "祂的聲音對我說：亞伯拉罕，亞伯拉罕，看啊，我的名字是耶和華，我已聽到你的呼求，下來解救你，要帶你離開你父親的家，離開你所有的親戚，到一個你不知道的陌生土地；",
+            "jp": "そして，主しゅの声こえがわたしに及およんだ。「アブラハム，アブラハム，見みよ，わたしの名なはエホバである。わたしはあなたの声こえを聞きいた。そして，あなたを救すくい出だし，あなたを父ちちの家いえから，すべての親しん族ぞくからあなたの知しらない異い国こくの地ちへ連つれ出だすために降くだって来きた。",
+            "kr": "그리고 그의 음성이 내게 이르시되, 아브라함아, 아브라함아, 보라, 내 이름은 여호와니라. 내가 네 음성을 듣고 내려와 너를 건져내어 네 아버지의 집에서 그리고 네 모든 친척에게서 데리고 나가, 네가 알지 못하는 타국 땅으로 들어가게 하려 하노라."
+          }
+        },
+        {
+          "key": "17",
+          "text": {
+            "fr": "et cela parce qu’ils ont détourné leur cœur de moi, pour adorer le dieu d’Elkéna, le dieu de Libna, le dieu de Mamacra, le dieu de Korasch et le dieu de Pharaon, roi d’Égypte ; c’est pourquoi, je suis descendu pour intervenir contre eux et pour détruire celui qui a levé la main contre toi, Abraham, mon fils, pour t’ôter la vie.",
+            "en": "And this because they have turned their hearts away from me, to worship the god of Elkenah, and the god of Libnah, and the god of Mahmackrah, and the god of Korash, and the god of Pharaoh, king of Egypt; therefore I have come down to visit them, and to destroy him who hath lifted up his hand against thee, Abraham, my son, to take away thy life.",
+            "zh": "這是因為他們的心背離了我，而去崇拜厄克拿的神、立拿的神、瑪瑪克拉的神、口艾西的神，和埃及王法老的神；所以我下來降罰他們，毀滅那舉起手來對付你，我兒亞伯拉罕，要取你性命的人。",
+            "jp": "これは，彼かれらがその心こころをわたしから背そむけて，エルケナの神かみと，リブナの神かみと，マーマクラの神かみと，コラシの神かみと，エジプトの王おうパロの神かみを礼れい拝はいしたためである。そこでわたしは，彼かれらに報むくいを下くだし，わたしの子こであるあなたアブラハムの命いのちを取とろうとして手てを振ふり上あげた者ものを滅ほろぼすために，降くだって来きたのである。",
+            "kr": "이는 그들이 내게서 그들의 마음을 돌이켜 엘케나의 신과 립나의 신과 마막크라의 신과 고라스의 신과 애굽왕 바로의 신을 경배하였음이니, 그러므로 나는 그들을 징벌하고 나의 아들 아브라함 너를 대적하여 그 손을 들어 올려 네 생명을 빼앗으려한 자를 멸하려고 내려왔느니라."
+          }
+        },
+        {
+          "key": "18",
+          "text": {
+            "fr": "Voici, je te conduirai par la main, et je te prendrai pour mettre sur toi mon nom, oui, la Prêtrise de ton père, et mon pouvoir sera sur toi.",
+            "en": "Behold, I will lead thee by my hand, and I will take thee, to put upon thee my name, even the Priesthood of thy father, and my power shall be over thee.",
+            "zh": "看啊，我要親手引導你，我要帶領你，將我的名字，即你父親的聖職放在你身上，我的力量必保護你。",
+            "jp": "見みよ，わたしはわたしの手てによってあなたを導みちびこう。わたしはあなたを受うけ入いれて，わたしの名な，すなわちあなたの父ちちの神しん権けんを与あたえよう。わたしの力ちからはあなたのうえにあるであろう。",
+            "kr": "보라, 나는 내 손으로 너를 인도할 것이요, 너를 취하여 나의 이름 곧 네 아버지의 신권을 네게 두리니, 내 권능이 너를 덮으리라."
+          }
+        },
+        {
+          "key": "19",
+          "text": {
+            "fr": "Il en sera de toi comme il en fut de Noé ; mais, par ton ministère, mon nom sera connu sur la terre à jamais, car je suis ton Dieu.",
+            "en": "As it was with Noah so shall it be with thee; but through thy ministry my name shall be known in the earth forever, for I am thy God.",
+            "zh": "從前對挪亞怎樣，將來對你也必怎樣；但我的名字必因你的事工而在地上永為人知，因為我是你的神。",
+            "jp": "それはノアとともにあったように，あなたとともにあるであろう。しかし，あなたの働はたらきによって，わたしの名なはとこしえにこの世よに知しられるであろう。わたしはあなたの神かみだからである。」",
+            "kr": "노아에게 있었던 것같이 네게도 그리하리라. 그러나 네 성역을 통하여 내 이름이 땅에서 영원히 알려지리니, 이는 내가 네 하나님임이니라."
+          }
+        },
+        {
+          "key": "20",
+          "text": {
+            "fr": "Voici, la colline de Potiphar se trouvait dans le pays d’Ur, de Chaldée. Le Seigneur brisa l’autel d’Elkéna et des dieux du pays, les détruisit complètement et frappa le prêtre, qui mourut ; et il y eut un grand deuil en Chaldée, et aussi à la cour de Pharaon, Pharaon qui signifie : roi de sang royal.",
+            "en": "Behold, Potiphar’s Hill was in the land of Ur, of Chaldea. And the Lord broke down the altar of Elkenah, and of the gods of the land, and utterly destroyed them, and smote the priest that he died; and there was great mourning in Chaldea, and also in the court of Pharaoh; which Pharaoh signifies king by royal blood.",
+            "zh": "看啊，波提乏山位於迦勒底的吾珥地。主毀掉了厄克拿的祭壇和那土地其他諸神的祭壇，完全毀滅它們，並將那祭司擊斃；在迦勒底，有極大的悲傷，在法老的王宮裡也一樣；法老的意思是有王室血統的王。",
+            "jp": "見みよ，ポテパルの丘おかは，カルデヤのウルの地ちにあった。主しゅはエルケナの祭さい壇だんとその地ちの神かみ々がみの祭さい壇だんを壊こわし，それらを完かん全ぜんに破は壊かいし，祭さい司しを打うたれたので，彼かれは死しんだ。そして，カルデヤに，またパロの宮きゅう廷ていに大おおきな嘆なげきがあった。パロとは，王おう族ぞくの血けっ統とうによる王おうを意い味みする。",
+            "kr": "보라, 보디발의 산은 갈대아 우르 땅에 있었느니라. 그리고 주께서 엘케나와 그 땅의 신들의 제단을 허시고, 그것들을 온전히 멸하시고 그 제사장을 치시니, 그가 죽었더라. 이에 갈대아와 또한 바로의 궁정에 큰 애곡이 있었나니, 이 바로는 왕족의 혈통에 의한 왕을 의미하느니라."
+          }
+        },
+        {
+          "key": "21",
+          "text": {
+            "fr": "Or, ce roi d’Égypte était un descendant des reins de Cham, et, de par sa naissance, était du même sang que les Cananéens.",
+            "en": "Now this king of Egypt was a descendant from the loins of Ham, and was a partaker of the blood of the Canaanites by birth.",
+            "zh": "而這埃及王是出自含的腰身的後裔，生來有迦南人的血統。",
+            "jp": "さて，このエジプトの王おうは，ハムの腰こしから出でた子し孫そんであり，生うまれはカナン人びとの血けっ統とうを引ひいた者ものであった。",
+            "kr": "이제 이 애굽의 왕은 함의 허리에서 나온 후손으로, 출생으로는 가나안인의 혈통을 이어 받은 자더라."
+          }
+        },
+        {
+          "key": "22",
+          "text": {
+            "fr": "C’est de cette lignée que provenaient tous les Égyptiens, et c’est ainsi que le sang des Cananéens fut conservé dans le pays.",
+            "en": "From this descent sprang all the Egyptians, and thus the blood of the Canaanites was preserved in the land.",
+            "zh": "從這個家系生出所有的埃及人，迦南人的血統就這樣在這土地上保留下來。",
+            "jp": "この家か系けいからすべてのエジプト人じんが出でて，カナン人びとの血ちがその地ちに残のこされたのである。",
+            "kr": "이 혈통에서 모든 애굽인이 나왔고 이같이 하여 가나안인의 혈통이 그 땅에 보전되었더라."
+          }
+        },
+        {
+          "key": "23",
+          "text": {
+            "fr": "Le pays d’Égypte fut découvert en premier lieu par une femme, qui était fille de Cham et fille d’Égyptus, ce qui, en chaldéen, signifie Égypte, ou ce qui est interdit.",
+            "en": "The land of Egypt being first discovered by a woman, who was the daughter of Ham, and the daughter of Egyptus, which in the Chaldean signifies Egypt, which signifies that which is forbidden;",
+            "zh": "埃及地是由一位女子首先發現的，她是含的女兒，也是埃及她斯的女兒，埃及她斯在迦勒底文中的意思是埃及，埃及的意思是被禁止；",
+            "jp": "エジプトの地ちは最さい初しょに一人ひとりの女おんなによって発はっ見けんされた。この女おんなはハムの娘むすめであり，エジプタスの娘むすめであった。エジプタスとは，カルデヤ語ごでエジプトを意い味みし，禁きんじられたものという意い味みである。",
+            "kr": "애굽 땅은 처음에 한 여인이 발견하였으니, 그는 함의 딸이요 애굽투스의 딸이니, 애굽투스는 갈대아어로 애굽을 뜻하며 금지된 것을 의미하느니라."
+          }
+        },
+        {
+          "key": "24",
+          "text": {
+            "fr": "Lorsque cette femme découvrit le pays, il était inondé ; elle y établit ensuite ses fils ; et c’est ainsi que, de Cham, provint cette race qui conserva la malédiction dans le pays.",
+            "en": "When this woman discovered the land it was under water, who afterward settled her sons in it; and thus, from Ham, sprang that race which preserved the curse in the land.",
+            "zh": "這女子發現那土地時，那土地還在水面下，她後來才把兒子們定居在那裡；就這樣，從含生出了在地上保留了詛咒的種族。",
+            "jp": "この女おんながその地ちを発はっ見けんしたとき，それは水みずの下したにあったが，後のちに彼かの女じょはそこに息むす子こたちを定てい住じゅうさせた。このようにして，ハムから，その地ちにのろいをとどめた人じん種しゅが出でたのである。",
+            "kr": "이 여인이 그 땅을 발견하였을 때 그 땅은 물 아래 있었고 후에 그 여인이 자기 아들들을 그 땅에 정착시켰나니, 그리하여 그 땅에 저주를 보전한 저 종족이 함에게서 나왔더라."
+          }
+        },
+        {
+          "key": "25",
+          "text": {
+            "fr": "Or, le premier gouvernement de l’Égypte fut établi par Pharaon, fils aîné d’Égyptus, la fille de Cham, et il le fut à la manière du gouvernement de Cham, qui était patriarcal.",
+            "en": "Now the first government of Egypt was established by Pharaoh, the eldest son of Egyptus, the daughter of Ham, and it was after the manner of the government of Ham, which was patriarchal.",
+            "zh": "而埃及的第一個政權是由含的女兒埃及她斯的長子，法老，建立的，那是按照含的政權的樣式，是族長制的。",
+            "jp": "さて，エジプトの最さい初しょの政せい府ふは，ハムの娘むすめであるエジプタスの長ちょう男なんパロによって設もうけられた。それはハムの政せい府ふに倣ならい，族ぞく長ちょう制せいであった。",
+            "kr": "이제 애굽의 첫 정부는 함의 딸 애굽투스의 맏아들 바로가 세웠으니, 이는 함의 정부의 방식을 따랐으니, 족장제였더라."
+          }
+        },
+        {
+          "key": "26",
+          "text": {
+            "fr": "Pharaon, homme juste, établit son royaume et jugea son peuple sagement et justement pendant toute sa vie, s’appliquant à imiter cet ordre établi par les pères au cours des premières générations, du temps du premier règne patriarcal, le règne d’Adam, et aussi celui de Noé, son père, qui le bénit des bénédictions de la terre et des bénédictions de la sagesse, mais le maudit relativement à la Prêtrise.",
+            "en": "Pharaoh, being a righteous man, established his kingdom and judged his people wisely and justly all his days, seeking earnestly to imitate that order established by the fathers in the first generations, in the days of the first patriarchal reign, even in the reign of Adam, and also of Noah, his father, who blessed him with the blessings of the earth, and with the blessings of wisdom, but cursed him as pertaining to the Priesthood.",
+            "zh": "法老是個義人，一生明智而公正地建設其王國，審判其人民，誠心尋求仿效最初世代的祖先們在第一個族長統治的時代的體制，即亞當統治時代和其祖先挪亞時代建立的體制；挪亞曾以地上之祝福和智慧之祝福來祝福他，但是在有關聖職方面卻詛咒他。",
+            "jp": "パロは義ぎにかなった人ひとであり，王おう国こくを設せつ立りつして，生しょう涯がい賢けん明めいかつ公こう正せいに民たみを治おさめ，最さい初しょの世せ代だい，最さい初しょの族ぞく長ちょう統とう治ちの時じ代だい，すなわちアダムやノアの治ち世せいに先せん祖ぞたちによって設もうけられた制せい度どを模も倣ほうしようと熱ねっ心しんに努つとめた。ノアは彼かれの先せん祖ぞであり，彼かれに地ちの祝しゅく福ふくと知ち恵えの祝しゅく福ふくを授さずけたが，神しん権けんに関かんしては彼かれをのろった。",
+            "kr": "의로운 사람이었던 바로는 자기 왕국을 세우고 그의 온 생애 동안 자기 백성을 지혜롭고 공평하게 다스렸고 처음 여러 세대에, 첫 족장 통치 시대에, 곧 아담과 또한 그 조상 노아가 다스리던 때에 조상들이 확립한 그 반차를 모방하기를 열심히 구하였더라. 그의 조상 노아는 땅의 축복과 지혜의 축복으로 그를 축복하였으나, 신권에 관하여는 그를 저주하였더라."
+          }
+        },
+        {
+          "key": "27",
+          "text": {
+            "fr": "Or, Pharaon, étant de ce lignage qui ne lui donnait pas droit à la Prêtrise, bien que les pharaons s’en réclamassent volontiers de Noé par Cham, c’est ainsi que mon père fut égaré par leur idolâtrie.",
+            "en": "Now, Pharaoh being of that lineage by which he could not have the right of Priesthood, notwithstanding the Pharaohs would fain claim it from Noah, through Ham, therefore my father was led away by their idolatry;",
+            "zh": "而因為法老屬於那不能擁有聖職權利的家系，各法老還是樂於宣稱那權利是從挪亞經含而來，所以我父親被他們的偶像崇拜騙走；",
+            "jp": "さて，パロは神しん権けんの権けん利りを持もつことのできない血けっ統とうの出でであったが，パロたちは，ハムを通とおしてノアからそれを受うけたと自みずから主しゅ張ちょうした。そのために，わたしの父ちちは彼かれらの偶ぐう像ぞう礼れい拝はいに惑まどわされたのである。",
+            "kr": "이제 바로는 신권의 권리를 가질 수 없는 혈통에 속하였으나 그럼에도 불구하고 바로들은 함을 통하여 노아에게서 그것을 받은 것으로 주장하고자 하였으므로 나의 아버지는 그들의 우상 숭배에 이끌려 가셨더라."
+          }
+        },
+        {
+          "key": "28",
+          "text": {
+            "fr": "Mais je m’efforcerai, dans la suite, de tracer la chronologie, en commençant par moi-même et en remontant jusqu’au commencement de la création, car les annales me sont parvenues entre les mains, ces annales que j’ai conservées jusqu’à présent.",
+            "en": "But I shall endeavor, hereafter, to delineate the chronology running back from myself to the beginning of the creation, for the records have come into my hands, which I hold unto this present time.",
+            "zh": "但是今後我竭力敘述從我自己上溯到創造之初的歷代記事，因為那些紀錄已經傳到我手裡，我一直擁有到現在。",
+            "jp": "しかし，わたしはこの後のち，わたし自じ身しんから創そう造ぞうの初はじめまでさかのぼって年ねん代だい記きを書かくようにしよう。数かず々かずの記き録ろくがわたしの手てに入はいり，わたしは現げん在ざいまでそれを所しょ有ゆうしているからである。",
+            "kr": "그러나 나는 이후로는 나 자신으로부터 창조의 시작까지 거슬러 올라가는 연대기를 힘써 기술하리니, 이는 그 기록이 내 수중에 들어왔고 이를 내가 지금까지 가지고 있음이니라."
+          }
+        },
+        {
+          "key": "29",
+          "text": {
+            "fr": "Or, après que le prêtre d’Elkéna eut été frappé à mort, ces choses qui m’avaient été dites au sujet du pays de Chaldée s’accomplirent, qu’il y aurait une famine dans le pays.",
+            "en": "Now, after the priest of Elkenah was smitten that he died, there came a fulfilment of those things which were said unto me concerning the land of Chaldea, that there should be a famine in the land.",
+            "zh": "如今，在厄克拿的祭司被擊斃後，那對我說的那些有關迦勒底土地的事應驗了，就是那土地上要有饑荒。",
+            "jp": "さて，エルケナの祭さい司しが打うたれて死しんだ後のち，その地ちに飢き饉きんがあるであろうとカルデヤの地ちについてわたしに言いわれたことが成じょう就じゅした。",
+            "kr": "이제, 엘케나의 제사장이 치심을 입어 죽은 후에, 갈대아 땅에 관하여 내게 말씀해 주신 바 그 땅에 기근이 있으리라 하신 그 일이 이루어졌더라."
+          }
+        },
+        {
+          "key": "30",
+          "text": {
+            "fr": "Et de fait, la famine régna dans tout le pays de Chaldée, et mon père fut cruellement tourmenté à cause de la famine, et il se repentit de la mauvaise action qu’il avait décidée à mon égard, à savoir m’ôter la vie.",
+            "en": "Accordingly a famine prevailed throughout all the land of Chaldea, and my father was sorely tormented because of the famine, and he repented of the evil which he had determined against me, to take away my life.",
+            "zh": "於是，饑荒遍及迦勒底全地，我父親因饑荒而受盡折磨，他悔改了當初決定對付我、取我性命的惡行。",
+            "jp": "このために，飢き饉きんがカルデヤの全ぜん地ちに広ひろがった。すると，わたしの父ちちはその飢き饉きんのためにひどく苦くるしみ，わたしの命いのちを取とろうとわたしに対たいして企くわだてた悪あく事じを悔くいた。",
+            "kr": "따라서 기근이 갈대아 온 땅에 퍼졌고, 나의 부친은 기근으로 말미암아 심한 괴로움을 당하셨으며, 이에 나를 거스려 결정하였던 악 곧 내 생명을 빼앗으려고 하던 것을 회개하시더라."
+          }
+        },
+        {
+          "key": "31",
+          "text": {
+            "fr": "Mais les annales des pères, des patriarches, concernant le droit à la Prêtrise, le Seigneur, mon Dieu, les conserva entre mes mains ; c’est pourquoi j’ai gardé jusqu’à ce jour la connaissance du commencement de la création et aussi des planètes et des étoiles, telles qu’elles furent révélées aux pères, et je vais m’efforcer d’écrire, au profit de ma postérité qui viendra après moi, quelques-unes de ces choses sur ces annales.",
+            "en": "But the records of the fathers, even the patriarchs, concerning the right of Priesthood, the Lord my God preserved in mine own hands; therefore a knowledge of the beginning of the creation, and also of the planets, and of the stars, as they were made known unto the fathers, have I kept even unto this day, and I shall endeavor to write some of these things upon this record, for the benefit of my posterity that shall come after me.",
+            "zh": "但是主我的神將祖先們，即族長們有關聖職權利的紀錄，保存在我手中；所以曾向祖先們顯示有關創造之初、有關行星和眾星的知識，我一直保存至今，我將竭力在這紀錄上寫一些這方面的事，為了我後代子孫的益處。",
+            "jp": "しかし，神しん権けんの権けん利りに関かんする先せん祖ぞすなわち族ぞく長ちょうたちの記き録ろくを，主しゅなるわたしの神かみは，わたしの手ての中なかに残のこされた。したがって，創そう造ぞうの始はじまりと，もろもろの遊ゆう星せいと，もろもろの星ほしの知ち識しきを，それらが先せん祖ぞに知しらされたとおりに，わたしは今こん日にちまで保ほ持じしてきたのである。そこで，わたしの後のちに来くる子し孫そんの益えきのために，わたしはこれらの事こと柄がらの多おおくをこの記き録ろくに書かくようにしよう。",
+            "kr": "그러나 신권의 권리에 관한 조상 곧 족장들의 기록은 주 나의 하나님께서 내 손 안에 보전하셨으니, 그러므로 창조의 시작과 또한 행성과 별들에 관한 지식은 조상에게 알려진 대로 내가 오늘날까지 보관하여 왔고 또 내 후에 올 나의 후손의 유익을 위하여 이 기록 위에 힘써 어느 정도 기록하려 하노라."
+          }
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "introduction": {
+        "fr": "Abraham quitte Ur pour aller à Canaan — Jéhovah lui apparaît à Charan — Toutes les bénédictions de l’Évangile sont promises à sa postérité, et, par l’intermédiaire de sa postérité, à tous — Il va à Canaan et poursuit son chemin vers l’Égypte.",
+        "en": "Abraham leaves Ur to go to Canaan—Jehovah appears to him at Haran—All gospel blessings are promised to his seed and through his seed to all—He goes to Canaan and on to Egypt.",
+        "zh": "亞伯拉罕離開吾珥前往迦南——耶和華在哈蘭向他顯現——福音的一切祝福都應許給他的子孫，並經由他的子孫給所有的人——他去迦南後，又繼續前往埃及。",
+        "jp": "アブラハム，ウルの地ちを去さってカナンの地ちへ向むかう。エホバ，ハランでアブラハムに御み姿すがたを現あらわされる。すべての福ふく音いんの祝しゅく福ふくがアブラハムの子し孫そんに，またアブラハムの子し孫そんを通とおしてすべての人ひとに約やく束そくされる。アブラハム，カナンへ行いき，続つづいてエジプトに向むかう。",
+        "kr": "아브라함이 우르를 떠나 가나안으로 감—여호와께서 하란에서 그에게 나타나심—모든 복음의 축복이 그의 자손에게 또 그의 자손을 통하여 모두에게 약속됨—그는 가나안으로 갔다가 애굽으로 감."
+      },
+      "verses": [
+        {
+          "key": "1",
+          "text": {
+            "fr": "Or, le Seigneur Dieu rendit la famine terrible dans le pays d’Ur, de telle sorte que Haran, mon frère, mourut ; mais Térach, mon père, vivait toujours dans le pays d’Ur en Chaldée.",
+            "en": "Now the Lord God caused the famine to wax sore in the land of Ur, insomuch that Haran, my brother, died; but Terah, my father, yet lived in the land of Ur, of the Chaldees.",
+            "zh": "這時，主神使饑荒在吾珥地變得更嚴重，我兄弟哈蘭因此死去；但是我父親他拉仍住在迦勒底的吾珥地。",
+            "jp": "さて，主しゅなる神かみがウルの地ちにおいて飢き饉きんをひどくされたので，わたしの兄きょう弟だいハランは死しんだ。しかし，わたしの父ちちテラはなお，カルデヤのウルの地ちに住すんでいた。",
+            "kr": "이제 주 하나님이 우르 땅에 기근을 심하게 하셨으므로 내 형제 하란이 죽었으나 나의 부친 데라는 갈대아인의 우르 땅에 여전히 사셨느니라."
+          }
+        },
+        {
+          "key": "2",
+          "text": {
+            "fr": "Et il arriva que moi, Abraham, je pris pour femme Saraï, et Nachor, mon frère, prit pour femme Milca, qui était fille d’Haran.",
+            "en": "And it came to pass that I, Abraham, took Sarai to wife, and Nahor, my brother, took Milcah to wife, who was the daughter of Haran.",
+            "zh": "事情是這樣的，我亞伯拉罕娶撒萊為妻，我的兄弟拿鶴則娶哈蘭的女兒密迦為妻。",
+            "jp": "そして，わたしアブラハムはサライをめとり，わたしの兄きょう弟だいナホルはミルカをめとった。ミルカはハランの娘むすめであった。",
+            "kr": "그리고 이렇게 되었나니, 나 아브라함은 사래를 아내로 맞이하였고 내 형제 나홀은 하란의 딸 밀가를 아내로 맞이하니라."
+          }
+        },
+        {
+          "key": "3",
+          "text": {
+            "fr": "Or, le Seigneur m’avait dit : Abraham, quitte ton pays, ta parenté et la maison de ton père, va vers le pays que je te montrerai.",
+            "en": "Now the Lord had said unto me: Abraham, get thee out of thy country, and from thy kindred, and from thy father’s house, unto a land that I will show thee.",
+            "zh": "主對我說：亞伯拉罕，你要從你的國家出來，離開你的親戚，離開你父親的家，到我要指示你的土地去。",
+            "jp": "さて，主しゅはわたしに言いわれた。「アブラハム，あなたは国くにを出でて，親しん族ぞくと別わかれ，父ちちの家いえを離はなれ，わたしが示しめす地ちに行いきなさい。」",
+            "kr": "이제 주께서 내게 이르시되, 아브라함아, 네 나라와 네 친척과 네 아버지의 집을 떠나 내가 네게 보여 줄 땅으로 가라 하시니라."
+          }
+        },
+        {
+          "key": "4",
+          "text": {
+            "fr": "C’est pourquoi je quittai le pays d’Ur en Chaldée, pour aller au pays de Canaan, et je pris Lot, le fils de mon frère, sa femme et Saraï, ma femme ; et mon père me suivit également dans le pays que nous appelions Charan.",
+            "en": "Therefore I left the land of Ur, of the Chaldees, to go into the land of Canaan; and I took Lot, my brother’s son, and his wife, and Sarai my wife; and also my father followed after me, unto the land which we denominated Haran.",
+            "zh": "所以我離開了迦勒底的吾珥地，進了迦南地；我帶著我兄弟的兒子羅得、他的妻子，和我的妻子撒萊；還有我父親也跟著我，到我們命名為哈蘭的地方去。",
+            "jp": "そこで，わたしはカルデヤのウルの地ちを去さり，カナンの地ちに向むかった。わたしは兄きょう弟だいの子こロトとその妻つま，およびわたしの妻つまサライを連つれて行いった。わたしの父ちちも，わたしたちがハランと名な付づけた地ちまでわたしについて来きた。",
+            "kr": "그러므로 나는 갈대아인의 우르 땅을 떠나 가나안 땅으로 들어갔더라. 그리고 나는 내 형제의 아들 롯과 그의 아내와 나의 아내 사래를 데리고 갔으며, 또한 나의 부친도 우리가 하란이라 이름한 땅으로 나를 따라오셨더라."
+          }
+        },
+        {
+          "key": "5",
+          "text": {
+            "fr": "La famine s’atténua ; et mon père resta à Charan et y demeura, car il y avait de nombreux troupeaux à Charan ; et mon père retourna à son idolâtrie, c’est pourquoi il se fixa à Charan.",
+            "en": "And the famine abated; and my father tarried in Haran and dwelt there, as there were many flocks in Haran; and my father turned again unto his idolatry, therefore he continued in Haran.",
+            "zh": "饑荒緩和了；我父親就留在哈蘭住下來，因為哈蘭有很多羊群；我父親又轉回去崇拜偶像，所以他繼續留在哈蘭。",
+            "jp": "そして，飢き饉きんが和やわらいだ。すると，父ちちはハランにとどまり，そこに住すんだ。ハランには多おおくの羊ひつじの群むれがあったからである。父ちちは再ふたたび偶ぐう像ぞう礼れい拝はいに戻もどり，そのためにハランにとどまった。",
+            "kr": "그런데 기근이 심하지 않게 되었고 하란에 양 떼가 많으므로 나의 부친은 하란에 머물러 거기 거하셨으며, 나의 부친은 다시 우상 숭배로 돌이키셨으니, 그러므로 그는 하란에 계속 머무셨더라."
+          }
+        },
+        {
+          "key": "6",
+          "text": {
+            "fr": "Mais moi, Abraham, et Lot, le fils de mon frère, nous priâmes le Seigneur, et le Seigneur m’apparut et me dit : Lève-toi, et prends Lot avec toi ; car j’ai résolu de te faire sortir de Charan et de faire de toi un ministre qui portera mon nom dans un pays étranger que je donnerai en possession éternelle à ta postérité après toi, lorsqu’elle écoutera ma voix.",
+            "en": "But I, Abraham, and Lot, my brother’s son, prayed unto the Lord, and the Lord appeared unto me, and said unto me: Arise, and take Lot with thee; for I have purposed to take thee away out of Haran, and to make of thee a minister to bear my name in a strange land which I will give unto thy seed after thee for an everlasting possession, when they hearken to my voice.",
+            "zh": "但是我亞伯拉罕和我兄弟的兒子羅得向主祈禱，主就向我顯現，並對我說：起來，帶著羅得；我打算帶你離開哈蘭，並立你作施助者，在一個陌生的土地承受我的名；當他們聽從我的聲音時，我要把那土地給你以後的子孫作永久的產業。",
+            "jp": "しかし，わたしアブラハムとわたしの兄きょう弟だいの子こロトは，主しゅに祈いのった。すると，主しゅはわたしに現あらわれて言いわれた。「立たって，ロトを伴ともなって行いきなさい。わたしはあなたをハランから連つれ出だし，異い国こくの地ちにおいて，あなたをわたしの名なを負おう仕つかえ人びとにすると定さだめたからである。あなたの後のちの子し孫そんがわたしの声こえに聞きき従したがうときに，わたしはその地ちを彼かれらに永えい遠えんの所しょ有ゆうとして与あたえるであろう。",
+            "kr": "그러나 나 아브라함과 내 형제의 아들 롯은 주께 기도하였고, 이에 주께서 내게 나타나사 내게 이르시되, 일어나 롯을 데리고 가라. 이는 내가 너를 하란에서 데리고 나가 타국 땅에서 내 이름을 받들 성역자가 되게 하기로 뜻을 정하였음이니, 네 뒤를 이을 네 자손이 나의 음성에 귀을 기울이면 나는 그 땅을 그들에게 영원한 소유로 주리라."
+          }
+        },
+        {
+          "key": "7",
+          "text": {
+            "fr": "Car je suis le Seigneur, ton Dieu ; je demeure au ciel ; la terre est mon marchepied ; j’étends la main au-dessus de la mer, et elle obéit à ma voix ; du vent et du feu je fais mon char ; je dis aux montagnes : Partez d’ici, et voici, elles sont enlevées par un tourbillon, en un instant, soudainement.",
+            "en": "For I am the Lord thy God; I dwell in heaven; the earth is my footstool; I stretch my hand over the sea, and it obeys my voice; I cause the wind and the fire to be my chariot; I say to the mountains—Depart hence—and behold, they are taken away by a whirlwind, in an instant, suddenly.",
+            "zh": "我是主你的神；我住在天上；地是我的腳凳；我伸手在海面上，海就服從我的聲音；我使風和火當我的車駕；我對山嶽說——退去吧——看啊，山嶽就突然在一瞬間被旋風帶走。",
+            "jp": "わたしは主しゅなるあなたの神かみである。わたしは天てんに住すみ，地ちはわたしの足あし台だいである。わたしが海うみの上うえに手てを差さし伸のべると，それはわたしの声こえに従したがう。わたしは風かぜと火ひをおこしてわたしの車くるまとする。わたしが山やま々やまに向むかって『ここを去され』と言いえば，見みよ，それらは突とつ如じょ一いっ瞬しゅんにして旋せん風ぷうにより取とり去さられる。",
+            "kr": "대저 나는 주 네 하나님이니라. 나는 하늘에 거하며 땅은 내 발등상이라. 내가 내 손을 바다 위에 펴면 바다가 내 음성에 순종하느니라. 나는 바람과 불을 나의 수레가 되게 하며 내가 산더러 이르기를—여기에서 떠나라—하면, 보라, 홀연히 일순간에 산들은 회오리바람에 취하여 감을 당하느니라."
+          }
+        },
+        {
+          "key": "8",
+          "text": {
+            "fr": "Mon nom est Jéhovah, et je connais la fin dès le commencement ; c’est pourquoi, ma main sera sur toi.",
+            "en": "My name is Jehovah, and I know the end from the beginning; therefore my hand shall be over thee.",
+            "zh": "我的名字是耶和華，我從開始就知道結局；所以我的手必護佑你。",
+            "jp": "わたしの名なはエホバであり，わたしは初はじめから終おわりを知しっている。それゆえ，わたしの手てはあなたのうえにある。",
+            "kr": "내 이름은 여호와니, 나는 시작부터 끝을 아느니라. 그러므로, 내 손이 네 위에 있으리라."
+          }
+        },
+        {
+          "key": "9",
+          "text": {
+            "fr": "Je ferai de toi une grande nation, je te bénirai au-delà de toute mesure, je rendrai ton nom grand parmi toutes les nations, et tu seras une bénédiction pour ta postérité après toi, en ceci qu’elle portera, de ses mains, ce ministère et cette Prêtrise à toutes les nations,",
+            "en": "And I will make of thee a great nation, and I will bless thee above measure, and make thy name great among all nations, and thou shalt be a blessing unto thy seed after thee, that in their hands they shall bear this ministry and Priesthood unto all nations;",
+            "zh": "我必使你成為大國。我必無限量地祝福你，使你的名在萬國中為大；你必成為你之後的子孫的祝福，在他們手中要將這事工和聖職傳給萬國；",
+            "jp": "わたしはあなたを大おおいなる国こく民みんとし，あなたを計はかり知しれないほど祝しゅく福ふくし，あなたの名なをすべての国こく民みんの間あいだで大おおいなるものとしよう。あなたはあなたの後のちの子し孫そんにとって祝しゅく福ふくとなり，彼かれらはすべての国こく民みんにこの務つとめと神しん権けんを携たずさえて行いくであろう。",
+            "kr": "또 내가 너로 큰 나라가 되게 하겠고 내가 네게 한량 없이 복을 주어 네 이름을 모든 나라 가운데서 크게 할 것인즉, 너는 네 뒤를 이을 네 자손에게 복이 되리니, 그들은 그들의 손으로 이 성역과 신권을 지니고 모든 나라에게 전하리라."
+          }
+        },
+        {
+          "key": "10",
+          "text": {
+            "fr": "Et je la bénirai par ton nom, car tous ceux qui recevront cet Évangile seront appelés de ton nom, seront considérés comme ta postérité et se lèveront et te béniront, toi, leur père.",
+            "en": "And I will bless them through thy name; for as many as receive this Gospel shall be called after thy name, and shall be accounted thy seed, and shall rise up and bless thee, as their father;",
+            "zh": "我要因你的名而祝福他們；凡是接受這福音的，都要以你的名來稱呼，都要被算作你的子孫，都將起來讚頌你，他們的父親。",
+            "jp": "わたしはあなたの名なによって彼かれらを祝しゅく福ふくしよう。この福ふく音いんを受うけ入いれるすべての者ものはあなたの名なによって呼よばれ，あなたの子し孫そんと見みなされ，立たち上あがってあなたを父ちちとしてたたえるであろう。",
+            "kr": "또 내가 네 이름을 통하여 그들에게 복을 주리니, 이 복음을 받아들이는 자마다 네 이름으로 불리울 것이요, 네 자손으로 헤아림을 받을 것이요, 그들은 일어나 너를 그들의 조상으로 찬양하리라."
+          }
+        },
+        {
+          "key": "11",
+          "text": {
+            "fr": "Et je bénirai ceux qui te bénissent, et je maudirai ceux qui te maudissent ; et en toi (c’est-à-dire en ta Prêtrise), et en ta postérité (c’est-à-dire ta Prêtrise), car je te fais la promesse que ce droit continuera en toi et en ta postérité après toi (c’est-à-dire la postérité littérale ou postérité selon la chair), toutes les familles de la terre seront bénies des bénédictions de l’Évangile, lesquelles sont les bénédictions du salut, de la vie éternelle.",
+            "en": "And I will bless them that bless thee, and curse them that curse thee; and in thee (that is, in thy Priesthood) and in thy seed (that is, thy Priesthood), for I give unto thee a promise that this right shall continue in thee, and in thy seed after thee (that is to say, the literal seed, or the seed of the body) shall all the families of the earth be blessed, even with the blessings of the Gospel, which are the blessings of salvation, even of life eternal.",
+            "zh": "祝福你的，我必祝福他們；詛咒你的，我必詛咒他們；因你（即因你的聖職）、因你的後裔（即你的聖職），地上所有的家庭都要蒙福，即福音的祝福，那是救恩的祝福，即永生的祝福，因為我給你一個應許，這權利必繼續在你，和在你以後的子孫的身上（那就是說，真正的後裔，或肉身的後裔）。",
+            "jp": "あなたを祝しゅく福ふくする者ものをわたしは祝しゅく福ふくし，あなたをのろう者ものをわたしはのろう。地ちのすべての氏し族ぞくは，あなた（すなわち，あなたの神しん権けん）によって，また，この権けん利りはあなたによって続つづくという約やく束そくをわたしはあなたに与あたえるのであなたの子し孫そん（すなわち，あなたの神しん権けん）によって，またあなたの後のちの子し孫そん（すなわち，文も字じどおりの子し孫そん，肉にく体たいの子し孫そん）によって，救すくいの祝しゅく福ふくすなわち永えい遠えんの命いのちの祝しゅく福ふくである福ふく音いんの祝しゅく福ふくを授さずけられるであろう。」",
+            "kr": "또 나는 너를 축복하는 자를 축복하고 너를 저주하는 자를 저주하리라. 그리고 너로 말미암아 (이는 곧 네 신권으로 말미암는 것이라) 그리고 네 자손으로 말미암아 (이는 곧 네 신권이라,) 이는 이 권리가 너와 네 뒤를 이을 자손 (말하자면, 실제 자손 곧 몸의 자손) 가운데 계속 이어지리라는 약속을 네게 줌이니, 땅의 모든 족속이 복음의 축복으로 복을 받을 것인즉, 구원의 축복 곧 영생의 축복이니라."
+          }
+        },
+        {
+          "key": "12",
+          "text": {
+            "fr": "Et lorsque le Seigneur se fut retiré après m’avoir parlé, et qu’il eut retiré sa face de devant moi, je dis en mon cœur : Ton serviteur t’a cherché avec ferveur ; maintenant je t’ai trouvé ;",
+            "en": "Now, after the Lord had withdrawn from speaking to me, and withdrawn his face from me, I said in my heart: Thy servant has sought thee earnestly; now I have found thee;",
+            "zh": "主結束對我說話，並離開我之後，我在心裡說：您的僕人熱切地尋求您，如今找到您了；",
+            "jp": "さて，主しゅがわたしに語かたるのをやめて，わたしから退しりぞかれた後のち，わたしは心こころの中なかで言いった。「あなたの僕しもべはあなたを熱ねっ心しんに求もとめてきました。そして今いま，わたしはあなたを見みいだしました。",
+            "kr": "이제 주께서 내게 말씀하기를 마치시고, 그 얼굴이 내게서 물러간 후에 내가 내 마음 속으로 이르기를, 당신의 종이 당신을 간절히 구하였더니, 이제 내가 당신을 찾았나이다."
+          }
+        },
+        {
+          "key": "13",
+          "text": {
+            "fr": "tu as envoyé ton ange pour me délivrer des dieux d’Elkéna, et je ferai bien d’écouter ta voix ; que ton serviteur se lève donc et parte en paix.",
+            "en": "Thou didst send thine angel to deliver me from the gods of Elkenah, and I will do well to hearken unto thy voice, therefore let thy servant rise up and depart in peace.",
+            "zh": "您確實派天使從厄克拿的神那裡解救了我，我要好好聽您的聲音，所以，讓您的僕人起來並平安地離開。",
+            "jp": "あなたは天てん使しを遣つかわして，エルケナの神かみ々がみからわたしを救すくい出だしてくださいました。わたしはあなたの御み声こえによく聞きき従したがうようにしますので，あなたの僕しもべを立たち上あがらせて，安やすらかに去さらせてください。」",
+            "kr": "당신께서 실로 당신의 천사를 보내사 엘케나의 신들에게서 나를 건지셨사오니, 내가 당신의 음성을 듣는 것이 잘 행하는 일이 되겠나이다. 그러므로 당신의 종으로 일어나 평안히 떠나게 하소서 하였더라."
+          }
+        },
+        {
+          "key": "14",
+          "text": {
+            "fr": "C’est ainsi que moi, Abraham, je m’en allai comme le Seigneur me l’avait dit, et j’emmenai Lot ; et moi, Abraham, j’étais âgé de soixante-deux ans lorsque je m’en allai de Charan.",
+            "en": "So I, Abraham, departed as the Lord had said unto me, and Lot with me; and I, Abraham, was sixty and two years old when I departed out of Haran.",
+            "zh": "所以我亞伯拉罕，就照主對我說的離開了，而羅得跟我在一起；我亞伯拉罕離開哈蘭時是六十二歲。",
+            "jp": "それで，わたしアブラハムは，主しゅが言いわれたように出でかけた。ロトもわたしと一いっ緒しょに行いった。わたしアブラハムはハランを出でたとき，六十二歳さいであった。",
+            "kr": "그리하여 나 아브라함은 주께서 내게 말씀하신 대로 떠났고, 롯도 함께 갔으니, 나 아브라함이 하란을 떠날 때에 육십이 세였더라."
+          }
+        },
+        {
+          "key": "15",
+          "text": {
+            "fr": "Je pris Saraï, que j’avais prise pour femme lorsque j’étais à Ur, en Chaldée, Lot, le fils de mon frère, tous nos biens que nous avions rassemblés et les âmes que nous avions gagnées à Charan, et nous nous mîmes en route vers le pays de Canaan et, tandis que nous étions en route, nous demeurions dans des tentes.",
+            "en": "And I took Sarai, whom I took to wife when I was in Ur, in Chaldea, and Lot, my brother’s son, and all our substance that we had gathered, and the souls that we had won in Haran, and came forth in the way to the land of Canaan, and dwelt in tents as we came on our way;",
+            "zh": "我帶著我在迦勒底的吾珥時娶的妻子撒萊和我兄弟的兒子羅得，和我們所聚集的一切財產，和我們在哈蘭所獲得的人，來到通往迦南地的路上，我們一路上住在帳篷裡；",
+            "jp": "わたしは，カルデヤのウルにいたときにめとったサライと，わたしの兄きょう弟だいの子こロトと，わたしたちが集あつめたすべての財ざい産さんと，ハランで得えた人ひと々びとを伴ともない，カナンの地ちへ向むかう道みちに出でて，道みちを進すすみながら天てん幕まくに住すんだ。",
+            "kr": "그리고 내가 갈대아 우르에 있을 때 아내로 맞은 사래와 내 형제의 아들 롯과 우리가 모은 우리의 모든 재산과 우리가 하란에서 얻은 사람들을 데리고 가나안 땅에 이르는 길로 나아갔고, 우리가 가는 도중에는 천막에 거하였더라."
+          }
+        },
+        {
+          "key": "16",
+          "text": {
+            "fr": "L’éternité était donc notre abri, notre roc et notre salut, tandis que nous voyagions de Charan, par le chemin de Jerschon, pour aller au pays de Canaan.",
+            "en": "Therefore, eternity was our covering and our rock and our salvation, as we journeyed from Haran by the way of Jershon, to come to the land of Canaan.",
+            "zh": "所以，我們離開哈蘭經過耶森來到迦南地時，永恆是我們的遮蓋、我們的磐石和我們的救恩。",
+            "jp": "したがって，わたしたちがハランからジェルションを通とおってカナンの地ちへ向むかう旅たびをしていたとき，永えい遠えんはわたしたちの覆おおいであり，わたしたちの岩いわであり，わたしたちの救すくいであった。",
+            "kr": "그러므로 우리가 하란을 떠나 가나안 땅에 이르려고 옐손의 길로 여행하는 동안 영원은 우리의 덮개요, 우리의 반석이요, 우리의 구원이더라."
+          }
+        },
+        {
+          "key": "17",
+          "text": {
+            "fr": "Alors, moi, Abraham, je bâtis un autel dans le pays de Jerschon, fis une offrande au Seigneur et priai que la famine fût détournée de la maison de mon père, afin qu’elle ne pérît pas.",
+            "en": "Now I, Abraham, built an altar in the land of Jershon, and made an offering unto the Lord, and prayed that the famine might be turned away from my father’s house, that they might not perish.",
+            "zh": "我亞伯拉罕在耶森地蓋了一座祭壇，向主獻祭，祈求主使饑荒離開我父親的家，使他們不至滅亡。",
+            "jp": "さて，わたしアブラハムは，ジェルションの地ちで祭さい壇だんを築きずき，主しゅにささげ物ものをして，わたしの父ちちの家いえから飢き饉きんが去さって彼かれらが滅ほろびることのないようにと祈いのった。",
+            "kr": "이제 나 아브라함이 옐손 땅에서 제단을 쌓고 주께 제물을 드리고 내 아버지의 집이 멸망하지 않도록 기근이 그들에게서 돌이켜지기를 빌었더라."
+          }
+        },
+        {
+          "key": "18",
+          "text": {
+            "fr": "Puis nous quittâmes Jerschon et traversâmes le pays en direction du lieu appelé Sichem ; il était situé dans les plaines de Moré, et nous étions déjà entrés dans les régions frontières du pays des Cananéens ; et là, dans les plaines de Moré, j’offris un sacrifice et invoquai le Seigneur avec dévotion, parce que nous étions déjà entrés dans le pays de cette nation idolâtre.",
+            "en": "And then we passed from Jershon through the land unto the place of Sechem; it was situated in the plains of Moreh, and we had already come into the borders of the land of the Canaanites, and I offered sacrifice there in the plains of Moreh, and called on the Lord devoutly, because we had already come into the land of this idolatrous nation.",
+            "zh": "然後我們經過耶森，經由那地方到了示劍的地方；示劍位於摩利平原，我們已經來到迦南人的土地邊界上，我就在摩利平原獻上犧牲，虔誠地呼求主，因為我們已經來到這崇拜偶像的國家的土地。",
+            "jp": "その後のち，わたしたちは，ジェルションからその地ちを通とおってシケムの地ちに着ついた。それはモレの平へい野やにあり，わたしたちはすでにカナン人びとの地ちの境さかいに入はいっていた。わたしはモレの平へい野やのそこで犠ぎ牲せいをささげ，心こころから主しゅに呼よび求もとめた。すでにこの偶ぐう像ぞう礼れい拝はいをする民みん族ぞくの地ちに入はいっていたからである。",
+            "kr": "그러고 나서 우리는 옐손을 떠나 그 땅을 통과하여 세겜 지방으로 갔더라. 그 곳은 모레 평지에 위치해 있었고 우리는 이미 가나안인의 땅 경계 안으로 들어왔더라. 이에 나는 거기 모레 평지에서 희생을 드리고 경건하게 주의 이름을 불렀나니, 이는 우리가 이미 이 우상을 숭배하는 나라의 땅에 들어왔음이더라."
+          }
+        },
+        {
+          "key": "19",
+          "text": {
+            "fr": "Et le Seigneur m’apparut en réponse à mes prières, et me dit : C’est à ta postérité que je donnerai ce pays.",
+            "en": "And the Lord appeared unto me in answer to my prayers, and said unto me: Unto thy seed will I give this land.",
+            "zh": "主向我顯現，以答覆我的祈禱，並對我說：我要把這土地給你的子孫。",
+            "jp": "すると，主しゅはわたしの祈いのりにこたえて，わたしに現あらわれ，「わたしはあなたの子し孫そんにこの地ちを与あたえる」と言いわれた。",
+            "kr": "이에 주께서 내 기도에 응답하사 내게 나타나시고 내게 이르시되, 네 자손에게 내가 이 땅을 주리라 하시더라."
+          }
+        },
+        {
+          "key": "20",
+          "text": {
+            "fr": "Et moi, Abraham, je me levai du lieu où j’avais élevé l’autel au Seigneur, et je me rendis de là dans la montagne à l’est de Béthel, et j’y dressai ma tente, Béthel à l’ouest et Aï à l’est ; je bâtis là un autre autel au Seigneur et invoquai de nouveau le nom du Seigneur.",
+            "en": "And I, Abraham, arose from the place of the altar which I had built unto the Lord, and removed from thence unto a mountain on the east of Bethel, and pitched my tent there, Bethel on the west, and Hai on the east; and there I built another altar unto the Lord, and called again upon the name of the Lord.",
+            "zh": "我，亞伯拉罕從我為主蓋的祭壇那裡起來，離開那裡，到伯特利東邊的一座山上，在那裡搭起我的帳篷，伯特利在西邊，艾在東邊；我在那裡為主蓋了另一座祭壇，再呼求主的名。",
+            "jp": "そこで，わたしアブラハムは，主しゅのために築きずいた祭さい壇だんの所ところから立たち上あがり，そこからベテルの東ひがしの山やまに移うつって天てん幕まくを張はった。西にしにはベテル，東ひがしにはアイがあった。そこにわたしは主しゅのために別べつの祭さい壇だんを築きずいて，再ふたたび主しゅの名なを呼よんだ。",
+            "kr": "이에 나 아브라함은 내가 주를 위하여 제단을 쌓은 곳에서 일어나 그 곳을 떠나 벧엘 동편에 있는 산으로 옮겨가서 그 곳에 나의 천막을 쳤으니, 서쪽은 벧엘이요 동쪽은 하이더라. 그리고 그 곳에 내가 주께 또 다른 제단을 쌓고 다시 주의 이름을 불렀더라."
+          }
+        },
+        {
+          "key": "21",
+          "text": {
+            "fr": "Et moi, Abraham, je voyageai, continuant toujours vers le sud ; la famine persistait dans le pays, et moi, Abraham, je résolus de descendre en Égypte pour y séjourner, car la famine devenait très pénible.",
+            "en": "And I, Abraham, journeyed, going on still towards the south; and there was a continuation of a famine in the land; and I, Abraham, concluded to go down into Egypt, to sojourn there, for the famine became very grievous.",
+            "zh": "我，亞伯拉罕繼續往南走；饑荒在那土地上持續著；我亞伯拉罕決定下埃及去，寄居在那裡，因為饑荒變得非常嚴重。",
+            "jp": "そして，わたしアブラハムはなおも進すすんで，南みなみへ旅たびを続つづけた。その地ちには飢き饉きんが続つづいていた。そこで，わたしアブラハムはエジプトに下くだって行いき，そこに滞たい在ざいすることにした。飢き饉きんが非ひ常じょうに激はげしくなったからである。",
+            "kr": "그리고 나 아브라함은 여전히 남쪽을 향하여 계속 나아가며 여행하였고 그 땅에 기근이 계속되었더라. 이에 나 아브라함은 애굽으로 내려가 거기에 머물기로 결론을 내렸나니, 이는 기근이 매우 심하였음이더라."
+          }
+        },
+        {
+          "key": "22",
+          "text": {
+            "fr": "Et il arriva que comme j’étais sur le point d’entrer en Égypte, le Seigneur me dit : Voici, Saraï, ta femme, est très belle à voir ;",
+            "en": "And it came to pass when I was come near to enter into Egypt, the Lord said unto me: Behold, Sarai, thy wife, is a very fair woman to look upon;",
+            "zh": "事情是這樣的，我快要進埃及的時候，主對我說：看啊，你的妻子撒萊是個容貌俊美的婦人；",
+            "jp": "さて，わたしがエジプトに入はいろうとしてそこに近ちかづいたとき，主しゅはわたしに言いわれた。「見みよ，あなたの妻つまサライは，見みるに非ひ常じょうに美うつくしい女おんなである。",
+            "kr": "그리고 이렇게 되었나니, 내가 애굽에 들어가는 곳 가까이에 이르렀을 때에 주께서 내게 이르시되, 보라, 네 아내 사래는 보기에 매우 아리따운 여인이라."
+          }
+        },
+        {
+          "key": "23",
+          "text": {
+            "fr": "c’est pourquoi, il arrivera que lorsque les Égyptiens la verront, ils diront : C’est sa femme, et ils te tueront, mais ils lui laisseront la vie ; veille donc à faire ainsi :",
+            "en": "Therefore it shall come to pass, when the Egyptians shall see her, they will say—She is his wife; and they will kill you, but they will save her alive; therefore see that ye do on this wise:",
+            "zh": "所以事情將是這樣，埃及人看見她時會說：她是他的妻子；他們將殺你，而留她存活；所以你一定要這麼做：",
+            "jp": "それで，エジプト人じんはサライを見みると，『この女おんなはあの男おとこの妻つまだ』と言いってあなたを殺ころし，サライは生いかしておくであろう。それゆえ，あなたは次つぎのように行おこなうようにしなさい。",
+            "kr": "그러므로 이렇게 되리니, 애굽인들이 그를 볼 때에 그들이 말하기를—그는 저의 아내라 하며, 그들은 너를 죽일 것이나 그는 살려 두리라. 그러므로 너희는 삼가 이같이 행하도록 하라."
+          }
+        },
+        {
+          "key": "24",
+          "text": {
+            "fr": "Qu’elle dise aux Égyptiens qu’elle est ta sœur, et ton âme vivra.",
+            "en": "Let her say unto the Egyptians, she is thy sister, and thy soul shall live.",
+            "zh": "讓她對埃及人說，她是你的妹子，這樣你的命就可以存活。",
+            "jp": "サライに，あなたの妹いもうとであるとエジプト人じんに言いわせなさい。そうすれば，あなたの命いのちは助たすかるであろう。」",
+            "kr": "그로 애굽인에게 자기는 네 누이라 말하게 하라. 그리하면 네 영혼이 살리라 하시더라."
+          }
+        },
+        {
+          "key": "25",
+          "text": {
+            "fr": "Et il arriva que moi, Abraham, je dis à Saraï, ma femme, tout ce que le Seigneur m’avait dit : C’est pourquoi, dis-leur, je te prie, que tu es ma sœur, afin que je sois bien traité à cause de toi, et mon âme vivra grâce à toi.",
+            "en": "And it came to pass that I, Abraham, told Sarai, my wife, all that the Lord had said unto me—Therefore say unto them, I pray thee, thou art my sister, that it may be well with me for thy sake, and my soul shall live because of thee.",
+            "zh": "事情是這樣的，我亞伯拉罕將主對我說的一切都告訴我妻子撒萊——所以，我求你對他們說，你是我的妹子，使我因你得平安，我的命也因你存活。",
+            "jp": "そこで，わたしアブラハムは，主しゅがわたしに言いわれたことをすべて妻つまサライに告つげた。「だから，どうかわたしの妹いもうとだと彼かれらに言いってほしい。そうすれば，わたしはあなたのおかげで無ぶ事じであり，わたしの命いのちはあなたによって助たすかるであろう。」",
+            "kr": "이에 이렇게 되었나니, 나 아브라함이 주께서 내게 하신 말씀을 나의 아내 사래에게 모두 말하되—그러므로 청컨대 그들에게 그대는 내 누이라 말하라. 그리하면 내가 그대로 인하여 안전할 것이요, 내 영혼이 그대로 인하여 살리라 하였더라."
+          }
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "introduction": {
+        "fr": "Abraham acquiert, à l’aide de l’urim et du thummim, des connaissances sur le soleil, la lune et les étoiles — Le Seigneur lui révèle la nature éternelle des esprits — Il est instruit de la vie préterrestre, de la préordination, de la création, du choix d’un Rédempteur et du second état de l’homme.",
+        "en": "Abraham learns about the sun, moon, and stars by means of the Urim and Thummim—The Lord reveals to him the eternal nature of spirits—He learns of pre-earth life, foreordination, the Creation, the choosing of a Redeemer, and the second estate of man.",
+        "zh": "亞伯拉罕藉烏陵和土明得知有關日月星辰的事——主向他顯示諸靈永恆的本質——他得知有關前生、預先按立、創造、救贖主的選擇，和人的第二地位。",
+        "jp": "アブラハム，ウリムとトンミムによって太たい陽ようと月つきと星ほしのことを知しる。主しゅはアブラハムに，霊れいの永えい遠えん性せいを明あきらかにされる。アブラハム，前ぜん世せと予よ任にん，創そう造ぞう，贖あがない主ぬしの選えらび，人ひとの第だい二の位くらいのことを知しる。",
+        "kr": "아브라함이 우림과 둠밈을 가지고 해와 달과 별들에 관하여 배움—주께서 그에게 영의 영원성을 계시하심—그는 전세, 예임, 창조, 구속주의 선택 및 사람의 둘째 지체를 배움."
+      },
+      "verses": [
+        {
+          "key": "1",
+          "text": {
+            "fr": "Et moi, Abraham, j’avais l’urim et le thummim que le Seigneur, mon Dieu, m’avait donnés à Ur en Chaldée.",
+            "en": "And I, Abraham, had the Urim and Thummim, which the Lord my God had given unto me, in Ur of the Chaldees;",
+            "zh": "我亞伯拉罕擁有主我的神在迦勒底的吾珥給我的烏陵和土明。",
+            "jp": "わたしアブラハムは，主しゅなるわたしの神かみがカルデヤのウルでわたしに与あたえてくださったウリムとトンミムを持もっていた。",
+            "kr": "그리고 나 아브라함은 갈대아인의 우르에서 주 나의 하나님이 내게 주신 우림과 둠밈을 가지고 있었느니라."
+          }
+        },
+        {
+          "key": "2",
+          "text": {
+            "fr": "Je vis les étoiles, je vis qu’elles étaient très grandes, et que l’une d’elles était tout près du trône de Dieu ; et il y en avait beaucoup de grandes qui en étaient proches.",
+            "en": "And I saw the stars, that they were very great, and that one of them was nearest unto the throne of God; and there were many great ones which were near unto it;",
+            "zh": "我看到很大的眾星，其中一顆最靠近神的寶座；附近有很多大的星球。",
+            "jp": "そこで，わたしが数かず々かずの星ほしを見みると，それらはきわめて大おおいなるもので，その中なかの一つは神かみの御み座ざの最もっとも近ちかくにあった。また，その近ちかくには大おおいなる星ほしが多た数すうあった。",
+            "kr": "그리고 내가 별들을 보니, 그것들이 매우 크며, 그 중 하나는 하나님의 보좌에 가장 가까우며 그것 가까이에 큰 것들이 많이 있더라."
+          }
+        },
+        {
+          "key": "3",
+          "text": {
+            "fr": "Et le Seigneur me dit : Ce sont celles qui gouvernent, et le nom de la grande est Kolob, parce qu’elle est près de moi, car je suis le Seigneur, ton Dieu : j’ai placé celle-là pour gouverner toutes celles qui appartiennent au même ordre que celle sur laquelle tu te tiens.",
+            "en": "And the Lord said unto me: These are the governing ones; and the name of the great one is Kolob, because it is near unto me, for I am the Lord thy God: I have set this one to govern all those which belong to the same order as that upon which thou standest.",
+            "zh": "主對我說：這些都是管理的星球；大的一顆叫作口拉卜，因為它靠近我，我是主你的神：我設置這顆來管理一切與你所站的星球屬於同一體系的星球。",
+            "jp": "主しゅはわたしに言いわれた。「これらは支し配はいする星ほしである。そして，その大おおいなる星ほしはわたしの近ちかくにあるので，その名なをコロブという。わたしは主しゅなるあなたの神かみである。わたしは，あなたが今いま立たっている星ほしと同おなじ系けい統とうに属ぞくするすべての星ほしを治おさめるように，この星ほしを置おいた。」",
+            "kr": "그리고 주께서 내게 이르시되, 이것들은 다스리는 것들이며 그 큰 것의 이름은 콜롭이니, 이는 그것이 내게 가까이 있는 까닭이라. 이는 내가 주 네 하나님이 됨이니라. 내가 이것을 두어 네가 서 있는 것과 같은 등급에 속하는 모든 것을 다스리게 하였느니라."
+          }
+        },
+        {
+          "key": "4",
+          "text": {
+            "fr": "Et le Seigneur me dit, par l’urim et le thummim, que Kolob était à la manière du Seigneur, selon ses temps et ses saisons dans ses révolutions ; qu’une révolution était un jour pour le Seigneur, selon sa manière de compter, alors qu’elle était de mille ans selon le temps désigné pour l’astre sur lequel tu te tiens. C’est là le calcul du temps du Seigneur, selon le calcul de Kolob.",
+            "en": "And the Lord said unto me, by the Urim and Thummim, that Kolob was after the manner of the Lord, according to its times and seasons in the revolutions thereof; that one revolution was a day unto the Lord, after his manner of reckoning, it being one thousand years according to the time appointed unto that whereon thou standest. This is the reckoning of the Lord’s time, according to the reckoning of Kolob.",
+            "zh": "主藉烏陵和土明對我說，口拉卜就其運轉的時間和季節而言，是按照主的方式；按照主計算的方式，運轉一圈，對主而言是一天，就指定給你所站的星球上的時間而言是一千年。這是主的時間的算法，按照口拉卜的算法。",
+            "jp": "主しゅは，ウリムとトンミムによってわたしに言いわれた。「コロブは，その回かい転てんによる時ときと季き節せつについては主しゅの場ば合あいと同おなじであり，その一回かい転てんは主しゅの計けい算さんの方ほう法ほうによれば主しゅの一日にちであって，それはあなたが今いま立たっている星ほしに定さだめられた時ときによれば千年ねんである。これはコロブの計けい算さんによる主しゅの時ときの計けい算さんである。」",
+            "kr": "그리고 주께서 우림과 둠밈으로 내게 이르시되, 콜롭은 그 회전에 있어서 그 시간과 계절에 따르면 주의 방식을 따르나니, 주의 계산 방식에 따르면 주께는 한 회전이 하루가 되느니라. 이는 네가 서 있는 곳에 정해진 시간에 따르면 일천 년이 되느니라. 이것은 콜롭의 계산법에 따른 주의 시간의 계산법이니라."
+          }
+        },
+        {
+          "key": "5",
+          "text": {
+            "fr": "Et le Seigneur me dit : la planète qui est le plus petit luminaire, plus petite que celle qui domine sur le jour, c’est-à-dire celle qui domine sur la nuit, est supérieure ou plus grande que celle sur laquelle tu te tiens, au point de vue calcul, car elle se meut dans un ordre plus lent ; cela est dans l’ordre, parce qu’elle se trouve au-dessus de la terre sur laquelle tu te tiens, c’est pourquoi le calcul de son temps n’est pas aussi élevé quant à son nombre de jours, de mois et d’années.",
+            "en": "And the Lord said unto me: The planet which is the lesser light, lesser than that which is to rule the day, even the night, is above or greater than that upon which thou standest in point of reckoning, for it moveth in order more slow; this is in order because it standeth above the earth upon which thou standest, therefore the reckoning of its time is not so many as to its number of days, and of months, and of years.",
+            "zh": "主對我說：這較小光體，即管理黑夜的行星，比管理白晝的行星小，在時間的計算方面，比你所站的行星高或大，因為它在較慢的體系中運行；這是有秩序的，因為它位於你所站的地球的上方，所以它時間的計算，就其天數、月數和年數而言，沒有那麼多。",
+            "jp": "主しゅはわたしに言いわれた。「小ちいさい光ひかりである遊ゆう星せい，すなわち夜よるをつかさどる遊ゆう星せいは，昼ひるをつかさどるものよりも小ちいさいが，計けい算さんの点てんでは，あなたが今いま立たっているものよりも上じょう位いにある，すなわちもっと大おおいなるものである。それはもっとゆっくり整せい然ぜんと運うん行こうしているからである。これが秩ちつ序じょにかなっているのは，それがあなたの立たっている地ちよりも上じょう位いにあるからである。それゆえ，その時ときの計けい算さんは，その日ひと月つきと年としの数かずに関かんしてはそれほど多おおくはない。」",
+            "kr": "또 주께서 내게 이르시되, 낮을 주관하게 되어 있는 것보다 더 작은, 곧 밤을 주관하는 작은 광명체인 그 행성은, 시간 계산의 면에서는 네가 서 있는 곳보다 더 높거나 더 크도다. 이는 그것이 등급 내에서 느리게 운행함이니, 이것에 질서가 있음은 그것이 네가 서 있는 지구보다 높이 있는 까닭이라. 그러므로 그 시간의 계산은 그 날과 달과 해의 수에 있어서는 그만큼 많지 아니하느니라."
+          }
+        },
+        {
+          "key": "6",
+          "text": {
+            "fr": "Et le Seigneur me dit : Or, Abraham, ces deux faits existent ; voici, tes yeux le voient ; il t’est donné de connaître les temps qui servent à calculer, et le temps fixé, oui, le temps fixé de la terre sur laquelle tu te tiens, le temps fixé du plus grand luminaire qui est placé pour présider au jour, et le temps fixé du plus petit luminaire qui est placé pour présider à la nuit.",
+            "en": "And the Lord said unto me: Now, Abraham, these two facts exist, behold thine eyes see it; it is given unto thee to know the times of reckoning, and the set time, yea, the set time of the earth upon which thou standest, and the set time of the greater light which is set to rule the day, and the set time of the lesser light which is set to rule the night.",
+            "zh": "主對我說：現在，亞伯拉罕，這兩個事實存在，看啊，你親眼看見了；那是給你的，好讓你知道計算的時間和設定的時間，是的，你所站的地球的設定時間和設置來管理白晝的較大光體的設定時間以及設置來管理黑夜的較小光體的設定時間。",
+            "jp": "主しゅはわたしに言いわれた。「さて，アブラハム，これら二つの事じ実じつがある。見みよ，あなたはそれを見みている。あなたには，計けい算さんの時ときと定さだめられた時とき，すなわち，あなたが立たっている地ちの定さだめられた時ときと，昼ひるをつかさどるために置おかれている大おおきい光ひかりの定さだめられた時ときと，夜よるをつかさどるために置おかれている小ちいさい光ひかりの定さだめられた時ときを知しることが許ゆるされている。",
+            "kr": "또 주께서 내게 이르시되, 자, 아브라함아, 이 두 가지 사실이 존재하나니, 보라, 네 눈이 그것을 보느니라. 계산의 시간과 정해진 시간 그러하도다. 네가 서 있는 지구의 정해진 시간과 낮을 주관하도록 두신 큰 광명체의 정해진 시간과 밤을 주관하도록 두신 작은 광명체의 정해진 시간을 아는 것이 네게 허락되었느니라."
+          }
+        },
+        {
+          "key": "7",
+          "text": {
+            "fr": "Or donc, le temps fixé du plus petit luminaire est un temps plus long, quant à son calcul, que le calcul du temps de la terre sur laquelle tu te tiens.",
+            "en": "Now the set time of the lesser light is a longer time as to its reckoning than the reckoning of the time of the earth upon which thou standest.",
+            "zh": "較小光體的設定時間，就其計算而言，比你所站的地球的時間的計算要長。",
+            "jp": "さて，小ちいさい光ひかりの定さだめられた時ときは，その時ときの計けい算さんに関かんしては，あなたが立たっている地ちの時ときの計けい算さんよりも長ながい。",
+            "kr": "이제 작은 광명체의 정해진 시간은 그 계산에 있어서는 네가 서 있는 지구의 시간의 계산보다 더 긴 시간이니라."
+          }
+        },
+        {
+          "key": "8",
+          "text": {
+            "fr": "Et là où ces deux faits existent, il y aura un autre fait au-dessus d’eux, c’est-à-dire qu’il y aura une autre planète dont le calcul du temps sera plus long encore ;",
+            "en": "And where these two facts exist, there shall be another fact above them, that is, there shall be another planet whose reckoning of time shall be longer still;",
+            "zh": "只要這兩個事實存在，就一定有另一個事實在它們上方，也就是說，一定有另一個行星的時間的計算更長；",
+            "jp": "これら二つの事じ実じつがある所ところでは，これらの上うえにまた別べつの事じ実じつがある。すなわち，時ときの計けい算さんがさらに長ながい別べつの遊ゆう星せいがあるということである。",
+            "kr": "그리고 이 두 가지 사실이 존재하는 곳에는 이 둘 위에 다른 또 한 가지 사실이 있나니, 이는 곧 시간의 계산이 보다 더 긴 다른 행성이 있으리라 함이니라."
+          }
+        },
+        {
+          "key": "9",
+          "text": {
+            "fr": "et ainsi, il y aura toujours une planète dont le calcul du temps sera supérieur à l’autre, jusqu’à ce que tu t’approches de Kolob, Kolob qui est selon le calcul du temps du Seigneur ; Kolob, qui est placée près du trône de Dieu pour gouverner toutes ces planètes qui appartiennent au même ordre que celle sur laquelle tu te tiens.",
+            "en": "And thus there shall be the reckoning of the time of one planet above another, until thou come nigh unto Kolob, which Kolob is after the reckoning of the Lord’s time; which Kolob is set nigh unto the throne of God, to govern all those planets which belong to the same order as that upon which thou standest.",
+            "zh": "這樣一定有一個行星的時間的計算，在另一個之上，直到你接近口拉卜，那口拉卜是按主的時間的計算；那口拉卜被設置在神的寶座附近，管理一切與你所站的行星屬於同一體系的行星。",
+            "jp": "このように，ある遊ゆう星せいの時ときの計けい算さんは別べつの遊ゆう星せいのそれよりも上じょう位いにあり，ついにあなたはコロブに近ちかづく。このコロブは主しゅの時ときの計けい算さんに等ひとしい。このコロブは神かみの御み座ざの近ちかくに置おかれ，あなたが立たっている遊ゆう星せいと同おなじ系けい統とうに属ぞくするすべての遊ゆう星せいを支し配はいする。",
+            "kr": "그리고 이같이 한 행성의 시간의 계산은 다른 것보다 상위에 있어 네가 콜롭 가까이에 이르기까지 그러하리니, 이 콜롭은 주의 시간의 계산을 따르느니라. 이 콜롭은 네가 서 있는 곳과 같은 등급에 속하는 모든 행성을 주관하도록 하나님의 보좌 가까이에 놓여 있느니라."
+          }
+        },
+        {
+          "key": "10",
+          "text": {
+            "fr": "Et il t’est donné de connaître le temps fixé de toutes les étoiles qui sont placées pour éclairer, jusqu’à ce que tu t’approches du trône de Dieu.",
+            "en": "And it is given unto thee to know the set time of all the stars that are set to give light, until thou come near unto the throne of God.",
+            "zh": "那是給你的，好讓你知道一切被設置來發光的眾星的設定時間，直到你接近神的寶座。",
+            "jp": "あなたには，神かみの御み座ざに近ちかづくまで，光ひかりを与あたえるために置おかれているすべての星ほしの定さだめられた時ときを知しることが許ゆるされている。」",
+            "kr": "그리고 네가 하나님의 보좌 가까이에 이르기까지, 빛을 발하도록 놓아 두신 모든 별의 정해진 시간을 아는 것이 네게 허락되었느니라."
+          }
+        },
+        {
+          "key": "11",
+          "text": {
+            "fr": "C’est ainsi que moi, Abraham, je parlai avec le Seigneur, face à face, comme un homme parle avec un autre ; et il me parla des œuvres que ses mains avaient faites.",
+            "en": "Thus I, Abraham, talked with the Lord, face to face, as one man talketh with another; and he told me of the works which his hands had made;",
+            "zh": "我亞伯拉罕就這樣面對面地與主交談，就像人彼此交談一樣；祂告訴我有關祂的手所做的工；",
+            "jp": "このように，わたしアブラハムは，人ひとが互たがいに語かたり合あうように顔かおと顔かおを合あわせて主しゅと語かたった。そして，主しゅはその手てで造つくられたものについてわたしに告つげられた。",
+            "kr": "이같이 나 아브라함은 사람이 얼굴을 마주하여 서로 대화하듯 주와 말씀하였고, 그는 그의 손으로 만드신 것들에 대하여 내게 말씀하셨더라."
+          }
+        },
+        {
+          "key": "12",
+          "text": {
+            "fr": "Et il me dit : Mon fils, mon fils (et sa main était étendue), voici, je vais te les montrer toutes. Et il mit la main sur mes yeux, et je vis les choses que ses mains avaient faites, qui étaient nombreuses ; et elles se multiplièrent devant mes yeux, et je ne pus en voir la fin.",
+            "en": "And he said unto me: My son, my son (and his hand was stretched out), behold I will show you all these. And he put his hand upon mine eyes, and I saw those things which his hands had made, which were many; and they multiplied before mine eyes, and I could not see the end thereof.",
+            "zh": "祂對我說：我兒，我兒（祂的手伸出），看啊，我要把這一切都給你看。祂把祂的手放在我眼睛上，我看見那些祂的手所做的，那是很多的；它們在我眼前增多，我看不到它們的終止。",
+            "jp": "主しゅはわたしに，「息むす子こよ，息むす子こよ（このように言いって御み手てを伸のばされ），見みよ，わたしはあなたにこれらすべてを示しめそう」と言いわれた。そして，主しゅがその手てをわたしの両りょう目めに当あてられると，主しゅの手てで造つくられたそれらのものがわたしに見みえたが，それらは数かず多おおかった。それらはわたしの目めの前まえで増ふえて，わたしはその終おわりを見みることができなかった。",
+            "kr": "또 그가 내게 이르시되, 내 아들아, 내 아들아 하시며 (그리고 그의 손을 펴시고) 보라, 내가 이 모든 것을 네게 보여 주리라 하시고, 그 손을 내 눈에 대시매, 내가 그 손으로 만드신 것들을 보았나니, 그것들이 많더라. 그리고 그것들이 내 눈 앞에서 불어나서 그 끝을 내가 볼 수 없었더라."
+          }
+        },
+        {
+          "key": "13",
+          "text": {
+            "fr": "Et il me dit : Voici Schinéha, qui est le soleil. Et il me dit : Kokob, qui veut dire étoile. Et il me dit : Oléa, qui est la lune. Et il me dit : Kokabim, qui signifie étoiles, ou tous les grands luminaires qui étaient dans l’étendue du ciel.",
+            "en": "And he said unto me: This is Shinehah, which is the sun. And he said unto me: Kokob, which is star. And he said unto me: Olea, which is the moon. And he said unto me: Kokaubeam, which signifies stars, or all the great lights, which were in the firmament of heaven.",
+            "zh": "祂對我說：這是示尼哈，是太陽。接著祂對我說：口口卜，是星星。接著祂對我說：歐立阿，是月亮。然後祂對我說：口卡並，意思是眾星或天上的穹蒼中一切大的光體。",
+            "jp": "主しゅはわたしに言いわれた。「これはシネハ，すなわち太たい陽ようである。」また，主しゅはわたしに言いわれた。「ココブ，これは星ほしである。」また，主しゅはわたしに言いわれた。「オレア，これは月つきである。」また，主しゅはわたしに言いわれた。「コカーベアム，これはもろもろの星ほし，すなわち天てんの大おお空ぞらにあるすべての大おおきな光ひかりを意い味みする。」",
+            "kr": "또 그가 내게 이르시되, 이는 시네하니 곧 해이니라. 또 내게 이르시되, 코곱, 이는 별이니라. 그리고 그가 내게 이르시되, 올레아, 이는 달이니라. 그리고 그가 내게 이르시되, 코가우빔, 이는 별들 또는 하늘의 궁창에 있는 모든 큰 광명체들을 의미하느니라."
+          }
+        },
+        {
+          "key": "14",
+          "text": {
+            "fr": "Et c’est la nuit que le Seigneur m’adressa ces paroles : Je te multiplierai, toi et ta postérité après toi, comme ceux-là ; si tu peux compter le nombre de grains de sable, ce sera le nombre de tes descendants.",
+            "en": "And it was in the night time when the Lord spake these words unto me: I will multiply thee, and thy seed after thee, like unto these; and if thou canst count the number of sands, so shall be the number of thy seeds.",
+            "zh": "主對我說這些話的時候是在晚上：我必使你和你之後的子孫增多，像這些一樣；如果你數得出沙子的數目，你的後裔就是那個數目。",
+            "jp": "主しゅがこれらの言こと葉ばをわたしに告つげられたのは，夜よるであった。「わたしはこれらのように，あなたとあなたの後のちの子し孫そんを増ふやそう。もしあなたが砂すなの数かずを数かぞえることができるとすれば，あなたの子し孫そんの数かずもそのようであろう。」",
+            "kr": "그리고 주께서 내게 이 말씀을 하실 때는 밤 시간이었나니, 이르시기를, 내가 너와 너를 이을 네 자손을 이것들처럼 번성하게 하리라. 또 만일 네가 모래의 수를 셀 수 있을진대, 네 자손들의 수도 그러하리라 하시더라."
+          }
+        },
+        {
+          "key": "15",
+          "text": {
+            "fr": "Et le Seigneur me dit : Abraham, je te montre ces choses avant que tu n’ailles en Égypte, afin que tu puisses annoncer toutes ces paroles.",
+            "en": "And the Lord said unto me: Abraham, I show these things unto thee before ye go into Egypt, that ye may declare all these words.",
+            "zh": "主對我說：亞伯拉罕，我在你進埃及之前向你顯示這些事情，使你能宣講這一切話。",
+            "jp": "そして，主しゅはわたしに言いわれた。「アブラハム，あなたがエジプトに入はいるに先さき立だって，わたしはあなたにこれらのものを示しめす。それは，あなたがこれらの言こと葉ばをすべて告つげるためである。",
+            "kr": "또 주께서 내게 이르시되, 아브라함아, 너희가 이 모든 말씀을 선포할 수 있도록 나는 너희가 애굽에 들어가기 전에 이것들을 네게 보여 주노라."
+          }
+        },
+        {
+          "key": "16",
+          "text": {
+            "fr": "Si deux choses existent, et que l’une soit au-dessus de l’autre, il y aura des choses plus grandes au-dessus d’elles ; c’est pourquoi Kolob est la plus grande de toutes les Kokabim que tu as vues, parce qu’elle est tout près de moi.",
+            "en": "If two things exist, and there be one above the other, there shall be greater things above them; therefore Kolob is the greatest of all the Kokaubeam that thou hast seen, because it is nearest unto me.",
+            "zh": "如果兩個東西存在，一個在另一個之上，必有更大的東西在它們之上；所以口拉卜是所有你看到的口卡並中最大的一個，因為它最靠近我。",
+            "jp": "もし二つのものがあって，一つが他たよりも上じょう位いにあるとすれば，これらよりもさらに大おおいなるものがある。コロブは，あなたが見みたすべてのコカーベアムの中なかで最もっとも大おおいなるものである。それはわたしの最もっとも近ちかくにあるからである。",
+            "kr": "만일 두 가지 것이 존재하고 하나가 다른 것보다 상위에 있다면 그들보다 더 큰 것들이 있을 것이라. 그러므로 콜롭은 네가 본 모든 코가우빔 중에서 가장 크니, 이는 그것이 내게 가장 가까이 있음이니라."
+          }
+        },
+        {
+          "key": "17",
+          "text": {
+            "fr": "Or, s’il y a deux choses, l’une au-dessus de l’autre, et si la lune est au-dessus de la terre, alors il se peut qu’une planète ou une étoile existe au-dessus d’elle ; et il n’est rien que ton Dieu n’accomplisse, s’il prend à cœur de le faire.",
+            "en": "Now, if there be two things, one above the other, and the moon be above the earth, then it may be that a planet or a star may exist above it; and there is nothing that the Lord thy God shall take in his heart to do but what he will do it.",
+            "zh": "如果有兩個東西，一個在另一個之上，而月亮在地球之上，那麼就會有行星或星球在它之上存在；主你的神除了祂要去做的事以外，不會把別的事放在心中。",
+            "jp": "さて，もし二つのものがあって，一つが他たよりも上じょう位いにあり，月つきが地ちよりも上じょう位いにあるとすれば，それよりも上じょう位いにある遊ゆう星せい，あるいは星ほしもある。主しゅなるあなたの神かみが行おこなおうと心こころにかけたことで，行おこなわないことはない。",
+            "kr": "이제 만일 두 가지 것이 있어 하나가 다른 것보다 상위에 있고 달이 지구보다 상위에 있으면, 그렇다면 한 행성 또는 한 별이 그보다 상위에 존재할 수 있으리니, 주 네 하나님은 행하고자 그 마음에 품은 것을 행하지 않음이 없느니라."
+          }
+        },
+        {
+          "key": "18",
+          "text": {
+            "fr": "Quoi qu’il en soit, il a fait la plus grande étoile. De même aussi, s’il y a deux esprits, et que l’un soit plus intelligent que l’autre, cependant ces deux esprits, malgré que l’un soit plus intelligent que l’autre, n’ont pas de commencement ; ils ont existé avant, ils n’auront pas de fin, ils existeront après, car ils sont ʼolam, ou éternels.",
+            "en": "Howbeit that he made the greater star; as, also, if there be two spirits, and one shall be more intelligent than the other, yet these two spirits, notwithstanding one is more intelligent than the other, have no beginning; they existed before, they shall have no end, they shall exist after, for they are gnolaum, or eternal.",
+            "zh": "然而，祂造了較大的星球；而且，同樣的，如果有兩個靈體，一個一定比另一個有智能，然而這兩個靈體，雖然一個比另一個有智能，但都沒有起始；他們以前就存在，他們不會有終止，他們以後也會存在，他們是諾藍，或永恆的。",
+            "jp": "とはいえ，主しゅはさらに大おおいなる星ほしを造つくった。同おなじように，もし二つの霊れいがいて，一いっ方ぽうが他た方ほうよりも英えい知ちに優すぐれているとしても，一いっ方ぽうが他た方ほうよりも英えい知ちに優すぐれているにもかかわらず，これら二つの霊れいには初はじめがない。彼かれらは以い前ぜんに存そん在ざいしており，彼かれらには終おわりがなく，彼かれらは後のちにも存そん在ざいする。彼かれらはグノーラーム，すなわち永えい遠えんだからである。」",
+            "kr": "그러할지라도 그가 더 큰 별을 만들었도다. 그와 같이 또한 만일 두 영이 있어 하나가 다른 하나보다 더 총명할진대, 이들 두 영은 하나가 다른 것보다 더 총명함에도 불구하고 시작이 없나니, 그들은 이전에 존재하였고 끝이 없을 것이요, 이후에도 존재하리라. 이는 그들이 그노라움 곧 영원함이니라."
+          }
+        },
+        {
+          "key": "19",
+          "text": {
+            "fr": "Et le Seigneur me dit : Ces deux faits existent vraiment, que, de deux esprits, l’un est plus intelligent que l’autre ; il y en aura un autre plus intelligent qu’eux ; je suis le Seigneur, ton Dieu, je suis plus intelligent qu’eux tous.",
+            "en": "And the Lord said unto me: These two facts do exist, that there are two spirits, one being more intelligent than the other; there shall be another more intelligent than they; I am the Lord thy God, I am more intelligent than they all.",
+            "zh": "主對我說：這兩個事實的確存在，有兩個靈，一個比另一個有智能；一定還有另一個比他們都有智能；我是主你的神，我比他們所有的都更有智能。",
+            "jp": "主しゅはわたしに言いわれた。「実じつにこれら二つの事じ実じつがある。すなわち，二つの霊れいがいて，一いっ方ぽうが他た方ほうよりも英えい知ちに優すぐれている。彼かれらよりもさらに英えい知ちの優すぐれた別べつの霊れいがいる。わたしは主しゅなるあなたの神かみであって，わたしは彼かれらすべてよりも英えい知ちが優すぐれている。",
+            "kr": "그리고 주께서 내게 이르시되, 이 두 사실이 존재하나니, 두 영이 있어 하나가 다른 하나보다 더 총명하면, 그들보다 더 총명한 또 다른 영이 있으리라. 나는 주 네 하나님이니, 나는 그들 모두보다 더 총명하니라."
+          }
+        },
+        {
+          "key": "20",
+          "text": {
+            "fr": "Le Seigneur, ton Dieu, t’a envoyé son ange pour te délivrer des mains du prêtre d’Elkéna.",
+            "en": "The Lord thy God sent his angel to deliver thee from the hands of the priest of Elkenah.",
+            "zh": "主你的神派祂的天使從厄克拿的祭司手中解救了你。",
+            "jp": "主しゅなるあなたの神かみは天てん使しを遣つかわして，エルケナの祭さい司しの手てからあなたを救すくい出だした。",
+            "kr": "주 네 하나님은 자기 천사를 보내어 엘케나의 제사장들의 손에서 너를 건져내었느니라."
+          }
+        },
+        {
+          "key": "21",
+          "text": {
+            "fr": "Je demeure au milieu d’eux tous ; c’est pourquoi je suis descendu maintenant vers toi pour t’annoncer les œuvres que mes mains ont faites, en quoi ma sagesse les surpasse tous, car je règne dans les cieux en haut, et sur la terre en bas, en toute sagesse et en toute prudence, sur toutes les intelligences que tes yeux ont vues depuis le commencement ; je descendis, au commencement, au milieu de toutes les intelligences que tu as vues.",
+            "en": "I dwell in the midst of them all; I now, therefore, have come down unto thee to declare unto thee the works which my hands have made, wherein my wisdom excelleth them all, for I rule in the heavens above, and in the earth beneath, in all wisdom and prudence, over all the intelligences thine eyes have seen from the beginning; I came down in the beginning in the midst of all the intelligences thou hast seen.",
+            "zh": "我住在他們所有的中間；所以，我現在下來到你這裡，向你宣布我的手所做的工，在其中我的智慧超越他們所有的，我在一切智慧和審慎中、在天上和地下、統治你的眼睛從太初起所看到的一切智能；我在太初就下來到你看到的一切智能中間。",
+            "jp": "わたしは彼かれらすべての中なかに住すんでいる。そして，わたしの手てで造つくったものをあなたに告つげ知しらせるために，わたしは今いまあなたのもとに降くだって来きたのである。これにおいて，わたしの知ち恵えは彼かれらすべてに勝まさっている。わたしはあらゆる知ち恵えと思し慮りょとをもって，あなたがその目めで初はじめから見みてきたすべての英えい知ちたちを，上うえは天てんで，下したは地ちで治おさめているからである。わたしは初はじめに，あなたの見みたすべての英えい知ちたちの中なかに降くだって来きた。」",
+            "kr": "나는 그들 모두의 가운데 거하나니, 그러므로 내가 이제 나의 손으로 만든 일을 네게 선포하기 위하여 네게로 내려왔느니라. 이 일에 있어서 나의 지혜는 그들 모두보다 뛰어나나니, 이는 내가 모든 지혜와 분별로써 위로는 하늘에서와 아래로는 땅에서 태초부터 네 눈이 보았던 모든 예지를 다스림이라. 나는 태초에 네가 본 모든 예지 가운데 내려왔느니라 하시더라."
+          }
+        },
+        {
+          "key": "22",
+          "text": {
+            "fr": "Or, le Seigneur m’avait montré, à moi, Abraham, les intelligences qui furent organisées avant que le monde fût ; et parmi toutes celles-là, il y en avait beaucoup de nobles et de grandes ;",
+            "en": "Now the Lord had shown unto me, Abraham, the intelligences that were organized before the world was; and among all these there were many of the noble and great ones;",
+            "zh": "主向我亞伯拉罕顯示創世以前就組織好的智能；所有這些當中有很多高貴而偉大的；",
+            "jp": "さて，主しゅはわたしアブラハムに，世せ界かいが存そん在ざいする前まえに組そ織しきされた英えい知ちたちを見みせてくださった。そして，これらすべての中なかには，高こう潔けつで偉い大だいな者ものたちが多おおくいた。",
+            "kr": "이제 주께서 나 아브라함에게 세상이 있기 전에 조직된 예지들을 보여 주셨고, 이들 모두 가운데에는 고귀하고 위대한 자가 많더라."
+          }
+        },
+        {
+          "key": "23",
+          "text": {
+            "fr": "et Dieu vit que ces âmes étaient bonnes, et il se tint au milieu d’elles et dit : De ceux-ci je ferai mes dirigeants. Car il se tint parmi ceux qui étaient esprits et il vit qu’ils étaient bons ; et il me dit : Abraham, tu es l’un d’eux ; tu fus choisi avant ta naissance.",
+            "en": "And God saw these souls that they were good, and he stood in the midst of them, and he said: These I will make my rulers; for he stood among those that were spirits, and he saw that they were good; and he said unto me: Abraham, thou art one of them; thou wast chosen before thou wast born.",
+            "zh": "神看到這些靈魂，他們都是好的，祂站在他們中間說：我要使這些成為我的眾統治者；祂站在那些靈當中，祂看到他們都是好的；祂對我說：亞伯拉罕，你是其中之一；你在出生之前就已被揀選。",
+            "jp": "神かみがこれらの者ものを見みられると，彼かれらは良よかった。そこで，神かみは彼かれらの中なかに立たって言いわれた。「わたしはこれらの者ものを，治おさめる者ものとしよう。」神かみは霊れいであったこれらの者ものの中なかに立たって，見みて，彼かれらを良よしとされたからである。また，神かみはわたしに言いわれた。「アブラハム，あなたはこれらの者ものの一人ひとりである。あなたは生うまれる前まえに選えらばれたのである。」",
+            "kr": "그리고 하나님께서 이 영들을 보신즉, 그들이 좋았더라. 그가 그들 가운데 서 계시더니, 그가 이르시되, 이들을 나는 나의 다스리는 자로 삼으리라 하시더라. 이는 그가 영인 그들 가운데 서 계셨음이라. 그가 보시매, 그들이 좋았더라. 이에 그가 내게 이르시되, 아브라함아, 너는 그들 중 하나니라. 너는 네가 태어나기 전에 택함을 받았느니라."
+          }
+        },
+        {
+          "key": "24",
+          "text": {
+            "fr": "Et il y en avait un parmi eux qui était semblable à Dieu, et il dit à ceux qui étaient avec lui : Nous descendrons, car il y a de l’espace là-bas, nous prendrons de ces matériaux, et nous ferons une terre sur laquelle ceux-là pourront habiter ;",
+            "en": "And there stood one among them that was like unto God, and he said unto those who were with him: We will go down, for there is space there, and we will take of these materials, and we will make an earth whereon these may dwell;",
+            "zh": "他們當中有一位像神的站在那裡，他對那些跟他在一起的說：我們要下去，那裡有空間，我們要拿這些物質，我們要造一個地球讓這些人住在上面；",
+            "jp": "そして，彼かれらの中なかに神かみのような者ものが一人ひとり立たち，ともにいた者ものたちに言いった。「あそこに空くう間かんがあるので，わたしたちは降くだって行いこう。そして，これらの材ざい料りょうを取とって，これらの者ものが住すむ地ちを造つくろう。",
+            "kr": "그리고 하나님과 같으신 이가 한 분 그들 가운데 서 계시더니, 그가 자기와 함께 한 자들에게 이르시되, 우리가 내려가리라. 이는 그 곳에 공간이 있음이니, 우리가 이 물질을 취하여 이들이 거할 땅을 만들리라."
+          }
+        },
+        {
+          "key": "25",
+          "text": {
+            "fr": "nous les mettrons ainsi à l’épreuve, pour voir s’ils feront tout ce que le Seigneur, leur Dieu, leur commandera ;",
+            "en": "And we will prove them herewith, to see if they will do all things whatsoever the Lord their God shall command them;",
+            "zh": "我們要藉此驗證他們，看他們是否願意做主他們的神命令他們的所有事情；",
+            "jp": "そして，わたしたちはこれによって彼かれらを試ためし，何なんであろうと，主しゅなる彼かれらの神かみが命めいじられるすべてのことを彼かれらがなすかどうかを見みよう。",
+            "kr": "그리고 이로써 우리는 그들을 시험하여 주 그들의 하나님이 명하는 것은 무엇이든지 그들이 다 행하는지를 보리라."
+          }
+        },
+        {
+          "key": "26",
+          "text": {
+            "fr": "ceux qui gardent leur premier état recevront davantage ; ceux qui ne gardent pas leur premier état n’auront pas de gloire dans le même royaume que ceux qui gardent leur premier état ; et ceux qui gardent leur second état recevront plus de gloire sur leur tête pour toujours et à jamais.",
+            "en": "And they who keep their first estate shall be added upon; and they who keep not their first estate shall not have glory in the same kingdom with those who keep their first estate; and they who keep their second estate shall have glory added upon their heads for ever and ever.",
+            "zh": "凡守住第一地位的必被加上去；凡沒有守住第一地位的，將不能和那些守住第一地位者在同樣的國度中擁有榮耀；凡守住第二地位的，將有榮耀加在他們頭上，永永遠遠。",
+            "jp": "第だい一の位くらいを守まもる者ものは付つけ加くわえられるであろう。また，第だい一の位くらいを守まもらない者ものは，第だい一の位くらいを守まもる者ものと同おなじ王おう国こくで栄えい光こうを受うけることはない。さらに，第だい二の位くらいを守まもる者ものは，とこしえに栄えい光こうをその頭こうべに付つけ加くわえられるであろう。」",
+            "kr": "그리고 자기의 첫째 지체를 지키는 자들은 더하여질 것이요, 자기의 첫째 지체를 지키지 아니하는 자들은 자기의 첫째 지체를 지키는 자들과 함께 같은 왕국에서 영광을 얻지 못하리라. 그리고 자기의 둘째 지체를 지키는 자들은 그들의 머리 위에 영광이 영원무궁토록 더하여지리라."
+          }
+        },
+        {
+          "key": "27",
+          "text": {
+            "fr": "Le Seigneur dit : Qui enverrai-je ? Un, qui était semblable au Fils de l’Homme, répondit : Me voici, envoie-moi. Et un autre répondit et dit : Me voici, envoie-moi. Le Seigneur dit : J’enverrai le premier.",
+            "en": "And the Lord said: Whom shall I send? And one answered like unto the Son of Man: Here am I, send me. And another answered and said: Here am I, send me. And the Lord said: I will send the first.",
+            "zh": "主說：我要派誰去呢？有個像人子的回答說：我在這裡，派我去。另一個也回答說：我在這裡，派我去。主說：我要派第一個去。",
+            "jp": "また，主しゅは言いわれた。「わたしはだれを遣つかわそうか。」すると，一人ひとりが人ひとの子このように答こたえた。「わたしがここにいます。わたしをお遣つかわしください。」また，別べつの者ものが答こたえて言いった。「わたしがここにいます。わたしをお遣つかわしください。」そこで，主しゅは言いわれた。「わたしは最さい初しょの者ものを遣つかわそう。」",
+            "kr": "그리고 주께서 이르시되, 내가 누구를 보낼꼬 하시니, 인자 같으신 이가 대답하되, 내가 여기 있사오니 나를 보내소서 하고, 다른 하나도 대답하여 가로되, 내가 여기 있사오니 나를 보내소서 하는지라, 주께서 이르시되, 내가 첫째를 보내리라."
+          }
+        },
+        {
+          "key": "28",
+          "text": {
+            "fr": "Et le second fut en colère, et il ne garda pas son premier état ; et ce jour-là, beaucoup le suivirent.",
+            "en": "And the second was angry, and kept not his first estate; and, at that day, many followed after him.",
+            "zh": "於是第二個發怒，並且沒有守住他的第一地位；而且，當天，很多靈跟隨他。",
+            "jp": "すると第だい二の者ものは怒いかり，その第だい一の位くらいを守まもらなかった。そして，その日ひ，多おおくの者ものが彼かれに従したがった。",
+            "kr": "이에 둘째가 성내어 자기의 첫째 지체를 지키지 아니하더라. 그리고 그 날에 많은 자가 그를 따랐더라."
+          }
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "introduction": {
+        "fr": "Les Dieux planifient la création de la terre et de toute la vie qui s’y trouve — Leurs plans pour les six jours de la création.",
+        "en": "The Gods plan the creation of the earth and all life thereon—Their plans for the six days of creation are set forth.",
+        "zh": "眾神計畫地球和其上一切生物的創造——說明祂們六天的創造計畫。",
+        "jp": "神かみ々がみ，地ちとその上うえのすべての生いき物ものの創そう造ぞうを計けい画かくされる。六むい日か間かんの創そう造ぞうのための神かみ々がみの計けい画かくが明あきらかにされる。",
+        "kr": "하나님들께서 땅과 거기에 있는 모든 생명의 창조를 계획하심—창조의 엿새 동안의 계획이 설명됨."
+      },
+      "verses": [
+        {
+          "key": "1",
+          "text": {
+            "fr": "Alors le Seigneur dit : Descendons. Et ils descendirent au commencement, et ils, c’est-à-dire les Dieux, organisèrent et formèrent les cieux et la terre.",
+            "en": "And then the Lord said: Let us go down. And they went down at the beginning, and they, that is the Gods, organized and formed the heavens and the earth.",
+            "zh": "然後主說：我們下去吧。於是在太初時祂們就下去，他們，也就是眾神組織和造了諸天和大地。",
+            "jp": "その後のち，主しゅは，「降くだって行いこう」と言いわれた。そして，彼かれらは最さい初しょに降くだって行いき，彼かれらすなわち神かみ々がみは，天てんと地ちを組そ織しきし，形かたち造づくられた。",
+            "kr": "그러고 나서 주께서 이르시되, 우리가 내려가자 하시고, 태초에 그들이 내려가시니라. 그리고 그들 곧 하나님들께서 하늘들과 이 땅을 조직하며 지으시더라."
+          }
+        },
+        {
+          "key": "2",
+          "text": {
+            "fr": "La terre, après avoir été formée, était vide et désolée, parce qu’ils n’avaient rien formé d’autre que la terre ; les ténèbres régnaient à la surface de l’abîme, et l’Esprit des Dieux se mouvait au-dessus des eaux.",
+            "en": "And the earth, after it was formed, was empty and desolate, because they had not formed anything but the earth; and darkness reigned upon the face of the deep, and the Spirit of the Gods was brooding upon the face of the waters.",
+            "zh": "大地造成之後空曠而荒蕪，因為祂們除了大地之外沒有造別的；黑暗籠罩淵面，眾神的靈覆蓋在水面上。",
+            "jp": "地ちは形かたち造づくられた後のち，むなしく，荒こう涼りょうとしていた。彼かれらが地ちのほかに何なにも形かたち造づくっておられなかったからである。そして，闇やみが深ふかい淵ふちの面おもてを支し配はいし，神かみ々がみの御み霊たまが水みずの面おもてを覆おおっていた。",
+            "kr": "그리고 땅은 형체가 이루어진 후에 공허하고 황량하였으니, 이는 그들이 땅 외에는 아무 것도 짓지 아니하신 까닭이라, 어둠이 깊음의 표면 위를 지배하였고 하나님들의 영은 수면을 조용히 덮고 계시더라."
+          }
+        },
+        {
+          "key": "3",
+          "text": {
+            "fr": "Ils (les Dieux) dirent : Que la lumière soit ! Et la lumière fut.",
+            "en": "And they (the Gods) said: Let there be light; and there was light.",
+            "zh": "祂們（眾神）說：要有光，於是就有了光。",
+            "jp": "彼かれら（神かみ々がみ）は，「光ひかりあれ」と言いわれた。すると，光ひかりがあった。",
+            "kr": "그리고 그들(하나님들)이 이르시되, 빛이 있으라 하시매 빛이 있더라."
+          }
+        },
+        {
+          "key": "4",
+          "text": {
+            "fr": "Ils (les Dieux) perçurent la lumière, car elle était brillante, et ils séparèrent la lumière, ou la firent séparer, d’avec les ténèbres.",
+            "en": "And they (the Gods) comprehended the light, for it was bright; and they divided the light, or caused it to be divided, from the darkness.",
+            "zh": "祂們（眾神）理解那光，因為它是明亮的；祂們分開那光，或使它與黑暗分開。",
+            "jp": "彼かれら（神かみ々がみ）はその光ひかりを知ち覚かくされた。それが輝かがやいていたからである。そして，彼かれらはその光ひかりを闇やみから分わけられた，すなわち光ひかりが分わけられるようにされた。",
+            "kr": "그리고 그들(하나님들)이 빛을 보고 아셨으니, 이는 그것이 밝았음이라. 그들이 빛과 어둠을 나누시고, 또는 빛과 어둠을 나뉘게 하시니라."
+          }
+        },
+        {
+          "key": "5",
+          "text": {
+            "fr": "Les Dieux appelèrent la lumière jour, et ils appelèrent les ténèbres nuit. Et il arriva que du soir au matin, ils appelèrent cela nuit ; et du matin au soir, ils appelèrent cela jour ; et ce fut le premier, ou le commencement, de ce qu’ils appelèrent jour et nuit.",
+            "en": "And the Gods called the light Day, and the darkness they called Night. And it came to pass that from the evening until morning they called night; and from the morning until the evening they called day; and this was the first, or the beginning, of that which they called day and night.",
+            "zh": "眾神稱光為晝，稱黑暗為夜。事情是這樣的，祂們稱從晚上到早晨為夜；祂們稱從早晨到晚上為晝；這是祂們稱晝和夜的第一個時期或開始。",
+            "jp": "神かみ々がみは光ひかりを昼ひると呼よび，闇やみを夜よると呼よばれた。夕ゆうから朝あさまでを夜よると呼よび，朝あさから夕ゆうまでを昼ひると呼よばれた。これが，彼かれらが昼ひる，夜よると呼よばれたものの最さい初しょ，すなわち初はじめであった。",
+            "kr": "그리고 하나님들께서 빛을 낮이라 일컬으시고 어둠을 밤이라 일컬으시니라. 그리고 이렇게 되었나니, 저녁부터 아침까지를 그들이 밤이라 일컬으시고 아침부터 저녁까지를 낮이라 일컬으시니, 이는 그들이 낮과 밤이라 일컬으시는 것의 첫 번째 곧 시작이었더라."
+          }
+        },
+        {
+          "key": "6",
+          "text": {
+            "fr": "Les Dieux dirent aussi : Qu’il y ait une étendue entre les eaux, et elle séparera les eaux d’avec les eaux.",
+            "en": "And the Gods also said: Let there be an expanse in the midst of the waters, and it shall divide the waters from the waters.",
+            "zh": "然後眾神又說：諸水之間要有一片空間，將諸水與諸水分開。",
+            "jp": "神かみ々がみはまた言いわれた。「水みずの間あいだに天てん空くうがあって，水みずと水みずとを分わけよ。」",
+            "kr": "그리고 또한 하나님들께서 이르시되, 물 가운데 창공이 있고, 그것이 물과 물을 나누게 할지어다 하시니라."
+          }
+        },
+        {
+          "key": "7",
+          "text": {
+            "fr": "Les Dieux donnèrent un ordre à l’étendue, de sorte qu’elle sépara les eaux qui étaient au-dessous de l’étendue d’avec les eaux qui étaient au-dessus de l’étendue. Et cela fut ainsi, comme ils l’avaient ordonné.",
+            "en": "And the Gods ordered the expanse, so that it divided the waters which were under the expanse from the waters which were above the expanse; and it was so, even as they ordered.",
+            "zh": "眾神就命令空間，所以它就將空間以下的諸水和空間以上的諸水分開；事就成了，就照祂們命令的。",
+            "jp": "神かみ々がみは，天てん空くうの下したにある水みずと天てん空くうの上うえにある水みずを分わけるように天てん空くうに命めいじられた。すると，彼かれらが命めいじられたようになった。",
+            "kr": "그리고 하나님들께서 창공을 명하시매, 그것이 창공 아래의 물과 창공 위의 물을 나누었으니, 그들이 명하신 대로 그렇게 되니라."
+          }
+        },
+        {
+          "key": "8",
+          "text": {
+            "fr": "Les Dieux appelèrent l’étendue ciel. Et il arriva que du soir au matin, ils appelèrent cela nuit ; et il arriva que du matin au soir, ils appelèrent cela jour ; et ce fut le deuxième temps qu’ils appelèrent nuit et jour.",
+            "en": "And the Gods called the expanse, Heaven. And it came to pass that it was from evening until morning that they called night; and it came to pass that it was from morning until evening that they called day; and this was the second time that they called night and day.",
+            "zh": "眾神稱空間為天。事情是這樣的，祂們稱從晚上到早晨為夜；事情是這樣的，祂們稱從早晨到晚上為晝；這是祂們稱夜和晝的第二個時期。",
+            "jp": "神かみ々がみはその天てん空くうを天てんと呼よばれた。夕ゆうから朝あさまでを夜よると呼よび，朝あさから夕ゆうまでを昼ひると呼よばれた。これが，彼かれらが夜よる，昼ひると呼よばれた第だい二の時ときであった。",
+            "kr": "그리고 하나님들께서 창공을 하늘이라 일컬으시니라. 그리고 이같이 되었나니, 저녁부터 아침까지를 그들이 밤이라 일컬으시고, 또 이렇게 되었나니, 아침부터 저녁까지를 그들이 낮이라 일컬으시니, 이것이 그들이 밤과 낮이라 일컬으신 두 번째 때이더라."
+          }
+        },
+        {
+          "key": "9",
+          "text": {
+            "fr": "Et les Dieux ordonnèrent, disant : Que les eaux qui sont au-dessous du ciel se rassemblent en un seul lieu, et que la terre émerge sèche. Et cela fut ainsi, comme ils l’avaient ordonné.",
+            "en": "And the Gods ordered, saying: Let the waters under the heaven be gathered together unto one place, and let the earth come up dry; and it was so as they ordered;",
+            "zh": "然後眾神命令說：天下的諸水要聚在一處，乾地要露出來；事就照祂們的命令成了；",
+            "jp": "神かみ々がみは命めいじて，「天てんの下したの水みずは一ひとつ所ところに集あつまり，地ちは乾かわいて現あらわれよ」と言いわれた。すると，神かみ々がみが命めいじられたようになった。",
+            "kr": "그리고 하나님들께서 명하여 이르시되, 하늘 아래의 물은 한 곳으로 함께 모이고 땅은 올라와 마르라 하시니, 그들이 명하신 대로 그렇게 되니라."
+          }
+        },
+        {
+          "key": "10",
+          "text": {
+            "fr": "Et les Dieux déclarèrent donner au sec le nom de terre ; et l’amas des eaux, ils déclarèrent lui donner le nom de grandes eaux ; et les Dieux virent qu’ils étaient obéis.",
+            "en": "And the Gods pronounced the dry land, Earth; and the gathering together of the waters, pronounced they, Great Waters; and the Gods saw that they were obeyed.",
+            "zh": "眾神稱乾土為地；祂們稱諸水匯集的地方為大水；眾神看見它們都服從了。",
+            "jp": "神かみ々がみは乾かわいた地ちを陸りくと宣せん言げんし，水みずの集あつまった所ところを大おお海うみと宣せん言げんされた。神かみ々がみはそれらが従したがうのを見みられた。",
+            "kr": "그리고 하나님들께서 마른 육지를 땅이라 선언하시고 물이 함께 모인 곳을 그들이 큰 물이라 선언하시니, 하나님들께서 보신즉, 그것들이 순종하더라."
+          }
+        },
+        {
+          "key": "11",
+          "text": {
+            "fr": "Et les Dieux dirent : Préparons la terre afin qu’elle produise de la verdure, de l’herbe portant de la semence, des arbres fruitiers donnant du fruit selon leur espèce et ayant en eux leur semence qui porte à leur ressemblance sur la terre. Et cela fut ainsi, comme ils l’avaient ordonné.",
+            "en": "And the Gods said: Let us prepare the earth to bring forth grass; the herb yielding seed; the fruit tree yielding fruit, after his kind, whose seed in itself yieldeth its own likeness upon the earth; and it was so, even as they ordered.",
+            "zh": "眾神說：我們要把地準備好，使它長出青草；結種子的草本植物，結果子的果樹，各從其類，而在果子裡的種子，要在地上長出同類的果子來；事就成了，就照祂們命令的。",
+            "jp": "神かみ々がみは言いわれた。「地ちを備そなえて，青あお草くさと，種たねを持もつ草くさと，種しゅ類るいに従したがって自みずからの形かたちを生しょうじる種たねを持もつ実みを結むすぶ果か樹じゅを地ちの上うえに生はえさせよう。」すると，神かみ々がみが命めいじられたようになった。",
+            "kr": "그리고 하나님들께서 이르시되, 땅을 준비시켜 풀과, 씨 맺는 채소와, 그 씨가 그 자체로써 땅 위에 자신과 닮은 것을 내는 열매 맺는 과목을 그 종류대로 내게 하자 하시니, 그들이 명하신 대로 그렇게 되니라."
+          }
+        },
+        {
+          "key": "12",
+          "text": {
+            "fr": "Et les Dieux organisèrent la terre afin qu’elle produisît de la verdure à partir de sa semence, et l’herbe afin qu’elle produisît l’herbe à partir de sa semence, portant des semences selon son espèce ; et la terre afin qu’elle produisît les arbres à partir de leur semence, donnant du fruit, et dont la semence ne pouvait produire que la même chose en eux, selon leur espèce ; et les Dieux virent qu’ils étaient obéis.",
+            "en": "And the Gods organized the earth to bring forth grass from its own seed, and the herb to bring forth herb from its own seed, yielding seed after his kind; and the earth to bring forth the tree from its own seed, yielding fruit, whose seed could only bring forth the same in itself, after his kind; and the Gods saw that they were obeyed.",
+            "zh": "眾神組織了地，使青草從其種子中長出來，使草本植物從其種子中長出草本植物來，並且結種子，各從其類；地上也有樹從樹的種子中長出來，並且結果子，其種子只能長出與自己相同的，各從其類；眾神看見它們都服從了。",
+            "jp": "神かみ々がみは地ちを組そ織しきして，青あお草くさがその種たねから生はえるようにし，また草くさがその種たねから生はえ，種しゅ類るいに従したがって種たねを生しょうじるようにされた。また地ちを組そ織しきして，木きをその種たねから生はえさせ，種しゅ類るいに従したがって同おなじもののみを生しょうじる種たねを持もつ実みを結むすぶようにされた。神かみ々がみはそれらが従したがうのを見みられた。",
+            "kr": "그리고 하나님들께서 땅을 조직하사 풀을 그 씨에서 내게 하시고, 그 종류대로 씨 맺는 채소를 그 씨에서 내게 하시고, 땅으로 하여금 그 씨가 그 자체로써 그 종류대로 같은 것을 낼 수 있을 따름인 열매 맺는 나무를 그 씨에서 내게 하시니, 하나님들께서 보신즉, 그것들이 순종하더라."
+          }
+        },
+        {
+          "key": "13",
+          "text": {
+            "fr": "Et il arriva qu’ils comptèrent les jours ; du soir au matin, ils appelèrent cela nuit ; et il arriva que du matin au soir, ils appelèrent cela jour ; et ce fut le troisième temps.",
+            "en": "And it came to pass that they numbered the days; from the evening until the morning they called night; and it came to pass, from the morning until the evening they called day; and it was the third time.",
+            "zh": "事情是這樣的，祂們計算日子；祂們稱從晚上到早晨為夜；事情是這樣的，祂們稱從早晨到晚上為晝；那是第三個時期。",
+            "jp": "そして，神かみ々がみは日ひを数かぞえられた。夕ゆうから朝あさまでを夜よると呼よび，朝あさから夕ゆうまでを昼ひると呼よばれた。それが第だい三の時ときであった。",
+            "kr": "그리고 이렇게 되었나니, 그들이 날들을 세시며, 저녁부터 아침까지를 그들이 밤이라 일컬으시고, 또 이렇게 되었나니, 아침부터 저녁까지를 그들이 낮이라 일컬으시니 이는 세 번째 때이더라."
+          }
+        },
+        {
+          "key": "14",
+          "text": {
+            "fr": "Et les Dieux organisèrent les luminaires dans l’étendue du ciel, et les firent séparer le jour d’avec la nuit ; et ils les organisèrent pour que ce soient des signes pour marquer les époques, les jours et les années ;",
+            "en": "And the Gods organized the lights in the expanse of the heaven, and caused them to divide the day from the night; and organized them to be for signs and for seasons, and for days and for years;",
+            "zh": "眾神在天空中組織光體，使它們分別晝夜；組織它們作記號，定節令、日子、年歲；",
+            "jp": "神かみ々がみは天てんの大おお空ぞらに光ひかりを組そ織しきして，それらに昼ひると夜よるとを分わけさせ，またそれらを組そ織しきして，しるしのため，季き節せつのため，日ひのため，年としのためとならせ，",
+            "kr": "또 하나님들께서 하늘의 창공에 광명체들을 조직하시고 그것들로 낮과 밤을 나누게 하시고 그것들을 조직하사 징조와 계절과 날과 해를 이루게 하시니라."
+          }
+        },
+        {
+          "key": "15",
+          "text": {
+            "fr": "et ils les organisèrent pour être des luminaires dans l’étendue du ciel pour éclairer la terre. Et cela fut ainsi.",
+            "en": "And organized them to be for lights in the expanse of the heaven to give light upon the earth; and it was so.",
+            "zh": "組織它們成為天空中的光體，發光照在地上；事就成了。",
+            "jp": "またそれらを組そ織しきして，天てんの大おお空ぞらにあって地ちを照てらす光ひかりとならせられた。すると，そのようになった。",
+            "kr": "또 그것들을 조직하사 하늘의 창공에 광명체들이 있게 하시고 땅을 비추게 하시니, 그대로 되니라."
+          }
+        },
+        {
+          "key": "16",
+          "text": {
+            "fr": "Et les Dieux organisèrent les deux grands luminaires, le plus grand luminaire pour présider au jour, et le plus petit luminaire pour présider à la nuit ; avec le plus petit luminaire, ils placèrent aussi les étoiles.",
+            "en": "And the Gods organized the two great lights, the greater light to rule the day, and the lesser light to rule the night; with the lesser light they set the stars also;",
+            "zh": "眾神組織了兩個大光，較大的光體管理白晝，較小的光體管理黑夜；也設置了眾星與較小的光體在一起；",
+            "jp": "神かみ々がみは二つの大おおきな光ひかりを組そ織しきして，大おおきい光ひかりに昼ひるをつかさどらせ，小ちいさい光ひかりに夜よるをつかさどらせられた。また，小ちいさい光ひかりとともにもろもろの星ほしも置おかれた。",
+            "kr": "또 하나님들께서 두 큰 광명체를 조직하시고 큰 광명체로 낮을 주관하게 하시고 작은 광명체로 밤을 주관하게 하시며, 또 작은 광명체와 더불어 그들이 별들도 있게 하시니라."
+          }
+        },
+        {
+          "key": "17",
+          "text": {
+            "fr": "Et les Dieux les placèrent dans l’étendue du ciel pour éclairer la terre, pour présider au jour et à la nuit, et pour séparer la lumière d’avec les ténèbres.",
+            "en": "And the Gods set them in the expanse of the heavens, to give light upon the earth, and to rule over the day and over the night, and to cause to divide the light from the darkness.",
+            "zh": "眾神把它們設置在天空中，照在地上，管理晝夜，使之分別明暗。",
+            "jp": "神かみ々がみはこれらを天てんの大おお空ぞらに置おいて地ちを照てらさせ，昼ひると夜よるとをつかさどらせ，光ひかりと闇やみとを分わけさせられた。",
+            "kr": "그리고 하나님들께서 하늘의 창공에 그것들을 두사 땅을 비추게 하시고 낮과 밤을 주관하게 하시고 빛과 어둠을 나누게 하시니라."
+          }
+        },
+        {
+          "key": "18",
+          "text": {
+            "fr": "Et les Dieux observèrent les choses auxquelles ils avaient donné des ordres jusqu’à ce qu’elles eussent obéi.",
+            "en": "And the Gods watched those things which they had ordered until they obeyed.",
+            "zh": "眾神觀看那些祂們所命令的，直到它們服從了。",
+            "jp": "神かみ々がみは命めいじられたこれらのものが従したがうまで見み守まもられた。",
+            "kr": "그리고 하나님들께서 그 명하신 것들이 순종하기까지 그것들을 지켜보시니라."
+          }
+        },
+        {
+          "key": "19",
+          "text": {
+            "fr": "Et il arriva que du soir jusqu’au matin, ce fut la nuit ; et il arriva que du matin jusqu’au soir, ce fut le jour ; et ce fut le quatrième temps.",
+            "en": "And it came to pass that it was from evening until morning that it was night; and it came to pass that it was from morning until evening that it was day; and it was the fourth time.",
+            "zh": "事情是這樣的，從晚上到早晨是夜，事情是這樣的，從早晨到晚上是晝；那是第四個時期。",
+            "jp": "夕ゆうから朝あさまで夜よるがあり，朝あさから夕ゆうまで昼ひるがあった。それが第だい四の時ときであった。",
+            "kr": "그리고 이렇게 되었나니, 저녁부터 아침까지가 밤이었고, 또 이렇게 되었나니, 아침부터 저녁까지가 낮이었으니, 이는 네 번째 때이더라."
+          }
+        },
+        {
+          "key": "20",
+          "text": {
+            "fr": "Et les Dieux dirent : Préparons les eaux, afin qu’elles produisent en abondance des animaux vivants, et des oiseaux, afin qu’ils volent sur la terre vers l’étendue du ciel.",
+            "en": "And the Gods said: Let us prepare the waters to bring forth abundantly the moving creatures that have life; and the fowl, that they may fly above the earth in the open expanse of heaven.",
+            "zh": "眾神說：我們要把水準備好，使它多多滋生有生命而能行動的活物；也要有鳥飛在地面以上，天空之中。",
+            "jp": "神かみ々がみは言いわれた。「水みずを備そなえて，命いのちを持もつ動うごく生いき物ものを豊ゆたかに生しょうじさせ，また鳥とりが地ちの上うえ，天てんの大おお空ぞらを飛とぶようにさせよう。」",
+            "kr": "그리고 하나님들께서 이르시되, 물을 준비시켜 생명을 가진 움직이는 생물을 풍성히 내게 하고, 새들도 그리하여 하늘의 열린 창공에서 땅 위를 날게 하자 하시고,"
+          }
+        },
+        {
+          "key": "21",
+          "text": {
+            "fr": "Et les Dieux préparèrent les eaux afin qu’elles produisent de grands poissons et tous les animaux vivants qui se meuvent, que les eaux devaient produire en abondance, selon leur espèce ; ils créèrent aussi tous les oiseaux ailés selon leur espèce. Et les Dieux virent qu’ils seraient obéis et que leur plan était bon.",
+            "en": "And the Gods prepared the waters that they might bring forth great whales, and every living creature that moveth, which the waters were to bring forth abundantly after their kind; and every winged fowl after their kind. And the Gods saw that they would be obeyed, and that their plan was good.",
+            "zh": "於是眾神準備了水，使水滋生大鯨魚，和水中多多滋生的各種能行動的活物，各從其類；又有各樣飛鳥各從其類。眾神看見它們都會服從，而且祂們的計畫是好的。",
+            "jp": "神かみ々がみは水みずを備そなえて，海うみの大おおいなる獣けものと，水みずに群むらがるすべての動うごく生いき物ものとをその種しゅ類るいに従したがって生しょうじさせ，また翼つばさのあるすべての鳥とりをその種しゅ類るいに従したがって生しょうじさせられた。そして，神かみ々がみはそれらが従したがうのを見み，またその計けい画かくが良よいのを見みられた。",
+            "kr": "하나님들께서 물을 준비하사 그것으로 물이 그 종류대로 풍성히 내야 할 움직이는 모든 생물과 큰 고래를 내게 하시고, 그리고 날개 가진 모든 새를 그 종류대로 내게 하시니라. 하나님들께서 보신즉, 그것들이 순종하고자 하며 그들의 계획이 좋았더라."
+          }
+        },
+        {
+          "key": "22",
+          "text": {
+            "fr": "Les Dieux dirent : Nous les bénirons, nous ferons en sorte qu’ils soient féconds, multiplient et remplissent les eaux des mers ou grandes eaux, et nous ferons en sorte que les oiseaux multiplient sur la terre.",
+            "en": "And the Gods said: We will bless them, and cause them to be fruitful and multiply, and fill the waters in the seas or great waters; and cause the fowl to multiply in the earth.",
+            "zh": "眾神說：我們要祝福牠們，使牠們生養眾多，充滿海中或大水中的諸水；也使飛鳥在地上繁殖。",
+            "jp": "神かみ々がみは言いわれた。「わたしたちはこれらを祝しゅく福ふくして，生うみ，増ふえ，海うみの水みずすなわち大おお海うみに満みちるようにさせ，また鳥とりも地ちに増ふえさせよう。」",
+            "kr": "그리고 하나님들께서 이르시되, 우리가 그것들에게 복을 주어 그것들로 생육하고 번성하게 하며, 바다 곧 큰 물에 물을 가득 차게 하고 새들은 땅에서 번성하게 하리라 하시더라."
+          }
+        },
+        {
+          "key": "23",
+          "text": {
+            "fr": "Et il arriva que ce fut du soir au matin qu’ils appelèrent nuit ; et il arriva que ce fut du matin au soir qu’ils appelèrent jour, et ce fut le cinquième temps.",
+            "en": "And it came to pass that it was from evening until morning that they called night; and it came to pass that it was from morning until evening that they called day; and it was the fifth time.",
+            "zh": "事情是這樣的，祂們稱從晚上到早晨為夜，事情是這樣的，祂們稱從早晨到晚上為晝；那是第五個時期。",
+            "jp": "そして，夕ゆうから朝あさまでを，神かみ々がみは夜よると呼よばれた。また，朝あさから夕ゆうまでを，昼ひると呼よばれた。それが第だい五の時ときであった。",
+            "kr": "그리고 이렇게 되었나니, 저녁부터 아침까지를 그들이 밤이라 일컬으시고 또 이렇게 되었나니, 아침부터 저녁까지를 그들이 낮이라 일컬으시니, 이는 다섯 번째 때이더라."
+          }
+        },
+        {
+          "key": "24",
+          "text": {
+            "fr": "Et les Dieux préparèrent la terre afin qu’elle produise des animaux vivants selon leur espèce, du bétail, des reptiles et des animaux terrestres, selon leur espèce. Et cela fut ainsi, comme ils l’avaient dit.",
+            "en": "And the Gods prepared the earth to bring forth the living creature after his kind, cattle and creeping things, and beasts of the earth after their kind; and it was so, as they had said.",
+            "zh": "接著眾神把地準備好，使它生出活物來，各從其類；牲畜、爬行動物、地上的野獸，各從其類；事就成了，照祂們說的。",
+            "jp": "神かみ々がみは地ちを備そなえて，生いき物ものをその種しゅ類るいに従したがって生しょうじさせ，家か畜ちくと，這はうものと，地ちの獣けものとをその種しゅ類るいに従したがって生しょうじさせられた。そして，神かみ々がみの言いわれたようになった。",
+            "kr": "그리고 하나님들께서 땅을 준비하사 생물을 그 종류대로, 육축과 기는 것들과 땅의 짐승을 그 종류대로 내게 하시니, 그들이 말씀하신 대로 그렇게 되니라."
+          }
+        },
+        {
+          "key": "25",
+          "text": {
+            "fr": "Et les Dieux organisèrent la terre afin qu’elle produise les animaux selon leur espèce, le bétail selon son espèce, et tous les reptiles de la terre selon leur espèce ; et les Dieux virent qu’ils obéiraient.",
+            "en": "And the Gods organized the earth to bring forth the beasts after their kind, and cattle after their kind, and every thing that creepeth upon the earth after its kind; and the Gods saw they would obey.",
+            "zh": "眾神組織了地，使它生出野獸，各從其類；牲畜，各從其類；地上的一切爬行動物，各從其類；眾神看見牠們都會服從。",
+            "jp": "神かみ々がみは地ちを組そ織しきして，獣けものをその種しゅ類るいに従したがい，家か畜ちくをその種しゅ類るいに従したがい，また地ちを這はうすべてのものをその種しゅ類るいに従したがって生しょうじさせられた。神かみ々がみはそれらが従したがうのを見みられた。",
+            "kr": "그리고 하나님들께서 땅을 조직하사 짐승을 그 종류대로, 육축을 그 종류대로, 땅 위를 기어다니는 모든 것을 그 종류대로 내게 하시니, 하나님들께서 보신즉 그것들이 순종하고자 하더라."
+          }
+        },
+        {
+          "key": "26",
+          "text": {
+            "fr": "Et les Dieux tinrent conseil entre eux et dirent : Descendons et formons l’homme à notre image, selon notre ressemblance ; et nous lui donnerons domination sur les poissons de la mer, sur les oiseaux du ciel, sur le bétail, sur toute la terre, et sur tous les reptiles qui rampent sur la terre.",
+            "en": "And the Gods took counsel among themselves and said: Let us go down and form man in our image, after our likeness; and we will give them dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creepeth upon the earth.",
+            "zh": "然後眾神彼此商議，並且說：我們下去，照著我們的形像、按著我們的樣式造人；我們要讓他們管轄海裡的魚、空中的鳥、地上的牲畜、全地，並爬在地上的一切爬行動物。",
+            "jp": "神かみ々がみは協きょう議ぎして言いわれた。「降くだって行いって，わたしたちの形かたちに，わたしたちにかたどって人ひとを形かたち造づくろう。そして，彼かれらに，海うみの魚うおと，空そらの鳥とりと，家か畜ちくと，地ちのすべてのものと，地ちのすべての這はうものを治おさめさせよう。」",
+            "kr": "그리고 하나님들께서 서로 의논하사 이르시되, 우리가 내려가서 우리의 형상대로 우리의 모양을 따라 사람을 만들자. 그리고 우리는 그들에게 바다의 고기와 공중의 새와 육축과 온 땅과 땅 위를 기는 모든 기어다니는 것들을 다스리게 하리라."
+          }
+        },
+        {
+          "key": "27",
+          "text": {
+            "fr": "Ainsi donc les Dieux descendirent organiser l’homme à leur image, le former à l’image des Dieux, former l’homme et la femme.",
+            "en": "So the Gods went down to organize man in their own image, in the image of the Gods to form they him, male and female to form they them.",
+            "zh": "於是眾神就下去，照著祂們自己的形像組織人，祂們照著眾神的形像造人，祂們造男造女。",
+            "jp": "そこで，神かみ々がみは降くだって行いって，御ご自じ分ぶんの形かたちに人ひとを組そ織しきし，神かみ々がみの形かたちに人ひとを形かたち造づくり，男おとこと女おんなに形かたち造づくられた。",
+            "kr": "그리하여 하나님들께서 내려가 자기들의 형상대로 사람을 조직하시되, 하나님들의 형상대로 그들이 그를 지으시고, 그들을 남자와 여자로 지으시니라."
+          }
+        },
+        {
+          "key": "28",
+          "text": {
+            "fr": "Et les Dieux dirent : Nous les bénirons. Et les Dieux dirent : Nous les rendrons féconds et nous les ferons multiplier, remplir la terre, et l’assujettir ; et dominer sur les poissons de la mer, sur les oiseaux du ciel et sur tout animal qui se meut sur la terre.",
+            "en": "And the Gods said: We will bless them. And the Gods said: We will cause them to be fruitful and multiply, and replenish the earth, and subdue it, and to have dominion over the fish of the sea, and over the fowl of the air, and over every living thing that moveth upon the earth.",
+            "zh": "眾神說：我們要祝福他們。眾神說：我們要使他們生養眾多，遍滿地面，治理這地，也要管轄海裡的魚、空中的鳥，和在地上活動的各樣活物。",
+            "jp": "そして，神かみ々がみは，「彼かれらを祝しゅく福ふくしよう」と言いわれた。また，神かみ々がみは言いわれた。「彼かれらに，生うみ，増ふえ，地ちに満みち，地ちを従したがわせるようにさせよう。また，海うみの魚うおと，空そらの鳥とりと，地ちに動うごくすべての生いき物ものを治おさめさせよう。」",
+            "kr": "그리고 하나님들께서 이르시되, 우리가 그들에게 복을 주리라 하시고, 하나님들께서 이르시되, 우리가 그들로 생육하고 번성하여 땅을 가득 채우게 하고 땅을 정복하고 바다의 고기와 공중의 새와 땅 위에 움직이는 모든 생물을 다스리게 하리라."
+          }
+        },
+        {
+          "key": "29",
+          "text": {
+            "fr": "Et les Dieux dirent : Voici, nous leur donnerons toute herbe portant de la semence et qui viendra sur la surface de toute la terre, et tout arbre qui aura des fruits ; oui, le fruit d’arbre portant de la semence, nous le leur donnerons ; ce sera leur nourriture.",
+            "en": "And the Gods said: Behold, we will give them every herb bearing seed that shall come upon the face of all the earth, and every tree which shall have fruit upon it; yea, the fruit of the tree yielding seed to them we will give it; it shall be for their meat.",
+            "zh": "眾神說：看啊，我們要把那將會在全地面上結種子的一切草本植物，和一切結果子的樹都給他們；是的，我們要把結有種子的那樹的果子給他們；那要給他們作食物。",
+            "jp": "また，神かみ々がみは言いわれた。「見みよ，わたしたちは全ぜん地ちの面おもてに生はえる種たねを持もつすべての草くさと，実みを結むすぶすべての木きを彼かれらに与あたえよう。まことに，種たねを生しょうじる木きの実みを彼かれらに与あたえよう。それは彼かれらの食しょく物もつとなるであろう。",
+            "kr": "또 하나님들께서 이르시되, 보라, 우리가 온 지면에 나게 될 씨 맺는 모든 채소와 열매를 맺을 모든 나무를 그들에게 주리니, 참으로 씨 맺는 나무의 열매를 그들에게 줄 것이요, 그것들이 그들의 먹을거리가 되리라."
+          }
+        },
+        {
+          "key": "30",
+          "text": {
+            "fr": "Et à tout animal de la terre, à tout oiseau du ciel et à tout ce qui se meut sur la terre, voici, nous leur donnerons la vie, et nous leur donnerons aussi toute herbe verte pour nourriture, et toutes ces choses seront organisées ainsi.",
+            "en": "And to every beast of the earth, and to every fowl of the air, and to every thing that creepeth upon the earth, behold, we will give them life, and also we will give to them every green herb for meat, and all these things shall be thus organized.",
+            "zh": "至於地上的一切野獸和空中的一切飛鳥，並一切在地上爬的物，看啊，我們會給牠們生命，也會給牠們一切綠色的草本植物作食物；這一切事都會這樣組織起來。",
+            "jp": "また地ちのすべての獣けもの，空そらのすべての鳥とり，地ちを這はうすべてのものに，まことに，命いのちを与あたえよう。さらに，これらに食しょく物もつとしてすべての青あお草くさを与あたえよう。すべてこれらのものはこのようにして組そ織しきされるであろう。」",
+            "kr": "그리고 땅의 모든 짐승과 공중의 모든 새와 땅 위를 기는 모든 것에게, 보라, 우리가 그들에게 생명을 주고 또한 그들에게 모든 푸른 채소를 먹을거리로 주리니, 이 모든 것들이 이같이 조직되리라."
+          }
+        },
+        {
+          "key": "31",
+          "text": {
+            "fr": "Et les Dieux dirent : Nous ferons toutes ces choses que nous avons dites et nous les organiserons ; et voici, elles seront très obéissantes. Et il arriva que ce fut du soir au matin qu’ils appelèrent nuit ; et il arriva que ce fut du matin au soir qu’ils appelèrent jour ; et ils comptèrent le sixième temps.",
+            "en": "And the Gods said: We will do everything that we have said, and organize them; and behold, they shall be very obedient. And it came to pass that it was from evening until morning they called night; and it came to pass that it was from morning until evening that they called day; and they numbered the sixth time.",
+            "zh": "眾神說：我們會做我們所說的每一件事，組織它們；並且看啊，它們一定非常服從。事情是這樣的，祂們稱從晚上到早晨為夜，事情是這樣的，祂們稱從早晨到晚上為晝；他們算作第六個時期。",
+            "jp": "神かみ々がみは言いわれた。「わたしたちは言いったことをすべて行おこない，これらを組そ織しきしよう。見みよ，これらはよく従したがうであろう。」そして，夕ゆうから朝あさまでを夜よると呼よび，朝あさから夕ゆうまでを昼ひると呼よばれた。神かみ々がみは第だい六の時ときを数かぞえられた。",
+            "kr": "그리고 하나님들께서 이르시되, 우리가 말한 모든 것을 우리가 행하여 그것들을 조직하리니, 보라, 그것들이 매우 잘 순종하리라. 그리고 이렇게 되었나니, 저녁부터 아침까지를 그들이 밤이라 일컬으시고 또 이렇게 되었나니, 아침부터 저녁까지를 그들이 낮이라 일컬으시니, 그들이 여섯 번째 때를 세시더라."
+          }
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "introduction": {
+        "fr": "Les Dieux finissent leur planification de la création de toutes choses — Ils réalisent la création selon leurs plans — Adam donne un nom à tous les êtres vivants.",
+        "en": "The Gods finish Their planning of the creation of all things—They bring to pass the Creation according to Their plans—Adam names every living creature.",
+        "zh": "眾神完成祂們創造萬物的計畫——祂們按照計畫完成創造——亞當為每一種生物命名。",
+        "jp": "神かみ々がみ，万ばん物ぶつの創そう造ぞうの計けい画かくを終おえられる。神かみ々がみ，その計けい画かくに従したがって創そう造ぞうを成なし遂とげられる。アダム，すべての生いき物ものに名なを付つける。",
+        "kr": "하나님들께서 만물의 창조의 계획을 마치심—그들이 자기들의 계획대로 창조를 이루심—아담이 모든 생물의 이름을 지음."
+      },
+      "verses": [
+        {
+          "key": "1",
+          "text": {
+            "fr": "Et ainsi nous achèverons les cieux et la terre, et toutes leurs armées.",
+            "en": "And thus we will finish the heavens and the earth, and all the hosts of them.",
+            "zh": "我們會這樣完成諸天和大地，及其中所有的事物。",
+            "jp": "「このようにわたしたちは天てんと地ちと，その万ばん象しょうを完かん成せいしよう。」",
+            "kr": "그리고 이같이 우리가 하늘들과 이 땅과 그 중의 만물을 완성하리라."
+          }
+        },
+        {
+          "key": "2",
+          "text": {
+            "fr": "Et les Dieux se dirent entre eux : Au septième temps, nous achèverons l’œuvre que nous sommes convenus de faire, et nous nous reposerons, au septième temps, de toute l’œuvre que nous sommes convenus de faire.",
+            "en": "And the Gods said among themselves: On the seventh time we will end our work, which we have counseled; and we will rest on the seventh time from all our work which we have counseled.",
+            "zh": "眾神彼此說：第七個時期我們會結束我們所商議的工作；我們會在第七個時期停止我們所商議的一切工作而休息。",
+            "jp": "神かみ々がみは互たがいに言いわれた。「第だい七の時ときに，わたしたちの協きょう議ぎした業わざを終おえよう。そして，第だい七の時ときに，わたしたちの協きょう議ぎしたすべての業わざを離はなれて休やすもう。」",
+            "kr": "그리고 하나님들께서 서로 이르시되, 일곱 번째 때에 우리가 정한 우리의 일을 끝내리니, 우리가 정한 우리의 모든 일에서 일곱 번째 때에 쉬리라."
+          }
+        },
+        {
+          "key": "3",
+          "text": {
+            "fr": "Et les Dieux finirent, au septième temps, parce qu’au septième temps ils allaient se reposer de toutes leurs œuvres qu’ils (les Dieux) étaient convenus entre eux de former ; et ils le sanctifièrent. Et telles furent leurs décisions à l’époque où ils convinrent entre eux de former les cieux et la terre.",
+            "en": "And the Gods concluded upon the seventh time, because that on the seventh time they would rest from all their works which they (the Gods) counseled among themselves to form; and sanctified it. And thus were their decisions at the time that they counseled among themselves to form the heavens and the earth.",
+            "zh": "於是眾神在第七個時期結束，因為祂們要在第七個時期停止祂們（眾神）彼此商議要造的所有工作之後休息；並聖化之。這就是祂們在彼此商議造諸天和大地時作的決定。",
+            "jp": "神かみ々がみは第だい七の時ときに終おえられた。第だい七の時ときに，神かみ々がみは協きょう議ぎして形かたち造づくったすべての業わざを離はなれて休やすもうとされたからである。そして，それを聖せい別べつされた。神かみ々がみが天てんと地ちを形かたち造づくろうとして協きょう議ぎしたときに決きめられたことは，このとおりであった。",
+            "kr": "그리고 일곱 번째 때에 그들(하나님들)이 짓기로 정한 그들의 모든 일에서 쉬기로 하셨으므로, 하나님들께서 일곱 번째 때에 끝마치시고 이를 성결하게 하셨더라. 그리고 이것이 그들이 하늘들과 땅을 짓기로 서로 정한 때에 내린 결정이었더라."
+          }
+        },
+        {
+          "key": "4",
+          "text": {
+            "fr": "Et les Dieux descendirent et formèrent les origines des cieux et de la terre, quand ils furent formés le jour où les Dieux formèrent la terre et les cieux.",
+            "en": "And the Gods came down and formed these the generations of the heavens and of the earth, when they were formed in the day that the Gods formed the earth and the heavens,",
+            "zh": "眾神下來，造了這些，這就是諸天和大地的來歷，它們在眾神造大地和諸天的日子被造，",
+            "jp": "これが，神かみ々がみが降くだって来きて，これらを形かたち造づくられた天てん地ち創そう造ぞうの由ゆ来らいである。神かみ々がみが地ちと天てんを形かたち造づくられたとき，",
+            "kr": "그리고 하나님들께서 내려오사 이러한 내력으로 하늘들과 땅을 지으셨으니, 하나님들께서 땅과 하늘들을 지으시던 날에 이렇게 지어졌으매,"
+          }
+        },
+        {
+          "key": "5",
+          "text": {
+            "fr": "Selon tout ce qu’ils avaient dit concernant chaque plante des champs avant qu’elle fût sur la terre, et chaque herbe des champs avant qu’elle crût ; car les Dieux n’avaient pas fait pleuvoir sur la terre lorsqu’ils convinrent de les faire, et n’avaient pas encore formé d’homme pour cultiver le sol.",
+            "en": "According to all that which they had said concerning every plant of the field before it was in the earth, and every herb of the field before it grew; for the Gods had not caused it to rain upon the earth when they counseled to do them, and had not formed a man to till the ground.",
+            "zh": "按照祂們所說的一切，有關田野中每一種植物在它們在地上以前，和田野中每一種草本植物在它們生長以前；因為眾神商議要做那些事時，還沒有降雨在地上，也還沒有造人來耕地。",
+            "jp": "すべて神かみ々がみが言いわれたとおりに，野ののすべての植しょく物ぶつについては，地ちにはまだそれが生はえておらず，また野ののすべての草くさも生はえていなかった。神かみ々がみがこれらを行おこなうことを協きょう議ぎされたとき，地ちにまだ雨あめを降ふらせておらず，土つちを耕たがやす人ひとも形かたち造づくっておられなかったからである。",
+            "kr": "들의 모든 초목이 땅에 있기 전에, 또 들의 모든 채소가 자라기 전에 그것들에 관하여 그들이 말씀하셨던 모든 것에 좇아 그리 하신 것이라. 이는 하나님들께서 그 일을 행하기로 정하였을 때 땅에 비를 내리게 하지 아니하셨고 땅을 갈 사람도 짓지 아니하셨음이더라."
+          }
+        },
+        {
+          "key": "6",
+          "text": {
+            "fr": "Mais une vapeur s’éleva de la terre et arrosa toute la surface du sol.",
+            "en": "But there went up a mist from the earth, and watered the whole face of the ground.",
+            "zh": "但有霧氣從地上騰，滋潤遍地。",
+            "jp": "しかし，霧きりが地ちから立たち上のぼって，土つちの全ぜん面めんを潤うるおした。",
+            "kr": "그러나 안개가 땅에서 올라와 온 지면을 적셨더라."
+          }
+        },
+        {
+          "key": "7",
+          "text": {
+            "fr": "Les Dieux formèrent l’homme de la poussière de la terre et ils prirent son esprit (c’est-à-dire l’esprit de l’homme), et le mirent en lui, et soufflèrent dans ses narines un souffle de vie et l’homme devint un être vivant.",
+            "en": "And the Gods formed man from the dust of the ground, and took his spirit (that is, the man’s spirit), and put it into him; and breathed into his nostrils the breath of life, and man became a living soul.",
+            "zh": "眾神用地上的塵土造人，拿他的靈（就是這人的靈）放在他裡面，又將生命氣息吹在他鼻孔裡，他就成了活著的靈魂。",
+            "jp": "神かみ々がみは土つちのちりで人ひとを形かたち造づくり，彼かれの霊れい（すなわち，人ひとの霊れい）を取とってそれを彼かれの中なかに入いれられた。そして，命いのちの息いきをその鼻はなに吹ふき入いれられると，人ひとは生いけるものとなった。",
+            "kr": "그리고 하나님들께서 땅의 흙으로 사람을 지으시고 그의 영(이는)영(이는 곧 그 사람의 영이라)을 취하사 그 사람 안에 넣으시고 생기를 그의 코에 불어넣으시니, 사람이 생령이 되니라."
+          }
+        },
+        {
+          "key": "8",
+          "text": {
+            "fr": "Les Dieux plantèrent un jardin en Éden, du côté de l’orient, et ils y mirent l’homme dont ils avaient mis l’esprit dans le corps qu’ils avaient formé.",
+            "en": "And the Gods planted a garden, eastward in Eden, and there they put the man, whose spirit they had put into the body which they had formed.",
+            "zh": "眾神在東方的伊甸立了一個園子，把那人安置在那裡；祂們已將那人的靈放在祂們造的身體裡。",
+            "jp": "神かみ々がみは，東ひがしの方かた，エデンに一つの園そのを設もうけて，神かみ々がみが先さきに形かたち造づくった体からだの中なかにその霊れいを入いれた人ひとをそこに置おかれた。",
+            "kr": "그리고 하나님들께서 동쪽 에덴에 동산을 창설하시고, 그들이 지으신 몸에 그의 영을 넣은 그 사람을 거기에 두시고,"
+          }
+        },
+        {
+          "key": "9",
+          "text": {
+            "fr": "Et les Dieux firent pousser du sol tous les arbres qui sont agréables à voir et bons à manger, et l’arbre de la vie au milieu du jardin, et l’arbre de la connaissance du bien et du mal.",
+            "en": "And out of the ground made the Gods to grow every tree that is pleasant to the sight and good for food; the tree of life, also, in the midst of the garden, and the tree of knowledge of good and evil.",
+            "zh": "眾神使各樣的樹從地裡長出來，可以悅人的眼目，並且好作食物；園子當中又有生命樹和分別善惡樹。",
+            "jp": "また，神かみ々がみは，見みて美うつくしく，食たべるに良よいすべての木きを土つちから生はえさせ，さらに園そのの中ちゅう央おうに命いのちの木きと善ぜん悪あくを知しる木きを生はえさせられた。",
+            "kr": "하나님들께서 그 땅에서 보기에 아름답고 먹기에 좋은 모든 나무를 자라게 하시니, 동산 가운데에는 생명의 나무와 또한 선악을 알게 하는 나무도 자라게 하셨더라."
+          }
+        },
+        {
+          "key": "10",
+          "text": {
+            "fr": "Il y avait un fleuve qui sortait d’Éden pour arroser le jardin, et de là il se divisait en quatre bras.",
+            "en": "There was a river running out of Eden, to water the garden, and from thence it was parted and became into four heads.",
+            "zh": "有一條河從伊甸流出來，滋潤那園子，從那裡分為四道。",
+            "jp": "エデンから流ながれ出でる一つの川かわがあって園そのを潤うるおし，それはそこから分わかれて四つの川かわとなった。",
+            "kr": "강이 에덴에서 흘러 나와 동산을 적시고 거기서부터 갈라져 네 근원이 되었으며,"
+          }
+        },
+        {
+          "key": "11",
+          "text": {
+            "fr": "Et les Dieux prirent l’homme, et le placèrent dans le jardin d’Éden pour le cultiver et pour le garder.",
+            "en": "And the Gods took the man and put him in the Garden of Eden, to dress it and to keep it.",
+            "zh": "眾神將那人安置在伊甸園，去整理並看守它。",
+            "jp": "神かみ々がみは人ひとを連つれて行いってエデンの園そのに置おき，これを耕たがやさせ，これを守まもらせられた。",
+            "kr": "하나님들께서 그 사람을 데리고 와서 에덴 동산에 두사 그것을 가꾸며 지키게 하시니라."
+          }
+        },
+        {
+          "key": "12",
+          "text": {
+            "fr": "Et les Dieux donnèrent cet ordre à l’homme : Tu peux manger de tous les arbres du jardin ;",
+            "en": "And the Gods commanded the man, saying: Of every tree of the garden thou mayest freely eat,",
+            "zh": "眾神命令那人說：園中各樣樹上的果子，你可以隨意吃，",
+            "jp": "神かみ々がみはその人ひとに命めいじて言いわれた。「あなたは園そののどの木きからでも心こころのままに取とって食たべてよろしい。",
+            "kr": "또 하나님들께서 그 사람에게 명하여 이르시되, 동산의 각종 나무의 열매는 네가 먹어도 좋으나,"
+          }
+        },
+        {
+          "key": "13",
+          "text": {
+            "fr": "mais tu ne mangeras pas de l’arbre de la connaissance du bien et du mal, car dans le temps où tu en mangeras, tu mourras. Or, moi, Abraham, je vis que c’était selon le temps du Seigneur, qui était selon le temps de Kolob, car les Dieux n’avaient pas encore désigné à Adam le calcul de son temps.",
+            "en": "But of the tree of knowledge of good and evil, thou shalt not eat of it; for in the time that thou eatest thereof, thou shalt surely die. Now I, Abraham, saw that it was after the Lord’s time, which was after the time of Kolob; for as yet the Gods had not appointed unto Adam his reckoning.",
+            "zh": "只是分別善惡樹上的果子，你不可吃，因為你吃的那時，你必定死。我亞伯拉罕看見，那是按照主的時間，而那又是按照口拉卜的時間，因為眾神還沒有為亞當指定計算的方式。",
+            "jp": "しかし，善ぜん悪あくを知しる木きからは取とって食たべてはならない。あなたはそれを食たべるときに，必かならず死しぬからである。」さて，わたしアブラハムは，それが主しゅの時とき，すなわちコロブの時ときに基もとづいているのを知しった。神かみ々がみはまだアダムに時ときの計けい算さんを定さだめておられなかったからである。",
+            "kr": "선악을 알게 하는 나무의 열매는 먹지 말라. 네가 그것을 먹는 때에는 반드시 죽으리라 하시니라. 이제 나 아브라함이 보니, 그때는 주의 시간을 따른 것이요, 이는 콜롭의 때를 따른 것이었으니, 이는 아직까지 하나님들께서 아담에게 그의 계산법을 정하여 주지 아니하셨음이더라."
+          }
+        },
+        {
+          "key": "14",
+          "text": {
+            "fr": "Et les Dieux dirent : Faisons une aide semblable à l’homme, car il n’est pas bon que l’homme soit seul, c’est pourquoi nous formerons une aide semblable à lui.",
+            "en": "And the Gods said: Let us make an help meet for the man, for it is not good that the man should be alone, therefore we will form an help meet for him.",
+            "zh": "眾神說：我們要為那人造一個合適的幫手，因為那人獨居不好，所以我們要為他造一個合適的幫手。",
+            "jp": "また，神かみ々がみは言いわれた。「この人ひとのためにふさわしい助たすけ手てを造つくろう。人ひとが独ひとりでいるのは良よくないからである。それゆえ，わたしたちは彼かれのためにふさわしい助たすけ手てを形かたち造づくろう。」",
+            "kr": "또 하나님들께서 이르시되, 그 사람을 위하여 돕는 배필을 짓자. 이는 사람이 홀로 있음이 좋지 아니함이니, 그러므로 그를 위하여 돕는 배필을 지으리라 하시니라."
+          }
+        },
+        {
+          "key": "15",
+          "text": {
+            "fr": "Et les Dieux firent tomber un profond sommeil sur l’homme, qui s’endormit ; ils prirent une de ses côtes, et refermèrent la chair à sa place ;",
+            "en": "And the Gods caused a deep sleep to fall upon Adam; and he slept, and they took one of his ribs, and closed up the flesh in the stead thereof;",
+            "zh": "眾神使亞當沉睡，他就睡了；於是祂們取了他的一條肋骨，又把肉合起來；",
+            "jp": "そこで，神かみ々がみはアダムを深ふかく眠ねむらせられた。そして，彼かれが眠ねむると，神かみ々がみは彼かれのあばら骨ぼねの一つを取とって，その所ところを肉にくでふさがれた。",
+            "kr": "그리고 하나님들께서 아담을 깊이 잠들게 하시니, 그가 잠들매, 그들이 그의 갈빗대 하나를 취하고 살로 대신 채우시고,"
+          }
+        },
+        {
+          "key": "16",
+          "text": {
+            "fr": "les Dieux formèrent une femme de la côte qu’ils avaient prise de l’homme, et ils l’amenèrent vers l’homme.",
+            "en": "And of the rib which the Gods had taken from man, formed they a woman, and brought her unto the man.",
+            "zh": "眾神就用那人身上所取的肋骨，造成一個女人，領她到那人跟前。",
+            "jp": "神かみ々がみは人ひとから取とったあばら骨ぼねで一人ひとりの女おんなを形かたち造づくり，人ひとのところへ連つれて来こられた。",
+            "kr": "하나님들께서 남자에게서 취하신 그 갈빗대로 여자를 지으시고 그를 그 사람에게로 이끌어 오시니,"
+          }
+        },
+        {
+          "key": "17",
+          "text": {
+            "fr": "Et l’homme dit : Celle-ci était os de mes os et chair de ma chair ! on l’appellera femme parce qu’elle a été prise de l’homme ;",
+            "en": "And Adam said: This was bone of my bones, and flesh of my flesh; now she shall be called Woman, because she was taken out of man;",
+            "zh": "亞當說：這是我骨中的骨，肉中的肉，要稱她為女人，因為她是從男人身上取出來的；",
+            "jp": "すると，アダムは言いった。「これこそ，わたしの骨ほねの骨ほね，わたしの肉にくの肉にく。今いまや，男おとこから取とったものだから，これを女おんなと呼よぼう。」",
+            "kr": "아담이 이르되, 이는 내 뼈중의 뼈요 내 살 중의 살이었도다. 그를 남자에게서 취하였은즉, 이제 여자라 부르리라 하니라."
+          }
+        },
+        {
+          "key": "18",
+          "text": {
+            "fr": "c’est pourquoi l’homme quittera son père et sa mère et s’attachera à sa femme, et ils deviendront une seule chair.",
+            "en": "Therefore shall a man leave his father and his mother, and shall cleave unto his wife, and they shall be one flesh.",
+            "zh": "因此，人要離開父母，與妻子連合，二人成為一體。",
+            "jp": "それで，人ひとはその父ちちと母ははを離はなれて，妻つまと結むすび合あい，二人ふたりは一いっ体たいとなるのである。",
+            "kr": "그러므로 남자가 자기 아버지와 자기 어머니를 떠나 그 아내와 합하여 둘이 한 몸을 이룰지로다 하니라."
+          }
+        },
+        {
+          "key": "19",
+          "text": {
+            "fr": "Et l’homme et sa femme étaient tous les deux nus, et ils n’en avaient point honte.",
+            "en": "And they were both naked, the man and his wife, and were not ashamed.",
+            "zh": "當時夫妻二人赤身露體，並不羞恥。",
+            "jp": "人ひととその妻つまは，二人ふたりとも裸はだかであったが，恥はずかしいとは思おもわなかった。",
+            "kr": "남자와 그 아내 두 사람이 벌거벗었으나 부끄러워하지 아니하니라."
+          }
+        },
+        {
+          "key": "20",
+          "text": {
+            "fr": "Et les Dieux formèrent du sol tous les animaux des champs et tous les oiseaux du ciel, et les amenèrent à Adam pour voir comment il les appellerait ; et tout être vivant porterait le nom qu’Adam lui aurait donné.",
+            "en": "And out of the ground the Gods formed every beast of the field, and every fowl of the air, and brought them unto Adam to see what he would call them; and whatsoever Adam called every living creature, that should be the name thereof.",
+            "zh": "眾神用土造成野地各樣走獸，和空中各樣飛鳥，都帶到亞當面前，看他叫牠們什麼；亞當怎樣叫各樣的活物，那就是牠的名字。",
+            "jp": "神々かみがみは野ののすべての獣けものと，空そらのすべての鳥とりを土つちで形かたち造づくり，アダムのところへ連つれて来きて，彼かれがそれらをどう呼よぶかを見みられた。アダムがすべて生いき物ものに与あたえる名なは，その名なとなるのであった。",
+            "kr": "그리고 하나님들께서 흙으로 각종 들짐승과 각종 공중의 새를 지으시고 아담이 무엇이라 부르나 보시려고 그것들을 아담에게로 이끌어 오시니, 아담이 각 생물을 일컫는 바가 곧 그 이름이 되었더라,"
+          }
+        },
+        {
+          "key": "21",
+          "text": {
+            "fr": "Et Adam donna des noms à tout le bétail, aux oiseaux du ciel, à tous les animaux des champs ; et pour Adam, on lui trouva une aide qui lui convînt.",
+            "en": "And Adam gave names to all cattle, to the fowl of the air, to every beast of the field; and for Adam, there was found an help meet for him.",
+            "zh": "亞當便給一切牲畜和空中飛鳥、野地走獸都起了名；而亞當，也為他找了一個合適的幫手。",
+            "jp": "それでアダムは，すべての家か畜ちくと，空そらの鳥とりと，野ののすべての獣けものに名なを付つけた。また，アダムにはふさわしい助たすけ手てが見みつかった。",
+            "kr": "그리고 아담이 모든 육축과 공중의 새와 들의 모든 짐승에게 이름을 주니라. 또 아담을 위하여 그를 돕는 배필이 있더라."
+          }
+        }
+      ]
+    }
+  ]
+}

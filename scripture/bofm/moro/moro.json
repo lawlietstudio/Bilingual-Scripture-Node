@@ -1,0 +1,1775 @@
+{
+  "book": {
+    "fr": "LIVRE DE MORONI",
+    "en": "THE BOOK OF MORONI",
+    "zh": "摩羅乃書",
+    "jp": "モロナイ書しょ",
+    "kr": "모로나이서"
+  },
+  "theme": {
+    "fr": "Chapitre 1",
+    "en": "Chapter 1",
+    "zh": "第1章",
+    "jp": "第1章",
+    "kr": "제 1 장"
+  },
+  "introduction": {
+    "fr": "Moroni écrit pour le profit des Lamanites — Les Néphites qui ne veulent pas nier le Christ sont mis à mort. Vers 401–421 apr. J.-C.",
+    "en": "Moroni writes for the benefit of the Lamanites—The Nephites who will not deny Christ are put to death. About A.D. 401–21.",
+    "zh": "摩羅乃為造福拉曼人而寫——不否認基督的尼腓人都被處死。約主後401年至421年。",
+    "jp": "モロナイ，レーマン人じんのために書かき記しるす。キリストを否ひ定ていしないニーファイ人じんは殺ころされる。紀き元げん約やく四百一年ねんから四百二十一年ねんに至いたる。",
+    "kr": "모로나이가 레이맨인들의 유익을 위하여 기록함—그리스도를 부인하려 아니하는 니파이인들은 죽음을 당함. 주후 401~421년경."
+  },
+  "chapters": [
+    {
+      "number": 1,
+      "introduction": {
+        "fr": "Moroni écrit pour le profit des Lamanites — Les Néphites qui ne veulent pas nier le Christ sont mis à mort. Vers 401–421 apr. J.-C.",
+        "en": "Moroni writes for the benefit of the Lamanites—The Nephites who will not deny Christ are put to death. About A.D. 401–21.",
+        "zh": "摩羅乃為造福拉曼人而寫——不否認基督的尼腓人都被處死。約主後401年至421年。",
+        "jp": "モロナイ，レーマン人じんのために書かき記しるす。キリストを否ひ定ていしないニーファイ人じんは殺ころされる。紀き元げん約やく四百一年ねんから四百二十一年ねんに至いたる。",
+        "kr": "모로나이가 레이맨인들의 유익을 위하여 기록함—그리스도를 부인하려 아니하는 니파이인들은 죽음을 당함. 주후 401~421년경."
+      },
+      "verses": [
+        {
+          "key": "1",
+          "text": {
+            "fr": "Or, moi, Moroni, après avoir fini d’abréger l’histoire du peuple de Jared, j’avais pensé que je n’écrirais pas davantage, mais je n’ai pas encore péri ; et je ne me fais pas connaître aux Lamanites, de peur qu’ils ne me fassent périr.",
+            "en": "Now I, Moroni, after having made an end of abridging the account of the people of Jared, I had supposed not to have written more, but I have not as yet perished; and I make not myself known to the Lamanites lest they should destroy me.",
+            "zh": "我，摩羅乃，節錄完雅列人的記事後，本以為不會再多寫了，但我還沒有死；我不讓拉曼人發現我，免得他們殺害我。",
+            "jp": "さて，わたしモロナイはヤレドの民たみの話はなしを短みじかくまとめ終おえた後のち，もうこれ以い上じょうは書かき記しるさないと思おもったが，わたしはまだ命いのちを失うしなっていない。わたしはレーマン人じんに殺ころされないために，わたしのことを彼かれらに知しられないようにしている。",
+            "kr": "이제 나 모로나이는 야렛 백성의 기사를 요약하기를 마친 후에 내가 더 기록하리라고는 생각하지 아니하였으나, 내가 아직은 죽지 아니하였고, 또 나는 레이맨인들이 나를 멸할까 하여 그들에게 나를 알리지 아니하노라."
+          }
+        },
+        {
+          "key": "2",
+          "text": {
+            "fr": "Car voici, leurs guerres entre eux sont extrêmement féroces ; et à cause de leur haine, ils mettent à mort tout Néphite qui ne veut pas nier le Christ.",
+            "en": "For behold, their wars are exceedingly fierce among themselves; and because of their hatred they put to death every Nephite that will not deny the Christ.",
+            "zh": "因為看啊，他們之間的戰爭非常激烈；他們出於仇恨，處死每一個不否認基督的尼腓人。",
+            "jp": "見みよ，レーマン人じん同どう士しの戦せん争そうが今いま非ひ常じょうに激はげしい。また，彼かれらは憎にくしみのために，キリストを否ひ定ていしないニーファイ人じんをすべて殺ころしている。",
+            "kr": "이는 보라, 그들의 전쟁은 그들끼리 심히 격렬하며, 그들의 증오로 말미암아 그들은 그리스도를 부인하려 아니하는 모든 니파이인을 죽임이라."
+          }
+        },
+        {
+          "key": "3",
+          "text": {
+            "fr": "Et moi, Moroni, je ne veux pas nier le Christ ; c’est pourquoi j’erre partout où je peux pour la sécurité de ma vie.",
+            "en": "And I, Moroni, will not deny the Christ; wherefore, I wander whithersoever I can for the safety of mine own life.",
+            "zh": "我，摩羅乃，決不會否認基督，因此，我為了自己生命的安全，到任何我能到的地方流浪。",
+            "jp": "わたしモロナイはキリストを否ひ定ていしないので，命いのちの安あん全ぜんを得えられる場ば所しょを求もとめてさまよっている。",
+            "kr": "그러나 나 모로나이는 그리스도를 부인하지 아니할 것인즉, 그러므로 나는 내 생명의 안전을 위하여 어디든지 내가 갈 수 있는 곳으로 헤매노라."
+          }
+        },
+        {
+          "key": "4",
+          "text": {
+            "fr": "C’est pourquoi, j’écris encore un petit nombre de choses, contrairement à ce que j’avais pensé ; car j’avais pensé que je n’écrirais plus ; mais j’écris encore un petit nombre de choses, afin qu’elles aient peut-être de la valeur pour mes frères, les Lamanites, un jour futur, selon la volonté du Seigneur.",
+            "en": "Wherefore, I write a few more things, contrary to that which I had supposed; for I had supposed not to have written any more; but I write a few more things, that perhaps they may be of worth unto my brethren, the Lamanites, in some future day, according to the will of the Lord.",
+            "zh": "因此，我要多寫一些事情，這和我當初所想的相反，因為我本以為不會再多寫了；但我要多寫一些事情，這樣或許將來能按照主的旨意，對我的弟兄拉曼人有價值。",
+            "jp": "さて，わたしは以い前ぜんの思おもいとは違ちがって，もう少すこし書かき記しるすことにする。わたしはもう書かき記しるさないと思おもっていたが，主しゅの御み心こころのままに，将しょう来らいいつかわたしの同胞はらからであるレーマン人じんのために価か値ちをもたらすと思おもわれることを，もう少すこし書かき記しるすことにする。",
+            "kr": "그러한즉 내가 생각했던 것과는 달리 몇 가지를 더 기록하노니, 이는 내가 더 기록할 것으로는 생각하지 아니하였었음이라. 그러나 내가 몇 가지를 더 기록하노니, 혹 이것이 주의 뜻을 좇아 장차 언젠가 나의 형제 레이맨인들에게 가치 있는 것이 되게 하려 함이라."
+          }
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "introduction": {
+        "fr": "Jésus donna aux douze disciples néphites le pouvoir de conférer le don du Saint-Esprit. Vers 401–421 apr. J.-C.",
+        "en": "Jesus gave the twelve Nephite disciples power to confer the gift of the Holy Ghost. About A.D. 401–21.",
+        "zh": "耶穌把授予聖靈恩賜的權力，賜給十二位尼腓門徒。約主後401年至421年。",
+        "jp": "イエス，聖せい霊れいの賜たま物ものを授さずける力ちからを十二人にんのニーファイ人じんの弟で子したちに与あたえられる。紀き元げん約やく四百一年ねんから四百二十一年ねんに至いたる。",
+        "kr": "예수께서 열두 명의 니파이인 제자들에게 성신의 은사를 부여할 권능을 주셨음. 주후 401~421."
+      },
+      "verses": [
+        {
+          "key": "1",
+          "text": {
+            "fr": "Paroles que le Christ dit à ses disciples, les douze qu’il avait choisis, tandis qu’il leur imposait les mains :",
+            "en": "The words of Christ, which he spake unto his disciples, the twelve whom he had chosen, as he laid his hands upon them—",
+            "zh": "基督按手在祂揀選的十二位門徒頭上時，對他們所說的話——",
+            "jp": "キリストが御ご自じ分ぶんの選えらばれた十二人にんの弟で子したちに手てを置おかれたとき，彼かれらに言いわれた御み言こと葉ばは次つぎのとおりである。",
+            "kr": "그리스도께서 그들의 제자들 곧 그 택하신 열둘에게 그 손을 얹으셨을 때 하신 말씀이라—"
+          }
+        },
+        {
+          "key": "2",
+          "text": {
+            "fr": "Et il les appela par leur nom, disant : Vous invoquerez le Père en mon nom, en prière fervente ; et lorsque vous aurez fait cela, vous aurez le pouvoir de donner le Saint-Esprit à celui à qui vous imposerez les mains ; et vous le donnerez en mon nom, car c’est ainsi que font mes apôtres.",
+            "en": "And he called them by name, saying: Ye shall call on the Father in my name, in mighty prayer; and after ye have done this ye shall have power that to him upon whom ye shall lay your hands, ye shall give the Holy Ghost; and in my name shall ye give it, for thus do mine apostles.",
+            "zh": "祂叫他們的名字，說：你要在懇切的禱告中，奉我的名呼求父；這樣做以後，你就有為人按手賜予聖靈的權力；你要奉我的名賜予聖靈，因為我的使徒都這樣做。",
+            "jp": "キリストは彼かれらの名なを呼よんで言いわれた。「わたしの名なによって熱ねつ烈れつに祈いのって父ちちに請こい願ねがいなさい。あなたがたはこのように行おこなった後のちに，あなたがたが手てを置おく者ものに聖せい霊れいを授さずける力ちからを持もつであろう。わたしの名なによって聖せい霊れいを授さずけなさい。わたしの使し徒とたちはこのように行おこなうからである。」",
+            "kr": "또 저희의 이름을 부르시며 이르시되, 너희는 간절한 기도로 내 이름으로 아버지를 부를지니, 너희가 이렇게 한 후에는 너희가 안수하는 자에게 성신을 줄 권능을 갖게 되리라. 또 내 이름으로 너희는 이를 줄지니, 이는 그와 같이 나의 사도들이 행함이니라."
+          }
+        },
+        {
+          "key": "3",
+          "text": {
+            "fr": "Or, le Christ leur dit ces paroles au moment de sa première apparition ; et la multitude ne l’entendit pas, mais les disciples l’entendirent ; et le Saint-Esprit descendit sur tous ceux à qui ils imposèrent les mains.",
+            "en": "Now Christ spake these words unto them at the time of his first appearing; and the multitude heard it not, but the disciples heard it; and on as many as they laid their hands, fell the Holy Ghost.",
+            "zh": "這些話是基督第一次顯現時對他們說的；群眾沒有聽到，但門徒聽到了；凡經他們按手的，都有聖靈降在身上。",
+            "jp": "キリストは初はじめてその御み姿すがたを現あらわされたとき，彼かれらにこれらの御み言こと葉ばを語かたられた。群ぐん衆しゅうはこれを聞きかず，弟で子したちだけがこれを聞きいた。そして，彼かれらが手てを置おいたすべての者ものに聖せい霊れいが降くだられた。",
+            "kr": "이제 그리스도께서 첫 번째 나타나셨을 때 그들에게 이 말씀을 하셨나니, 무리는 이를 듣지 못하였으되, 제자들은 이를 들었으며, 그들이 안수하는 자에게는 모두 성신이 내리셨느니라."
+          }
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "introduction": {
+        "fr": "Les anciens ordonnent des prêtres et des instructeurs par l’imposition des mains. Vers 401–421 apr. J.-C.",
+        "en": "Elders ordain priests and teachers by the laying on of hands. About A.D. 401–21.",
+        "zh": "長老用按手的方式，按立祭司和教師。約主後401年至421年。",
+        "jp": "長ちょう老ろうたち，按あん手しゅによって祭さい司しと教きょう師しを聖せい任にんする。紀き元げん約やく四百一年ねんから四百二十一年ねんに至いたる。",
+        "kr": "장로들이 안수로써 제사와 교사들을 성임함. 주후 401~421년경."
+      },
+      "verses": [
+        {
+          "key": "1",
+          "text": {
+            "fr": "Manière dont les disciples, qui étaient appelés les anciens de l’Église, ordonnaient les prêtres et les instructeurs :",
+            "en": "The manner which the disciples, who were called the elders of the church, ordained priests and teachers—",
+            "zh": "門徒被稱為教會的長老，他們按立祭司和教師的方式如下——",
+            "jp": "教きょう会かいの長ちょう老ろうと呼よばれた弟で子したちが祭さい司しと教きょう師しを聖せい任にんした方ほう法ほうは，次つぎのとおりである。",
+            "kr": "교회의 장로라 일컫는 제자들이 제사와 교사를 성임한 방법이라—"
+          }
+        },
+        {
+          "key": "2",
+          "text": {
+            "fr": "Après avoir prié le Père au nom du Christ, ils leur imposaient les mains et disaient :",
+            "en": "After they had prayed unto the Father in the name of Christ, they laid their hands upon them, and said:",
+            "zh": "他們奉基督的名向父禱告後，就按手在他們頭上，說：",
+            "jp": "彼かれらはキリストの名なによって御おん父ちちに祈いのった後のち，聖せい任にんを受うける者ものに手てを置おいて言いった。",
+            "kr": "그들이 그리스도의 이름으로 아버지께 기도한 후에 그 손을 저들에게 얹고 이르되,"
+          }
+        },
+        {
+          "key": "3",
+          "text": {
+            "fr": "Au nom de Jésus-Christ, je t’ordonne prêtre (ou, si c’était un instructeur, je t’ordonne instructeur), pour prêcher le repentir et le pardon des péchés par l’intermédiaire de Jésus-Christ, par la persévérance de la foi en son nom jusqu’à la fin. Amen.",
+            "en": "In the name of Jesus Christ I ordain you to be a priest (or if he be a teacher, I ordain you to be a teacher) to preach repentance and remission of sins through Jesus Christ, by the endurance of faith on his name to the end. Amen.",
+            "zh": "我奉耶穌基督的名，按立你為祭司，（如果是教師，則按立你為教師），去宣講悔改，和經由耶穌基督及藉著對祂名的信心持守到底而來的赦罪。阿們。",
+            "jp": "「イエス・キリストの御み名なによって，わたしはあなたを祭さい司しに聖せい任にんし（もし教きょう師しであるならば，あなたを教きょう師しに聖せい任にんし），悔くい改あらためを宣のべ伝つたえる者もの，また最さい後ごまでイエス・キリストの御み名なを信しんじ続つづければ，イエス・キリストを通つうじて罪つみの赦ゆるしが得えられることを宣のべ伝つたえる者ものとします。アーメン。」",
+            "kr": "예수 그리스도의 이름으로 나는 그대를 제사로 성임하노라. (또는 만일 교사이면 나는 그대를 교사로 성임하노라) 이는 회개와 예수 그리스도를 통하여, 끝까지 그의 이름을 믿는 신앙으로 말미암아 얻는 죄 사함을 전파하기 위함이니라. 아멘."
+          }
+        },
+        {
+          "key": "4",
+          "text": {
+            "fr": "Et c’est de cette manière qu’ils ordonnaient les prêtres et les instructeurs, selon les dons et les appels de Dieu aux hommes ; et ils les ordonnaient par le pouvoir du Saint-Esprit qui était en eux.",
+            "en": "And after this manner did they ordain priests and teachers, according to the gifts and callings of God unto men; and they ordained them by the power of the Holy Ghost, which was in them.",
+            "zh": "他們按照神給世人的恩賜和召喚，用這種方式按立了祭司和教師；他們藉著在他們裡面聖靈的力量按立了他們。",
+            "jp": "このような方ほう法ほうで，彼かれらは人ひと々びとに授さずけられる神かみの賜たま物ものと召めしに応おうじて祭さい司しと教きょう師しを聖せい任にんした。彼かれらは，自じ分ぶんたちの内うちにある聖せい霊れいの力ちからによって聖せい任にんした。",
+            "kr": "이러한 방법으로 그들은 사람들에게 주시는 하나님의 은사와 부르심을 좇아 제사와 교사를 성임하되, 그들은 그들 안에 있는 성신의 권능으로써 저들을 성임하였더라."
+          }
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "introduction": {
+        "fr": "Comment les anciens et les prêtres bénissent et distribuent le pain de la Sainte-Cène. Vers 401–421 apr. J.-C.",
+        "en": "How elders and priests administer the sacramental bread is explained. About A.D. 401–21.",
+        "zh": "說明長老和祭司如何主理聖餐麵包。約主後401年至421年。",
+        "jp": "長ちょう老ろうと祭さい司しが聖せい餐さんのパンを祝しゅく福ふくする方ほう法ほうについての説せつ明めい。紀き元げん約やく四百一年ねんから四百二十一年ねんに至いたる。",
+        "kr": "장로들과 제사들이 성찬의 떡을 베푸는 방법이 설명됨. 주후 401~421년경."
+      },
+      "verses": [
+        {
+          "key": "1",
+          "text": {
+            "fr": "Manière dont leurs anciens et leurs prêtres bénissaient la chair et le sang du Christ pour l’Église ; et ils les bénissaient selon les commandements du Christ ; c’est pourquoi, nous savons que cette manière est vraie ; et l’ancien ou le prêtre les bénissait et les distribuait ;",
+            "en": "The manner of their elders and priests administering the flesh and blood of Christ unto the church; and they administered it according to the commandments of Christ; wherefore we know the manner to be true; and the elder or priest did minister it—",
+            "zh": "他們的長老和祭司為教會成員主理基督的肉與血的方式；他們按照基督的命令主理，所以我們知道那是正確的方式，是由長老或祭司主理的——",
+            "jp": "長ちょう老ろうと祭さい司しが，教きょう会かい員いんにキリストの肉にくと血ちを分わけ与あたえた方ほう法ほうは，次つぎのとおりである。彼かれらがキリストの命めいじられたとおりに執しっ行こうしたので，わたしたちはこの方ほう法ほうが正ただしいことを知しっている。長ちょう老ろうまたは祭さい司しがそれを執しっ行こうした。",
+            "kr": "그들의 장로와 제사들이 그리스도의 살과 피를 교회에 베푼 방식이니, 그들이 그리스도의 계명을 좇아 이를 베푼지라, 그러므로 우리는 이 방식이 참된 줄 아노라. 이에 장로 또는 제사가 이를 베풀되—"
+          }
+        },
+        {
+          "key": "2",
+          "text": {
+            "fr": "Et ils s’agenouillaient avec l’Église et priaient le Père au nom du Christ, disant :",
+            "en": "And they did kneel down with the church, and pray to the Father in the name of Christ, saying:",
+            "zh": "他們和教會成員跪下，奉基督的名向父禱告，說：",
+            "jp": "彼かれらは教きょう会かい員いんとともにひざまずき，キリストの名なによって御おん父ちちに祈いのって言いった。",
+            "kr": "그들이 교회로 더불어 무릎을 꿇고, 그리스도의 이름으로 아버지께 기도하여 이르되,"
+          }
+        },
+        {
+          "key": "3",
+          "text": {
+            "fr": "Ô Dieu, Père éternel, nous te demandons, au nom de ton Fils, Jésus-Christ, de bénir et de sanctifier ce pain pour l’âme de tous ceux qui en prennent, afin qu’ils le mangent en souvenir du corps de ton Fils, et te témoignent, ô Dieu, Père éternel, qu’ils sont disposés à prendre sur eux le nom de ton Fils, se souvenir toujours de lui et garder les commandements qu’il leur a donnés, afin qu’ils aient toujours son Esprit avec eux. Amen.",
+            "en": "O God, the Eternal Father, we ask thee in the name of thy Son, Jesus Christ, to bless and sanctify this bread to the souls of all those who partake of it; that they may eat in remembrance of the body of thy Son, and witness unto thee, O God, the Eternal Father, that they are willing to take upon them the name of thy Son, and always remember him, and keep his commandments which he hath given them, that they may always have his Spirit to be with them. Amen.",
+            "zh": "神啊，永恆的父，我們奉您子耶穌基督的名，祈求您為所有領受此餅之人的靈魂，祝福並聖化此餅，讓他們食用，以記得您子的身體；並向您，神啊，永恆的父，證明他們願意承受您子的名，一直記得祂，並遵守祂賜給他們的誡命，使他們能一直有祂的靈與他們同在。阿們。",
+            "jp": "「永えい遠えんの父ちちなる神かみよ，わたしたちは御おん子こイエス・キリストの御み名なによってあなたに願ねがい求もとめます。このパンを頂いただくすべての人ひと々びとが，御おん子この体からだの記き念ねんにこれを頂いただけるように，また，進すすんで御おん子この御み名なを受うけ，いつも御おん子こを覚おぼえ，御おん子こが与あたえてくださった戒いましめを守まもることを，永えい遠えんの父ちちなる神かみよ，あなたに証しょう明めいして，いつも御おん子この御み霊たまを受うけられるように，このパンを祝しゅく福ふくし，聖きよめてください。アーメン。」",
+            "kr": "오 하나님, 영원하신 아버지시여, 우리는 당신의 아들 예수 그리스도의 이름으로 당신에게 비옵나니, 이 떡을 취하는 모든 사람의 영혼을 위하여 이 떡을 축복하시며 성결하게 하시옵소서. 그리하여 저희가 당신 아들의 몸을 기억하여 먹게 하시옵고, 오 하나님, 영원하신 아버지시여, 또한 저희가 기꺼이 당신 아들의 이름을 받들며, 항상 그를 기억하고, 그가 저희에게 주신 계명을 지키고자 함을 당신에게 증거하게 하시오며, 그리하여 저희가 항상 그의 영과 함께 하도록 하시옵소서. 아멘."
+          }
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "introduction": {
+        "fr": "Manière de bénir le vin de la Sainte-Cène. Vers 401–421 apr. J.-C.",
+        "en": "The mode of administering the sacramental wine is set forth. About A.D. 401–21.",
+        "zh": "敘述主理聖餐葡萄酒的方式。約主後401年至421年。",
+        "jp": "聖せい餐さんのぶどう酒しゅを祝しゅく福ふくする方ほう法ほうについての説せつ明めい。紀き元げん約やく四百一年ねんから四百二十一年ねんに至いたる。",
+        "kr": "성찬의 포도주를 베푸는 방법이 정해짐. 주후 401~421년경."
+      },
+      "verses": [
+        {
+          "key": "1",
+          "text": {
+            "fr": "Manière de bénir le vin : Voici, ils prenaient la coupe et disaient :",
+            "en": "The manner of administering the wine—Behold, they took the cup, and said:",
+            "zh": "主理葡萄酒的方式——看啊，他們拿起杯子，說：",
+            "jp": "ぶどう酒しゅを分わけ与あたえた方ほう法ほうは，次つぎのとおりである。見みよ，彼かれらは器うつわを取とって言いった。",
+            "kr": "포도주를 베푸는 방식이라—보라 그들이 잔을 들고 이르되,"
+          }
+        },
+        {
+          "key": "2",
+          "text": {
+            "fr": "Ô Dieu, Père éternel, nous te demandons, au nom de ton Fils, Jésus-Christ, de bénir et de sanctifier ce vin pour l’âme de tous ceux qui en boivent, afin qu’ils le fassent en souvenir du sang de ton Fils, qui a été versé pour eux, afin qu’ils te témoignent, ô Dieu, Père éternel, qu’ils se souviennent toujours de lui, et qu’ils aient son Esprit avec eux. Amen.",
+            "en": "O God, the Eternal Father, we ask thee, in the name of thy Son, Jesus Christ, to bless and sanctify this wine to the souls of all those who drink of it, that they may do it in remembrance of the blood of thy Son, which was shed for them; that they may witness unto thee, O God, the Eternal Father, that they do always remember him, that they may have his Spirit to be with them. Amen.",
+            "zh": "神啊，永恆的父，我們奉您子耶穌基督的名，祈求您為所有飲用此酒之人的靈魂，祝福並聖化此酒，讓他們飲用，以記得您子為他們所流的血；使他們能向您，神啊，永恆的父，證明他們確實一直記得祂，使他們能有祂的靈與他們同在。阿們。",
+            "jp": "「永えい遠えんの父ちちなる神かみよ，わたしたちは御おん子こイエス・キリストの御み名なによってあなたに願ねがい求もとめます。このぶどう酒しゅを頂いただくすべての人ひと々びとが，この人ひと々びとのために流ながされた御おん子この血ちの記き念ねんにこれを頂いただけるように，また，いつも御おん子こを覚おぼえていることを，永えい遠えんの父ちちなる神かみよ，あなたに証しょう明めいして，御おん子この御み霊たまを受うけられるように，このぶどう酒しゅを祝しゅく福ふくし，聖きよめてください。アーメン。」",
+            "kr": "오 하나님, 영원하신 아버지시여, 우리는, 당신의 아들 예수 그리스도의 이름으로, 당신에게 비옵나니, 이 포도주를 마시는 모든 사람의 영혼을 위하여 이 포도주를 축복하시며 성결하게 하시옵소서. 그리하여 저희가, 저희를 위하여 흘리신, 당신 아들의 피를 기억하여 이 포도주를 마시게 하시옵고, 오 하나님, 영원하신 아버지시여, 또한 저희가 항상 그를 기억함을 당신에게 증거하게 하시오며, 그리하여 저희가 그의 영과 함께 하도록 하시옵소서. 아멘."
+          }
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "introduction": {
+        "fr": "Les personnes repentantes sont baptisées et intégrées — Les membres de l’Église qui se repentent sont pardonnés — Les réunions sont dirigées par le pouvoir du Saint-Esprit. Vers 401–421 apr. J.-C.",
+        "en": "Repentant persons are baptized and fellowshipped—Church members who repent are forgiven—Meetings are conducted by the power of the Holy Ghost. About A.D. 401–21.",
+        "zh": "悔改的人受洗並得到交誼——悔改的教會成員得到寬恕——藉聖靈的力量主持聚會。約主後401年至421年。",
+        "jp": "悔くい改あらためた人ひと々びとは，バプテスマを受うけて教きょう会かい員いんになる。悔くい改あらためる教きょう会かい員いんは赦ゆるされる。集しゅう会かいは聖せい霊れいの力ちからによって行おこなわれる。紀き元げん約やく四百一年ねんから四百二十一年ねんに至いたる。",
+        "kr": "회개하는 사람들은 침례를 받고 교제를 나눔—회개하는 교회 회원들은 용서 받음—모임은 성신의 권능으로 인도됨. 주후 401~421년경."
+      },
+      "verses": [
+        {
+          "key": "1",
+          "text": {
+            "fr": "Et maintenant, je parle du baptême. Voici, les anciens, les prêtres et les instructeurs étaient baptisés ; et ils n’étaient baptisés que s’ils produisaient du fruit montrant qu’ils en étaient dignes.",
+            "en": "And now I speak concerning baptism. Behold, elders, priests, and teachers were baptized; and they were not baptized save they brought forth fruit meet that they were worthy of it.",
+            "zh": "現在我要講洗禮的事。看啊，長老、祭司和教師都受了洗；除非他們結出配於受洗的適當果子，否則不能受洗。",
+            "jp": "次つぎにバプテスマについて述のべよう。見みよ，長ちょう老ろう，祭さい司し，教きょう師したちはバプテスマを受うけた。しかし彼かれらは，バプテスマを受うけるに値あたいするふさわしい実みを結むすばなければ，バプテスマを施ほどこされなかった。",
+            "kr": "그리고 이제 내가 침례에 관하여 말하노라. 보라, 장로, 제사, 그리고 교사들이 침례를 받았으되, 그에 합당한 열매를 맺음이 없이 침례 받지 아니하였느니라."
+          }
+        },
+        {
+          "key": "2",
+          "text": {
+            "fr": "Et ils ne recevaient pour le baptême que ceux qui s’avançaient, le cœur brisé et l’esprit contrit, et témoignaient à l’Église qu’ils se repentaient vraiment de tous leurs péchés.",
+            "en": "Neither did they receive any unto baptism save they came forth with a broken heart and a contrite spirit, and witnessed unto the church that they truly repented of all their sins.",
+            "zh": "除了懷著破碎的心和痛悔的靈前來，並向教會成員證明確已悔改了一切罪惡的人外，他們不讓任何人受洗。",
+            "jp": "また彼かれらは，打うち砕くだかれた心こころと悔くいる霊れいをもって進すすみ出でて，自じ分ぶんのすべての罪つみを心こころから悔くい改あらためたことを教きょう会かい員いんに証しょう明めいした者ものでなければ，だれにもバプテスマを認みとめなかった。",
+            "kr": "누구라도 상한 마음과 통회하는 심령으로 나아와, 진실로 그들의 모든 죄를 회개하였음을 교회에 증거하지 아니하면, 그들을 받아들여 침례를 받게 아니하였느니라."
+          }
+        },
+        {
+          "key": "3",
+          "text": {
+            "fr": "Et nul n’était reçu au baptême s’il ne prenait sur lui le nom du Christ, décidé à le servir jusqu’à la fin.",
+            "en": "And none were received unto baptism save they took upon them the name of Christ, having a determination to serve him to the end.",
+            "zh": "除了承受基督的名，決心事奉祂到底的人外，沒有人能受洗。",
+            "jp": "また，最さい後ごまでキリストに仕つかえる決けっ心しんをしてキリストの名なを受うけた者ものでなければ，だれもバプテスマを認みとめられなかった。",
+            "kr": "또 아무라도 그리스도의 이름을 받들며 끝까지 그를 섬길 결심을 하지 아니하면, 받아들여져 침례를 받지 못하였느니라."
+          }
+        },
+        {
+          "key": "4",
+          "text": {
+            "fr": "Et après avoir été reçus au baptême et avoir été touchés et purifiés par le pouvoir du Saint-Esprit, ils étaient comptés parmi le peuple de l’Église du Christ ; et leur nom était pris, pour qu’on se souvînt d’eux et qu’on les nourrît de la bonne parole de Dieu, pour les garder dans la voie droite, pour les garder continuellement attentifs à la prière, se reposant uniquement sur les mérites du Christ, qui était l’auteur et le consommateur de leur foi.",
+            "en": "And after they had been received unto baptism, and were wrought upon and cleansed by the power of the Holy Ghost, they were numbered among the people of the church of Christ; and their names were taken, that they might be remembered and nourished by the good word of God, to keep them in the right way, to keep them continually watchful unto prayer, relying alone upon the merits of Christ, who was the author and the finisher of their faith.",
+            "zh": "凡受洗並被聖靈的力量感化和潔淨的人，就被算在基督教會的人中；他們的名字被記錄下來，使他們被記得並用神美好的話滋養，以保守他們在正道上，使他們不斷警醒禱告，僅依賴基督的功勞，基督是他們信心的創始者和完成者。",
+            "jp": "そして人ひと々びとはバプテスマを認みとめられ，聖せい霊れいの力ちからが働はたらいて清きよめられると，キリストの教きょう会かいの民たみの中なかに数かぞえられ，その名なが記き録ろくされた。それは，彼かれらが覚おぼえられ，神かみの善よい言こと葉ばで養やしなわれ，そして彼かれらを正ただしい道みちにとどめるため，また絶たえず祈いのりを心こころに留とめさせ，彼かれらの信しん仰こうの創そう始し者しゃであり完かん成せい者しゃであるキリストの功く徳どくにだけ頼たよらせるためである。",
+            "kr": "또 그들이 받아들여져 침례를 받고 성신의 권능으로 역사함을 받아 정결하게 된 후에는, 그리스도의 교회 백성 가운데 헤아림을 받았고, 그들을 기억하며 하나님의 선하신 말씀으로 양육하여 그들을 바른 길에 있도록 지키며 그들로 하여금 쉬지 않고 기도하게 하며 그들의 신앙의 창시자이시요 완성자이신 그리스도의 공덕만을 의지하도록 하려 하여 그들의 이름을 취하였느니라."
+          }
+        },
+        {
+          "key": "5",
+          "text": {
+            "fr": "Et les membres de l’Église se réunissaient souvent pour jeûner et pour prier, et pour se parler l’un à l’autre du bien-être de leur âme.",
+            "en": "And the church did meet together oft, to fast and to pray, and to speak one with another concerning the welfare of their souls.",
+            "zh": "教會成員常常聚在一起，禁食，禱告，並彼此談論有關他們靈魂福祉的事。",
+            "jp": "教きょう会かい員いんは断だん食じきし，祈いのるため，また人ひとの幸さいわいについて互たがいに語かたり合あうためにしばしば集あつまった。",
+            "kr": "또 교회는 금식하고 기도하며, 그들의 영혼의 복리에 관하여 서로 말하기 위하여 자주 함께 모였느니라."
+          }
+        },
+        {
+          "key": "6",
+          "text": {
+            "fr": "Et ils se réunissaient souvent pour prendre le pain et le vin en souvenir du Seigneur Jésus.",
+            "en": "And they did meet together oft to partake of bread and wine, in remembrance of the Lord Jesus.",
+            "zh": "他們常常聚在一起領受麵包和葡萄酒，以記念主耶穌。",
+            "jp": "また，主しゅイエスを記き念ねんしてパンとぶどう酒しゅを頂いただくためにしばしば集あつまった。",
+            "kr": "또 그들은 주 예수를 기억하여, 떡과 포도주를 취하기 위하여 자주 함께 모였느니라."
+          }
+        },
+        {
+          "key": "7",
+          "text": {
+            "fr": "Et ils étaient stricts à veiller à ce qu’il n’y eût pas d’iniquité parmi eux ; et tous ceux qui étaient trouvés commettant l’iniquité, trois témoins de l’Église les condamnaient devant les anciens, et s’ils ne se repentaient pas, et ne confessaient pas, leur nom était effacé, et ils n’étaient plus comptés parmi le peuple du Christ.",
+            "en": "And they were strict to observe that there should be no iniquity among them; and whoso was found to commit iniquity, and three witnesses of the church did condemn them before the elders, and if they repented not, and confessed not, their names were blotted out, and they were not numbered among the people of Christ.",
+            "zh": "他們嚴防罪惡存在；凡被發現犯了罪，並有教會的三位證人在長老們面前控告其有罪的人，若不悔改，也不認罪，他們的名字就被塗掉，他們就不被算在基督的人民中。",
+            "jp": "また彼かれらは，自じ分ぶんたちの中なかに決けっして罪ざい悪あくがあってはならないということを厳げん密みつに守まもった。そして，ある者ものたちが罪ざい悪あくを犯おかしたことが分わかり，教きょう会かい員いんの三人にんの証しょう人にんが長ちょう老ろうたちの前まえでその者ものたちを罪つみがあるとし，もしその者ものたちが悔くい改あらためず告こく白はくもしなければ，彼かれらの名なは消けされて，彼かれらはキリストの民たみの中なかに数かぞえられなかった。",
+            "kr": "또 그들 중에 죄악이 있지 못하도록 엄격히 주시하였고, 누구든지 죄악을 범함이 드러나면, 교회의 증인 셋이 장로들 앞에서 그들을 정죄하되, 만일 그들이 회개하지 아니하고, 자백하지 아니하면, 그들의 이름이 지워져, 그들은 그리스도의 백성 가운데 헤아림을 받지 못하였느니라."
+          }
+        },
+        {
+          "key": "8",
+          "text": {
+            "fr": "Mais aussi souvent qu’ils se repentaient et recherchaient le pardon avec une intention réelle, ils étaient pardonnés.",
+            "en": "But as oft as they repented and sought forgiveness, with real intent, they were forgiven.",
+            "zh": "但是每當他們真心悔改並請求寬恕，他們就得到寬恕。",
+            "jp": "しかし，悔くい改あらためて真ま心ごころから赦ゆるしを求もとめた者ものは，その度たびに赦ゆるされた。",
+            "kr": "그러나 그들이 진정으로, 회개하고 용서를 구할 때마다, 그들은 용서를 얻었느니라."
+          }
+        },
+        {
+          "key": "9",
+          "text": {
+            "fr": "Et leurs réunions étaient dirigées par l’Église, selon l’inspiration de l’Esprit et par le pouvoir du Saint-Esprit ; car, selon que le pouvoir du Saint-Esprit les conduisait soit à prêcher, soit à exhorter, soit à prier, soit à supplier, soit à chanter, ainsi faisait-on.",
+            "en": "And their meetings were conducted by the church after the manner of the workings of the Spirit, and by the power of the Holy Ghost; for as the power of the Holy Ghost led them whether to preach, or to exhort, or to pray, or to supplicate, or to sing, even so it was done.",
+            "zh": "他們的聚會由教會成員依照靈的指引並藉聖靈的力量主持；因為聖靈的力量怎樣帶領他們講道、勸勉、禱告、祈求或唱詩，他們就怎樣做。",
+            "jp": "また教きょう会かい員いんの集しゅう会かいは，御み霊たまの働はたらくままに，聖せい霊れいの力ちからによって教きょう会かい員いんが指し導どうした。教おしえを説とくことも，勧すすめることも，祈いのることも，請こい願ねがうことも，歌うたうことも，聖せい霊れいの力ちからによって導みちびかれるままに行おこなわれた。",
+            "kr": "또 그들의 모임은 교회에 의하여 영의 역사하심을 따라 성신의 권능으로 인도되었나니, 이는 성신의 권능이 그들을 인도하여, 혹 가르치거나, 또는 권면하거나, 또는 기도하거나, 또는 간구하거나, 또는 노래하게 하는 대로 그와 같이 행하여졌느니라."
+          }
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "introduction": {
+        "fr": "Invitation à entrer dans le repos du Seigneur — Priez avec une intention réelle — L’Esprit du Christ permet aux hommes de distinguer le bien du mal — Satan persuade les hommes de nier le Christ et de faire le mal — Les prophètes rendent manifeste la venue du Christ — C’est par la foi que les miracles s’accomplissent et que les anges exercent leur ministère — Les hommes doivent espérer la vie éternelle et s’attacher à la charité. Vers 401–421 apr. J.-C.",
+        "en": "An invitation is given to enter into the rest of the Lord—Pray with real intent—The Spirit of Christ enables men to know good from evil—Satan persuades men to deny Christ and do evil—The prophets manifest the coming of Christ—By faith, miracles are wrought and angels minister—Men should hope for eternal life and cleave unto charity. About A.D. 401–21.",
+        "zh": "邀請世人進入主的安息——祈禱要真誠——基督的靈使世人能分辨善惡——撒但誘拐世人否認基督並作惡——眾先知顯明基督的來臨——憑著信心，才有奇蹟和天使施助——世人應希望得到永生，滿懷仁愛。約主後401年至421年。",
+        "jp": "主しゅの安あん息そくに入はいるようにとの招まねき。真ま心ごころから祈いのること。キリストの御み霊たまは人ひとが善ぜん悪あくをわきまえることができるようにする。サタンはキリストを否ひ定ていして，悪あくを行おこなうように人ひとに説とき勧すすめる。預よ言げん者しゃたち，キリストの来らい臨りんについて明あきらかにする。信しん仰こうによって，奇き跡せきが行おこなわれ，天てん使しは仕つかえる。人ひとは永えい遠えんの命いのちを望のぞみ，慈じ愛あいを固かたく守まもらなければならない。紀き元げん約やく四百一年ねんから四百二十一年ねんに至いたる。",
+        "kr": "주의 안식에 들어오라는 권유—진정한 의도를 가지고 기도하라—그리스도의 영은 사람들에게 선악을 능히 분별하게 함—사탄은 사람들에게 그리스도를 부인하고 악을 행하도록 설득함—선지자들이 그리스도의 오심을 드러냄—신앙으로 말미암아 기적이 이루어지며 천사들이 성역을 베풂—사람들은 영생을 바라고 사랑을 붙들어야 함. 주후 401~421년경."
+      },
+      "verses": [
+        {
+          "key": "1",
+          "text": {
+            "fr": "Et maintenant, moi, Moroni, j’écris quelques-unes des paroles que mon père Mormon prononça concernant la foi, l’espérance et la charité ; car c’est de cette manière qu’il parla au peuple, tandis qu’il l’instruisait dans la synagogue qu’ils avaient bâtie comme lieu de culte.",
+            "en": "And now I, Moroni, write a few of the words of my father Mormon, which he spake concerning faith, hope, and charity; for after this manner did he speak unto the people, as he taught them in the synagogue which they had built for the place of worship.",
+            "zh": "我，摩羅乃，現在要寫我父親摩爾門所講關於信心、希望、仁愛的一些話；他在人民所建作為崇拜之所的會堂中，教導人民時這樣說：",
+            "jp": "さて，わたしモロナイは，父ちちモルモンが信しん仰こうと希き望ぼうと慈じ愛あいについて述のべた言こと葉ばを少しょう々しょう書かき記しるしておく。父ちちは，民たみが礼れい拝はいの場ば所しょとして建たてた会かい堂どうで彼かれらを教おしえたとき，次つぎのように述のべた。",
+            "kr": "그리고 이제 나 모로나이는 신앙, 소망, 그리고 사랑에 관하여 말씀하신 나의 부친 몰몬의 말씀 가운데 몇 가지를 기록하노니, 이는 그가 백성들이 예배의 장소로 지은 회당에서 그들을 가르치실 때에 이같이 그들에게 말씀하셨음이라."
+          }
+        },
+        {
+          "key": "2",
+          "text": {
+            "fr": "Et maintenant, moi, Mormon, je vous parle, mes frères bien-aimés ; et c’est par la grâce de Dieu le Père, et de notre Seigneur Jésus-Christ, et par sa sainte volonté, à cause du don de l’appel qu’il m’a fait, qu’il m’est permis de vous parler en ce moment.",
+            "en": "And now I, Mormon, speak unto you, my beloved brethren; and it is by the grace of God the Father, and our Lord Jesus Christ, and his holy will, because of the gift of his calling unto me, that I am permitted to speak unto you at this time.",
+            "zh": "我心愛的弟兄們，我，摩爾門，現在要對你們說；我靠父神和我們主耶穌基督的恩典，及祂神聖的旨意，並由於祂給我的召喚的恩賜，獲准在這時刻對你們說話。",
+            "jp": "「さて，わたしモルモンは，愛あいする同胞はらからであるあなたがたに話はなしたい。父ちちなる神かみとわたしたちの主しゅイエス・キリストの恵めぐみにより，また主しゅがわたしに召めしの賜たま物ものをお与あたえくださったので，主しゅの聖せいなる御み心こころにより，わたしは今いまあなたがたに語かたる機き会かいを得えている。",
+            "kr": "그리고 이제 나 몰몬은 너희 내 사랑하는 형제들에게 말하노니, 내가 이때에 너희에게 말하도록 허락을 받은 것은 하나님 아버지의 은혜와, 우리 주 예수 그리스도와, 내게 주신 그의 부르심의 은사로 인한 그의 거룩하신 뜻으로 말미암은 것이니라."
+          }
+        },
+        {
+          "key": "3",
+          "text": {
+            "fr": "C’est pourquoi, je voudrais vous parler, à vous qui êtes de l’Église, qui êtes les disciples paisibles du Christ et qui avez obtenu l’espérance suffisante, par laquelle vous pouvez entrer dans le repos du Seigneur, dorénavant, jusqu’à ce que vous vous reposiez avec lui au ciel.",
+            "en": "Wherefore, I would speak unto you that are of the church, that are the peaceable followers of Christ, and that have obtained a sufficient hope by which ye can enter into the rest of the Lord, from this time henceforth until ye shall rest with him in heaven.",
+            "zh": "因此，我要對你們這些屬於教會、從今以後直到與主一同在天上安息為止，作基督和平的信徒，並獲得充分希望，可以進入主的安息的人說。",
+            "jp": "そこでわたしは，教きょう会かいに属ぞくしているあなたがた，すなわち，今いまから後のち，天てんで主しゅとともに安あん息そくを得えるときまで，キリストに穏おだやかに従したがい，主しゅの安あん息そくに入はいれるという十じゅう分ぶんな望のぞみを得えているあなたがたに，話はなしたいと思おもう。",
+            "kr": "그런즉 나는 교회에 속하여 있으며, 화평한 중에 그리스도를 따르는 자로서, 이때로부터 하늘에서 그와 함께 안식하게 될 때까지 주의 안식에 들어갈 수 있는 넉넉한 소망을 얻은 너희에게 말하고자 하노라."
+          }
+        },
+        {
+          "key": "4",
+          "text": {
+            "fr": "Et maintenant, mes frères, je vous juge ainsi à cause de votre conduite paisible envers les enfants des hommes.",
+            "en": "And now my brethren, I judge these things of you because of your peaceable walk with the children of men.",
+            "zh": "弟兄們，我這樣評斷你們，是由於你們對人類兒女行事和睦。",
+            "jp": "わたしの同胞はらからよ，わたしは，あなたがたが人ひとの子こらと穏おだやかに交まじわって暮くらしているので，あなたがたのことをこのように判はん断だんしている。",
+            "kr": "또 이제 나의 형제들아, 너희가 사람의 자녀들과 더불어 화평한 중에 행함으로 인하여 내가 너희에 대하여 이 일을 판단하노라."
+          }
+        },
+        {
+          "key": "5",
+          "text": {
+            "fr": "Car je me souviens de la parole de Dieu qui dit que vous les reconnaîtrez à leurs œuvres ; car si leurs œuvres sont bonnes, alors ils sont bons aussi.",
+            "en": "For I remember the word of God which saith by their works ye shall know them; for if their works be good, then they are good also.",
+            "zh": "因為我記得神的話是這樣說的，你們必從他們的行為認出他們來，因為如果他們的行為良好，那麼他們也一定是好人。",
+            "jp": "わたしは，『あなたがたはその行おこないによって彼かれらを見み分わけるのである』と言いわれた神かみの御み言こと葉ばを覚おぼえているからである。彼かれらの行おこないが善よければ，彼かれらも善よい。",
+            "kr": "이는 그들의 행위로 그들을 알 것이라 하시는 하나님의 말씀을 내가 기억함이라. 이는 만일 그들의 행위가 선할진대 그들도 선함이니라."
+          }
+        },
+        {
+          "key": "6",
+          "text": {
+            "fr": "Car voici, Dieu a dit qu’un homme méchant ne peut pas faire ce qui est bien ; car s’il offre un don, ou prie Dieu, s’il ne le fait pas avec une intention réelle, cela ne lui profite en rien.",
+            "en": "For behold, God hath said a man being evil cannot do that which is good; for if he offereth a gift, or prayeth unto God, except he shall do it with real intent it profiteth him nothing.",
+            "zh": "因為看啊，神說過，邪惡的人不會做好事；因為無論他呈獻禮物或向神禱告，若不是出於真誠，對他毫無好處。",
+            "jp": "見みよ，神かみは，『悪わるい者ものは善よいことを行おこなえない』と言いわれた。人ひとはささげ物ものをしても，神かみに祈いのっても，真ま心ごころからしなければ，その人ひとにとって何なんの役やくにも立たたない。",
+            "kr": "이는 보라, 하나님께서 말씀하시기를 사람이 악하면서 선을 행할 수 없다 하셨음이니, 만일 그가 하나님께 예물을 바치거나, 기도한다 할지라도 이를 진정한 의도를 가지고 행하지 아니하면 그에게 아무 유익이 되지 못함이니라."
+          }
+        },
+        {
+          "key": "7",
+          "text": {
+            "fr": "Car voici, cela ne lui est pas imputé comme justice.",
+            "en": "For behold, it is not counted unto him for righteousness.",
+            "zh": "因為看啊，他不能算是正義的。",
+            "jp": "見みよ，それは彼かれにとって義ぎと認みとめられないからである。",
+            "kr": "이는 보라, 그것이 그에게 의로 여김이 되지 아니함이니라."
+          }
+        },
+        {
+          "key": "8",
+          "text": {
+            "fr": "Car voici, si un homme méchant fait un don, il le fait à contrecœur ; c’est pourquoi, cela lui est imputé comme s’il avait retenu le don ; c’est pourquoi, il est imputé comme mauvais devant Dieu.",
+            "en": "For behold, if a man being evil giveth a gift, he doeth it grudgingly; wherefore it is counted unto him the same as if he had retained the gift; wherefore he is counted evil before God.",
+            "zh": "因為看啊，邪惡的人若獻上禮物，也獻得勉強，所以要當他保留了禮物，所以他在神前仍算是邪惡的。",
+            "jp": "見みよ，悪わるい者ものはささげ物ものをしても，惜おしみながらするので，ささげ物ものをしなかったと同おなじように見みなされる。したがって，神かみの御み前まえで悪あくと見みなされる。",
+            "kr": "보라, 사람이 악하면서 예물을 드리면, 마지못하여 그렇게 함이라. 그리하여 마치 예물을 드리지 아니한 것처럼 그에게 여겨지나니, 그런즉 그는 하나님 앞에 악한 것으로 여김을 받느니라."
+          }
+        },
+        {
+          "key": "9",
+          "text": {
+            "fr": "Et de même aussi cela est imputé comme mal à un homme, s’il prie et ne le fait pas avec une intention réelle du cœur ; oui, et cela ne lui profite en rien, car Dieu ne reçoit aucun de ceux-là.",
+            "en": "And likewise also is it counted evil unto a man, if he shall pray and not with real intent of heart; yea, and it profiteth him nothing, for God receiveth none such.",
+            "zh": "同樣的，人禱告若不真心誠意，也算是邪惡的；是的，這對他毫無好處，因為神不接受這種禱告。",
+            "jp": "それと同どう様ように，人ひとが真ま心ごころの伴ともなわない祈いのりをするならば，それはその人ひとにとって悪あくと見みなされる。そして，それはその人ひとにとって何なんの役やくにも立たたない。神かみはそのような祈いのりを受うけ入いれられないからである。",
+            "kr": "또 마찬가지로 만일 사람이 기도하되 마음의 진정한 의도를 가지고 그리하지 아니할진대, 그것 또한 그에게 간악한 것으로 여김이 되며, 그뿐 아니라 그것이 그에게 아무 유익이 되지 못하나니, 이는 하나님께서 그러한 자는 하나도 받으시지 아니하심이라."
+          }
+        },
+        {
+          "key": "10",
+          "text": {
+            "fr": "C’est pourquoi, un homme méchant ne peut pas faire ce qui est bien ; et il ne fera pas non plus un bon don.",
+            "en": "Wherefore, a man being evil cannot do that which is good; neither will he give a good gift.",
+            "zh": "所以，邪惡的人不會做好事，也不會獻上好禮物。",
+            "jp": "したがって，悪わるい者ものは善よいことを行おこなえず，また良よい贈おくり物ものもしない。",
+            "kr": "그러므로 사람이 악하면서 선을 행할 수 없고, 그는 선한 예물을 드리지도 아니하리라."
+          }
+        },
+        {
+          "key": "11",
+          "text": {
+            "fr": "Car voici, une source amère ne peut pas produire de bonne eau ; et une bonne source ne peut pas non plus produire de l’eau amère ; c’est pourquoi, un homme qui est serviteur du diable ne peut pas suivre le Christ ; et s’il suit le Christ, il ne peut pas être serviteur du diable.",
+            "en": "For behold, a bitter fountain cannot bring forth good water; neither can a good fountain bring forth bitter water; wherefore, a man being a servant of the devil cannot follow Christ; and if he follow Christ he cannot be a servant of the devil.",
+            "zh": "因為看啊，苦泉流不出好水，甘泉也流不出苦水；所以，作魔鬼僕人的不會跟隨基督，如果他跟隨基督，就不會是魔鬼的僕人。",
+            "jp": "見みよ，苦にがい泉いずみは良よい水みずを出だせないし，良よい泉いずみも苦にがい水みずを出だせない。そこで，悪あく魔まの僕しもべになっている者ものは，キリストに従したがうことができない。もしキリストに従したがうとすれば，悪あく魔まの僕しもべではあり得えない。",
+            "kr": "이는 보라, 쓴 샘이 좋은 물을 낼 수 없고, 좋은 샘이 쓴 물을 낼 수 없음이라. 그런즉 사람이 악마의 종이 되어 그리스도를 따를 수 없고, 그가 만일 그리스도를 따르면 그는 악마의 종이 될 수 없도다."
+          }
+        },
+        {
+          "key": "12",
+          "text": {
+            "fr": "C’est pourquoi, tout ce qui est bien vient de Dieu ; et ce qui est mal vient du diable ; car le diable est ennemi de Dieu, et le combat continuellement, et invite et incite continuellement à pécher et à faire ce qui est mal.",
+            "en": "Wherefore, all things which are good cometh of God; and that which is evil cometh of the devil; for the devil is an enemy unto God, and fighteth against him continually, and inviteth and enticeth to sin, and to do that which is evil continually.",
+            "zh": "所以，所有好的事物都從神而來，而邪惡的事物都從魔鬼而來；因為魔鬼是神的敵人，不斷與祂作對，邀請並說服世人犯罪，不斷做邪惡的事。",
+            "jp": "したがって，善よいものはすべて神かみから出でて，悪わるいものは悪あく魔まから出でる。悪あく魔まは神かみに対たいする敵てきであって，絶たえず神かみと戦たたかい，また人ひとを誘さそい，そそのかして罪つみを犯おかさせ，いつも悪わるいことを行おこなわせようとする。",
+            "kr": "그런즉 무릇 선한 일은 모두 하나님으로부터 오며, 악한 것은 악마에게서 오나니, 이는 악마가 하나님의 원수요, 끊임없이 하나님을 대적하여 싸우며, 또 죄를 범하도록 또 끊임없이 악을 행하도록 꾀며 유혹함이라."
+          }
+        },
+        {
+          "key": "13",
+          "text": {
+            "fr": "Mais voici, ce qui est de Dieu invite et incite continuellement à faire ce qui est bien ; c’est pourquoi, tout ce qui invite et incite à faire le bien, et à aimer Dieu, et à le servir, est inspiré de Dieu.",
+            "en": "But behold, that which is of God inviteth and enticeth to do good continually; wherefore, every thing which inviteth and enticeth to do good, and to love God, and to serve him, is inspired of God.",
+            "zh": "但是看啊，屬於神的則不斷邀請並說服世人為善，所以，凡邀請並說服世人為善、愛神及服事祂的事物，都是蒙神感召的。",
+            "jp": "しかし見みよ，神かみから出でるものはいつも善ぜんを行おこなうように誘さそい，促うながす。したがって，善ぜんを行おこない，神かみを愛あいし，神かみに仕つかえるように誘さそい，促うながすものはすべて，神かみの霊れい感かんを受うけているのである。",
+            "kr": "그러나 보라, 하나님께 속한 것은 끊임없이 선을 행하도록 이끌며 권유하나니, 그러므로 무릇 선을 행하도록 하며, 하나님을 사랑하고, 그를 섬기도록 이끌며 권유하는 것은 모두 하나님의 영감으로 말미암은 것이니라."
+          }
+        },
+        {
+          "key": "14",
+          "text": {
+            "fr": "C’est pourquoi, prenez garde, mes frères bien-aimés, de juger que ce qui est mal est de Dieu, ou que ce qui est bien et de Dieu est du diable.",
+            "en": "Wherefore, take heed, my beloved brethren, that ye do not judge that which is evil to be of God, or that which is good and of God to be of the devil.",
+            "zh": "所以，我心愛的弟兄們，要注意，不要將邪惡的判斷成屬於神的，或將良善而屬於神的判斷成屬於魔鬼的。",
+            "jp": "さて，わたしの愛あいする同胞はらからよ，あなたがたは悪わるいものを神かみから出でたと思おもわないように，あるいは善よいもので神かみから出でているものを，悪あく魔まから出でたと思おもわないように気きをつけなさい。",
+            "kr": "그러므로 내 사랑하는 형제들아, 너희는 삼가 악한 것을 하나님께 속한 것이라, 또는 선하고 하나님께 속한 것을 악마에게 속한 것이라 판단하지 않도록 주의하라."
+          }
+        },
+        {
+          "key": "15",
+          "text": {
+            "fr": "Car voici, mes frères, il vous est donné de juger, afin que vous discerniez le bien du mal ; et la façon de juger, afin de savoir avec une connaissance parfaite, est aussi claire que la lumière du jour par rapport à la nuit sombre.",
+            "en": "For behold, my brethren, it is given unto you to judge, that ye may know good from evil; and the way to judge is as plain, that ye may know with a perfect knowledge, as the daylight is from the dark night.",
+            "zh": "因為看啊，弟兄們，判斷力已賜給你們，使你們能分辨善惡；而判斷的方法，就像分辨白晝與黑夜那麼簡單，你們可以完全知道。",
+            "jp": "見みよ，わたしの同胞はらからよ，善ぜん悪あくをわきまえることができるように，物もの事ごとを判はん断だんすることはあなたがたに任まかされている。そして，その判はん断だんの方ほう法ほうは明あきらかであり，善ぜん悪あくの違ちがいは昼ひるが闇やみ夜よと違ちがうように，完かん全ぜんに理り解かいしてわきまえることができる。",
+            "kr": "이는 보라, 나의 형제들아, 판단할 수 있는 능력이 너희에게 주어져 너희로 선악을 분별하게 하였음이요, 또 판단하는 길은 어두운 밤과 낮의 빛을 구별함같이 명백하여 너희가 완전한 지식으로 알 수 있음이니라."
+          }
+        },
+        {
+          "key": "16",
+          "text": {
+            "fr": "Car voici, l’Esprit du Christ est donné à tout homme afin qu’il puisse discerner le bien du mal ; c’est pourquoi, je vous montre la façon de juger ; car tout ce qui invite à faire le bien et à persuader de croire au Christ est envoyé par le pouvoir et le don du Christ ; c’est pourquoi vous pouvez savoir avec une connaissance parfaite que c’est de Dieu.",
+            "en": "For behold, the Spirit of Christ is given to every man, that he may know good from evil; wherefore, I show unto you the way to judge; for every thing which inviteth to do good, and to persuade to believe in Christ, is sent forth by the power and gift of Christ; wherefore ye may know with a perfect knowledge it is of God.",
+            "zh": "因為看啊，基督的靈已賜給每一個人，使他們能分辨善惡，所以，我告訴你們判斷的方法；每一樣邀人為善並勸人信基督的事物，都是藉基督的大能和恩賜差來的，所以你們可以完全知道那是屬於神的。",
+            "jp": "見みよ，善ぜん悪あくをわきまえることができるように，すべての人ひとにキリストの御み霊たまが与あたえられているからである。さて，その判はん断だんの方ほう法ほうをあなたがたに教おしえよう。善ぜんを行おこなうように誘さそい，またキリストを信しんじるように勧すすめるものはすべて，キリストの力ちからと賜たま物ものによって送おくり出だされているのである。したがってあなたがたは，それが神かみから出でていることを完かん全ぜんに理り解かいしてわきまえることができる。",
+            "kr": "이는 보라, 그리스도의 영이 모든 사람에게 주어져 선악을 분별하게 하였은즉, 그러므로 내가 너희에게 판단하는 길을 보여 주노니, 무릇 선을 행하도록 권유하며, 권하여 그리스도를 믿도록 설득하는 것은, 모두 그리스도의 권능과 은사로 말미암아 보냄을 받은 것이라, 그런즉 너희는 그것이 하나님께 속한 것인 줄을 완전한 지식으로 알지니라."
+          }
+        },
+        {
+          "key": "17",
+          "text": {
+            "fr": "Mais tout ce qui persuade les hommes de faire le mal et de ne pas croire au Christ, et de le nier, et de ne pas servir Dieu, alors vous pouvez savoir avec une connaissance parfaite que c’est du diable ; car c’est de cette manière que le diable opère, car il ne persuade aucun homme de faire le bien, non, pas un seul ; ni ses anges non plus, ni ceux qui se soumettent à lui.",
+            "en": "But whatsoever thing persuadeth men to do evil, and believe not in Christ, and deny him, and serve not God, then ye may know with a perfect knowledge it is of the devil; for after this manner doth the devil work, for he persuadeth no man to do good, no, not one; neither do his angels; neither do they who subject themselves unto him.",
+            "zh": "但是，任何勸人作惡、不信基督、否認祂、不服事神的事物，你們就可以完全知道那是屬於魔鬼的，因為魔鬼就是這樣做事的，他不勸任何人為善，不，不勸任何人；他的使者這樣，臣服於他的人也是這樣。",
+            "jp": "しかし，悪あくを行おこなうように，キリストを信しんじないように，キリストを否ひ定ていするように，神かみに仕つかえないようにと人ひとに説とき勧すすめるものは何なんであろうと，それは悪あく魔まから出でていることをあなたがたは完かん全ぜんに理り解かいしてわきまえることができる。悪あく魔まはこのように働はたらくからである。悪あく魔まはだれにも善ぜんを行おこなうように説とき勧すすめない。また悪あく魔まの使つかいも，悪あく魔まに従したがう者ものも，そのように説とき勧すすめない。",
+            "kr": "그러나 무엇이라도 사람들을 설득하여 악을 행하게 하며, 그리스도를 믿지 않게 하고, 그를 부인하게 하며, 하나님을 섬기지 않게 하는 것이면, 너희는 그것이 악마에게 속한 것인 줄을 완전한 지식으로 알지니라. 이는 실로 이러한 방식으로 악마가 일함이니, 이는 그가 아무도, 실로 단 한 사람도 설득하여 선을 행하게 아니하며, 그의 사자들도 그러하며, 그에게 복종하는 자들도 그러함이라."
+          }
+        },
+        {
+          "key": "18",
+          "text": {
+            "fr": "Et maintenant, mes frères, étant donné que vous connaissez la lumière par laquelle vous pouvez juger, laquelle lumière est la lumière du Christ, veillez à ne pas juger à tort ; car de ce même jugement dont vous jugez, vous serez aussi jugés.",
+            "en": "And now, my brethren, seeing that ye know the light by which ye may judge, which light is the light of Christ, see that ye do not judge wrongfully; for with that same judgment which ye judge ye shall also be judged.",
+            "zh": "弟兄們，既然你們知道你們藉以判斷的光，那光就是基督之光，你們就當小心，切莫判斷錯誤，因為你們怎樣判斷，也要怎樣被判斷。",
+            "jp": "さて，わたしの同胞はらからよ，あなたがたは判はん断だんする際さいに用もちいる光ひかり，すなわちキリストの光ひかりについて知しっているので，誤あやまって裁さばかないように注ちゅう意いしなさい。あなたがたが裁さばくその裁さばきで，あなたがたも裁さばかれるからである。",
+            "kr": "이에 이제 나의 형제들아, 너희가 판단할 수 있는 빛, 곧 그리스도의 빛을 알고 있은즉, 너희가 잘못 판단하지 않도록 주의하라. 이는 너희가 판단하는 바로 그 판단으로 너희가 또한 판단을 받을 것임이니라."
+          }
+        },
+        {
+          "key": "19",
+          "text": {
+            "fr": "C’est pourquoi, je vous supplie, frères, de rechercher diligemment dans la lumière du Christ afin de discerner le bien du mal ; et si vous vous saisissez de toute bonne chose, et ne la condamnez pas, vous serez certainement enfants du Christ.",
+            "en": "Wherefore, I beseech of you, brethren, that ye should search diligently in the light of Christ that ye may know good from evil; and if ye will lay hold upon every good thing, and condemn it not, ye certainly will be a child of Christ.",
+            "zh": "所以，弟兄們，我懇求你們在基督的光中努力探求，使你們能分辨善惡；如果你們接受每一樣美好的事物，不加以指責，你們一定會成為基督的孩子。",
+            "jp": "そこでわたしは，同胞はらからであるあなたがたに，善ぜん悪あくをわきまえることができるように，キリストの光ひかりの中なかで熱ねっ心しんに求もとめることを切せつに勧すすめる。もしあなたがたが善よいものをことごとく手てにして，それを非ひ難なんしなければ，あなたがたは必かならずキリストの子ことなる。",
+            "kr": "그런즉 형제들아, 내가 너희에게 구하노니, 너희는 그리스도의 빛으로 부지런히 탐구하여 선악을 분별할 수 있도록 할지니, 만일 너희가 모든 선한 것을 붙잡으며, 그것을 정죄하지 아니할진대, 너희는 분명히 그리스도의 자녀가 될 것이니라."
+          }
+        },
+        {
+          "key": "20",
+          "text": {
+            "fr": "Et maintenant, mes frères, comment vous est-il possible de vous saisir de toute bonne chose ?",
+            "en": "And now, my brethren, how is it possible that ye can lay hold upon every good thing?",
+            "zh": "然而，弟兄們，你們怎麼能夠接受每一樣美好的事物呢？",
+            "jp": "さて，わたしの同胞はらからよ，どのようにすればあなたがたは，善よいものをことごとく手てにできるのであろうか。",
+            "kr": "그러면 이제 나의 형제들아, 너희가 모든 선한 것을 붙잡을 수 있음이 어떻게 가능하냐?"
+          }
+        },
+        {
+          "key": "21",
+          "text": {
+            "fr": "Et maintenant, j’en arrive à cette foi dont j’ai dit que je parlerais ; et je vais vous dire la façon dont vous pouvez vous saisir de toute bonne chose.",
+            "en": "And now I come to that faith, of which I said I would speak; and I will tell you the way whereby ye may lay hold on every good thing.",
+            "zh": "現在我就要談到我說過要談的信心了；而且我要告訴你們接受每一樣美好事物的方法。",
+            "jp": "ここで，わたしが話はなしたいと前まえに言いった信しん仰こうに行いき着つくのである。では，あなたがたが善よいものをことごとく手てにできる方ほう法ほうについて話はなそう。",
+            "kr": "이에 이제 나는 내가 말하겠다 한 저 신앙에 이르러, 너희가 모든 선한 것을 붙잡을 수 있는 길을 너희에게 말해 주리라."
+          }
+        },
+        {
+          "key": "22",
+          "text": {
+            "fr": "Car voici, sachant tout, étant d’éternité en éternité, voici, Dieu a envoyé des anges pour servir les enfants des hommes, pour rendre manifeste ce qui concerne la venue du Christ ; et, dans le Christ, tout ce qui était bon devait venir.",
+            "en": "For behold, God knowing all things, being from everlasting to everlasting, behold, he sent angels to minister unto the children of men, to make manifest concerning the coming of Christ; and in Christ there should come every good thing.",
+            "zh": "因為看啊，神從永恆到永恆，祂通曉萬事；看啊，祂差遣天使施助人類兒女，顯明基督的來臨；每一樣美好的事物都因基督而來到。",
+            "jp": "見みよ，神かみは永えい遠えんから永えい遠えんにわたって存そん在ざいし，すべてのことを御ご存ぞんじであるために，見みよ，天てん使したちを遣つかわして，人ひとの子こらに仕つかえさせ，キリストの来らい臨りんについて明あきらかにされた。キリストにあって，善よいものがことごとく来くるのである。",
+            "kr": "대저 보라, 하나님은 모든 것을 아시며, 영원으로부터 영원에 이르기까지 계시나니, 보라, 그가 천사들을 보내사 사람의 자녀들에게 성역을 베풀게 하시며, 그리스도의 오심에 관하여서와, 그리스도로 말미암아 모든 선한 일이 임할 것을 드러내게 하셨느니라."
+          }
+        },
+        {
+          "key": "23",
+          "text": {
+            "fr": "Et Dieu a aussi déclaré aux prophètes, de sa propre bouche, que le Christ viendrait.",
+            "en": "And God also declared unto prophets, by his own mouth, that Christ should come.",
+            "zh": "神也親口向眾先知宣布基督必定來臨。",
+            "jp": "また神かみは，キリストが来こられることを御ご自じ身しんの口くちを通とおして，預よ言げん者しゃたちに宣せん言げんされた。",
+            "kr": "또한 하나님은 친히 그 입으로, 그리스도가 올 것을 선지자들에게 선포하셨느니라."
+          }
+        },
+        {
+          "key": "24",
+          "text": {
+            "fr": "Et voici, il a eu diverses façons de manifester aux enfants des hommes des choses qui étaient bonnes ; et tout ce qui est bon vient du Christ ; autrement, les hommes étaient déchus, et rien de bon ne pouvait leur advenir.",
+            "en": "And behold, there were divers ways that he did manifest things unto the children of men, which were good; and all things which are good cometh of Christ; otherwise men were fallen, and there could no good thing come unto them.",
+            "zh": "看啊，祂用各種方法向人類兒女顯明美好的事物；所有美好的事物都來自基督，否則人類已墜落，不可能有美好的事物臨到他們。",
+            "jp": "見みよ，いろいろな方ほう法ほうによって，神かみは人ひとの子こらに善よいものを明あきらかにされた。そして，善よいものはすべてキリストから来くる。そうでなければ，人ひとは堕だ落らくした状じょう態たいになったので，善よいものはまったく人ひとに及およばなかったことであろう。",
+            "kr": "또 보라, 그가 사람의 자녀들에게 선한 일을 나타내시는 길이 여러 가지 있었어도 선한 모든 것은 그리스도에게서 오나니, 그렇지 아니하면 사람들은 타락한 고로 저희에게 선한 것이 아무것도 임할 수 없으리로다."
+          }
+        },
+        {
+          "key": "25",
+          "text": {
+            "fr": "C’est pourquoi, par le ministère d’anges et par toute parole qui sort de la bouche de Dieu, les hommes commencèrent à faire preuve de foi au Christ ; et ainsi, par la foi, ils se saisirent de tout ce qui est bon ; et il en fut ainsi jusqu’à la venue du Christ.",
+            "en": "Wherefore, by the ministering of angels, and by every word which proceeded forth out of the mouth of God, men began to exercise faith in Christ; and thus by faith, they did lay hold upon every good thing; and thus it was until the coming of Christ.",
+            "zh": "因此，藉著天使的施助，並且藉著神口中說的每一句話，世人開始運用對基督的信心；他們這樣憑信心接受每一樣美好的事物，直到基督來臨為止。",
+            "jp": "さて，天てん使しの働はたらきによって，また神かみの口くちから出でる一ひとつ一ひとつの御み言こと葉ばによって，人ひとはキリストを信しんじるようになった。その結けっ果か，信しん仰こうによって人ひとは善よいものをことごとく手てにした。キリストの来らい臨りんまでそうであった。",
+            "kr": "그리하여 천사들의 성역으로 말미암아, 또 하나님의 입에서 나아오는 모든 말씀으로 말미암아, 사람들은 그리스도를 믿는 신앙을 행사하기 시작하였고, 그리하여 신앙으로 말미암아 저희가 모든 선한 것을 붙잡았으니 그리스도가 오실 때까지 그러하였느니라."
+          }
+        },
+        {
+          "key": "26",
+          "text": {
+            "fr": "Et lorsqu’il fut venu, les hommes furent aussi sauvés par la foi en son nom ; et par la foi, ils deviennent les fils de Dieu. Et aussi sûrement que le Christ vit, il a dit ces paroles à nos pères : Tout ce que vous demanderez de bon au Père, en mon nom, croyant avec foi que vous recevrez, voici, cela vous sera fait.",
+            "en": "And after that he came men also were saved by faith in his name; and by faith, they become the sons of God. And as surely as Christ liveth he spake these words unto our fathers, saying: Whatsoever thing ye shall ask the Father in my name, which is good, in faith believing that ye shall receive, behold, it shall be done unto you.",
+            "zh": "祂來臨後，世人也憑著對祂名的信心而得救；他們憑信心成為神的兒子。像基督活著一樣確實，祂對我們的祖先說過這些話，祂說：你們奉我的名無論向父求什麼，只要是好的，並憑著信心相信你們必得到，看啊，事情就必為你們成就。",
+            "jp": "また，キリストが来こられた後のちも，人ひとはキリストの御み名なを信しんじる信しん仰こうによって救すくわれた。信しん仰こうによって人ひとは神かみの子ことなっている。キリストが生いきておられるように確たしかに，キリストはわたしたちの先せん祖ぞにこのように言いわれた。すなわち，『あなたがたが与あたえられると信しんじて，信しん仰こうをもってわたしの名なによって父ちちに求もとめるものは，正せい当とうであれば，見みよ，何なんでもあなたがたに与あたえられる。』",
+            "kr": "또 그가 오신 후에도 사람들은 그의 이름을 믿는 신앙으로 구원을 받았고, 신앙으로 저희가 하나님의 아들들이 되나니, 그리스도께서 살아 계심같이 분명히 그는 우리 조상들에게 이 말씀을 하셨느니라. 이르시되, 너희가 받을 줄로 믿으며 신앙으로 무엇이든지 선한 것을 내 이름으로 아버지께 구하는 것은, 보라, 너희에게 이루어지리라 하셨느니라."
+          }
+        },
+        {
+          "key": "27",
+          "text": {
+            "fr": "C’est pourquoi, mes frères bien-aimés, les miracles ont-ils cessé parce que le Christ est monté au ciel et s’est assis à la droite de Dieu, pour réclamer au Père les droits de miséricorde qu’il a sur les enfants des hommes ?",
+            "en": "Wherefore, my beloved brethren, have miracles ceased because Christ hath ascended into heaven, and hath sat down on the right hand of God, to claim of the Father his rights of mercy which he hath upon the children of men?",
+            "zh": "因此，我心愛的弟兄們，奇蹟是否因為基督已升天，坐在神右邊，向父要求祂對人類兒女慈悲的權利而停止了呢？",
+            "jp": "さて，わたしの愛あいする同胞はらからよ，キリストは，人ひとの子こらに対たいして持もっておられる御ご自じ分ぶんの憐あわれみの権けん利りを御おん父ちちに求もとめるために，天てんに昇のぼって神かみの右みぎの座ざに着つかれたので，奇き跡せきがやんでしまったのであろうか。",
+            "kr": "그런즉 내 사랑하는 형제들아, 그리스도께서 하늘에 올라 하나님의 우편에 앉으사 사람의 자녀들에 대하여 지니신 그의 자비의 권한을 아버지께 주장함으로 인하여 기적이 그쳤느냐?"
+          }
+        },
+        {
+          "key": "28",
+          "text": {
+            "fr": "Car il a satisfait aux buts de la loi, et il réclame tous ceux qui ont foi en lui ; et ceux qui ont foi en lui s’attachent à tout ce qui est bon ; c’est pourquoi, il défend la cause des enfants des hommes ; et il demeure éternellement dans les cieux.",
+            "en": "For he hath answered the ends of the law, and he claimeth all those who have faith in him; and they who have faith in him will cleave unto every good thing; wherefore he advocateth the cause of the children of men; and he dwelleth eternally in the heavens.",
+            "zh": "因為祂已滿足了律法的要求，並且要求得到所有對祂有信心的人；凡對祂有信心的人，必固守一切美好的事物；因此，祂為人類兒女辯護，並永遠住在天上。",
+            "jp": "キリストは律りっ法ぽうの目もく的てきを達たっせられた。そして，キリストを信しんじるすべての者ものを，御ご自じ分ぶんに属ぞくするものと主しゅ張ちょうしておられる。また，キリストを信しんじる者ものは一いっ切さいの善よいものを固かたく守まもるので，キリストは人ひとの子こらを弁べん護ごしてくださる。そして，キリストは永えい遠えんに天てんに住すまわれるのである。",
+            "kr": "대저 그는 율법의 목적에 부응하셨고, 그를 믿는 모든 자를 자기 것으로 주장하시며, 그를 믿는 자들은 모든 선한 것을 굳게 붙들 것인즉, 그러므로 그는 사람의 자녀들을 위하여 변호하시며, 영원토록 하늘에 거하시느니라."
+          }
+        },
+        {
+          "key": "29",
+          "text": {
+            "fr": "Et parce qu’il a fait cela, mes frères bien-aimés, les miracles ont-ils cessé ? Voici, je vous dis que non ; et les anges n’ont pas cessé non plus de servir les enfants des hommes.",
+            "en": "And because he hath done this, my beloved brethren, have miracles ceased? Behold I say unto you, Nay; neither have angels ceased to minister unto the children of men.",
+            "zh": "我心愛的弟兄們，祂這樣做，奇蹟就停止了嗎？看啊，我告訴你們，沒有，天使也沒有停止施助人類兒女。",
+            "jp": "わたしの愛あいする同胞はらからよ，キリストがこのように行おこなわれたので，奇き跡せきはやんでしまったのであろうか。見みよ，そうではないと，わたしはあなたがたに言いう。また天てん使したちも人ひとの子こらに仕つかえることをやめてはいない。",
+            "kr": "이에 나의 사랑하는 형제들아, 그가 이를 행하셨음으로 인하여 기적이 그쳤느냐? 보라 내가 너희에게 이르노니, 아니라. 그리고 천사들이 사람의 자녀들에게 성역을 베푸는 일도 그치지 아니하였느니라."
+          }
+        },
+        {
+          "key": "30",
+          "text": {
+            "fr": "Car voici, ils lui sont soumis, pour servir selon la parole de son commandement, se montrant à ceux qui ont la foi forte et l’esprit ferme dans toutes les formes de la piété.",
+            "en": "For behold, they are subject unto him, to minister according to the word of his command, showing themselves unto them of strong faith and a firm mind in every form of godliness.",
+            "zh": "因為看啊，天使臣服於祂，照祂命令的話施助，向在一切神聖事物上信心堅強、意志堅定的人顯現。",
+            "jp": "見みよ，天てん使しはキリストに従したがっており，深ふかい信しん仰こうと確かっ固ことした心こころをもって，あらゆる方ほう法ほうで神かみを敬うやまう者ものに自じ分ぶん自じ身しんを示しめし，キリストの命めいじられる御み言こと葉ばのとおりに仕つかえている。",
+            "kr": "이는 보라, 그들은 그에게 복종하여, 그의 명하시는 말씀을 좇아 성역을 베풀며, 경건의 모든 모양 중에 강한 신앙과 굳건한 마음을 지닌 자들에게 스스로를 보임이니라."
+          }
+        },
+        {
+          "key": "31",
+          "text": {
+            "fr": "Et l’office de leur ministère est d’appeler les hommes au repentir et d’accomplir et de faire l’œuvre des alliances que le Père a faites avec les enfants des hommes, pour préparer le chemin parmi les enfants des hommes, en annonçant la parole du Christ aux vases choisis du Seigneur, afin qu’ils témoignent de lui.",
+            "en": "And the office of their ministry is to call men unto repentance, and to fulfil and to do the work of the covenants of the Father, which he hath made unto the children of men, to prepare the way among the children of men, by declaring the word of Christ unto the chosen vessels of the Lord, that they may bear testimony of him.",
+            "zh": "他們事工的職責是召喚世人悔改、履行並執行父與人類兒女所立聖約中的事，以及藉著向主揀選的器皿宣布基督的話，使他們能為祂作見證，而在人類兒女間預備道路。",
+            "jp": "天てん使しの務つとめは，人ひとを招まねいて悔くい改あらためさせることと，御おん父ちちが人ひとの子こらに立たてられた聖せい約やくの業わざを果はたして実じっ行こうすることと，主しゅの選えらばれた器うつわにキリストの御み言こと葉ばを告つげ知しらせることによって彼かれらがキリストについて証あかしを述のべるようにして，人ひとの子こらの中なかに道みちを備そなえることである。",
+            "kr": "또 그들의 성역의 직무는 사람들을 불러 회개하게 하며, 아버지께서 사람의 자녀들에게 맺으신 바, 그의 성약을 이루고 그 성약의 일을 행하며, 그리스도의 말씀을 주의 택하신 그릇에게 선포하여, 그들로 그리스도에 대하여 증거하게 함으로써, 사람의 자녀들 가운데 길을 예비하는 것이니라."
+          }
+        },
+        {
+          "key": "32",
+          "text": {
+            "fr": "Et ce faisant, le Seigneur Dieu prépare le chemin pour que le reste des hommes ait foi au Christ, pour que le Saint-Esprit ait place dans leur cœur, selon son pouvoir ; et c’est de cette manière que le Père accomplit les alliances qu’il a faites avec les enfants des hommes.",
+            "en": "And by so doing, the Lord God prepareth the way that the residue of men may have faith in Christ, that the Holy Ghost may have place in their hearts, according to the power thereof; and after this manner bringeth to pass the Father, the covenants which he hath made unto the children of men.",
+            "zh": "主神這樣做以預備道路，讓其餘的世人對基督有信心，使聖靈按其力量在他們心裡有地位；父就是這樣履行與人類兒女所立的聖約。",
+            "jp": "このようにして，主しゅなる神かみは道みちを備そなえて，残のこりの人ひと々びともキリストを信しんじる信しん仰こうを持もち，聖せい霊れいがその力ちからによって彼かれらの心こころの中なかに宿やどられるようにされるのである。このような方ほう法ほうで，御おん父ちちは人ひとの子こらに立たてられた聖せい約やくを果はたされる。",
+            "kr": "또 이렇게 하심으로써, 주 하나님께서는 나머지 사람들이 그리스도를 믿는 신앙을 갖도록 길을 예비하사, 성신이 그 권능을 좇아 그들의 마음에 있을 곳을 가지게 하시나니, 이 같은 방법으로 아버지께서는 사람의 자녀들에게 맺으신 성약을 이루시느니라."
+          }
+        },
+        {
+          "key": "33",
+          "text": {
+            "fr": "Et le Christ a dit : Si vous avez foi en moi, vous aurez le pouvoir de faire tout ce qui est utile en moi.",
+            "en": "And Christ hath said: If ye will have faith in me ye shall have power to do whatsoever thing is expedient in me.",
+            "zh": "基督說過：你們若對我有信心，就有能力做一切我認為合宜的事。",
+            "jp": "キリストは言いわれた。『あなたがたはわたしを信しんじるならば，わたしの心こころにかなうことを何なに事ごとでも行おこなう力ちからを持もつであろう』と。",
+            "kr": "또 그리스도께서 말씀하시되, 만일 너희가 나를 믿는 신앙을 가지면 내게 합당한 것은 무엇이든지 다 행할 수 있는 능력을 갖게 되리라."
+          }
+        },
+        {
+          "key": "34",
+          "text": {
+            "fr": "Et il a dit : Repentez-vous, toutes les extrémités de la terre, et venez à moi, et soyez baptisées en mon nom, et ayez foi en moi, afin que vous soyez sauvées.",
+            "en": "And he hath said: Repent all ye ends of the earth, and come unto me, and be baptized in my name, and have faith in me, that ye may be saved.",
+            "zh": "祂說：大地各端的人啊，要悔改，歸向我，奉我的名受洗，對我有信心，這樣你們才能得救。",
+            "jp": "また，『地ちの果はてに至いたるすべての人ひとよ，悔くい改あらためて，わたしのもとに来きて，わたしの名なによってバプテスマを受うけなさい。救すくわれるためにわたしを信しんじなさい』と，キリストは言いわれた。",
+            "kr": "또 이르시되, 너희 땅의 모든 끝이여, 회개하고 내게로 와서, 나의 이름으로 침례를 받고, 나를 믿는 신앙을 가지라, 그리하면 너희가 구원을 얻으리라 하셨느니라."
+          }
+        },
+        {
+          "key": "35",
+          "text": {
+            "fr": "Et maintenant, mes frères bien-aimés, si ces choses que je vous ai dites sont vraies, et Dieu vous montrera, avec puissance et une grande gloire au dernier jour qu’elles sont vraies, et si elles sont vraies, le jour des miracles a-t-il cessé ?",
+            "en": "And now, my beloved brethren, if this be the case that these things are true which I have spoken unto you, and God will show unto you, with power and great glory at the last day, that they are true, and if they are true has the day of miracles ceased?",
+            "zh": "現在，我心愛的弟兄們，如果我對你們講的這些話是真的，而神會在末日憑大能和極大的榮耀，向你們顯示這些是真的，如果這些是真的，奇蹟的時代就結束了嗎？",
+            "jp": "さて，わたしの愛あいする同胞はらからよ，あなたがたに話はなしたこれらのことが真しん実じつであれば，また神かみは，これらのことが真しん実じつであることを，終おわりの日ひに力ちからと大おおいなる栄えい光こうとをもってあなたがたに示しめされるであろうが，もしこれらのことが真しん実じつであれば，奇き跡せきの日ひは終おわってしまったと言いえるであろうか。",
+            "kr": "이에 이제 나의 사랑하는 형제들아, 내가 너희에게 말한 이러한 것들이 참될진대, 그리고 하나님께서 이러한 것이 참됨을 마지막 날에 권능과 큰 영광으로 너희에게 보이시려니와, 만일 이러한 것이 참되다면 기적의 날이 그쳤느냐?"
+          }
+        },
+        {
+          "key": "36",
+          "text": {
+            "fr": "Ou les anges ont-ils cessé d’apparaître aux enfants des hommes ? Ou leur a-t-il refusé le pouvoir du Saint-Esprit ? Ou le fera-t-il, aussi longtemps que le temps durera, ou que la terre demeurera, ou qu’il y aura, à la surface de la terre, un seul homme à sauver ?",
+            "en": "Or have angels ceased to appear unto the children of men? Or has he withheld the power of the Holy Ghost from them? Or will he, so long as time shall last, or the earth shall stand, or there shall be one man upon the face thereof to be saved?",
+            "zh": "還是天使就停止對人類兒女顯現了？還是祂就扣留聖靈的力量不給他們了？只要時光繼續，或是大地仍在，或是地面上還有一個人待拯救，祂會扣留聖靈的力量嗎？",
+            "jp": "天てん使しが人ひとの子こらに現あらわれることは，終おわってしまったのであろうか。神かみは聖せい霊れいの力ちからを人ひとの子こらに与あたえられなくなったのであろうか。時ときが続つづくかぎり，大だい地ちが存そん在ざいするかぎり，地ちの面おもてに救すくわれる人ひとが一人ひとりでもいるかぎり，神かみは聖せい霊れいの力ちからを与あたえるのを控ひかえられるであろうか。",
+            "kr": "또는 천사들이 사람의 자녀들에게 나타나기를 그쳤느냐? 또는 그가 그들에게서 성신의 권능을 거두셨느냐? 또는 시간이 지속되거나, 땅이 존속하거나, 그 위에 단 한 사람이라도 구원받을 자가 있는 한 그가 그리하시겠느냐?"
+          }
+        },
+        {
+          "key": "37",
+          "text": {
+            "fr": "Voici, je vous dis que non ; car c’est par la foi que les miracles s’accomplissent ; et c’est par la foi que les anges apparaissent aux hommes et les servent ; c’est pourquoi, si ces choses ont cessé, malheur aux enfants des hommes, car c’est à cause de l’incrédulité, et tout est vain.",
+            "en": "Behold I say unto you, Nay; for it is by faith that miracles are wrought; and it is by faith that angels appear and minister unto men; wherefore, if these things have ceased wo be unto the children of men, for it is because of unbelief, and all is vain.",
+            "zh": "看啊，我告訴你們，不會；因為是憑著信心才行奇蹟的，是憑著信心，天使才顯現並施助世人的；所以，這些事若已停止，人類兒女就有禍了，因為那是由於不信的緣故，而一切都是枉然。",
+            "jp": "見みよ，そうではないと，わたしはあなたがたに言いう。奇き跡せきが行おこなわれるのは信しん仰こうによるからである。天てん使しが人ひとに現あらわれて仕つかえるのも，信しん仰こうによる。したがって，もしこれらのことがなくなっているとすれば，それは不ふ信しん仰こうのためであり，すべてはむなしいので，人ひとの子こらは災わざわいである。",
+            "kr": "보라 내가 너희에게 이르노니, 아니라. 이는 기적이 이루어지는 것이 신앙으로 말미암음이요, 천사들이 사람들에게 나타나 성역을 베푸는 것도 신앙으로 말미암음이라. 그런즉 만일 이러한 일들이 그쳤다면 사람의 자녀들에게 화 있을진저, 이는 그것이 믿지 않음으로 인함이요, 모든 것이 헛됨이라."
+          }
+        },
+        {
+          "key": "38",
+          "text": {
+            "fr": "Car nul ne peut être sauvé, selon les paroles du Christ, s’il n’a la foi en son nom ; c’est pourquoi, si ces choses ont cessé, alors la foi a cessé aussi ; et affreux est l’état de l’homme, car il est comme si aucune rédemption n’avait été faite.",
+            "en": "For no man can be saved, according to the words of Christ, save they shall have faith in his name; wherefore, if these things have ceased, then has faith ceased also; and awful is the state of man, for they are as though there had been no redemption made.",
+            "zh": "因為根據基督的話，除非對祂的名有信心，否則無人可以得救；所以，這些事若已停止，那麼信心也必已停止；世人的景況就非常可怕，因為對他們而言，就好像從來沒有救贖一樣。",
+            "jp": "キリストの御み言こと葉ばにあるとおり，キリストの御み名なを信しんじなければ，だれも救すくわれないからである。したがって，もしこれらのことがなくなっているとすれば，信しん仰こうもなくなっている。そして，人ひとはひどい状じょう態たいにある。なぜならば，人ひとはまるで贖あがないがまったくなかったかのような有あり様さまになるからである。",
+            "kr": "이는 그리스도의 말씀에 따를진대, 그의 이름을 믿지 아니하고는 아무도 구원받지 못할 것임이니, 그러므로 만일 이러한 일들이 그쳤다면, 그러면 신앙이 또한 그친 것이요, 이에 사람의 상태가 참담하리니, 이는 그들이 마치 구속이 이루어지지 아니하였던 것과 같음이라."
+          }
+        },
+        {
+          "key": "39",
+          "text": {
+            "fr": "Mais voici, mes frères bien-aimés, je vous juge mieux que cela, car je juge que vous avez foi au Christ à cause de votre humilité ; car si vous n’avez pas foi en lui, alors vous n’êtes pas dignes d’être comptés parmi le peuple de son Église.",
+            "en": "But behold, my beloved brethren, I judge better things of you, for I judge that ye have faith in Christ because of your meekness; for if ye have not faith in him then ye are not fit to be numbered among the people of his church.",
+            "zh": "但是看啊，我心愛的弟兄們，我斷定你們的情形會較好，由於你們的溫順，我斷定你們對基督有信心；因為你們如果對祂沒有信心，就不配算在祂教會的人中。",
+            "jp": "しかし見みよ，わたしの愛あいする同胞はらからよ，わたしはあなたがたのことをもっと良よい状じょう態たいにあると判はん断だんしている。あなたがたが柔にゅう和わであるのを見みて，あなたがたにはキリストを信しんじる信しん仰こうがあると思おもうからである。あなたがたはキリストを信しんじていなければ，キリストの教きょう会かいの民たみの中なかに数かぞえられるにふさわしくない。",
+            "kr": "그러나 보라, 나의 사랑하는 형제들아, 나는 너희가 더 나은 줄로 판단하노니, 이는 너희의 온유함으로 인하여 너희가 그리스도를 믿는 줄로 내가 판단함이라. 이는 만일 너희가 그를 믿지 아니하면 너희는 그의 교회의 백성 가운데 헤아림을 받기에 합당하지 아니함이니라."
+          }
+        },
+        {
+          "key": "40",
+          "text": {
+            "fr": "Et en outre, mes frères bien-aimés, je voudrais vous parler de l’espérance. Comment pouvez-vous parvenir à la foi si vous n’avez pas l’espérance ?",
+            "en": "And again, my beloved brethren, I would speak unto you concerning hope. How is it that ye can attain unto faith, save ye shall have hope?",
+            "zh": "我心愛的弟兄們，我要再次跟你們談談希望。除非你們懷有希望，否則怎麼得到信心呢？",
+            "jp": "また，わたしの愛あいする同胞はらからよ，わたしは希き望ぼうについてあなたがたに話はなしたいと思おもう。あなたがたに希き望ぼうがなければ，どうして信しん仰こうが得えられるであろうか。",
+            "kr": "그리고 또 나의 사랑하는 형제들아, 내가 소망에 관하여 너희에게 말하고자 하노라. 너희가 소망을 갖지 아니하고 어찌 신앙에 이를 수 있느냐?"
+          }
+        },
+        {
+          "key": "41",
+          "text": {
+            "fr": "Et qu’allez-vous espérer ? Voici, je vous dis que vous aurez l’espérance, par l’expiation du Christ et le pouvoir de sa résurrection, d’être ressuscités pour la vie éternelle, et cela à cause de votre foi en lui, selon la promesse.",
+            "en": "And what is it that ye shall hope for? Behold I say unto you that ye shall have hope through the atonement of Christ and the power of his resurrection, to be raised unto life eternal, and this because of your faith in him according to the promise.",
+            "zh": "你們應當希望什麼呢？看啊，我告訴你們，你們應當希望靠著基督的贖罪和祂復活的大能復活，而得到永生，根據那應許，這希望要因你們對祂的信心而實現。",
+            "jp": "また，あなたがたは何なにを望のぞめばよいのであろうか。見みよ，わたしはあなたがたに言いう。あなたがたは，キリストの贖しょく罪ざいとキリストの復ふっ活かつの力ちからによって永えい遠えんの命いのちによみがえることを望のぞまなければならない。あなたがたがキリストを信しんじることで，約やく束そくのとおりこれが果はたされるのである。",
+            "kr": "또 너희가 바라야 할 바는 무엇이냐? 보라, 내가 너희에게 이르노니 너희는 그리스도의 속죄와 그의 부활의 능력을 통하여 영생으로 일으키심을 받으리라는 소망을 가져야 할지니, 이는 약속대로 그를 믿는 너희의 신앙으로 인한 것이니라."
+          }
+        },
+        {
+          "key": "42",
+          "text": {
+            "fr": "C’est pourquoi, si un homme a la foi, il doit nécessairement avoir l’espérance ; car, sans la foi, il ne peut y avoir d’espérance.",
+            "en": "Wherefore, if a man have faith he must needs have hope; for without faith there cannot be any hope.",
+            "zh": "所以，人若有信心，就必定有希望，因為沒有信心就不會有任何希望。",
+            "jp": "したがって，もし人ひとに信しん仰こうがあれば，必かならず希き望ぼうもあるに違ちがいない。信しん仰こうのない希き望ぼうはあり得えないからである。",
+            "kr": "그런즉 사람이 신앙을 가지려면 반드시 소망을 가져야만 하나니, 이는 신앙 없이는 아무 소망도 있을 수 없음이라."
+          }
+        },
+        {
+          "key": "43",
+          "text": {
+            "fr": "Et en outre, voici, je vous dis qu’il ne peut avoir la foi et l’espérance s’il n’est doux et humble de cœur.",
+            "en": "And again, behold I say unto you that he cannot have faith and hope, save he shall be meek, and lowly of heart.",
+            "zh": "看啊，我要再次告訴你們，人除非心裡溫順謙卑，否則不可能有信心和希望。",
+            "jp": "さらに見みよ，あなたがたに言いう。柔にゅう和わで心こころのへりくだった人ひとでなければ，信しん仰こうと希き望ぼうを持もつことはできない。",
+            "kr": "그리고 또 보라, 내가 너희에게 이르거니와 그가 온유하며 마음이 겸손하게 되지 아니하고는 신앙과 소망을 가질 수 없느니라."
+          }
+        },
+        {
+          "key": "44",
+          "text": {
+            "fr": "Sinon, sa foi et son espérance sont vaines, car nul n’est acceptable devant Dieu, si ce n’est ceux qui sont doux et humbles de cœur ; et si un homme est doux et humble de cœur, et confesse par le pouvoir du Saint-Esprit que Jésus est le Christ, il doit nécessairement avoir la charité ; car s’il n’a pas la charité, il n’est rien ; c’est pourquoi il doit nécessairement avoir la charité.",
+            "en": "If so, his faith and hope is vain, for none is acceptable before God, save the meek and lowly in heart; and if a man be meek and lowly in heart, and confesses by the power of the Holy Ghost that Jesus is the Christ, he must needs have charity; for if he have not charity he is nothing; wherefore he must needs have charity.",
+            "zh": "若不這樣，他的信心和希望都是枉然，因為除了心裡溫順謙卑的人外，沒有人能在神前蒙接納；人若心裡溫順謙卑，並藉著聖靈的力量承認耶穌是基督，就必定有仁愛；因為他若沒有仁愛，就算不得什麼；所以他必定需要有仁愛。",
+            "jp": "たとえ持もてたとしても，その人ひとの信しん仰こうと希き望ぼうはむなしいものである。柔にゅう和わで心こころのへりくだった人ひとでなければ，神かみの御み前まえに受うけ入いれられないからである。また，人ひとが柔にゅう和わで，心こころがへりくだっており，イエスがキリストであることを聖せい霊れいの力ちからによって認みとめるならば，その人ひとには慈じ愛あいが必かならずなければならない。慈じ愛あいがなければ，その人ひとは何なんの価か値ちもない。したがって，人ひとには慈じ愛あいが必かならずなければならない。",
+            "kr": "만일 그러하면 그의 신앙과 소망은 헛것이라. 이는 온유하며 마음이 겸손한 자가 아니면 아무도 하나님 앞에 받아들여지지 아니함이라. 또 만일 사람이 온유하고 마음이 겸손하여 예수가 그리스도이심을 성신의 권능으로 시인하려면, 그는 반드시 사랑을 가져야만 하나니, 이는 만일 그에게 사랑이 없으면 그가 아무것도 아님이라. 그런즉 그는 반드시 사랑을 가져야만 하느니라."
+          }
+        },
+        {
+          "key": "45",
+          "text": {
+            "fr": "Et la charité est patiente, et est pleine de bonté, et n’est pas envieuse, et ne s’enfle pas d’orgueil, ne cherche pas son intérêt, ne s’irrite pas, ne soupçonne pas le mal, et ne se réjouit pas de l’injustice, mais se réjouit de la vérité, excuse tout, croit tout, espère tout, supporte tout.",
+            "en": "And charity suffereth long, and is kind, and envieth not, and is not puffed up, seeketh not her own, is not easily provoked, thinketh no evil, and rejoiceth not in iniquity but rejoiceth in the truth, beareth all things, believeth all things, hopeth all things, endureth all things.",
+            "zh": "仁愛是恆久忍耐又有恩慈，不嫉妒，不張狂，不求自己的益處，不易被激怒，不動惡念，不在罪惡中快樂，只在真理中快樂，凡事包容，凡事相信，凡事盼望，凡事忍耐。",
+            "jp": "慈じ愛あいは長ながく堪たえ忍しのび，親しん切せつであり，ねたまず，誇ほこらず，自じ分ぶんの利り益えきを求もとめず，容よう易いに怒いからず，悪あく事じを少すこしも考かんがえず，罪ざい悪あくを喜よろこばないで真しん実じつを喜よろこび，すべてを忍しのび，すべてを信しんじ，すべてを望のぞみ，すべてに耐たえる。",
+            "kr": "그리고 사랑은 오래 참고, 친절하며, 시기하지 아니하며, 교만하지 아니하며, 자기의 것을 구하지 아니하며, 쉽게 성내지 아니하며 악한 것을 생각하지 아니하며, 불의를 기뻐하지 아니하고, 진리를 기뻐하며 모든 것을 참으며 모든 것을 믿으며 모든 것을 바라며 모든 것을 견디느니라."
+          }
+        },
+        {
+          "key": "46",
+          "text": {
+            "fr": "C’est pourquoi, mes frères bien-aimés, si vous n’avez pas la charité, vous n’êtes rien, car la charité ne périt jamais. C’est pourquoi, attachez-vous à la charité, qui est ce qu’il y a de plus grand, car tout succombera ;",
+            "en": "Wherefore, my beloved brethren, if ye have not charity, ye are nothing, for charity never faileth. Wherefore, cleave unto charity, which is the greatest of all, for all things must fail—",
+            "zh": "所以，我心愛的弟兄們，你們若沒有仁愛，就算不得什麼，因為仁愛永不止息。因此，要固守著仁愛，那是一切事物中最偉大的，因為一切事物終必止息——",
+            "jp": "したがって，わたしの愛あいする同胞はらからよ，もしあなたがたに慈じ愛あいがなければ，あなたがたは何なんの価か値ちもない。慈じ愛あいはいつまでも絶たえることがないからである。したがって，最もっとも大おおいなるものである慈じ愛あいを固かたく守まもりなさい。すべてのものは必かならず絶たえてしまうからである。",
+            "kr": "그런즉 나의 사랑하는 형제들아, 만일 너희에게 사랑이 없으면, 너희는 아무것도 아니니, 이는 사랑은 언제까지나 시들지 아니함이라. 그런즉 모든 것 중에 으뜸이 되는 사랑을 붙들라. 이는 모든 것이 반드시 시들되—"
+          }
+        },
+        {
+          "key": "47",
+          "text": {
+            "fr": "Mais la charité est l’amour pur du Christ, et elle subsiste à jamais ; et tout ira bien pour quiconque sera trouvé la possédant au dernier jour.",
+            "en": "But charity is the pure love of Christ, and it endureth forever; and whoso is found possessed of it at the last day, it shall be well with him.",
+            "zh": "然而仁愛是基督純正的愛，這種愛永遠持守；凡在末日被斷定有仁愛的，他的景況一定很好。",
+            "jp": "しかし，この慈じ愛あいはキリストの純じゅん粋すいな愛あいであって，とこしえに続つづく。そして，終おわりの日ひにこの慈じ愛あいを持もっていると認みとめられる人ひとは，幸さいわいである。",
+            "kr": "이 사랑은 그리스도의 순수한 사랑이라, 영원히 견딤이요, 누구든지 마지막 날에 이를 지닌 것으로 드러나는 자는 잘 될 것임이니라."
+          }
+        },
+        {
+          "key": "48",
+          "text": {
+            "fr": "C’est pourquoi, mes frères bien-aimés, priez le Père de toute l’énergie de votre cœur, afin d’être remplis de cet amour qu’il a accordé à tous ceux qui sont de vrais disciples de son Fils, Jésus-Christ ; afin de devenir les fils de Dieu ; afin que lorsqu’il apparaîtra, nous soyons semblables à lui, car nous le verrons tel qu’il est ; afin que nous ayons cette espérance ; afin que nous soyons purifiés comme il est pur. Amen.",
+            "en": "Wherefore, my beloved brethren, pray unto the Father with all the energy of heart, that ye may be filled with this love, which he hath bestowed upon all who are true followers of his Son, Jesus Christ; that ye may become the sons of God; that when he shall appear we shall be like him, for we shall see him as he is; that we may have this hope; that we may be purified even as he is pure. Amen.",
+            "zh": "所以，我心愛的弟兄們，要全心全力向父祈求，好使你們滿懷父賜給祂兒子耶穌基督的真正信徒的這種愛；使你們得以成為神的兒子；使我們在祂顯現時像祂一樣，因為我們必得見祂的真體；使我們懷有這個希望；使我們被潔淨得像祂一樣純潔。阿們。",
+            "jp": "したがって，わたしの愛あいする同胞はらからよ，あなたがたは，御おん父ちちが御おん子こイエス・キリストに真しんに従したがう者ものすべてに授さずけられたこの愛あいで満みたされるように，また神かみの子ことなれるように，熱ねつ意いを込こめて御おん父ちちに祈いのりなさい。また，御おん子こが御ご自じ身しんを現あらわされるときに，わたしたちはありのままの御み姿すがたの御おん子こにまみえるので，御おん子こに似にた者ものとなれるように，またわたしたちがこの希き望ぼうを持もてるように，さらにわたしたちが清きよめられて清きよい御おん子こと同おなじようになれるよう，熱ねつ意いを込こめて御おん父ちちに祈いのりなさい。アーメン。」",
+            "kr": "그런즉 내 사랑하는 형제들아, 마음의 힘을 다해 아버지께 기도하여, 그의 아들 예수 그리스도를 참되게 따르는 자 모두에게 내려주신 이 사랑으로 충만하게 되며, 너희가 하나님의 아들이 되며, 그가 나타나실 때에 그가 계신 그대로 우리가 그를 볼 것인즉, 우리가 그와 같이 되게 하며, 우리로 이 소망을 갖게 하며, 그가 순결하신 것같이 우리가 순결하게 되게 할지어다. 아멘."
+          }
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "introduction": {
+        "fr": "Le baptême des petits enfants est une abomination perverse — Les petits enfants sont vivants dans le Christ à cause de l’expiation — La foi, le repentir, la douceur et l’humilité de cœur, la réception du Saint-Esprit et la persévérance jusqu’à la fin conduisent au salut. Vers 401–421 apr. J.-C.",
+        "en": "The baptism of little children is an evil abomination—Little children are alive in Christ because of the Atonement—Faith, repentance, meekness and lowliness of heart, receiving the Holy Ghost, and enduring to the end lead to salvation. About A.D. 401–21.",
+        "zh": "為小孩施洗是邪惡的憎行——有了贖罪，小孩才因基督得生命——信心、悔改、溫順、謙卑的心、接受聖靈及持守到底，導向救恩。約主後401年至421年。",
+        "jp": "幼よう児じのバプテスマは邪じゃ悪あくな忌いまわしい行おこないである。幼おさない子こ供どもたちは，贖しょく罪ざいのおかげでキリストによって生いきている。信しん仰こう，悔くい改あらため，柔にゅう和わで心こころのへりくだった状じょう態たい，聖せい霊れいを受うけること，最さい後ごまで堪たえ忍しのぶこと，これらは人ひと々びとを救すくいに導みちびく。紀き元げん約やく四百一年ねんから四百二十一年ねんに至いたる。",
+        "kr": "어린아이의 침례는 악하고 가증함—어린아이들은 속죄로 인해 그리스도 안에서 살아 있음—신앙, 회개, 온유함과 마음의 겸손함, 성신을 받음 그리고 끝까지 견디는 것이 구원으로 인도함. 주후 401~421년경."
+      },
+      "verses": [
+        {
+          "key": "1",
+          "text": {
+            "fr": "Épître de mon père Mormon écrite à moi, Moroni ; et elle me fut écrite peu après mon appel au ministère. Et il m’écrivit en ces termes :",
+            "en": "An epistle of my father Mormon, written to me, Moroni; and it was written unto me soon after my calling to the ministry. And on this wise did he write unto me, saying:",
+            "zh": "這是我父親摩爾門寫給我摩羅乃的信，是在我蒙召喚服務後不久寫給我的。他這樣寫道：",
+            "jp": "わたしモロナイにあてて書かかれた父ちちモルモンの手て紙がみは，次つぎのとおりである。これは，わたしが神かみの務つとめに召めされて間まもなく，わたしにあてて書かかれたものである。父ちちはわたしに次つぎのように述のべている。",
+            "kr": "나 모로나이에게 쓰신 나의 부친 몰몬의 서한이니, 내가 성역을 베풀도록 부름을 받은 후 얼마 되지 아니하여 내게 쓰신 것이요, 내게 쓰신 것이 이러하니라. 이르되,"
+          }
+        },
+        {
+          "key": "2",
+          "text": {
+            "fr": "Mon fils bien-aimé, Moroni, je me réjouis extrêmement de ce que ton Seigneur, Jésus-Christ, s’est souvenu de toi et t’a appelé à son ministère et à son œuvre sainte.",
+            "en": "My beloved son, Moroni, I rejoice exceedingly that your Lord Jesus Christ hath been mindful of you, and hath called you to his ministry, and to his holy work.",
+            "zh": "我的愛子摩羅乃，我很高興你的主耶穌基督一直顧念你，並召喚你為祂服務、做祂神聖的事工。",
+            "jp": "「愛あいする息むす子こモロナイよ，わたしは，主しゅイエス・キリストがあなたを心こころにかけ，主しゅの務つとめに，また主しゅの聖せいなる業わざにあなたを召めしてくださったことを，非ひ常じょうに喜よろこんでいる。",
+            "kr": "내 사랑하는 아들 모로나이야, 너의 주 예수 그리스도께서 너를 생각하시고, 그의 성역과 그의 거룩한 일을 행하도록 너를 부르셨으니, 내가 심히 기쁘도다."
+          }
+        },
+        {
+          "key": "3",
+          "text": {
+            "fr": "Je me souviens toujours de toi dans mes prières, priant continuellement Dieu le Père au nom de son saint Enfant, Jésus, pour que, par sa bonté et sa grâce infinies, il te garde, par la persévérance de la foi en son nom jusqu’à la fin.",
+            "en": "I am mindful of you always in my prayers, continually praying unto God the Father in the name of his Holy Child, Jesus, that he, through his infinite goodness and grace, will keep you through the endurance of faith on his name to the end.",
+            "zh": "我常在禱告中惦念著你，不斷奉聖子耶穌的名向父神禱告，求祂以其無限良善與恩典，並藉著持守對祂名的信心到底而保守你。",
+            "jp": "わたしは祈いのる度たびに，いつもあなたのことを心こころにかけ，御おん父ちちの限かぎりない慈いつくしみと恵めぐみによって，またあなたが最さい後ごまで御おん父ちちの聖せいなる御おん子こイエスの御み名なを信しんじ続つづける信しん仰こうによって，御おん父ちちがあなたをお守まもりくださるようにと，御おん子こイエスの御み名なにより父ちちなる神かみに絶たえず祈いのっている。",
+            "kr": "내가 나의 기도 중에 항상 너를 생각하여, 하나님 아버지께 그의 거룩한 아들 예수의 이름으로 쉬지 않고 기도하며, 그가 그의 무한한 선하심과 은혜로써 끝까지 그의 이름을 믿는 신앙을 통하여 너를 지키실 것을 구하노라."
+          }
+        },
+        {
+          "key": "4",
+          "text": {
+            "fr": "Et maintenant, mon fils, je te parle concernant ce qui me peine extrêmement ; car cela me peine que des controverses s’élèvent parmi vous.",
+            "en": "And now, my son, I speak unto you concerning that which grieveth me exceedingly; for it grieveth me that there should disputations rise among you.",
+            "zh": "我兒，現在我要跟你談談那使我非常痛心的事；你們之間起了爭論，令我十分痛心。",
+            "jp": "ところで，わが子こよ，わたしが非ひ常じょうに憂ゆう慮りょしている事こと柄がらについてあなたに述のべよう。あなたがたの中なかに論ろん争そうが起おこるのは，わたしにとって悲かなしいことである。",
+            "kr": "그리고 이제 내 아들아, 나를 심히 비통하게 하는 것에 관하여 내가 네게 말하노니, 이는 너희 중에 논쟁이 일어남은 나를 비통하게 함이라."
+          }
+        },
+        {
+          "key": "5",
+          "text": {
+            "fr": "Car, si j’ai appris la vérité, il y a eu des controverses parmi vous concernant le baptême de vos petits enfants.",
+            "en": "For, if I have learned the truth, there have been disputations among you concerning the baptism of your little children.",
+            "zh": "因為，我知道的如果屬實，你們之間已為你們小孩洗禮的事起了爭論。",
+            "jp": "もしわたしの聞きいたことが事じ実じつであれば，あなたがたの中なかには，幼おさない子こ供どもたちのバプテスマについて論ろん争そうがあったということである。",
+            "kr": "이는 내가 알게 된 바가 사실일진대, 너희 중에 너희 어린아이들의 침례에 관하여 논쟁이 있었음이니라."
+          }
+        },
+        {
+          "key": "6",
+          "text": {
+            "fr": "Et maintenant, mon fils, je désire que tu travailles diligemment, afin que cette erreur grossière soit ôtée de parmi vous ; car c’est dans ce but que j’ai écrit cette épître.",
+            "en": "And now, my son, I desire that ye should labor diligently, that this gross error should be removed from among you; for, for this intent I have written this epistle.",
+            "zh": "我兒，我希望你努力工作，以除去你們當中這項嚴重錯誤；這是我寫這封信的目的。",
+            "jp": "わが子こよ，わたしが願ねがうのは，あなたが力ちからを尽つくして，この大おおきな過あやまちがあなたがたの中なかから取とり除のぞかれるようにすることである。わたしがこの手て紙がみを書かいたのはそのためである。",
+            "kr": "이에 이제 내 아들아, 나는 너희가 부지런히 일하여 이 큰 잘못이 너희에게서 제하여지게 하기를 바라노라. 이는 이 목적으로 내가 이 서한을 썼음이니라."
+          }
+        },
+        {
+          "key": "7",
+          "text": {
+            "fr": "Car aussitôt que j’eus appris ces choses sur vous, je consultai le Seigneur à ce sujet. Et la parole du Seigneur me parvint par le pouvoir du Saint-Esprit, disant :",
+            "en": "For immediately after I had learned these things of you I inquired of the Lord concerning the matter. And the word of the Lord came to me by the power of the Holy Ghost, saying:",
+            "zh": "我一知道你們這些事，就立刻為這事求問主。主的話藉聖靈的力量臨到我說：",
+            "jp": "わたしは，あなたがたのこの状じょう況きょうを聞きいた後のちすぐに，この件けんについて主しゅに尋たずねた。すると，主しゅの御み言こと葉ばが聖せい霊れいの力ちからによってわたしに下くだってこう言いわれた。",
+            "kr": "내가 너희에게 이러한 일이 있음을 알고 나서 즉시 그 문제에 관하여 여쭈었더니, 주의 말씀이 성신의 권능으로 내게 임하여 이르시되,"
+          }
+        },
+        {
+          "key": "8",
+          "text": {
+            "fr": "Écoute les paroles du Christ, ton Rédempteur, ton Seigneur et ton Dieu. Voici, je suis venu au monde, non pour appeler les justes, mais les pécheurs au repentir ; ce ne sont pas ceux qui se portent bien qui ont besoin de médecin, mais les malades ; c’est pourquoi, les petits enfants se portent bien, car ils ne sont pas capables de commettre le péché ; c’est pourquoi la malédiction d’Adam leur est ôtée en moi, de sorte qu’elle n’a aucun pouvoir sur eux ; et la loi de la circoncision est abolie en moi.",
+            "en": "Listen to the words of Christ, your Redeemer, your Lord and your God. Behold, I came into the world not to call the righteous but sinners to repentance; the whole need no physician, but they that are sick; wherefore, little children are whole, for they are not capable of committing sin; wherefore the curse of Adam is taken from them in me, that it hath no power over them; and the law of circumcision is done away in me.",
+            "zh": "聽你的主神救贖主基督的話。看啊，我來到世間，不是召義人，乃是召罪人悔改；健康的人用不著醫生，有病的人才用得著；小孩子是健康的，因為他們沒有犯罪的能力；因此亞當受的詛罰已因我而從他們身上除去，無法影響他們；割禮的律法也已因我而廢除了。",
+            "jp": "『あなたがたの贖あがない主ぬし，あなたがたの主しゅ，あなたがたの神かみであるキリストの言こと葉ばを聴ききなさい。見みよ，わたしがこの世よに来きたのは，義ぎ人じんを招まねくためではなく，罪つみ人びとを招まねいて悔くい改あらためさせるためである。健けん康こうな人ひとには医い者しゃは要いらない。要いるのは病びょう人にんである。幼おさない子こ供どもたちは，罪つみを犯おかすことができないので健けん康こうである。したがって，アダムののろいは，わたしによって彼かれらから取とり去さられており，彼かれらを支し配はいする力ちからを持もっていない。また，割かつ礼れいの律りっ法ぽうもわたしによって廃はいされている。』",
+            "kr": "너희의 구속주, 너희의 주 너희의 하나님이신 그리스도의 말씀을 들을지어다. 보라, 내가 세상에 온 것은 의인을 부르려 함이 아니요, 죄인을 불러 회개하게 하려 함이니라. 온전한 자에게는 의원이 필요 없고 병든 자에게라야 필요 있나니, 그러므로 어린아이들은 온전하도다. 이는 그들에게 죄를 범할 능력이 없음이라. 그러므로 아담의 저주가 나로 말미암아 그들에게서 제하여져서, 그들에게 아무 힘을 미치지 못하며, 할례의 법이 나로 말미암아 폐하여졌도다 하셨느니라."
+          }
+        },
+        {
+          "key": "9",
+          "text": {
+            "fr": "Et c’est de cette manière que le Saint-Esprit m’a manifesté la parole de Dieu ; c’est pourquoi, mon fils bien-aimé, je sais que c’est une moquerie solennelle devant Dieu que vous baptisiez les petits enfants.",
+            "en": "And after this manner did the Holy Ghost manifest the word of God unto me; wherefore, my beloved son, I know that it is solemn mockery before God, that ye should baptize little children.",
+            "zh": "聖靈這樣向我顯示神的話，所以，我的愛子，我知道如果你們為小孩子施洗，對神是嚴重的嘲弄。",
+            "jp": "聖せい霊れいがこのように神かみの御み言こと葉ばをわたしに明あきらかにしてくださったので，愛あいする息むす子こよ，わたしは，幼おさない子こ供どもたちにバプテスマを施ほどこすことが，神かみをひどくあざける行こう為いであることを知しっている。",
+            "kr": "이에 이와 같이 성신이 하나님의 말씀을 내게 나타내셨으니, 그러므로 내 사랑하는 아들아, 너희가 어린아이에게 침례를 줌은 하나님 앞에 중대한 조롱 행위인 줄을 내가 아노라."
+          }
+        },
+        {
+          "key": "10",
+          "text": {
+            "fr": "Voici, je te dis que vous enseignerez ceci : le repentir et le baptême à ceux qui sont responsables et capables de commettre le péché ; oui, enseignez aux parents qu’ils doivent se repentir et être baptisés, et s’humilier comme leurs petits enfants, et ils seront tous sauvés avec leurs petits enfants.",
+            "en": "Behold I say unto you that this thing shall ye teach—repentance and baptism unto those who are accountable and capable of committing sin; yea, teach parents that they must repent and be baptized, and humble themselves as their little children, and they shall all be saved with their little children.",
+            "zh": "看啊，我告訴你，這是你應當教導的事——教導那些要為自己的行為負責並有犯罪能力的人悔改與洗禮；是的，教導為人父母的，他們必須悔改和受洗，並像他們的小孩子一樣謙卑，他們才能與他們的小孩子一同得救。",
+            "jp": "見みよ，わたしはあなたに言いう。あなたがたは責せき任にんを負おうことができ，罪つみを犯おかす可か能のう性せいのある者ものに，このこと，すなわち悔くい改あらためとバプテスマについて教おしえなさい。親おやたちに，悔くい改あらためてバプテスマを受うけ，幼おさない子こ供どもたちのようにへりくだらなければならないことを教おしえなさい。そうすれば，彼かれらは皆みな，幼おさない子こ供どもたちとともに救すくわれるであろう。",
+            "kr": "볼지어다 내가 너희에게 이르노니 이것을 너희는 가르치라—곧 책임을 질 수 있고 죄를 범할 능력이 있는 자들에게 회개와 침례를 가르칠지니, 참으로 부모들을 가르치되 그들이 회개하고 침례를 받고, 그들의 어린아이들같이 스스로 겸손하여야 하며, 그리하면 그들이 모두 그들의 어린아이들과 함께 구원을 받으리라는 것을 가르치라."
+          }
+        },
+        {
+          "key": "11",
+          "text": {
+            "fr": "Et leurs petits enfants n’ont pas besoin de repentir, ni de baptême. Voici, le baptême est pour le repentir, pour accomplir les commandements pour le pardon des péchés.",
+            "en": "And their little children need no repentance, neither baptism. Behold, baptism is unto repentance to the fulfilling the commandments unto the remission of sins.",
+            "zh": "他們的小孩子不需要悔改，也不需要受洗。看啊，洗禮是為悔改以遵行誡命，而獲得赦罪。",
+            "jp": "幼おさない子こ供どもたちは悔くい改あらためもバプテスマも必ひつ要ようない。見みよ，バプテスマは悔くい改あらために導みちびくものであり，罪つみの赦ゆるしを得えるための戒いましめを守まもることである。",
+            "kr": "또 그들의 어린아이들은 회개나 침례가 필요 없나니, 보라 침례는 회개를 위한 것이요 계명을 이루어 죄 사함에 이르게 하는 것이라."
+          }
+        },
+        {
+          "key": "12",
+          "text": {
+            "fr": "Mais les petits enfants sont vivants dans le Christ depuis la fondation du monde ; s’il n’en était pas ainsi, Dieu serait un Dieu partial, et aussi un Dieu changeant, qui ferait acception de personnes, car combien de petits enfants sont morts sans baptême !",
+            "en": "But little children are alive in Christ, even from the foundation of the world; if not so, God is a partial God, and also a changeable God, and a respecter to persons; for how many little children have died without baptism!",
+            "zh": "從世界奠基時，小孩子就因基督得生命；要不然，神就是不公平的神，也是善變的神，會偏待人；因為有多少小孩子沒有受洗就去世了！",
+            "jp": "幼おさない子こ供どもたちは，世よの初はじめからキリストによって生いきている。もしそうでなければ，神かみは不ふ公こう平へいな神かみであり，気きまぐれな神かみであり，人ひとを偏かたより見みる御お方かたである。何なんと多おおくの幼おさない子こ供どもたちが，これまでバプテスマを受うけることなく死しんだことであろう。",
+            "kr": "그러나 어린아이들은 실로 세상의 기초가 놓이던 때로부터 그리스도 안에서 살아 있나니, 만일 그렇지 않다 할진대 하나님은 공평치 않으신 하나님이시요, 또한 변하시는 하나님이시요, 사람을 외모로 취하시는 분일지라, 대저 침례 없이 죽은 어린아이가 얼마나 많겠느냐!"
+          }
+        },
+        {
+          "key": "13",
+          "text": {
+            "fr": "C’est pourquoi, si les petits enfants ne pouvaient pas être sauvés sans baptême, ils iraient dans un enfer sans fin.",
+            "en": "Wherefore, if little children could not be saved without baptism, these must have gone to an endless hell.",
+            "zh": "所以，如果小孩子沒有受洗就不能得救，他們一定已到無盡的地獄去了。",
+            "jp": "もし幼おさない子こ供どもたちがバプテスマなしでは救すくわれないとすれば，これらの子こ供どもたちは無む窮きゅうの地じ獄ごくへ行いったに違ちがいない。",
+            "kr": "그런즉 만일 어린아이들이 침례 없이 구원받을 수 없다 할진대, 이들이 반드시 끝없는 지옥으로 갔을 것이라."
+          }
+        },
+        {
+          "key": "14",
+          "text": {
+            "fr": "Voici, je te dis que celui qui pense que les petits enfants ont besoin de baptême est dans le fiel de l’amertume et dans les liens de l’iniquité ; car il n’a ni foi, ni espérance, ni charité ; c’est pourquoi, s’il était retranché pendant qu’il est dans cette pensée, il descendrait en enfer.",
+            "en": "Behold I say unto you, that he that supposeth that little children need baptism is in the gall of bitterness and in the bonds of iniquity; for he hath neither faith, hope, nor charity; wherefore, should he be cut off while in the thought, he must go down to hell.",
+            "zh": "看啊，我告訴你，凡以為小孩子需要受洗的，一定身處苦膽之中和罪惡的束縛裡；因為他沒有信心、希望，也沒有仁愛；所以，如果他在這麼想時死去，他一定會下地獄。",
+            "jp": "見みよ，わたしはあなたに言いうが，幼おさない子こ供どもたちにもバプテスマが必ひつ要ようであると考かんがえる者ものは，苦く汁じゅうの中なかにおり，罪ざい悪あくの縄なわ目めを受うけている。このような者ものには信しん仰こうも希き望ぼうも慈じ愛あいもない。したがって，そのような考かんがえを抱いだいたまま絶たたれることにでもなれば，地じ獄ごくに下くだって行いかなければならない。",
+            "kr": "보라 내가 너희에게 이르거니와 어린아이들에게 침례가 필요하다고 생각하는 자는 쓰디쓴 담즙에 빠져 있고 불의에 매인 바 되었나니, 이는 그에게 신앙이나 소망이나 사랑이 없음이라. 그런즉 그가 그러한 생각으로 있다가 끊어 버림을 당하면, 그는 지옥으로 내려가지 아니할 수 없느니라."
+          }
+        },
+        {
+          "key": "15",
+          "text": {
+            "fr": "Car c’est une méchanceté affreuse de penser que Dieu sauve un enfant à cause du baptême, et que l’autre doit périr parce qu’il n’a pas de baptême.",
+            "en": "For awful is the wickedness to suppose that God saveth one child because of baptism, and the other must perish because he hath no baptism.",
+            "zh": "因為，以為神拯救某個小孩是因為他受過洗，而另一個因為沒有受洗就必須滅亡，這種想法邪惡得可怕。",
+            "jp": "ある子こ供どもはバプテスマを受うけたので神かみによって救すくわれるが，ほかの子こ供どもはバプテスマを受うけていないので滅ほろびる，と考かんがえることは恐おそろしい悪あくである。",
+            "kr": "이는 어떤 아이는 하나님께서 침례로 인하여 구원하시고, 어떤 아이는 침례 없음으로 인하여 반드시 멸망한다 생각하는 그 간악함이 끔찍함이라."
+          }
+        },
+        {
+          "key": "16",
+          "text": {
+            "fr": "Malheur à ceux qui pervertiront les voies du Seigneur de cette manière, car ils périront, à moins qu’ils ne se repentent. Voici, je parle avec hardiesse, ayant autorité de Dieu ; et je ne crains pas ce que l’homme peut faire, car l’amour parfait bannit toute crainte.",
+            "en": "Wo be unto them that shall pervert the ways of the Lord after this manner, for they shall perish except they repent. Behold, I speak with boldness, having authority from God; and I fear not what man can do; for perfect love casteth out all fear.",
+            "zh": "這樣歪曲主道路的人有禍了，因為他們除非悔改，否則必定滅亡。看啊，我有從神而來的權柄，我敢大膽地說；我不怕人會怎麼做，因為完全的愛驅除一切恐懼。",
+            "jp": "このように主しゅの道みちを曲まげる者ものたちは災わざわいである。このような者ものたちは，悔くい改あらためなければ滅ほろびるからである。見みよ，わたしは神かみから授さずけられた権けん能のうを持もっているので，大だい胆たんに語かたる。わたしは人ひとのすることは恐おそれない。完かん全ぜんな愛あいはあらゆる恐おそれを取とり除のぞくからである。",
+            "kr": "이와 같이 주의 길을 굽게 할 자에게 화 있을진저, 이는 그들이 회개하지 아니할진대 멸망할 것임이라. 보라, 내가 하나님께로부터 받은 권세를 가지고 담대히 말하며, 사람이 행할 수 있는 일을 두려워하지 아니하노니, 이는 완전한 사랑이 모든 두려움을 내어 쫓음이라."
+          }
+        },
+        {
+          "key": "17",
+          "text": {
+            "fr": "Et je suis rempli de charité, qui est l’amour éternel ; c’est pourquoi, tous les enfants sont égaux pour moi, c’est pourquoi, j’aime les petits enfants d’un amour parfait ; et ils sont tous égaux et participants du salut.",
+            "en": "And I am filled with charity, which is everlasting love; wherefore, all children are alike unto me; wherefore, I love little children with a perfect love; and they are all alike and partakers of salvation.",
+            "zh": "我滿懷仁愛，那是永恆的愛，因此，每個孩子對我來說都是一樣的，所以我用完全的愛來愛小孩子，他們都一樣，都是享有救恩的人。",
+            "jp": "わたしは慈じ愛あい，すなわち永えい遠えんの愛あいで満みたされているので，すべての子こ供どもはわたしにとって等ひとしい存そん在ざいである。したがって，わたしは完かん全ぜんな愛あいをもって幼おさない子こ供どもたちを愛あいしている。幼おさない子こ供どもたちは皆みな等ひとしい存そん在ざいであり，救すくいにあずかる者ものである。",
+            "kr": "이에 내가 영원한 사랑인 그리스도의 사랑으로 충만하여졌노니, 그러므로 모든 아이가 내게는 다 같도다. 그리하여 내가 완전한 사랑으로 어린아이들을 사랑하노니, 그들은 다 같고 구원에 참여하는 자들이라."
+          }
+        },
+        {
+          "key": "18",
+          "text": {
+            "fr": "Car je sais que Dieu n’est pas un Dieu partial, ni un être changeant ; mais il est invariable de toute éternité à toute éternité.",
+            "en": "For I know that God is not a partial God, neither a changeable being; but he is unchangeable from all eternity to all eternity.",
+            "zh": "因為我知道神不是不公正的神，也不是善變的，祂從全永恆到全永恆都不變。",
+            "jp": "わたしは神かみが不ふ公こう平へいな神かみではなく，気きまぐれな御お方かたでもなく，永えい遠えんから永えい遠えんにわたって変かわらない御お方かたであることを知しっている。",
+            "kr": "이는 하나님은 공평치 않으신 하나님이 아니요, 변하시는 존재도 아니시며, 모든 영원에서 모든 영원까지 변하지 아니하심을 내가 앎이라."
+          }
+        },
+        {
+          "key": "19",
+          "text": {
+            "fr": "Les petits enfants ne peuvent pas se repentir ; c’est pourquoi, c’est une affreuse méchanceté que de nier la pure miséricorde de Dieu envers eux, car ils sont tous vivants en lui à cause de sa miséricorde.",
+            "en": "Little children cannot repent; wherefore, it is awful wickedness to deny the pure mercies of God unto them, for they are all alive in him because of his mercy.",
+            "zh": "小孩子不能悔改，所以，否認神對他們的完全慈悲，是可怕的邪惡，因為有了祂的慈悲，他們都因祂得生命。",
+            "jp": "幼おさない子こ供どもたちは悔くい改あらためることができないので，幼おさない子こ供どもたちへの神かみの清きよい憐あわれみを否ひ定ていすることは，恐おそろしい悪あくである。幼おさない子こ供どもたちは皆みな，神かみの憐あわれみのおかげで，神かみによって生いきているからである。",
+            "kr": "어린아이들은 회개할 수 없은즉, 그러므로 그들에게 베푸시는 하나님의 순결한 자비를 부인하는 것은 끔찍한 간악함이니, 이는 그들이 그의 자비로 인하여 그의 안에 모두 살아 있음이라."
+          }
+        },
+        {
+          "key": "20",
+          "text": {
+            "fr": "Et celui qui dit que les petits enfants ont besoin de baptême nie la miséricorde du Christ, et ignore son expiation et le pouvoir de sa rédemption.",
+            "en": "And he that saith that little children need baptism denieth the mercies of Christ, and setteth at naught the atonement of him and the power of his redemption.",
+            "zh": "凡說小孩子需要受洗的人，就是否認基督的慈悲，並蔑視祂的贖罪和救贖的大能。",
+            "jp": "幼おさない子こ供どもたちにバプテスマが必ひつ要ようであると言いう者ものは，キリストの憐あわれみを否ひ定ていし，キリストの贖しょく罪ざいとキリストの贖あがないの力ちからを軽かろんじる者ものである。",
+            "kr": "또 어린아이들에게 침례가 필요하다고 하는 자는 그리스도의 자비를 부인하며, 그의 속죄와 그의 구속의 능력을 무시하는 자라."
+          }
+        },
+        {
+          "key": "21",
+          "text": {
+            "fr": "Malheur à ceux-là, car ils sont en danger de mort, de l’enfer et d’un tourment sans fin. Je le dis hardiment : Dieu me l’a commandé. Écoutez mes paroles et prêtez-y attention, ou elles se dresseront contre vous au siège du jugement du Christ.",
+            "en": "Wo unto such, for they are in danger of death, hell, and an endless torment. I speak it boldly; God hath commanded me. Listen unto them and give heed, or they stand against you at the judgment-seat of Christ.",
+            "zh": "這樣的人有禍了，他們身處死亡、地獄與無盡痛苦的危險中。我大膽地這麼說，因為神已命令我。你們要聽這些話，並多加留意，否則這些話將在基督的審判寶座前不利於你們。",
+            "jp": "このような者ものは災わざわいである。このような者ものは，死しと地じ獄ごくと無む窮きゅうの苦く痛つうを被こうむる恐おそれがあるからである。わたしは神かみから命めいじられたのでこのことを大だい胆たんに語かたる。これらの御み言こと葉ばに耳みみを傾かたむけ，注ちゅう意いを払はらいなさい。さもなければ，これらの御み言こと葉ばは，キリストの裁さばきの座ざであなたを責せめるものとなる。",
+            "kr": "그러한 자에게 화 있나니, 이는 그들이 죽음과 지옥과 끝없는 고통의 위험에 처해 있음이라. 내가 담대히 이를 말하노니, 하나님께서 내게 명하셨느니라. 이 말씀에 귀를 기울이고 유의하라. 그렇지 아니하면 이 말씀이 그리스도의 심판대에서 너희를 정죄하리로다."
+          }
+        },
+        {
+          "key": "22",
+          "text": {
+            "fr": "Car voici, tous les petits enfants sont vivants dans le Christ, et aussi tous ceux qui sont sans la loi. Car le pouvoir de la rédemption vient sur tous ceux qui n’ont pas de loi ; c’est pourquoi, celui qui n’est pas condamné, ou celui qui n’est sous aucune condamnation, ne peut pas se repentir ; et pour ceux-là, le baptême ne sert à rien,",
+            "en": "For behold that all little children are alive in Christ, and also all they that are without the law. For the power of redemption cometh on all them that have no law; wherefore, he that is not condemned, or he that is under no condemnation, cannot repent; and unto such baptism availeth nothing—",
+            "zh": "因為看啊，每個小孩子都因基督得生命，沒有律法的人也一樣。因為救贖的效能臨到每個沒有律法的人，所以，未被定罪或不在刑罰之下的人，不能悔改，為這樣的人施洗毫無用處——",
+            "jp": "見みよ，すべての幼おさない子こ供どもたちはキリストによって生いきている。律りっ法ぽうのない者ものたちも皆みな同どう様ようである。贖あがないの力ちからは律りっ法ぽうを持もたないすべての者ものに及およぶからである。したがって，罪つみに定さだめられない者もの，すなわち罪つみの宣せん告こくを決けっして受うけない者ものは，悔くい改あらためることができないので，このような者ものにとってバプテスマは何なんの役やくにも立たたない。",
+            "kr": "이는 보라, 어린아이들은 모두 그리스도 안에 살아 있으며, 율법 밖에 있는 자도 모두 그러함이니, 구속의 능력이 율법을 갖지 아니한 모든 자에게 임함이라. 그런즉 정죄 받지 아니한 자, 곧 정죄 아래 있지 아니한 자는 회개할 수 없으며, 그러한 자에게 침례란 무익한 것이요—"
+          }
+        },
+        {
+          "key": "23",
+          "text": {
+            "fr": "mais c’est une moquerie devant Dieu ; c’est nier la miséricorde du Christ et le pouvoir de son Esprit-Saint, et placer sa confiance dans les œuvres mortes.",
+            "en": "But it is mockery before God, denying the mercies of Christ, and the power of his Holy Spirit, and putting trust in dead works.",
+            "zh": "那反而是對神的嘲弄，否認基督的慈悲和祂神聖之靈的力量，信靠那些死的工作。",
+            "jp": "むしろ，それは神かみをあざける行こう為いであり，キリストの憐あわれみと神かみの聖せいなる御み霊たまの力ちからを否ひ定ていし，死しんだ行おこないに頼たよるものである。",
+            "kr": "도리어 그것은 하나님 앞에 조롱하는 행위로써 그리스도의 자비와, 그의 성령의 권능을 부인하며, 죽은 행실을 신뢰하는 일이니라."
+          }
+        },
+        {
+          "key": "24",
+          "text": {
+            "fr": "Voici, mon fils, cela ne devrait pas être ; car le repentir est pour ceux qui sont sous la condamnation et sous la malédiction d’une loi enfreinte.",
+            "en": "Behold, my son, this thing ought not to be; for repentance is unto them that are under condemnation and under the curse of a broken law.",
+            "zh": "看啊，我兒，此事切不可有，因為悔改是給那些在罪罰之下和犯了律法而受詛罰的人的。",
+            "jp": "見みよ，わが子こよ，このようなことがあってはならない。悔くい改あらためは罪つみの宣せん告こくを受うける者もの，律りっ法ぽうを犯おかしてのろいを受うける者もののためにあるのである。",
+            "kr": "보라, 내 아들아, 이러한 일은 마땅히 있어서 아니되나니, 회개란 정죄 아래와 깨어진 율법의 저주 아래 있는 자들을 위한 것임이라."
+          }
+        },
+        {
+          "key": "25",
+          "text": {
+            "fr": "Et les prémices du repentir, c’est le baptême ; et le baptême vient par la foi pour accomplir les commandements ; et l’accomplissement des commandements apporte le pardon des péchés ;",
+            "en": "And the first fruits of repentance is baptism; and baptism cometh by faith unto the fulfilling the commandments; and the fulfilling the commandments bringeth remission of sins;",
+            "zh": "悔改初熟的果子是洗禮；洗禮乃出於信心，以遵行誡命；遵行誡命則帶來赦罪；",
+            "jp": "悔くい改あらための最さい初しょの実みはバプテスマである。バプテスマは信しん仰こうによって行おこなわれ，戒いましめを守まもることである。そして，戒いましめを守まもることは罪つみの赦ゆるしを生しょうじ，",
+            "kr": "그리고 회개의 첫열매는 침례요, 침례는 신앙으로 말미암아 와서 계명을 이룸에 이르며, 계명을 이룸은 죄 사함을 가져오니라."
+          }
+        },
+        {
+          "key": "26",
+          "text": {
+            "fr": "et le pardon des péchés apporte la douceur et l’humilité de cœur ; et à cause de la douceur et de l’humilité de cœur vient la visitation du Saint-Esprit, lequel Consolateur remplit d’espérance et d’amour parfait, amour qui subsiste, par la diligence dans la prière, jusqu’à ce que vienne la fin, lorsque tous les saints demeureront avec Dieu.",
+            "en": "And the remission of sins bringeth meekness, and lowliness of heart; and because of meekness and lowliness of heart cometh the visitation of the Holy Ghost, which Comforter filleth with hope and perfect love, which love endureth by diligence unto prayer, until the end shall come, when all the saints shall dwell with God.",
+            "zh": "赦罪帶來溫順與謙卑的心；由於溫順與謙卑的心，才帶來聖靈的眷顧；這位保惠師使人充滿希望和完全的愛；這種愛靠努力禱告來持守，直到末日到來，那時所有的聖徒必與神同住。",
+            "jp": "罪つみの赦ゆるしは柔にゅう和わで心こころのへりくだった状じょう態たいを生しょうじ，柔にゅう和わで心こころのへりくだった状じょう態たいであれば聖せい霊れいの訪おとずれがある。この慰なぐさめ主ぬしは，希き望ぼうと完かん全ぜんな愛あいを人ひとの心こころに満みたされる。そしてこの愛あいは，熱ねっ心しんに祈いのることによって，すべての聖せい徒とが神かみとともに住すむ終おわりの日ひが来くるまで続つづくのである。",
+            "kr": "또 죄 사함은 온유함과 마음의 겸손을 가져오며, 온유함과 마음의 겸손으로 인하여 성신의 방문이 임하는 것이라. 이 보혜사는 소망과 완전한 사랑으로 채워주시나니, 부지런히 기도함으로 말미암아 이 사랑은 모든 성도가 하나님과 함께 거하게 될 때 곧 끝이 이르기까지 견디느니라."
+          }
+        },
+        {
+          "key": "27",
+          "text": {
+            "fr": "Voici, mon fils, je t’écrirai de nouveau si je ne sors pas bientôt contre les Lamanites. Voici, l’orgueil de cette nation, ou du peuple des Néphites, s’est avéré être leur destruction, à moins qu’ils ne se repentent.",
+            "en": "Behold, my son, I will write unto you again if I go not out soon against the Lamanites. Behold, the pride of this nation, or the people of the Nephites, hath proven their destruction except they should repent.",
+            "zh": "看啊，我兒，近日內我若不出去對抗拉曼人，我會再寫信給你。看啊，這個民族的驕傲，或說尼腓人的驕傲，已證明他們必定滅亡，除非他們悔改。",
+            "jp": "見みよ，わが子こよ，わたしがすぐにレーマン人じんに向むかって出でて行いくことがなければ，またあなたに書かこう。見みよ，この国こく民みん，すなわちニーファイ人じんの民たみは，悔くい改あらためなければ高こう慢まんのために滅ほろびてしまう。",
+            "kr": "보라, 내 아들아, 내가 만일 레이맨인들을 치러 곧 나가지 아니하면 다시 네게 쓰리로다. 볼지어다, 이 나라 곧 니파이 백성의 교만이, 그들이 회개하지 아니할진대 그들의 멸망이 되었도다."
+          }
+        },
+        {
+          "key": "28",
+          "text": {
+            "fr": "Prie pour eux, mon fils, afin que le repentir leur vienne. Mais voici, je crains que l’Esprit n’ait cessé de lutter avec eux ; et dans cette partie du pays, ils cherchent aussi à abattre tout pouvoir et toute autorité qui vient de Dieu ; et ils nient le Saint-Esprit.",
+            "en": "Pray for them, my son, that repentance may come unto them. But behold, I fear lest the Spirit hath ceased striving with them; and in this part of the land they are also seeking to put down all power and authority which cometh from God; and they are denying the Holy Ghost.",
+            "zh": "我兒，為他們祈禱，使悔改能臨到他們。但是看啊，恐怕靈已停止對他們努力了，而且他們還在這裡企圖阻撓所有來自神的力量和權柄，他們在否認聖靈。",
+            "jp": "わが子こよ，彼かれらが悔くい改あらためられるように，彼かれらのために祈いのりなさい。しかし見みよ，御み霊たまがすでに彼かれらを励はげますのをやめているのではないかと，わたしは懸け念ねんしている。この地ち方ほうの者ものたちも，神かみから出でているすべての権けん威いと権けん能のうを倒たおそうとしており，また聖せい霊れいを否ひ定ていしている。",
+            "kr": "내 아들아, 회개가 그들에게 임하도록 그들을 위하여 기도하라. 그러나 보라, 나는 영이 그들과 함께 애쓰시기를 그치지 아니하셨는지 두려워하노라. 이 지역에서 그들은 또한 하나님으로부터 오는 모든 권능과 권세를 폐하기를 꾀하고 있으며, 그들은 성신을 부인하고 있도다."
+          }
+        },
+        {
+          "key": "29",
+          "text": {
+            "fr": "Et après avoir rejeté une aussi grande connaissance, mon fils, ils vont périr bientôt, pour accomplir les prophéties qui ont été dites par les prophètes, aussi bien que les paroles de notre Sauveur lui-même.",
+            "en": "And after rejecting so great a knowledge, my son, they must perish soon, unto the fulfilling of the prophecies which were spoken by the prophets, as well as the words of our Savior himself.",
+            "zh": "我兒，他們拒絕了這麼偉大的知識後，必定很快就滅亡，以應驗眾先知的預言和救主親口說的話。",
+            "jp": "わが子こよ，彼かれらはこれまで理り解かいしていたそのように大おおいなる知ち識しきを拒こばんだので，間まもなく滅ほろびるに違ちがいない。そして，預よ言げん者しゃたちの述のべた預よ言げんと，わたしたちの救すくい主ぬし御ご自じ身しんの御み言こと葉ばが成じょう就じゅするであろう。",
+            "kr": "또 내 아들아, 그처럼 큰 지식을 저버린 후에, 그들이 반드시 곧 멸망하여 우리의 구주께서 친히 하신 말씀과 또한 선지자들로 말씀하신 예언들을 이루리라."
+          }
+        },
+        {
+          "key": "30",
+          "text": {
+            "fr": "Adieu, mon fils, jusqu’à ce que je t’écrive ou te revoie. Amen.",
+            "en": "Farewell, my son, until I shall write unto you, or shall meet you again. Amen.",
+            "zh": "再會吧，我兒，直到我寫信給你或再和你見面。阿們。",
+            "jp": "わが子こよ，わたしがまたあなたに書かくときまで，あるいはあなたに会あうときまで別わかれを告つげる。アーメン。」",
+            "kr": "내 아들아, 내가 다시 네게 쓰든지, 아니면 다시 너를 만날 때까지 잘 있으라. 아멘."
+          }
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "introduction": {
+        "fr": "Les Néphites et les Lamanites sont dépravés et dégénérés — Ils se torturent et s’assassinent mutuellement — Mormon prie pour que la grâce et la bonté reposent à jamais sur Moroni. Vers 401 apr. J.-C.",
+        "en": "Both the Nephites and the Lamanites are depraved and degenerate—They torture and murder each other—Mormon prays that grace and goodness may rest upon Moroni forever. About A.D. 401.",
+        "zh": "尼腓人和拉曼人雙方都敗壞和墮落——他們彼此折磨，互相殺害——摩爾門祈求恩典與良善永遠和摩羅乃同在。約主後401年。",
+        "jp": "ニーファイ人じんもレーマン人じんもともに邪じゃ悪あくになり，堕だ落らくしている。彼かれらは互たがいに苦くるしめ合あい，殺ころし合あう。モルモン，恵めぐみと慈いつくしみがとこしえにモロナイにあるように祈いのる。紀き元げん約やく四百一年ねん。",
+        "kr": "니파이인들과 레이맨인들이 모두 사악해지고 타락하게 됨—그들은 서로 괴롭히며 살해함—몰몬이 은혜로우심과 선하심이 영원토록 모로나이에게 머물러 있기를 기도함. 주후 401~421년경."
+      },
+      "verses": [
+        {
+          "key": "1",
+          "text": {
+            "fr": "Mon fils bien-aimé, je t’écris de nouveau afin que tu saches que je suis encore vivant ; mais j’écris quelque peu sur ce qui est affligeant.",
+            "en": "My beloved son, I write unto you again that ye may know that I am yet alive; but I write somewhat of that which is grievous.",
+            "zh": "我的愛子，我再寫信給你，好讓你知道我還活著，但我也要寫一些令人痛心的事。",
+            "jp": "「愛あいするわが子こよ，わたしは自じ分ぶんがまだ生いきていることを知しらせるためにまたあなたに書かいている。しかし，悲かなしいことを多た少しょう書かくことになる。",
+            "kr": "내 사랑하는 아들아, 내가 아직 살아 있음을 너로 알게 하려고 내가 다시 네게 쓰거니와, 내가 비통한 일에 대하여 얼마간 쓰노라."
+          }
+        },
+        {
+          "key": "2",
+          "text": {
+            "fr": "Car voici, j’ai eu une furieuse bataille avec les Lamanites, dans laquelle nous n’avons pas vaincu ; et Archéantus est tombé par l’épée, et aussi Luram et Emron ; oui, et nous avons perdu un grand nombre de nos hommes d’élite.",
+            "en": "For behold, I have had a sore battle with the Lamanites, in which we did not conquer; and Archeantus has fallen by the sword, and also Luram and Emron; yea, and we have lost a great number of our choice men.",
+            "zh": "因為看啊，我與拉曼人一番激戰後，我們並沒有獲勝；阿肯德斯死在刀劍之下，陸拉姆和艾姆龍也一樣；是的，我們失去很多優秀的人。",
+            "jp": "見みよ，わたしはレーマン人じんと激はげしい戦たたかいをしたが，勝しょう利りは得えなかった。アルキアンタスは剣つるぎに倒たおれ，ルラムとエムロンも倒たおれた。また，わたしたちは優ゆう秀しゅうな兵へいを多た数すう失うしなってしまった。",
+            "kr": "이는 보라, 내가 레이맨인들과 더불어 격심한 싸움을 치렀으되, 이 싸움에서 우리가 이기지 못하였고, 아아켄투스는 칼에 엎드러졌고, 루램과 에므론도 그리되었으며, 이뿐 아니라 우리는 우리의 뛰어난 병사들을 허다히 잃었음이라."
+          }
+        },
+        {
+          "key": "3",
+          "text": {
+            "fr": "Et maintenant, voici, mon fils, je crains que les Lamanites ne détruisent ce peuple ; car ils ne se repentent pas, et Satan les excite continuellement à la colère les uns contre les autres.",
+            "en": "And now behold, my son, I fear lest the Lamanites shall destroy this people; for they do not repent, and Satan stirreth them up continually to anger one with another.",
+            "zh": "現在看啊，我兒，恐怕拉曼人就要消滅這個民族了，因為他們不悔改，而撒但仍不斷煽動他們彼此惱怒。",
+            "jp": "さて見みよ，わが子こよ，わたしはレーマン人じんがこの民たみを滅ほろぼしてしまうのではないかと恐おそれている。この民たみが悔くい改あらためず，サタンが絶たえずこの民たみをあおり立たてて，互たがいを怒いかるように仕し向むけているからである。",
+            "kr": "또 이제 보라, 내 아들아, 나는 레이맨인들이 이 백성을 멸망시킬까 두려워하노니, 이는 그들이 회개하지 아니하며, 사탄이 그들을 끊임없이 충동하여 피차에 노하게 함이라."
+          }
+        },
+        {
+          "key": "4",
+          "text": {
+            "fr": "Voici, je travaille continuellement avec eux ; et lorsque je dis la parole de Dieu avec rigueur, ils tremblent et sont en colère contre moi ; et lorsque je n’utilise pas de rigueur, ils s’endurcissent le cœur contre elle ; c’est pourquoi, je crains que l’Esprit du Seigneur n’ait cessé de lutter avec eux.",
+            "en": "Behold, I am laboring with them continually; and when I speak the word of God with sharpness they tremble and anger against me; and when I use no sharpness they harden their hearts against it; wherefore, I fear lest the Spirit of the Lord hath ceased striving with them.",
+            "zh": "看啊，我還在繼續對他們努力；我嚴厲講述神的話時，他們就顫抖而憤恨我，我不嚴厲時，他們就硬起心來反對這些話，所以，恐怕主的靈已停止對他們努力了。",
+            "jp": "見みよ，わたしは絶たえず彼かれらに働はたらきかけている。しかし，わたしが厳きびしく神かみの御み言こと葉ばを告つげると，彼かれらは身みを震ふるわせてわたしに対たいして怒いかり，また，わたしが厳きびしく言いわないと，神かみの御み言こと葉ばに対たいして心こころをかたくなにする。だからわたしは，主しゅの御み霊たまがすでに彼かれらを励はげますのをやめているのではないかと心しん配ぱいしている。",
+            "kr": "보라, 내가 끊임없이 그들과 함께 일하고 있으되, 내가 엄히 하나님의 말씀을 말할 때면 그들이 떨며 나에게 노를 품고, 내가 엄히 말하지 아니하면 그것에 대하여 그들의 마음을 완악하게 하니, 그러므로 나는 주의 영이 그들과 함께 애쓰시기를 그치셨을까 두려워하노라."
+          }
+        },
+        {
+          "key": "5",
+          "text": {
+            "fr": "Car ils sont dans une colère si extrême qu’il me semble qu’ils n’ont aucune crainte de la mort ; et ils ont perdu leur amour les uns pour les autres ; et ils ont continuellement soif de sang et de vengeance.",
+            "en": "For so exceedingly do they anger that it seemeth me that they have no fear of death; and they have lost their love, one towards another; and they thirst after blood and revenge continually.",
+            "zh": "他們憤恨至極，我看他們好像不怕死；他們已喪失對彼此的愛；他們不斷渴望血腥與報復。",
+            "jp": "彼かれらは，死しをも恐おそれないと見みえるほどにひどく怒いかっている。互たがいに対たいする愛あいをすでに失うしなっており，いつも血ちと報ほう復ふくを渇かつ望ぼうしている。",
+            "kr": "이는 그처럼 심히 그들이 분노하여 내가 보기에 그들에게는 죽음에 대한 두려움도 없으며, 그들은 서로를 향한 그들의 사랑도 잃어 버렸고, 끊임없이 피와 복수에 목말라 하고 있음이라."
+          }
+        },
+        {
+          "key": "6",
+          "text": {
+            "fr": "Néanmoins, mon fils bien-aimé, malgré leur endurcissement, travaillons diligemment ; car si nous cessions de travailler, nous tomberions sous la condamnation ; car nous avons un travail à accomplir pendant que nous sommes dans ce tabernacle d’argile, afin de vaincre l’ennemi de toute justice et de donner du repos à notre âme dans le royaume de Dieu.",
+            "en": "And now, my beloved son, notwithstanding their hardness, let us labor diligently; for if we should cease to labor, we should be brought under condemnation; for we have a labor to perform whilst in this tabernacle of clay, that we may conquer the enemy of all righteousness, and rest our souls in the kingdom of God.",
+            "zh": "我的愛子，雖然他們頑硬，我們還是要勤奮工作；因為我們若停止工作，就會被帶到罪罰之下；因為我們在這塵土所造的肉身中有工作要完成，好讓我們戰勝與所有正義為敵的人，讓我們的靈魂在神國裡安息。",
+            "jp": "さて，愛あいするわが子こよ，彼かれらがかたくなであっても，わたしたちは力ちからを尽つくそう。働はたらくことをやめれば，わたしたちは罪つみの宣せん告こくを受うけるに違ちがいない。わたしたちには，あらゆる義ぎの敵てきを打うち破やぶって，神かみの王おう国こくで安あん息そくを得えるために，この土つちの幕まく屋やに宿やどっている間あいだに果はたさなければならない務つとめがあるからである。",
+            "kr": "그러나 이제 나의 사랑하는 아들아, 그들의 완악함에도 불구하고, 우리는 부지런히 일하자. 이는 만일 우리가 수고하기를 그치면 우리가 정죄 아래 들게 될 것임이요, 우리에게는 이 흙의 성막에 있는 동안 해야 할 일이 있음이니, 이는 우리가 모든 의의 원수를 이기고 우리의 영혼으로 하나님의 나라에서 안식을 얻게 하려 함이니라."
+          }
+        },
+        {
+          "key": "7",
+          "text": {
+            "fr": "Et maintenant, j’écris quelque peu sur les souffrances de ce peuple. Car selon la connaissance que j’ai reçue d’Amoron, voici, les Lamanites ont beaucoup de prisonniers, qu’ils ont pris de la tour de Sherrizah ; et il y avait des hommes, des femmes et des enfants.",
+            "en": "And now I write somewhat concerning the sufferings of this people. For according to the knowledge which I have received from Amoron, behold, the Lamanites have many prisoners, which they took from the tower of Sherrizah; and there were men, women, and children.",
+            "zh": "現在我要寫這人民所受的一些痛苦。根據我從亞摩龍那裡得到的消息，看啊，拉曼人有很多俘虜，是他們從休賴柵塔擄獲的，其中有男人、女人和小孩。",
+            "jp": "さて，わたしはこの民たみの被こうむっている苦く難なんについて少すこし書かこう。わたしがアモーロンから受うけた知しらせによれば，見みよ，レーマン人じんにはシェライザの塔とうから連つれ去さった多おおくの捕ほ虜りょがいるとのことである。捕ほ虜りょは，男おとこもいれば女おんなもおり，子こ供どももいた。",
+            "kr": "그리고 이제 나는 이 백성의 고난에 관하여 얼마간 기록하노라. 내가 애모론으로부터 받은 지식에 의하면, 보라, 레이맨인들에게는 그들이 셰라이자 망대에서 잡은 포로가 많이 있고, 거기에는 남자와 여자와 아이들이 있었는데,"
+          }
+        },
+        {
+          "key": "8",
+          "text": {
+            "fr": "Et ils ont tué les maris et pères de ces femmes et de ces enfants ; et ils font manger la chair de leurs maris aux femmes et la chair de leurs pères aux enfants ; et ils ne leur donnent pas d’eau, si ce n’est un peu.",
+            "en": "And the husbands and fathers of those women and children they have slain; and they feed the women upon the flesh of their husbands, and the children upon the flesh of their fathers; and no water, save a little, do they give unto them.",
+            "zh": "他們殺了婦女和小孩的丈夫和父親，以丈夫的肉餵妻子，以父親的肉餵子女；只給他們一點點水喝。",
+            "jp": "そしてレーマン人じんは，女おんな子こ供どもの夫おっとや父ちち親おやを殺ころして，夫おっとの肉にくを妻つまに，父ちち親おやの肉にくを子こ供どもに食たべさせ，また水みずはほんの少すこししか与あたえていない。",
+            "kr": "그 여자들과 아이들의 남편과 아버지들을 그들이 죽이고, 여자들에게는 그 남편의 살을 먹이며, 아이들에게는 그 아버지의 살을 먹이고, 물도 조금씩밖에는 주지 아니하는도다."
+          }
+        },
+        {
+          "key": "9",
+          "text": {
+            "fr": "Et malgré cette grande abomination des Lamanites, elle ne dépasse pas celle de notre peuple à Moriantum. Car voici, ils ont fait prisonnières beaucoup de filles des Lamanites ; et après leur avoir ravi ce qu’elles avaient de plus cher et de plus précieux, la chasteté et la vertu —",
+            "en": "And notwithstanding this great abomination of the Lamanites, it doth not exceed that of our people in Moriantum. For behold, many of the daughters of the Lamanites have they taken prisoners; and after depriving them of that which was most dear and precious above all things, which is chastity and virtue—",
+            "zh": "拉曼人的憎行雖然如此殘酷，但還不及我們在摩林安德的人民。因為看啊，他們擄走很多拉曼人的女兒，並且在奪去她們比什麼都寶貴、都重要的貞潔和貞操以後——",
+            "jp": "レーマン人じんの行おこないは，このようにひどく忌いまわしいものではあるが，モリアンタムでのわたしたちの民たみの行おこないはそれ以い上じょうである。見みよ，わたしたちの民たみはレーマン人じんの多おおくの娘むすめたちを捕ほ虜りょにし，あらゆるものに勝まさって最もっとも大たい切せつで貴とうといもの，すなわち純じゅん潔けつと徳とくを奪うばった後のち，",
+            "kr": "그러나 레이맨인들의 이 큰 가증함에도 불구하고, 이는 모리앤툼에 있는 우리 백성의 가증함보다 더하지는 아니하나니, 이는 보라, 많은 레이맨인의 딸들을 저들이 포로로 잡아, 무엇보다도 가장 소중하고 귀한 순결과 정조를 그들에게서 빼앗은 후에—"
+          }
+        },
+        {
+          "key": "10",
+          "text": {
+            "fr": "et après avoir fait cela, ils les ont assassinées d’une manière extrêmement cruelle, torturant leur corps jusqu’à la mort ; et après avoir fait cela, ils dévorent leur chair comme des bêtes sauvages à cause de l’endurcissement de leur cœur ; et ils le font en signe de bravoure.",
+            "en": "And after they had done this thing, they did murder them in a most cruel manner, torturing their bodies even unto death; and after they have done this, they devour their flesh like unto wild beasts, because of the hardness of their hearts; and they do it for a token of bravery.",
+            "zh": "他們這樣做後，還用最殘酷的方法殺了她們，折磨她們的身體到死為止；他們這樣做後，還因心地頑硬而像野獸那樣吞吃她們的肉；他們用這種方式來表示勇敢。",
+            "jp": "彼かれらはこのようなことをした後のち，非ひ常じょうにむごい方ほう法ほうで彼かの女じょたちをなぶり殺ごろしにした。そして，彼かれらはそうした後のち，心こころがかたくなであったので，野や獣じゅうのようにその娘むすめたちの肉にくを食たべてしまい，それを勇ゆう気きのある証しょう拠ことしている。",
+            "kr": "그리고 저들이 이런 일을 행한 후에, 가장 잔혹한 방법으로 그들의 육신을 괴롭게 하여 그들을 죽게 하고, 저들이 이렇게 한 후에는, 저들의 마음의 완악함으로 인하여 들짐승처럼 그들의 살을 먹되, 용감함의 표시로 저들이 그리 행함이라."
+          }
+        },
+        {
+          "key": "11",
+          "text": {
+            "fr": "Ô mon fils bien-aimé, comment se peut-il qu’un tel peuple, qui est sans civilisation —",
+            "en": "O my beloved son, how can a people like this, that are without civilization—",
+            "zh": "我的愛子啊，一個民族何以如此沒有文明——",
+            "jp": "おお，愛あいするわが子こよ，どうしてこのような野や蛮ばんな民たみに対たいして，",
+            "kr": "오 내 사랑하는 아들아, 문명이 없는 백성인들 어찌 이 같을 수 있으리요—"
+          }
+        },
+        {
+          "key": "12",
+          "text": {
+            "fr": "(il n’y a qu’un petit nombre d’années qui sont passées, et ils étaient un peuple civilisé et agréable) —",
+            "en": "(And only a few years have passed away, and they were a civil and a delightsome people)",
+            "zh": "（他們本來是個文明可愛的民族，才不過幾年就變成這樣。）",
+            "jp": "（わずか数すう年ねん前まえまで，彼かれらは礼れい儀ぎ正ただしい喜よろこばしい民たみであったが）",
+            "kr": "(불과 수년이 지나갔을 뿐이니 그들은 개화되고 기뻐하심을 입던 백성이었거늘)"
+          }
+        },
+        {
+          "key": "13",
+          "text": {
+            "fr": "mais ô mon fils, comment un tel peuple, qui met ses délices dans tant d’abominations,",
+            "en": "But O my son, how can a people like this, whose delight is in so much abomination—",
+            "zh": "我兒啊，一個民族何以如此縱情於這麼多憎行之中——",
+            "jp": "おお，わが子こよ，どうしてこのようにひどい忌いまわしい行おこないを喜よろこびとするこのような民たみに対たいして，",
+            "kr": "그러나 내 아들아, 그처럼 많은 가증함을 기뻐한다 하여 백성이 어찌 이 같을 수 있으리요—"
+          }
+        },
+        {
+          "key": "14",
+          "text": {
+            "fr": "comment pouvons-nous attendre de Dieu qu’il arrête sa main en jugement contre nous ?",
+            "en": "How can we expect that God will stay his hand in judgment against us?",
+            "zh": "我們怎麼能期望神停住祂的手不來懲罰我們呢？",
+            "jp": "どうしてこのようなわたしたちに対たいして，神かみが裁さばきの御み手てをとどめてくださるなどと期き待たいできようか。",
+            "kr": "하나님께서 우리를 심판하시는 그 손을 멈추시기를 우리가 어찌 기대할 수 있으리요?"
+          }
+        },
+        {
+          "key": "15",
+          "text": {
+            "fr": "Voici, mon cœur s’écrie : Malheur à ce peuple ! Sors en jugement, ô Dieu, et cache leurs péchés, et leur méchanceté, et leurs abominations de devant ta face !",
+            "en": "Behold, my heart cries: Wo unto this people. Come out in judgment, O God, and hide their sins, and wickedness, and abominations from before thy face!",
+            "zh": "看啊，我的心在吶喊：這人民有禍了。神啊，出來審判，隱藏他們的罪孽、邪惡和憎行，不在您面前出現吧！",
+            "jp": "見みよ，わたしの心こころは，『この民たみは災わざわいだ。おお，神かみよ，裁さばきを下くだして，この民たみの罪つみと悪あく事じと忌いまわしい行おこないを，あなたの御み前まえから隠かくしてください』と叫さけんでいる。",
+            "kr": "보라, 내 마음이 부르짖기를 이 백성에게 화 있도다. 하나님이시여, 심판하러 나오사 그들의 죄와 간악함과 가증함을 하나님의 면전에서 가리우시옵소서 하는도다."
+          }
+        },
+        {
+          "key": "16",
+          "text": {
+            "fr": "Et en outre, mon fils, il y a beaucoup de veuves et leurs filles qui restent à Sherrizah ; et cette partie des provisions que les Lamanites n’ont pas emportée, voici, l’armée de Zénéphi l’a emportée, et elle les a laissées errer là où elles peuvent pour trouver de la nourriture ; et beaucoup de vieilles femmes s’évanouissent en chemin et meurent.",
+            "en": "And again, my son, there are many widows and their daughters who remain in Sherrizah; and that part of the provisions which the Lamanites did not carry away, behold, the army of Zenephi has carried away, and left them to wander whithersoever they can for food; and many old women do faint by the way and die.",
+            "zh": "而且，我兒，有很多寡婦和她們的女兒還留在休賴柵；拉曼人沒有帶走的那部分糧食，看啊，曾尼法的軍隊拿走了，讓她們為了食物到任何她們能到的地方流浪，很多年老的婦女在途中昏倒而死去。",
+            "jp": "また，わが子こよ，シェライザには多おおくのやもめとその娘むすめたちが残のこっている。レーマン人じんが運はこび去さらなかった食しょく糧りょうは，見みよ，すでにゼネファイの軍ぐん隊たいが運はこび去さってしまい，やもめたちとその娘むすめたちは，食たべ物ものを求もとめてさまようままに放ほう置ちされている。そして多おおくの老ろう女じょたちは，行ゆき倒だおれになり死しんでいる。",
+            "kr": "그리고 또 내 아들아, 셰라이자에 남아 있는 과부와 그 딸들이 많이 있으되, 레이맨인들이 가져 가버리지 아니한 그 식량을 보라, 지네파이의 군대가 가져가고, 그들로 하여금 음식을 찾아 어디로든지 방황하게 버려둔지라, 많은 늙은 여자들이 길가에서 기진하여 죽는도다."
+          }
+        },
+        {
+          "key": "17",
+          "text": {
+            "fr": "Et l’armée qui est avec moi est faible ; et les armées des Lamanites sont entre Sherrizah et moi ; et tous ceux qui ont fui vers l’armée d’Aaron sont tombés victimes de leur affreuse brutalité.",
+            "en": "And the army which is with me is weak; and the armies of the Lamanites are betwixt Sherrizah and me; and as many as have fled to the army of Aaron have fallen victims to their awful brutality.",
+            "zh": "跟我一起的部隊軍力很薄弱，拉曼人的軍隊又在休賴柵和我之間，而所有逃往亞倫部隊的人，都淪為他們可怕獸性的犧牲者。",
+            "jp": "また，わたしとともにいる軍ぐん隊たいは弱よわく，しかもレーマン人じんの軍ぐん隊たいがシェライザとわたしの間あいだにいる。これまでアロンの軍ぐん隊たいに逃にげ込こんで行いった者ものは皆みな，彼かれらの恐おそろしい蛮ばん行こうの犠ぎ牲せいとなった。",
+            "kr": "그러나 나와 함께 있는 군대는 약하고, 레이맨인들의 군대는 셰라이자와 나 사이에 있으니, 아론의 군대에게로 도망했던 자들은 모두 그들의 끔찍한 포악함에 희생되었느니라."
+          }
+        },
+        {
+          "key": "18",
+          "text": {
+            "fr": "Oh ! la dépravation de mon peuple ! Ils sont sans ordre et sans miséricorde. Voici, je ne suis qu’un homme, et je n’ai que la force d’un homme, et je ne peux plus faire respecter mes commandements.",
+            "en": "O the depravity of my people! They are without order and without mercy. Behold, I am but a man, and I have but the strength of a man, and I cannot any longer enforce my commands.",
+            "zh": "我人民敗壞至極！他們沒有紀律也沒有慈悲。看啊，我不過是個人，有的不過是一個人的力量，再也無法執行我的命令了。",
+            "jp": "おお，わたしの民たみは何なんと堕だ落らくしたことか。彼かれらには秩ちつ序じょもなく，情なさけもない。見みよ，わたしはただの人ひとであり，わたしには一人ひとりの人にん間げんとしての力ちからしかない。わたしはもはや命めい令れいを実じっ行こうさせることはできない。",
+            "kr": "오 내 백성의 사악함이여! 그들에게는 질서도 없고 자비도 없도다. 보라, 나는 사람일 뿐이요, 사람의 능력을 가졌을 뿐인지라, 나의 명령을 더 이상 강제할 수 없도다."
+          }
+        },
+        {
+          "key": "19",
+          "text": {
+            "fr": "Et ils sont devenus forts dans leur perversion ; et ils sont aussi brutaux les uns que les autres, n’épargnant personne, ni jeunes ni vieux ; et ils mettent leurs délices dans tout sauf dans ce qui est bon ; et les souffrances de nos femmes et de nos enfants sur toute la surface de ce pays dépassent tout ; oui, la langue ne peut les raconter, et elles ne peuvent pas non plus être écrites.",
+            "en": "And they have become strong in their perversion; and they are alike brutal, sparing none, neither old nor young; and they delight in everything save that which is good; and the suffering of our women and our children upon all the face of this land doth exceed everything; yea, tongue cannot tell, neither can it be written.",
+            "zh": "他們的惡行愈來愈嚴重；他們都一樣殘酷，不論老少，一個也不放過；除了好事，他們什麼事都喜歡；我們在這整個地面上的婦女和小孩所受的痛苦超乎一切，是的，言語無法訴說，筆墨也無法形容。",
+            "jp": "彼かれらは邪じゃ悪あくの度どを増まし，皆みな同おなじように残ざん忍にんになり，老ろう若にゃくの区く別べつなくだれの命いのちも助たすけない。また，彼かれらは善よいことでなければどんなことでも喜よろこぶ。この地ちの全ぜん面めんでニーファイ人じんの女おんな子こ供どもの被こうむっている苦く難なんは，あらゆるものを越こえており，まことに，筆ひつ舌ぜつに尽つくし難がたい。",
+            "kr": "또 그들은 그들의 패역함 중에 완강하여져서, 하나같이 포악하여, 노소를 가리지 않고 하나도 살려 두지 아니하며, 선한 것만 제외하고는 모든 것을 기뻐하는지라, 우리의 여자들과 우리의 자녀들이 이 온 땅에서 겪는 고난이 극심하여 필설로 다할 수 없도다."
+          }
+        },
+        {
+          "key": "20",
+          "text": {
+            "fr": "Et maintenant, mon fils, je ne m’attarde plus sur cet horrible tableau. Voici, tu connais la méchanceté de ce peuple ; tu sais qu’il est sans principes et qu’il a perdu toute sensibilité ; et sa méchanceté surpasse celle des Lamanites.",
+            "en": "And now, my son, I dwell no longer upon this horrible scene. Behold, thou knowest the wickedness of this people; thou knowest that they are without principle, and past feeling; and their wickedness doth exceed that of the Lamanites.",
+            "zh": "我兒，我現在不再談這恐怖的情景了。看啊，你知道這人民的邪惡，你知道他們沒有原則、麻木不仁；他們的邪惡比拉曼人更甚。",
+            "jp": "さて，わが子こよ，わたしはこのすさまじい有あり様さまについてはもう述のべない。見みよ，あなたはこの民たみの悪あく事じを知しっており，また彼かれらが道どう義ぎ心しんのない，心こころの鈍にぶい民たみであることも知しっている。彼かれらの悪あく事じはレーマン人じんの悪あく事じを越こえている。",
+            "kr": "이제 내 아들아, 나는 이 처참한 광경에 대하여 더 이상 언급하지 아니하노라. 보라, 이 백성의 간악함을 네가 알며, 그들은 원리도 없고, 감각도 없으며, 그들의 간악함은 레이맨인들의 간악함보다 더한 줄을 네가 아느니라."
+          }
+        },
+        {
+          "key": "21",
+          "text": {
+            "fr": "Voici, mon fils, je ne peux pas le recommander à Dieu, de peur qu’il ne me frappe.",
+            "en": "Behold, my son, I cannot recommend them unto God lest he should smite me.",
+            "zh": "看啊，我兒，我不能將他們推薦給神，免得祂責罰我。",
+            "jp": "見みよ，わが子こよ，わたしは神かみに打うたれるのを恐おそれて，この民たみを神かみに推すい薦せんすることができない。",
+            "kr": "보라 내 아들아, 나를 치실까 하여 내가 그들을 하나님께 천거할 수 없도다."
+          }
+        },
+        {
+          "key": "22",
+          "text": {
+            "fr": "Mais voici, mon fils, je te recommande à Dieu, et j’ai l’assurance dans le Christ que tu seras sauvé ; et je prie Dieu qu’il t’épargne la vie pour que tu sois témoin du retour de son peuple à lui, ou de sa destruction totale ; car je sais qu’il périra à moins qu’il ne se repente et ne retourne à lui.",
+            "en": "But behold, my son, I recommend thee unto God, and I trust in Christ that thou wilt be saved; and I pray unto God that he will spare thy life, to witness the return of his people unto him, or their utter destruction; for I know that they must perish except they repent and return unto him.",
+            "zh": "但是看啊，我兒，我將你推薦給神，我相信經由基督你會得救；我祈求神救你的性命，讓你目睹祂的人民歸向祂，或徹底毀滅；因為我知道，除非他們悔改而歸向祂，否則一定滅亡。",
+            "jp": "しかし見みよ，わが子こよ，あなたのことは神かみに推すい薦せんしよう。わたしは，あなたが救すくわれるであろうということについては，キリストに信しん頼らいを寄よせている。また，神かみがあなたの命いのちを助たすけて，神かみの民たみが神かみに立たち返かえるところを，あるいは彼かれらが完かん全ぜんに滅ほろびるところを，あなたに見みせてくださるように，わたしは神かみに祈いのっている。彼かれらが悔くい改あらためて神かみに立たち返かえらなければ，必かならず滅ほろびることを知しっているからである。",
+            "kr": "그러나 보라, 내 아들아, 내가 하나님께 너를 천거하노니, 나는 네가 구원받으리라는 것을 그리스도 안에서 신뢰하노라. 또 나는 하나님께서 네 목숨을 살려 두셔서 그의 백성이 그에게로 돌아오는 것이나, 아니면 그들의 온전한 멸망을 목격하게 해 주시기를 기도하노니, 이는 그들이 회개하고 그에게로 돌아오지 아니하면 반드시 멸망할 것을 내가 앎이라."
+          }
+        },
+        {
+          "key": "23",
+          "text": {
+            "fr": "Et s’ils périssent, ce sera comme les Jarédites, à cause de l’obstination de leur cœur à chercher le sang et la vengeance.",
+            "en": "And if they perish it will be like unto the Jaredites, because of the wilfulness of their hearts, seeking for blood and revenge.",
+            "zh": "如果他們滅亡，一定像雅列人一樣，因為他們恣意妄為，尋求血腥與報復。",
+            "jp": "もし彼かれらが滅ほろびるとすれば，それはヤレド人じんと同どう様ようであり，彼かれらが強ごう情じょうであって，彼かれらが血ちと報ほう復ふくを求もとめてそうなるのである。",
+            "kr": "또 만일 그들이 멸망하면, 그것은 야렛인들과 같으리니, 이는 피와 복수를 구하는 그들의 마음의 완악함으로 인함이라."
+          }
+        },
+        {
+          "key": "24",
+          "text": {
+            "fr": "Et s’ils périssent, nous savons que beaucoup de nos frères sont passés aux Lamanites, et qu’un nombre plus grand encore passera aussi à eux ; c’est pourquoi, écris quelque peu, un petit nombre de choses, si tu es épargné et si je péris et ne te vois pas ; mais j’ai l’assurance que je pourrai te voir bientôt, car j’ai des annales sacrées que je voudrais te remettre.",
+            "en": "And if it so be that they perish, we know that many of our brethren have deserted over unto the Lamanites, and many more will also desert over unto them; wherefore, write somewhat a few things, if thou art spared and I shall perish and not see thee; but I trust that I may see thee soon; for I have sacred records that I would deliver up unto thee.",
+            "zh": "如果他們真的滅亡，我們知道我們已有很多弟兄叛離到拉曼人那裡，而且還會有更多人叛離到他們那裡；所以，如果你得倖免，而我死了見不到你，你要寫點東西，但我相信我很快就會見到你，因為我有神聖的紀錄要交給你。",
+            "jp": "また，もし彼かれらが滅ほろびるならば，わたしたちが知しっているように，わたしたちの同胞はらからの多おおくがすでにレーマン人じんのもとに脱だっ走そうして行いったが，もっと多おおくの者ものがレーマン人じんのもとに脱だっ走そうして行いくであろう。ところで，もしあなたが命いのちを助たすけられ，わたしが死しんであなたに会あえないようであれば，少すこし書かき記しるしなさい。しかしわたしは，もうすぐあなたに会あえると確かく信しんしている。あなたに渡わたしたい神しん聖せいな記き録ろくを持もっているからである。",
+            "kr": "또 만일 그들이 멸망할진대, 우리의 많은 형제들이 레이맨인들에게로 넘어갔고 또한 많은 자가 더 그들에게로 넘어갈 것임을 우리가 알고 있은즉, 그러므로 만일 네가 살아남고, 내가 죽어 너를 보지 못하거든, 대략 몇 가지를 기록하라. 그러나 내가 곧 너를 볼 줄로 확신하노니, 이는 네게 넘겨줄 거룩한 기록을 내가 갖고 있음이니라."
+          }
+        },
+        {
+          "key": "25",
+          "text": {
+            "fr": "Mon fils, sois fidèle dans le Christ ; et que les choses que j’ai écrites ne te causent pas de peine, pour t’accabler jusqu’à la mort ; mais que le Christ te console, et que ses souffrances et sa mort, et son corps montré à nos pères, et sa miséricorde et sa longanimité, et l’espérance de sa gloire et de la vie éternelle demeurent à jamais dans ton esprit.",
+            "en": "My son, be faithful in Christ; and may not the things which I have written grieve thee, to weigh thee down unto death; but may Christ lift thee up, and may his sufferings and death, and the showing his body unto our fathers, and his mercy and long-suffering, and the hope of his glory and of eternal life, rest in your mind forever.",
+            "zh": "我兒，要忠於基督；願我寫的事情不會使你痛心，使你心情沉重得要死；願基督提升你，願祂的受難和死亡、祂對我們祖先的顯現、祂的慈悲和恆久忍耐，以及對祂的榮耀和對永生的希望，永遠都留在你心裡。",
+            "jp": "わが子こよ，キリストに忠ちゅう実じつでありなさい。わたしの書かいたことを悲かなしんで，打うちひしがれて死しぬことのないように。キリストに支ささえられて，キリストの苦くるしみと死しと，キリストがわたしたちの先せん祖ぞに御ご自じ分ぶんの体からだを示しめされたことと，キリストの憐あわれみと寛かん容ようと，キリストの栄えい光こうと永えい遠えんの命いのちとを願ねがう望のぞみが，とこしえにあなたの心こころの中なかにとどまるように。",
+            "kr": "내 아들아, 그리스도 안에서 충실하라. 그리고 내가 쓴 것이 너를 비통하게 하여 너를 억눌러 죽음에 이르게 하지 않기를 바라며, 또 그리스도께서 너를 들어 올리시기를 바라며, 또 그의 고난과 죽으심과 우리 조상들에게 그의 몸을 보이신 일과 그의 자비하심과 오래 참으심과 그의 영광의 소망과 영생의 소망이 영원히 네 마음에 머물러 있기를 바라노라."
+          }
+        },
+        {
+          "key": "26",
+          "text": {
+            "fr": "Et que la grâce de Dieu le Père, dont le trône est haut dans les cieux, et de notre Seigneur Jésus-Christ, qui est assis à la droite de sa puissance, jusqu’à ce que tout lui soit assujetti, soit et demeure avec toi à jamais. Amen.",
+            "en": "And may the grace of God the Father, whose throne is high in the heavens, and our Lord Jesus Christ, who sitteth on the right hand of his power, until all things shall become subject unto him, be, and abide with you forever. Amen.",
+            "zh": "願寶座在高天的父神，和坐在祂權能右邊直到萬物都臣服於祂的主耶穌基督的恩典，永遠與你同在。阿們。",
+            "jp": "天てんの高たかい所ところにある王おう座ざに着ついておられる父ちちなる神かみの恵めぐみと，また万ばん物ぶつが従したがうまで神かみの右みぎに座ざする主しゅイエス・キリストの恵めぐみが，とこしえにあなたとともにあるように。アーメン。」",
+            "kr": "또 그 보좌가 하늘 높이 있는 하나님 아버지의 은혜와, 만물이 자기에게 복종하게 되기까지 그 권능의 우편에 앉으신 우리 주 예수 그리스도께서 영원토록 너와 함께 계시고 또 거하시기를 원하노라. 아멘."
+          }
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "introduction": {
+        "fr": "On obtient le témoignage du Livre de Mormon par le pouvoir du Saint-Esprit — Les dons de l’Esprit sont dispensés aux fidèles — La foi est toujours accompagnée des dons spirituels — Les paroles de Moroni parlent de la poussière — Venez au Christ, soyez rendus parfaits en lui et sanctifiez votre âme. Vers 421 apr. J.-C.",
+        "en": "A testimony of the Book of Mormon comes by the power of the Holy Ghost—The gifts of the Spirit are dispensed to the faithful—Spiritual gifts always accompany faith—Moroni’s words speak from the dust—Come unto Christ, be perfected in Him, and sanctify your souls. About A.D. 421.",
+        "zh": "藉聖靈的力量獲得對《摩爾門經》的見證——靈的恩賜會分給忠信的人——屬靈的恩賜總隨信心而來——摩羅乃的話從塵埃中說出——歸向基督，在祂裡面成為完全，並聖化你的靈魂。約主後421年。",
+        "jp": "『モルモン書しょ』についての証あかしは，聖せい霊れいの力ちからによって与あたえられる。御み霊たまの賜たま物ものは忠ちゅう実じつな者ものに分わけ与あたえられる。霊れい的てきな賜たま物ものは必かならず信しん仰こうに伴ともなう。モロナイの言こと葉ばは地ちから語かたる。キリストのもとに来きて，キリストによって完かん全ぜんになり，清きよめられなさい。紀き元げん約やく四百二十一年ねん。",
+        "kr": "몰몬경에 대한 증거는 성신의 권능으로 말미암아 옴—영의 은사는 충실한 자에게 베풀어짐. 영적인 은사는 언제나 신앙에 동반하는 것임—모로나이의 말이 티끌에서부터 말함—그리스도에게로 와서 그 안에서 온전하게 되고 너희의 영혼을 성결하게 하라. 주후 401~421년경."
+      },
+      "verses": [
+        {
+          "key": "1",
+          "text": {
+            "fr": "Or, moi, Moroni, j’écris quelque peu comme il me semble bon ; et j’écris à mes frères, les Lamanites ; et je voudrais qu’ils sachent que plus de quatre cent vingt ans sont passés depuis que le signe de la venue du Christ fut donné.",
+            "en": "Now I, Moroni, write somewhat as seemeth me good; and I write unto my brethren, the Lamanites; and I would that they should know that more than four hundred and twenty years have passed away since the sign was given of the coming of Christ.",
+            "zh": "我，摩羅乃，現在要寫一些我認為好的事情；我要寫給我的弟兄拉曼人；我希望他們知道，自從基督來臨的徵兆發生後，已過了四百二十多年。",
+            "jp": "さて，わたしモロナイは，自じ分ぶんがよいと思おもうままに少すこし書かき記しるす。わたしは同胞はらからであるレーマン人じんに書かき記しるす。キリストの来らい臨りんのしるしが現あらわれてから，すでに四百二十年ねん以い上じょうたったことを知しってほしい。",
+            "kr": "이제 나 모로나이는 내가 보기에 좋은 것을 얼마간 기록하되, 나의 형제 레이맨인들을 위하여 기록하노니, 나는 그리스도의 오심에 대한 표적이 주어진 이래로 사백이십 년 이상이 지나갔음을 그들이 알기 원하노라."
+          }
+        },
+        {
+          "key": "2",
+          "text": {
+            "fr": "Et je scelle ces annales, après avoir dit quelques paroles en guise d’exhortation à votre intention.",
+            "en": "And I seal up these records, after I have spoken a few words by way of exhortation unto you.",
+            "zh": "我說幾句勸告你們的話後，就要封起這些紀錄了。",
+            "jp": "わたしはあなたがたへの勧すすめとして少すこしの言こと葉ばを述のべた後のち，この記き録ろくを封ふうじることにする。",
+            "kr": "그리고 나는 너희에게 권면으로 몇 마디 말을 하고 나서, 이 기록들을 인봉하노라."
+          }
+        },
+        {
+          "key": "3",
+          "text": {
+            "fr": "Voici, je voudrais vous exhorter, lorsque vous lirez ces choses, si Dieu juge sage que vous les lisiez, à vous souvenir combien le Seigneur a été miséricordieux envers les enfants des hommes, depuis la création d’Adam jusqu’au moment où vous recevrez ces choses, et à méditer cela dans votre cœur.",
+            "en": "Behold, I would exhort you that when ye shall read these things, if it be wisdom in God that ye should read them, that ye would remember how merciful the Lord hath been unto the children of men, from the creation of Adam even down until the time that ye shall receive these things, and ponder it in your hearts.",
+            "zh": "看啊，如果神的大智要你們讀這些，我勸告你們在讀的時候，要記住並在心中沉思，從創造亞當到你們蒙得這些時，主對人類兒女一直多麼慈悲。",
+            "jp": "見みよ，わたしはあなたがたに勧すすめたい。あなたがたにとってこの記き録ろくを読よむことが，神かみの知ち恵えにかなうようであれば，あなたがたはこれを読よむときに，アダムが造つくられてからあなたがたがこれを受うけるときまで，主しゅが人ひとの子こらにどれほど憐あわれみをかけてこられたかを思おもい起おこし，それを心こころの中なかで深ふかく考かんがえてほしい。",
+            "kr": "보라, 내가 너희를 권면하거니와, 너희가 이를 읽는 것이 하나님 안에 있는 지혜일진대, 너희가 이 기록을 읽게 되거든, 너희는 아담이 창조된 때로부터 너희가 이 기록을 받게 될 때까지 주께서 사람의 자녀들에게 얼마나 자비로우셨던가를 기억하고, 그것을 너희 마음에 깊이 생각하라."
+          }
+        },
+        {
+          "key": "4",
+          "text": {
+            "fr": "Et lorsque vous recevrez ces choses, je vous exhorte à demander à Dieu, le Père éternel, au nom du Christ, si ces choses ne sont pas vraies ; et si vous demandez d’un cœur sincère, avec une intention réelle, ayant foi au Christ, il vous en manifestera la vérité par le pouvoir du Saint-Esprit.",
+            "en": "And when ye shall receive these things, I would exhort you that ye would ask God, the Eternal Father, in the name of Christ, if these things are not true; and if ye shall ask with a sincere heart, with real intent, having faith in Christ, he will manifest the truth of it unto you, by the power of the Holy Ghost.",
+            "zh": "當你們蒙得這些時，我勸告你們要奉基督的名求問神，那位永恆之父，這些是否真實；如果你們用真心誠意來求問，對基督有信心，祂必藉聖靈的力量，向你們顯明這些事情的真實性。",
+            "jp": "また，この記き録ろくを受うけるとき，これが真しん実じつかどうかキリストの名なによって永えい遠えんの父ちちなる神かみに問とうように，あなたがたに勧すすめたい。もしキリストを信しんじながら，誠せい心しん誠せい意い問とうならば，神かみはこれが真しん実じつであることを，聖せい霊れいの力ちからによってあなたがたに明あきらかにしてくださる。",
+            "kr": "또 너희가 이 기록을 받거든, 내가 너희를 권면하거니와, 너희는 혹 이 기록이 참되지 아니한지 그리스도의 이름으로 영원하신 하나님 아버지께 간구하여 보라. 너희가 만일 그리스도를 믿는 신앙을 가지고, 진정한 의도를 지니며, 진실한 마음으로 간구할진대, 그는 성신의 권능으로 너희에게 이것의 참됨을 드러내어 주시리라."
+          }
+        },
+        {
+          "key": "5",
+          "text": {
+            "fr": "Et par le pouvoir du Saint-Esprit, vous pouvez connaître la vérité de toutes choses.",
+            "en": "And by the power of the Holy Ghost ye may know the truth of all things.",
+            "zh": "藉著聖靈的力量，你們可以知道一切事情的真實性。",
+            "jp": "そして聖せい霊れいの力ちからによって，あなたがたはすべてのことの真しん理りを知しるであろう。",
+            "kr": "또 성신의 권능으로 너희는 모든 것의 참됨을 알게 되리라."
+          }
+        },
+        {
+          "key": "6",
+          "text": {
+            "fr": "Et tout ce qui est bon est juste et vrai ; c’est pourquoi, rien de ce qui est bon ne nie le Christ, mais reconnaît qu’il est.",
+            "en": "And whatsoever thing is good is just and true; wherefore, nothing that is good denieth the Christ, but acknowledgeth that he is.",
+            "zh": "凡好的事物都是正確而真實的；因此，好的事物絕不否認基督，卻承認祂的存在。",
+            "jp": "善よいものは何なんであろうと，正ただしくて真しん実じつである。したがって，善よいものはキリストを否ひ定ていすることなく，キリストがおられることを認みとめる。",
+            "kr": "또 무엇이든지 선한 것은 바르고 참된지라, 그러므로 무엇이라도 선한 것은 그리스도를 부인하지 아니하고 그가 계심을 인정하느니라."
+          }
+        },
+        {
+          "key": "7",
+          "text": {
+            "fr": "Et vous pouvez savoir qu’il est, par le pouvoir du Saint-Esprit ; c’est pourquoi, je vous exhorte à ne pas nier le pouvoir de Dieu ; car il agit par le pouvoir, selon la foi des enfants des hommes, le même aujourd’hui, et demain, et à jamais.",
+            "en": "And ye may know that he is, by the power of the Holy Ghost; wherefore I would exhort you that ye deny not the power of God; for he worketh by power, according to the faith of the children of men, the same today and tomorrow, and forever.",
+            "zh": "你們可以藉著聖靈的力量知道祂存在，所以我勸告你們不要否認神的大能；因為祂按照人類兒女的信心，憑大能行事，今日、明日、永遠都一樣。",
+            "jp": "そしてあなたがたは，キリストがおられることを聖せい霊れいの力ちからによって知しることができる。したがって，わたしはあなたがたに，神かみの力ちからを否ひ定ていしないようにと勧すすめたい。神かみは今日きょうも，明あ日すも，とこしえに同おなじ御お方かたで，人ひとの子こらの信しん仰こうに応おうじて力ちからをもって働はたらかれる。",
+            "kr": "이에 너희가 성신의 권능으로 그가 계심을 알리로다. 그런즉 내가 너희를 권면하노니, 너희는 하나님의 권능을 부인하지 말라. 이는 그가 사람의 자녀들의 신앙을 따라 권능으로써 역사하심이 오늘이나 내일이나 영원토록 동일하심이니라."
+          }
+        },
+        {
+          "key": "8",
+          "text": {
+            "fr": "Et en outre, je vous exhorte, mes frères, à ne pas nier les dons de Dieu, car ils sont nombreux ; et ils viennent du même Dieu. Et ces dons sont conférés de différentes façons ; mais c’est le même Dieu qui opère tout en tous ; et ils sont donnés par les manifestations de l’Esprit de Dieu aux hommes, pour leur profit.",
+            "en": "And again, I exhort you, my brethren, that ye deny not the gifts of God, for they are many; and they come from the same God. And there are different ways that these gifts are administered; but it is the same God who worketh all in all; and they are given by the manifestations of the Spirit of God unto men, to profit them.",
+            "zh": "弟兄們，我再勸告你們，不要否認神的恩賜，因為神的恩賜很多，且都來自同一位神。賜給這些恩賜的方法雖有不同，但都是在各處行萬事的同一位神賜予的；這些恩賜都藉著神的靈的顯示而賜給世人，使他們受益。",
+            "jp": "さらに，わたしは同胞はらからであるあなたがたに，神かみの賜たま物ものは多おおいので，これらの賜たま物ものを否ひ定ていしないように勧すすめる。これらの賜たま物ものは同おなじ神かみから出でる。これらの賜たま物ものの与あたえられ方かたは様さま々ざまであるが，すべての人ひとの中なかですべての働はたらきをされるのは同おなじ神かみである。これらの賜たま物ものは人ひとを益えきするために，神かみの御み霊たまの現あらわれによって人ひとに授さずけられるのである。",
+            "kr": "그리고 또 나의 형제들아, 내가 너희를 권면하노니, 너희는 하나님의 은사를 부인하지 말라. 이는 은사가 많음이요, 그것들이 같은 하나님에게서 옴이니라. 또 이러한 은사들이 베풀어지는 데도 여러 가지 길이 있으나, 모든 것 안에서 모든 것을 역사하시는 이는 같은 하나님이시요, 이러한 것이 하나님의 영의 나타나심으로 사람들에게 주어지는 것은 그들을 유익하게 하려는 것이니라."
+          }
+        },
+        {
+          "key": "9",
+          "text": {
+            "fr": "Car voici, à l’un est donné, par l’Esprit de Dieu, d’enseigner la parole de sagesse ;",
+            "en": "For behold, to one is given by the Spirit of God, that he may teach the word of wisdom;",
+            "zh": "因為看啊，有的人藉著神的靈蒙得恩賜而能教導智慧的言語；",
+            "jp": "見みよ，ある人ひとには神かみの御み霊たまによって，知ち恵えの言こと葉ばを教おしえる賜たま物ものが授さずけられ，",
+            "kr": "이는 보라, 어떤 이에게는 하나님의 영으로 말미암아 지혜의 말씀을 가르치게 하여 주시니라."
+          }
+        },
+        {
+          "key": "10",
+          "text": {
+            "fr": "et à un autre, d’enseigner la parole de connaissance par le même Esprit ;",
+            "en": "And to another, that he may teach the word of knowledge by the same Spirit;",
+            "zh": "有的人藉著同一位靈蒙得恩賜而能教導知識的言語；",
+            "jp": "ある人ひとには同おなじ御み霊たまによって，知ち識しきの言こと葉ばを教おしえる賜たま物もの，",
+            "kr": "또 다른 이에게는 같은 영으로 지식의 말씀을 가르치게 하여 주시니라."
+          }
+        },
+        {
+          "key": "11",
+          "text": {
+            "fr": "et à un autre, une foi extrêmement grande ; et à un autre, les dons de guérison, par le même Esprit ;",
+            "en": "And to another, exceedingly great faith; and to another, the gifts of healing by the same Spirit;",
+            "zh": "有的人蒙賜極大的信心；有的人藉著同一位靈蒙得治病的恩賜；",
+            "jp": "ある人ひとには非ひ常じょうに深ふかい信しん仰こう，ある人ひとには同おなじ御み霊たまによって癒いやしの賜たま物もの，",
+            "kr": "또 다른 이에게는 심히 큰 신앙을, 또 다른 이에게는 같은 영으로 병 고침의 은사를,"
+          }
+        },
+        {
+          "key": "12",
+          "text": {
+            "fr": "et aussi, à un autre, d’accomplir de grands miracles ;",
+            "en": "And again, to another, that he may work mighty miracles;",
+            "zh": "還有人蒙得恩賜而能行大奇蹟；",
+            "jp": "また，ある人ひとには大おおきな奇き跡せきを行おこなう賜たま物もの，",
+            "kr": "그리고 또 다른 이에게는 능한 기적 행함을,"
+          }
+        },
+        {
+          "key": "13",
+          "text": {
+            "fr": "et aussi, à un autre, de prophétiser sur toutes choses ;",
+            "en": "And again, to another, that he may prophesy concerning all things;",
+            "zh": "還有人蒙得恩賜而能預言一切事情；",
+            "jp": "また，ある人ひとにはあらゆる事こと柄がらについて預よ言げんする賜たま物もの，",
+            "kr": "그리고 또 다른 이에게는 모든 것에 관하여 예언함을,"
+          }
+        },
+        {
+          "key": "14",
+          "text": {
+            "fr": "et aussi, à un autre, de voir les anges et les esprits chargés d’un ministère ;",
+            "en": "And again, to another, the beholding of angels and ministering spirits;",
+            "zh": "還有人蒙得看見天使和施助之靈的恩賜；",
+            "jp": "また，ある人ひとには天てん使しと仕つかえる霊れいを見みる賜たま物もの，",
+            "kr": "그리고 또 다른 이에게는 천사들과 성역을 베푸는 영들을 봄을,"
+          }
+        },
+        {
+          "key": "15",
+          "text": {
+            "fr": "et aussi, à un autre, toutes sortes de langues ;",
+            "en": "And again, to another, all kinds of tongues;",
+            "zh": "還有人蒙得各種語言的恩賜；",
+            "jp": "また，ある人ひとにはあらゆる異い言げん，",
+            "kr": "그리고 또 다른 이에게는 온갖 방언을,"
+          }
+        },
+        {
+          "key": "16",
+          "text": {
+            "fr": "et aussi, à un autre, l’interprétation des langages et de diverses sortes de langues.",
+            "en": "And again, to another, the interpretation of languages and of divers kinds of tongues.",
+            "zh": "還有人蒙得翻譯文字和各種語言的恩賜；",
+            "jp": "また，ある人ひとには様さま々ざまな言げん語ごといろいろな異い言げんを解かい釈しゃくする賜たま物ものが授さずけられる。",
+            "kr": "그리고 또 다른 이에게는 언어들과 각종 방언 통역함을 주심이니,"
+          }
+        },
+        {
+          "key": "17",
+          "text": {
+            "fr": "Et tous ces dons viennent par l’Esprit du Christ ; et ils viennent à tous les hommes, séparément, selon sa volonté.",
+            "en": "And all these gifts come by the Spirit of Christ; and they come unto every man severally, according as he will.",
+            "zh": "這一切恩賜都藉著基督的靈而來，隨己意分給各人。",
+            "jp": "これらの賜たま物ものはすべて，キリストの御み霊たまによって授さずけられる。そして，キリストの望のぞまれるままに，それぞれすべての人ひとに授さずけられるのである。",
+            "kr": "이 모든 은사가 그리스도의 영으로 말미암아 오며, 그가 원하시는 대로 모든 사람에게 각각 임하느니라."
+          }
+        },
+        {
+          "key": "18",
+          "text": {
+            "fr": "Et je voudrais vous exhorter, mes frères bien-aimés, à vous souvenir que tout bon don vient du Christ.",
+            "en": "And I would exhort you, my beloved brethren, that ye remember that every good gift cometh of Christ.",
+            "zh": "我心愛的弟兄們，我勸告你們記住，每一項好的恩賜都來自基督。",
+            "jp": "わたしは愛あいする同胞はらからであるあなたがたに，あらゆる善よい賜たま物ものはキリストから来くるということを覚おぼえておくように勧すすめたい。",
+            "kr": "또 나의 사랑하는 형제들아, 내가 너희를 권면하노니, 너희는 모든 선한 은사가 그리스도에게서 오는 것임을 기억하라."
+          }
+        },
+        {
+          "key": "19",
+          "text": {
+            "fr": "Et je voudrais vous exhorter, mes frères bien-aimés, à vous souvenir qu’il est le même hier, aujourd’hui et à jamais, et que tous ces dons dont j’ai parlé, qui sont spirituels, ne seront jamais abolis, aussi longtemps que le monde demeurera, si ce n’est selon l’incrédulité des enfants des hommes.",
+            "en": "And I would exhort you, my beloved brethren, that ye remember that he is the same yesterday, today, and forever, and that all these gifts of which I have spoken, which are spiritual, never will be done away, even as long as the world shall stand, only according to the unbelief of the children of men.",
+            "zh": "我心愛的弟兄們，我勸告你們記住，祂是昨日、今日、永遠都一樣的，只要世界還存在，我說的這一切屬靈恩賜，決不會被取走，只有人類兒女不相信，這一切才會被取走。",
+            "jp": "また，わたしは愛あいする同胞はらからであるあなたがたに勧すすめたい。キリストは昨日きのうも，今日きょうも，とこしえに変かわらない御お方かたであるということと，わたしが述のべたこれらの霊れい的てきな賜たま物ものはすべて，人ひとの子こらが不ふ信しん仰こうになるときでなければ，世せ界かいのあるかぎり決けっしてなくならないことを覚おぼえておきなさい。",
+            "kr": "또 내 사랑하는 형제들아, 내가 너희를 권면하노니, 너희는 그가 어제나 오늘이나 영원토록 동일하심과, 내가 말한 이 모든 영적인 은사가 사람의 자녀들의 믿지 않음을 따라서가 아니고는 세상이 존재하는 동안 결코 폐하여지지 아니할 것임을 기억하라."
+          }
+        },
+        {
+          "key": "20",
+          "text": {
+            "fr": "C’est pourquoi, il faut qu’il y ait la foi ; et s’il faut qu’il y ait la foi, il faut aussi qu’il y ait l’espérance ; et s’il faut qu’il y ait l’espérance, il faut aussi qu’il y ait la charité.",
+            "en": "Wherefore, there must be faith; and if there must be faith there must also be hope; and if there must be hope there must also be charity.",
+            "zh": "因此，必須要有信心；如果必須要有信心，也必須要有希望；如果必須要有希望，也必須要有仁愛。",
+            "jp": "したがって，信しん仰こうがなければならない。もし信しん仰こうがなければならないとすれば，希き望ぼうもまたなければならない。そして，もし希き望ぼうがなければならないとすれば，慈じ愛あいもまたなければならない。",
+            "kr": "그런즉 반드시 신앙이 있어야 하며, 반드시 신앙이 있어야 할진대 또한 반드시 소망이 있어야 하며, 반드시 소망이 있어야 할진대 또한 반드시 사랑이 있어야 하느니라."
+          }
+        },
+        {
+          "key": "21",
+          "text": {
+            "fr": "Et si vous n’avez pas la charité, vous ne pouvez en aucune façon être sauvés dans le royaume de Dieu ; et vous ne pouvez pas non plus être sauvés dans le royaume de Dieu si vous n’avez pas la foi ; et vous ne le pouvez pas non plus si vous n’avez pas l’espérance.",
+            "en": "And except ye have charity ye can in nowise be saved in the kingdom of God; neither can ye be saved in the kingdom of God if ye have not faith; neither can ye if ye have no hope.",
+            "zh": "除非你們有仁愛，否則決不能在神國裡得救；你們若沒有信心，也不能在神國裡得救；你們若沒有希望，也不能得救。",
+            "jp": "あなたがたに慈じ愛あいがなければ，あなたがたは決けっして神かみの王おう国こくに救すくわれない。また，信しん仰こうがなければ神かみの王おう国こくに救すくわれないし，また希き望ぼうがなければ救すくわれない。",
+            "kr": "또 너희에게 사랑이 있지 아니하면 너희가 결단코 하나님의 나라에서 구원받을 수 없고, 너희에게 신앙이 없어도 하나님의 나라에서 구원받을 수 없으며, 너희에게 소망이 없어도 구원받을 수 없느니라."
+          }
+        },
+        {
+          "key": "22",
+          "text": {
+            "fr": "Et si vous n’avez pas l’espérance, vous devez nécessairement être dans le désespoir ; et le désespoir vient de l’iniquité.",
+            "en": "And if ye have no hope ye must needs be in despair; and despair cometh because of iniquity.",
+            "zh": "你們若沒有希望，就一定處在絕望中，而絕望因罪惡而來。",
+            "jp": "もしあなたがたに希き望ぼうがなければ，あなたがたは必かならず絶ぜつ望ぼうを味あじわうであろう。絶ぜつ望ぼうは罪ざい悪あくのために生しょうじる。",
+            "kr": "또 만일 너희에게 소망이 없으면 너희가 반드시 절망하리니, 절망은 죄악으로 인하여 오는도다."
+          }
+        },
+        {
+          "key": "23",
+          "text": {
+            "fr": "Et le Christ a dit en vérité à nos pères : Si vous avez la foi, vous pouvez faire tout ce qui m’est utile.",
+            "en": "And Christ truly said unto our fathers: If ye have faith ye can do all things which are expedient unto me.",
+            "zh": "基督確實對我們祖先說過：你們若有信心，就能做一切我認為合宜的事。",
+            "jp": "キリストは，まことにわたしたちの先せん祖ぞに，「信しん仰こうがあれば，あなたがたは，わたしの心こころにかなうすべてのことを行おこなうことができる」と言いわれた。",
+            "kr": "그러나 그리스도께서는 진실로 우리 조상들에게 말씀하시기를, 만일 너희에게 신앙이 있으면 내게 합당한 것은 무엇이라도 다 행할 수 있으리라 하셨느니라."
+          }
+        },
+        {
+          "key": "24",
+          "text": {
+            "fr": "Et maintenant, je parle à toutes les extrémités de la terre : Si le jour vient où le pouvoir et les dons de Dieu cessent parmi vous, ce sera à cause de l’incrédulité.",
+            "en": "And now I speak unto all the ends of the earth—that if the day cometh that the power and gifts of God shall be done away among you, it shall be because of unbelief.",
+            "zh": "現在我要對大地各端的人說——如果有一天，神的大能與恩賜從你們當中停止，那一定是因為不信的緣故。",
+            "jp": "さて，わたしは地ちの果はてに至いたるすべての人ひとに告つげる。もしあなたがたの中なかに，神かみの力ちからと賜たま物もののなくなる時ときが来くるとすれば，それは不ふ信しん仰こうのためである。",
+            "kr": "이에 이제 내가 땅의 모든 끝에게 말하노니—만일 너희 가운데 하나님의 권능과 은사가 폐하여지는 날이 이르면 그것은 믿지 않음으로 인함일 것이니라."
+          }
+        },
+        {
+          "key": "25",
+          "text": {
+            "fr": "Et malheur aux enfants des hommes si c’est le cas ; car il n’y en aura aucun qui fera le bien parmi vous, pas même un seul. Car s’il y en a un seul parmi vous qui fait le bien, il agira par le pouvoir et les dons de Dieu.",
+            "en": "And wo be unto the children of men if this be the case; for there shall be none that doeth good among you, no not one. For if there be one among you that doeth good, he shall work by the power and gifts of God.",
+            "zh": "如果真是這樣，人類兒女就有禍了，因為你們中間必沒有人行善，沒有，一個都沒有。如果你們中間有一人行善，他必藉神的大能和恩賜行事。",
+            "jp": "もしこのようになるとすれば，人ひとの子こらは災わざわいである。あなたがたの中なかには，善ぜんを行おこなう者ものは一人ひとりとしていないからである。もしあなたがたの中なかに善ぜんを行おこなう者ものがいれば，その人ひとは神かみの力ちからと賜たま物ものをもって働はたらくであろう。",
+            "kr": "또 만일 그러할진대 사람의 자녀들에게 화 있을진저, 이는 너희 중에 선을 행하는 자가 없되, 하나도 없을 것임이니, 이는 만일 너희 중에 선을 행하는 자가 있다면 그는 하나님의 권능과 은사로 역사할 것임이니라."
+          }
+        },
+        {
+          "key": "26",
+          "text": {
+            "fr": "Et malheur à ceux qui feront cesser ces choses et mourront, car ils meurent dans leurs péchés et ils ne peuvent être sauvés dans le royaume de Dieu ; et je le dis selon les paroles du Christ ; et je ne mens pas.",
+            "en": "And wo unto them who shall do these things away and die, for they die in their sins, and they cannot be saved in the kingdom of God; and I speak it according to the words of Christ; and I lie not.",
+            "zh": "使這些被取走並死去的人有禍了，因為他們死在他們的罪中，他們無法在神國裡得救；我這麼說是根據基督的話，我沒有說謊。",
+            "jp": "これらのものを絶たやして死しぬ者ものたちは災わざわいである。彼かれらは罪つみのうちに死しぬので，神かみの王おう国こくに救すくわれることはあり得えないからである。わたしはこのことを，キリストの言こと葉ばのとおりに告つげる。わたしは偽いつわりを言いわない。",
+            "kr": "또 이러한 것을 폐하고 죽을 자들에게 화 있나니, 이는 그들이 그들의 죄 가운데 죽고, 하나님의 나라에서 구원받을 수 없음이라. 내가 그리스도의 말씀대로 이를 말하고 거짓말하지 아니하노라."
+          }
+        },
+        {
+          "key": "27",
+          "text": {
+            "fr": "Et je vous exhorte à vous souvenir de ces choses ; car le temps vient rapidement où vous saurez que je ne mens pas, car vous me verrez à la barre de Dieu ; et le Seigneur Dieu vous dira : Ne vous ai-je pas annoncé mes paroles, qui ont été écrites par cet homme, semblable à quelqu’un qui crie d’entre les morts, oui, comme quelqu’un qui parle de la poussière ?",
+            "en": "And I exhort you to remember these things; for the time speedily cometh that ye shall know that I lie not, for ye shall see me at the bar of God; and the Lord God will say unto you: Did I not declare my words unto you, which were written by this man, like as one crying from the dead, yea, even as one speaking out of the dust?",
+            "zh": "我勸告你們記住這些事；因為時間很快就到，你們就會知道我沒有說謊，因為你們會在神的審判欄前見到我；主神會對你們說：難道我沒有向你們宣布我藉著這人寫的話嗎？這人寫的話彷彿一個人從死人中呼喊，是的，如同一個人從塵埃中說話一樣。",
+            "jp": "わたしは，これらのことを覚おぼえておくように勧すすめる。わたしが偽いつわりを言いっていないことが，あなたがたに分わかる時ときがすぐに来くるからである。あなたがたは，神かみの法ほう廷ていでわたしに会あうであろう。そして，主しゅなる神かみはあなたがたに，「わたしはあなたがたに，死し者しゃの中なかから叫さけぶもののように，まことに地ちの中なかから語かたるもののように，この人ひとが書かき記しるしたわたしの言こと葉ばを告つげなかったか」と言いわれるであろう。",
+            "kr": "이에 내가 너희에게 권하노니, 너희는 이러한 것을 기억하라. 이는 내가 거짓말 아니하는 줄 너희가 알게 될 때가 속히 이름이니, 이는 너희가 하나님의 심판대에서 나를 볼 것이요, 주 하나님께서는 너희에게 이르시기를, 이 사람이 기록한 나의 말을 내가 죽은 자 가운데서 외치는 자같이 참으로 티끌에서 말하는 자같이 너희에게 선포하지 아니하였느냐 하실 것임이니라."
+          }
+        },
+        {
+          "key": "28",
+          "text": {
+            "fr": "J’annonce ces choses pour que les prophéties s’accomplissent. Et voici, elles sortiront de la bouche du Dieu éternel ; et sa parole sifflera de génération en génération.",
+            "en": "I declare these things unto the fulfilling of the prophecies. And behold, they shall proceed forth out of the mouth of the everlasting God; and his word shall hiss forth from generation to generation.",
+            "zh": "我宣布這些事情以應驗預言。看啊，這些事情必出自永恆之神的口；祂的話必一代又一代以嘶聲傳出來。",
+            "jp": "わたしがこれらのことを告つげるのは，預よ言げんが成じょう就じゅするためである。見みよ，これらのことは永えい遠えんの神かみの口くちから出でるであろう。そして，神かみの言こと葉ばは代よ々よ響ひびき渡わたるであろう。",
+            "kr": "내가 이러한 것을 선포하여 예언을 이루노니, 보라, 그것은 영원하신 하나님의 입에서 나아올 것이요, 그의 말씀은 대대로 울려 퍼질 것이니라."
+          }
+        },
+        {
+          "key": "29",
+          "text": {
+            "fr": "Et Dieu vous montrera que ce que j’ai écrit est vrai.",
+            "en": "And God shall show unto you, that that which I have written is true.",
+            "zh": "神必使你們知道，我所寫的是真實的。",
+            "jp": "また神かみは，わたしの書かき記しるしてきたことが事じ実じつであるということをあなたがたに示しめされるであろう。",
+            "kr": "또 하나님께서는 내가 기록한 것들이 참됨을 너희에게 보이시리라."
+          }
+        },
+        {
+          "key": "30",
+          "text": {
+            "fr": "Et en outre : Je voudrais vous exhorter à venir au Christ, et à vous saisir de tout bon don, et à ne pas toucher au mauvais don, ni à ce qui est impur.",
+            "en": "And again I would exhort you that ye would come unto Christ, and lay hold upon every good gift, and touch not the evil gift, nor the unclean thing.",
+            "zh": "我再勸告你們，你們要歸向基督，接受每一項好的恩賜，不要碰那不好的，也不要碰不潔之物。",
+            "jp": "さらに，わたしはあなたがたに，キリストのもとに来きて，あらゆる善よい賜たま物ものを得えるように，また悪わるい賜たま物ものや清きよくないものに触ふれないように勧すすめたい。",
+            "kr": "또 내가 거듭 너희를 권면하노니 너희는 그리스도에게로 나아와 모든 선한 은사를 붙들고 악한 은사나 부정한 것은 손대지 말라."
+          }
+        },
+        {
+          "key": "31",
+          "text": {
+            "fr": "Et réveille-toi, et lève-toi de la poussière, ô Jérusalem ; oui, et revêts tes habits de fête, ô fille de Sion ; et fortifie tes pieux et élargis tes frontières à jamais, afin que tu ne sois plus confondue, que les alliances que le Père éternel a faites avec toi, ô maison d’Israël, s’accomplissent.",
+            "en": "And awake, and arise from the dust, O Jerusalem; yea, and put on thy beautiful garments, O daughter of Zion; and strengthen thy stakes and enlarge thy borders forever, that thou mayest no more be confounded, that the covenants of the Eternal Father which he hath made unto thee, O house of Israel, may be fulfilled.",
+            "zh": "耶路撒冷啊，覺醒吧，從塵埃中起來；是的，錫安的女兒啊，穿上你華美的衣服，永遠不斷鞏固你的樁子，擴展你的邊境，使你不再與他人混合，使永恆之父與你以色列家族立的聖約得以實現。",
+            "jp": "おお，エルサレムよ，目めを覚さまして地ちから立たち上あがりなさい。おお，シオンの娘むすめよ，美うつくしい衣ころもを着きなさい。おお，イスラエルの家いえよ，あなたの杭くいを強つよくし，あなたの境さかいをとこしえに広ひろげて，決けっして二に度どと乱みだされることのないようにし，また永えい遠えんの御おん父ちちがあなたに立たてられた聖せい約やくが果はたされるようにしなさい。",
+            "kr": "그리고 예루살렘이여, 깨어나 티끌에서 일어나라. 또한 시온의 딸아, 네 아름다운 옷을 입으며 너의 말뚝을 견고히 하고 네 경계를 영원히 넓혀 다시는 혼란하게 되지 않게 하고, 그리하여 이스라엘의 집이여, 네게 맺으신 영원하신 아버지의 성약이 성취되게 하라."
+          }
+        },
+        {
+          "key": "32",
+          "text": {
+            "fr": "Oui, venez au Christ, et soyez rendus parfaits en lui, et refusez-vous toute impiété ; et si vous vous refusez toute impiété et aimez Dieu de tout votre pouvoir, de toute votre pensée et de toute votre force, alors sa grâce vous suffit, afin que par sa grâce vous soyez parfaits dans le Christ ; et si, par la grâce de Dieu, vous êtes parfaits dans le Christ, vous ne pouvez en aucune façon nier le pouvoir de Dieu.",
+            "en": "Yea, come unto Christ, and be perfected in him, and deny yourselves of all ungodliness; and if ye shall deny yourselves of all ungodliness, and love God with all your might, mind and strength, then is his grace sufficient for you, that by his grace ye may be perfect in Christ; and if by the grace of God ye are perfect in Christ, ye can in nowise deny the power of God.",
+            "zh": "是的，歸向基督，在祂裡面成為完全，摒棄一切邪惡；如果你們摒棄一切邪惡，盡能、盡意、盡力愛神，那麼祂的恩典對你們是足夠的，使你們能藉著祂的恩典在基督裡成為完全，如果你們藉著神的恩典在基督裡成為完全，你們決不可能否認神的大能。",
+            "jp": "まことに，キリストのもとに来きて，キリストによって完かん全ぜんになりなさい。神かみの御み心こころに添そわないものをすべて拒こばみなさい。もしあなたがたが神かみの御み心こころに添そわないものをすべて拒こばみ，勢せい力りょくと思おもいと力ちからを尽つくして神かみを愛あいするならば，神かみの恵めぐみはあなたがたに十じゅう分ぶんであり，あなたがたは神かみの恵めぐみにより，キリストによって完かん全ぜんになることができる。そしてあなたがたは，神かみの恵めぐみによりキリストによって完かん全ぜんになれば，決けっして神かみの力ちからを否ひ定ていすることができない。",
+            "kr": "참으로 그리스도에게로 나아와, 그의 안에서 온전하게 되고, 모든 경건하지 아니한 것을 거부하라. 너희가 만일 모든 경건하지 아니한 것을 거부하고, 너희의 능력과 생각과 힘을 다하여 하나님을 사랑할 것 같으면, 그러면 그의 은혜가 너희에게 족하니, 그의 은혜로 너희가 그리스도 안에서 온전하게 될지라, 또 만일 하나님의 은혜로 너희가 그리스도 안에서 온전하면, 너희가 결단코 하나님의 권능을 부인할 수 없으리로다."
+          }
+        },
+        {
+          "key": "33",
+          "text": {
+            "fr": "Et en outre, si, par la grâce de Dieu, vous êtes parfaits dans le Christ, et ne niez pas son pouvoir, alors vous êtes sanctifiés dans le Christ, par la grâce de Dieu, grâce à l’effusion du sang du Christ, qui est dans l’alliance du Père pour le pardon de vos péchés, afin que vous deveniez saints, sans tache.",
+            "en": "And again, if ye by the grace of God are perfect in Christ, and deny not his power, then are ye sanctified in Christ by the grace of God, through the shedding of the blood of Christ, which is in the covenant of the Father unto the remission of your sins, that ye become holy, without spot.",
+            "zh": "還有，如果你們藉著神的恩典在基督裡成為完全，不否認祂的大能，那麼你們就可藉著神的恩典，憑著基督所流的血，也是在父的聖約中免除你們的罪惡的血，在基督中被聖化，那樣你們便成為神聖而沒有污點。",
+            "jp": "さらにあなたがたは，神かみの恵めぐみによりキリストによって完かん全ぜんになり，神かみの力ちからを否ひ定ていしなければ，神かみの恵めぐみによりキリストによって聖きよめられる。それはキリストの血ちが流ながされたことによるものである。キリストの血ちが流ながされたのは，あなたがたの罪つみの赦ゆるしのために御おん父ちちが聖せい約やくされたことによるものであり，それによってあなたがたは染しみのない清きよい者ものとなるのである。",
+            "kr": "그리고 또, 너희가 만일 하나님의 은혜로 그리스도 안에서 온전하고 그의 권능을 부인하지 아니하면, 그러면 너희가 그리스도의 피 흘리심을 통하여 하나님의 은혜로 그리스도 안에서 성결하게 되나니, 이 피 흘리심은 아버지의 성약 안에서 너희의 죄 사함을 위한 것으로서 너희를 거룩하며 흠 없게 되게 하는 것이니라."
+          }
+        },
+        {
+          "key": "34",
+          "text": {
+            "fr": "Et maintenant, je vous dis à tous adieu. Je vais bientôt me reposer dans le paradis de Dieu, jusqu’à ce que mon esprit et mon corps se réunissent de nouveau, et que je sois amené triomphant dans les airs, pour vous rencontrer devant la barre agréable du grand Jéhovah, le Juge éternel des vivants et des morts. Amen.",
+            "en": "And now I bid unto all, farewell. I soon go to rest in the paradise of God, until my spirit and body shall again reunite, and I am brought forth triumphant through the air, to meet you before the pleasing bar of the great Jehovah, the Eternal Judge of both quick and dead. Amen.",
+            "zh": "現在我要向大家告別了。不久我就要到神的樂園安息，直到我的靈與身體再度結合，而且被帶出來，勝利地通過天空，在活人和死人的永恆法官，偉大的耶和華的可愛的審判欄前與你們相會。阿們。",
+            "jp": "さて，わたしはすべての者ものに別わかれを告つげる。わたしは間まもなく行いって，神かみのパラダイスで安あん息そくを得える。その後のち，わたしの霊れいと体からだは再ふたたび結けつ合ごうする。そしてわたしは勝しょう利りを得えて空くう中ちゅうに上あげられ，生せい者しゃと死し者しゃ双そう方ほうの永えい遠えんの裁さばき主ぬしである大おおいなるエホバの楽たのしい法ほう廷ていであなたがたに会あうことになる。アーメン。",
+            "kr": "그리고 이제 나는 모든 이에게 작별을 고하노니, 내가 곧 하나님의 낙원으로 가서 쉬리로다. 그리하여 나의 영과 육신이 다시 재결합하고, 내가 공중에서 승리자로 나아와, 산 자와 죽은 자의 영원한 재판관이신 위대한 여호와의 기쁜 심판대 앞에서 너희를 만나리라. 아멘."
+          }
+        }
+      ]
+    }
+  ]
+}

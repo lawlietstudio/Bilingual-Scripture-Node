@@ -1,0 +1,187 @@
+{
+  "book": {
+    "fr": "LIVRE DE JAROM",
+    "en": "THE BOOK OF JAROM",
+    "zh": "雅龍書",
+    "jp": "ジェロム書しょ",
+    "kr": "예이롬서"
+  },
+  "theme": {
+    "fr": "Chapitre 1",
+    "en": "Chapter 1",
+    "zh": "第1章",
+    "jp": "第1章",
+    "kr": "제 1 장"
+  },
+  "introduction": {
+    "fr": "Les Néphites gardent la loi de Moïse, espèrent en la venue du Christ et prospèrent dans le pays — Beaucoup de prophètes travaillent à garder le peuple sur le chemin de la vérité. Vers 399–361 av. J.-C.",
+    "en": "The Nephites keep the law of Moses, look forward to the coming of Christ, and prosper in the land—Many prophets labor to keep the people in the way of truth. About 399–361 B.C.",
+    "zh": "尼腓人遵守摩西律法，仰望基督的來臨，在那地昌盛——許多先知努力使人民走在真道上。約主前399年至361年。",
+    "jp": "ニーファイ人じんはモーセの律りっ法ぽうを守まもり，キリストの来らい臨りんを待まち望のぞみ，その地ちで栄さかえる。ニーファイ人じんを真しん理りの道みちにとどめるために，多おおくの預よ言げん者しゃが働はたらく。紀き元げん前ぜん約やく三百九十九年ねんから三百六十一年ねんに至いたる。",
+    "kr": "니파이인들이 모세의 율법을 지키고 그리스도의 오심을 고대하며 땅에서 번성함—많은 선지자들이 백성들로 하여금 진리의 길에서 벗어나지 않게 하고자 노력함. 주전 399~361년경."
+  },
+  "chapters": [
+    {
+      "number": 1,
+      "introduction": {
+        "fr": "Les Néphites gardent la loi de Moïse, espèrent en la venue du Christ et prospèrent dans le pays — Beaucoup de prophètes travaillent à garder le peuple sur le chemin de la vérité. Vers 399–361 av. J.-C.",
+        "en": "The Nephites keep the law of Moses, look forward to the coming of Christ, and prosper in the land—Many prophets labor to keep the people in the way of truth. About 399–361 B.C.",
+        "zh": "尼腓人遵守摩西律法，仰望基督的來臨，在那地昌盛——許多先知努力使人民走在真道上。約主前399年至361年。",
+        "jp": "ニーファイ人じんはモーセの律りっ法ぽうを守まもり，キリストの来らい臨りんを待まち望のぞみ，その地ちで栄さかえる。ニーファイ人じんを真しん理りの道みちにとどめるために，多おおくの預よ言げん者しゃが働はたらく。紀き元げん前ぜん約やく三百九十九年ねんから三百六十一年ねんに至いたる。",
+        "kr": "니파이인들이 모세의 율법을 지키고 그리스도의 오심을 고대하며 땅에서 번성함—많은 선지자들이 백성들로 하여금 진리의 길에서 벗어나지 않게 하고자 노력함. 주전 399~361년경."
+      },
+      "verses": [
+        {
+          "key": "1",
+          "text": {
+            "fr": "Maintenant voici, moi, Jarom, j’écris quelques mots selon le commandement de mon père, Énos, afin que notre généalogie soit préservée.",
+            "en": "Now behold, I, Jarom, write a few words according to the commandment of my father, Enos, that our genealogy may be kept.",
+            "zh": "現在看啊，我，雅龍，要照我父親以挪士的命令寫幾句話，以保存我們的族譜。",
+            "jp": "さて見みよ，わたしジェロムは，わたしたちの系けい図ずを書かき継つぐようにという父ちちエノスの命めい令れいに従したがって，少すこしの言こと葉ばを書かき記しるす。",
+            "kr": "이제 보라, 나 예이롬은 나의 부친 이노스의 명을 좇아 몇 마디 말을 기록하여 우리의 족보가 계속 기록되게 하노라."
+          }
+        },
+        {
+          "key": "2",
+          "text": {
+            "fr": "Et comme ces plaques sont petites, et comme ces choses sont écrites pour le profit de nos frères, les Lamanites, c’est pourquoi, il faut que j’écrive un peu ; mais je ne vais pas écrire ce qui vient de mes prophéties, ni de mes révélations. Car que pourrais-je écrire de plus que ce que mes pères ont écrit ? Car n’ont-ils pas révélé le plan de salut ? Je vous le dis : oui ; et cela me suffit.",
+            "en": "And as these plates are small, and as these things are written for the intent of the benefit of our brethren the Lamanites, wherefore, it must needs be that I write a little; but I shall not write the things of my prophesying, nor of my revelations. For what could I write more than my fathers have written? For have not they revealed the plan of salvation? I say unto you, Yea; and this sufficeth me.",
+            "zh": "因為這些頁片很小，所寫的內容也是為了造福我們的弟兄拉曼人，所以，我必須寫一點；但我不要寫我的預言與啟示，因為除了我祖先所寫的以外，我還能多寫什麼？他們不已揭示了救恩的計畫嗎？我告訴你們，是的；這對我就夠了。",
+            "jp": "この版はんは小ちいさく，またこれらの事こと柄がらは，わたしたちの同胞はらからであるレーマン人じんに益えきを与あたえるという意い図とをもって書かき記しるされているので，わたしも少すこし書かき記しるす必ひつ要ようがある。しかし，わたしの預よ言げんしたことや，わたしが受うけた啓けい示じについては書かき記しるさない。わたしの先せん祖ぞたちが書かき記しるしてきたこと以い上じょうに，わたしに書かき記しるせることが何なにかあるであろうか。彼かれらは救すくいの計けい画かくを明あきらかにしていないであろうか。明あきらかにしているとわたしはあなたがたに言いう。わたしにはそれで十じゅう分ぶんである。",
+            "kr": "또 이 판은 작고, 이러한 것들은 우리의 형제 레이맨인들의 유익이 되게 할 목적으로 기록되는 것인즉, 그러므로 내가 조금 기록해야만 하느니라. 그러나 나는 나의 예언함에 관한 것이나 나의 계시에 대한 것은 기록하지 아니하리니, 나의 조상들이 기록한 것 외에 내가 무엇을 더 기록할 수 있으랴? 그들이 구원의 계획을 밝히지 아니하였느냐? 내가 너희에게 이르노니, 그리하였도다. 그런즉 이것으로 내가 족하게 여기노라."
+          }
+        },
+        {
+          "key": "3",
+          "text": {
+            "fr": "Voici, il est nécessaire que beaucoup soit fait parmi ce peuple, à cause de l’endurcissement de son cœur, et de la surdité de ses oreilles, et de l’aveuglement de son esprit, et de la roideur de son cou ; néanmoins, Dieu est extrêmement miséricordieux envers lui et ne l’a pas encore balayé de la surface du pays.",
+            "en": "Behold, it is expedient that much should be done among this people, because of the hardness of their hearts, and the deafness of their ears, and the blindness of their minds, and the stiffness of their necks; nevertheless, God is exceedingly merciful unto them, and has not as yet swept them off from the face of the land.",
+            "zh": "看啊，由於這人民心地頑硬、耳朵失聰、心智盲目、頸項強硬，我們必須在他們當中做很多事工；然而，神對他們非常仁慈，還沒有把他們從地面上掃除。",
+            "jp": "見みよ，この民たみの中なかで行おこなう必ひつ要ようのあることは実じつにたくさんある。それは，彼かれらが心こころをかたくなにし，耳みみを傾かたむけようとせず，思おもいをくらまし，強ごう情じょうになっているからである。にもかかわらず，神かみは彼かれらに非ひ常じょうに深ふかい憐あわれみを示しめし，これまでのところ，彼かれらを地ちの面おもてから一いっ掃そうしてはおられない。",
+            "kr": "보라, 이 백성 가운데 많은 일이 이루어져야 할 필요가 있나니, 그들의 마음이 완악하며, 그들의 귀가 먹었으며 그들의 생각이 눈이 멀며, 그들의 목이 뻣뻣한 연고라. 그럼에도 불구하고, 하나님은 그들을 심히 긍휼히 여기사, 아직은 이 땅 위에서 그들을 쓸어 버리지 아니하셨더라."
+          }
+        },
+        {
+          "key": "4",
+          "text": {
+            "fr": "Et il y en a beaucoup parmi nous qui ont beaucoup de révélations, car ils n’ont pas tous le cou roide. Et tous ceux qui n’ont pas le cou roide et ont la foi sont en communion avec l’Esprit-Saint, qui se manifeste aux enfants des hommes selon leur foi.",
+            "en": "And there are many among us who have many revelations, for they are not all stiffnecked. And as many as are not stiffnecked and have faith, have communion with the Holy Spirit, which maketh manifest unto the children of men, according to their faith.",
+            "zh": "我們之中有許多人接受了許多啟示，因為他們不全是倔強的人。凡不倔強且有信心的，都能與神聖之靈溝通，神聖之靈按照人類兒女的信心，向他們顯示。",
+            "jp": "また，民たみが皆みな強ごう情じょうなわけではなく，わたしたちの中なかには啓けい示じを多おおく受うけている者ものが大おお勢ぜいいる。そして，強ごう情じょうにならずに信しん仰こうを抱いだいている者ものは皆みな，その信しん仰こうに応おうじて人ひとの子こらに物もの事ごとを明あきらかにされる聖せいなる御み霊たまと交まじわりを持もっている。",
+            "kr": "또 우리 중에 계시를 많이 받은 자가 많이 있나니, 이는 그들이 모두 목이 뻣뻣하지는 아니함이요, 목이 뻣뻣하지 아니하고 신앙을 가진 자마다 사람의 자녀들에게 그들의 신앙에 따라 나타내시는 성령과 더불어 교통함이라."
+          }
+        },
+        {
+          "key": "5",
+          "text": {
+            "fr": "Et alors, voici, deux cents ans étaient passés, et le peuple de Néphi était devenu fort dans le pays. Il s’appliquait à garder la loi de Moïse et à sanctifier le jour du sabbat pour le Seigneur. Et il ne s’adonnait ni à la profanation, ni au blasphème. Et les lois du pays étaient extrêmement strictes.",
+            "en": "And now, behold, two hundred years had passed away, and the people of Nephi had waxed strong in the land. They observed to keep the law of Moses and the sabbath day holy unto the Lord. And they profaned not; neither did they blaspheme. And the laws of the land were exceedingly strict.",
+            "zh": "現在看啊，二百年過去了，尼腓人在此地日漸強大，他們謹守摩西律法，並守主的安息日為聖；他們不輕慢、不褻瀆。這地的法律十分嚴厲。",
+            "jp": "さて見みよ，すでに二百年ねんが過すぎ去さり，ニーファイの民たみはこの地ちで強つよくなった。彼かれらはモーセの律りっ法ぽうを守まもり，また安あん息そく日にちを主しゅのために聖せいなる日ひとして守まもった。彼かれらはまた，不ふ敬けいな言こと葉ばを口くちにせず，神しん聖せいを汚けがさなかった。そして，国くにの法ほう律りつは非ひ常じょうに厳きびしかった。",
+            "kr": "또 이제 보라, 이백 년이 지나갔고, 니파이 백성은 땅에서 점차 강대하여졌더라. 그들이 모세의 율법 지키기와 안식일을 주 앞에 거룩하게 지키기를 준행하였고, 그들이 불경하거나 모독을 행하지 아니하였나니, 그 땅의 법은 심히 엄격하였더라."
+          }
+        },
+        {
+          "key": "6",
+          "text": {
+            "fr": "Et il était dispersé sur une grande partie de la surface du pays, et les Lamanites aussi. Et ils étaient extrêmement plus nombreux que ceux qui étaient Néphites ; et ils aimaient le meurtre et allaient jusqu’à boire le sang des bêtes.",
+            "en": "And they were scattered upon much of the face of the land, and the Lamanites also. And they were exceedingly more numerous than were they of the Nephites; and they loved murder and would drink the blood of beasts.",
+            "zh": "他們分散在地面各處，拉曼人也如此。他們人數非常眾多，遠超過尼腓人；他們喜愛殺人，且飲獸血。",
+            "jp": "彼かれらは地ちの面おもてに広ひろく散ちらされた。また，レーマン人じんも同どう様ようであった。しかし，ニーファイ人じんに属ぞくする者ものよりも，レーマン人じんの方ほうがはるかにおびただしい数かずで，彼かれらは殺さつ人じんを好このみ，獣けものの血ちをよく飲のんでいた。",
+            "kr": "또 그들은 지면에 널리 흩어졌고, 레이맨인들도 그러하였나니, 저들은 니파이인들보다 그 수가 심히 더 많았으며, 저들은 살인을 좋아하고 짐승의 피를 마셨느니라."
+          }
+        },
+        {
+          "key": "7",
+          "text": {
+            "fr": "Et il arriva qu’ils vinrent de nombreuses fois nous livrer bataille, à nous, les Néphites. Mais nos rois et nos dirigeants étaient des hommes puissants dans la foi au Seigneur ; et ils enseignaient au peuple les voies du Seigneur ; c’est pourquoi nous résistâmes aux Lamanites et les balayâmes de nos pays, et commençâmes à fortifier nos villes, ou le lieu de notre héritage, quel qu’il fût.",
+            "en": "And it came to pass that they came many times against us, the Nephites, to battle. But our kings and our leaders were mighty men in the faith of the Lord; and they taught the people the ways of the Lord; wherefore, we withstood the Lamanites and swept them away out of our lands, and began to fortify our cities, or whatsoever place of our inheritance.",
+            "zh": "事情是這樣的，他們多次來攻打我們尼腓人，但我們的國王與領袖是對主有強大信心的人，他們教導人民主的道，所以，我們擊退拉曼人，將他們趕出我們的土地，並開始鞏固城市和我們繼承的地方。",
+            "jp": "そして彼かれらは，度たび々たびわたしたちニーファイ人じんに攻せめかかって来きた。しかし，わたしたちの王おうや指し導どう者しゃは，主しゅを信しんじる信しん仰こうの篤あつい人ひと々びとであり，また民たみに主しゅの道みちを教おしえていたので，わたしたちはレーマン人じんに立たち向むかい，彼かれらをわたしたちの地ちから一いっ掃そうした。そしてわたしたちは，自じ分ぶんたちの町まちや，そのほかのあらゆる受うけ継つぎの場ば所しょの防ぼう備びを固かためる仕し事ごとに取とりかかった。",
+            "kr": "또 이렇게 되었나니 저들이 여러 번 우리 니파이인들을 대적하여 싸우러 왔었으나, 우리의 열왕과 우리의 지도자들은 주께 대한 신앙의 용사들이었던지라, 그들이 주의 길을 백성에게 가르쳤으므로, 그로 인해 우리가 레이맨인들에 맞서서 저들을 우리 땅에서 쓸어내고, 우리의 성읍들 또는 우리가 기업으로 받은 모든 곳들을 방비하기 시작하였느니라."
+          }
+        },
+        {
+          "key": "8",
+          "text": {
+            "fr": "Et nous nous multipliâmes extrêmement, et nous répandîmes sur la surface du pays, et devînmes extrêmement riches en or, et en argent, et en choses précieuses, et en beaux ouvrages de bois, en bâtiments, et en machines, et aussi en fer et en cuivre, et en airain et en acier, faisant toutes sortes d’outils de toute espèce pour cultiver la terre, et des armes de guerre — oui, la flèche à la pointe acérée, et le carquois, et le dard, et le javelot, et tous les préparatifs de guerre.",
+            "en": "And we multiplied exceedingly, and spread upon the face of the land, and became exceedingly rich in gold, and in silver, and in precious things, and in fine workmanship of wood, in buildings, and in machinery, and also in iron and copper, and brass and steel, making all manner of tools of every kind to till the ground, and weapons of war—yea, the sharp pointed arrow, and the quiver, and the dart, and the javelin, and all preparations for war.",
+            "zh": "我們人口激增，遍佈地面，擁有極多金子、銀子、寶物、精緻的木工、建築、機械，還有許多鐵、銅、黃銅和鋼等，可製造各種耕種的工具和作戰的武器——是的，利箭、箭筒、短矛、標槍及做各種作戰的準備。",
+            "jp": "わたしたちは非ひ常じょうに増ふえて，地ちの面おもてに広ひろがり，金きんや銀ぎんや貴き重ちょうな品しな々じな，見み事ごとな造つくりの木もっ工こう品ひんや建たて物ものや機き械かい，それに鉄てつや銅どう，真しん鍮ちゅう，鋼はがねなどを豊ゆたかに持もつようになった。そして，地ちを耕たがやすためにあらゆる道どう具ぐを造つくり，また戦せん争そうの武ぶ器き，まことに，鋭するどいやじりの矢やと矢や筒づつ，投なげ矢やと投なげ槍やりを造つくり，さらに戦せん争そうのためにすべての準じゅん備びを整ととのえた。",
+            "kr": "또 우리는 심히 번성하여, 지면에 퍼졌고, 금과 은과 귀한 것과 목세공품과 건물과 기계류와 또한 철과 구리와 놋과 강철이 심히 풍부해져서, 땅을 가는 온갖 종류의 각종 연장과 전쟁 무기를 만들었나니—참으로 끝이 날카로운 화살과 화살통과 단창과 창 및 전쟁을 위한 모든 준비라."
+          }
+        },
+        {
+          "key": "9",
+          "text": {
+            "fr": "Et comme nous étions ainsi préparés à rencontrer les Lamanites, ils ne prospérèrent pas contre nous. Mais la parole que le Seigneur avait dite à nos pères se confirma : Si vous gardez mes commandements, vous prospérerez dans le pays.",
+            "en": "And thus being prepared to meet the Lamanites, they did not prosper against us. But the word of the Lord was verified, which he spake unto our fathers, saying that: Inasmuch as ye will keep my commandments ye shall prosper in the land.",
+            "zh": "我們準備好迎戰拉曼人，他們無法勝過我們。主對我們祖先說的話應驗了，他說：只要你們遵守我的誡命，你們必在此地昌盛。",
+            "jp": "わたしたちがこのようにしてレーマン人じんと戦たたかう準じゅん備びを整ととのえていたので，彼かれらはわたしたちに対たいして栄さかえることはなかった。そして，主しゅがわたしたちの先せん祖ぞに言いわれた，「あなたがたはわたしの命めい令れいを守まもるかぎり地ちに栄さかえる」という主しゅの言こと葉ばが実じっ証しょうされたのである。",
+            "kr": "이같이 레이맨인들을 만날 준비를 갖추매, 저들이 우리를 거스려 형통하지 못하였나니, 이에 우리 조상들에게 하신 주의 말씀이 확증되었느니라 말씀하시기를, 너희가 나의 계명을 지킬진대 너희가 이 땅에서 번성하리라 하셨느니라."
+          }
+        },
+        {
+          "key": "10",
+          "text": {
+            "fr": "Et il arriva que les prophètes du Seigneur menacèrent le peuple de Néphi, selon la parole de Dieu, que s’il ne gardait pas les commandements, mais tombait dans la transgression, il serait détruit et balayé de la surface du pays.",
+            "en": "And it came to pass that the prophets of the Lord did threaten the people of Nephi, according to the word of God, that if they did not keep the commandments, but should fall into transgression, they should be destroyed from off the face of the land.",
+            "zh": "事情是這樣的，主的先知以神的話嚴厲警告尼腓人，如果他們不遵守誡命，且陷入罪中，必從這地面上被毀滅。",
+            "jp": "そして主しゅの預よ言げん者しゃたちは，もし民たみが戒いましめを守まもらず，背そむくようになるならば，彼かれらは地ちの面おもてから滅ほろぼし去さられるという神かみの言こと葉ばに従したがって，ニーファイの民たみに強つよい警けい告こくの言こと葉ばを発はっした。",
+            "kr": "그리고 이렇게 되었나니 주의 선지자들이 하나님의 말씀을 좇아 니파이 백성을 위협하되, 만일 그들이 계명을 지키지 아니하고 범법에 떨어지면, 지면에서 멸절되리라 하였더라."
+          }
+        },
+        {
+          "key": "11",
+          "text": {
+            "fr": "C’est pourquoi, les prophètes, et les prêtres, et les instructeurs travaillaient diligemment, exhortant, en toute longanimité, le peuple à la diligence ; enseignant la loi de Moïse et le but dans lequel elle était donnée, le persuadant d’attendre le Messie et de croire en lui, qui était à venir, comme s’il était déjà. Et c’est de cette manière qu’ils l’instruisaient.",
+            "en": "Wherefore, the prophets, and the priests, and the teachers, did labor diligently, exhorting with all long-suffering the people to diligence; teaching the law of Moses, and the intent for which it was given; persuading them to look forward unto the Messiah, and believe in him to come as though he already was. And after this manner did they teach them.",
+            "zh": "所以，眾先知、祭司、教師都努力工作，以所有的恆久忍耐來勸人民要努力；他們教導摩西律法及賜予該律法的目的，勸人民仰望彌賽亞，相信祂要來，就像祂已來臨一樣；他們就這樣教導他們。",
+            "jp": "そして，預よ言げん者しゃや祭さい司しや教きょう師したちは熱ねっ心しんに働はたらき，民たみにも熱ねっ心しんであるよう，あくまでも寛かん容ような心こころで勧すすめた。またモーセの律りっ法ぽうとそれが与あたえられた目もく的てきを彼かれらに教おしえ，さらにメシヤを待まち望のぞみ，あたかもメシヤがすでに来きておられるかのように，将しょう来らい来こられるメシヤを信しんじるよう民たみに勧すすめた。彼かれらはこのようにして民たみを教おしえた。",
+            "kr": "그리하여 선지자들과 제사들과 교사들이 부지런함을 다하여 오래 참음으로 백성들을 권면하여 부지런하게 하고, 모세의 율법과 그것이 주어진 목적을 가르치고, 메시야를 고대하며 마치 그가 이미 오신 것같이 장차 오실 그를 믿도록 그들을 설득하였나니, 이같이 그들이 백성들을 가르쳤느니라."
+          }
+        },
+        {
+          "key": "12",
+          "text": {
+            "fr": "Et il arriva qu’en faisant cela, ils l’empêchèrent d’être détruit sur la surface du pays ; car ils lui touchaient vivement le cœur par la parole, l’incitant continuellement au repentir.",
+            "en": "And it came to pass that by so doing they kept them from being destroyed upon the face of the land; for they did prick their hearts with the word, continually stirring them up unto repentance.",
+            "zh": "事情是這樣的，他們這樣做，才使人民免於從地面上被毀滅，他們用話刺痛他們的心，不斷喚醒他們悔改。",
+            "jp": "そして，そうすることによって，彼かれらは民たみが地ちの面おもてで滅ほろぼされるのを防ふせいだ。彼かれらが言こと葉ばで民たみの心こころを刺し激げきし，絶たえず民たみに悔くい改あらためを促うながしたからである。",
+            "kr": "그리고 이렇게 되었나니 그리함으로써 그들이 백성들을 지켜 지면에서 멸망당하지 않게 하였으니, 이는 그들이 말씀으로 그들의 마음을 찌르며, 쉬지 않고 그들을 일깨워 회개하게 하였음이라."
+          }
+        },
+        {
+          "key": "13",
+          "text": {
+            "fr": "Et il arriva que deux cent trente-huit ans étaient passés, avec des guerres, et des querelles, et des dissensions pendant une grande partie du temps.",
+            "en": "And it came to pass that two hundred and thirty and eight years had passed away—after the manner of wars, and contentions, and dissensions, for the space of much of the time.",
+            "zh": "事情是這樣的，二百三十八年過去了，這段期間多半在戰爭、紛爭、衝突中度過。",
+            "jp": "そして，二百三十八年ねんが過すぎ去さり，その間あいだ，多おおくの歳さい月げつが戦せん争そうと争あらそいと不ふ和わの有あり様さまで暮くれた。",
+            "kr": "또 이렇게 되었나니 이백삼십팔 년이 지나갔으되—그 중 많은 세월 동안 전쟁과 다툼과 불화가 있었느니라."
+          }
+        },
+        {
+          "key": "14",
+          "text": {
+            "fr": "Et moi, Jarom, je n’en écris pas davantage, car les plaques sont petites. Mais voici, mes frères, vous pouvez consulter les autres plaques de Néphi ; car voici, les annales de nos guerres y sont gravées, selon les écrits des rois, ou ceux qu’ils ont fait écrire.",
+            "en": "And I, Jarom, do not write more, for the plates are small. But behold, my brethren, ye can go to the other plates of Nephi; for behold, upon them the records of our wars are engraven, according to the writings of the kings, or those which they caused to be written.",
+            "zh": "因頁片很小，我，雅龍，不多寫了。但是看啊，我的弟兄們，你們可閱讀另外的尼腓片，因為看啊，其上按照列王的記載，或他們命令要記載的，刻了我們戰爭的紀錄。",
+            "jp": "わたしジェロムは，版はんが小ちいさいのでこれ以い上じょう書かき記しるさない。しかし見みよ，わたしの同胞はらからよ，ニーファイのほかの版はんを見みるがよい。見みよ，わたしたちの戦せん争そうの記き録ろくは，王おうたちの書かき記しるしたとおりに，または彼かれらが書かき記しるさせたとおりに，その版はんに刻きざまれているからである。",
+            "kr": "나 예이롬은 더 기록하지 아니하노니, 이는 판이 작음이라. 그러나 보라, 나의 형제들아, 너희는 니파이의 다른 판으로 갈 수 있나니, 이는 보라, 그 위에 열왕의 기록하는 바, 혹은 그들이 기록하게 한 바를 좇아, 우리의 전쟁의 기록이 새겨져 있음이니라."
+          }
+        },
+        {
+          "key": "15",
+          "text": {
+            "fr": "Et je remets ces plaques entre les mains de mon fils Omni, afin qu’elles soient gardées selon les commandements de mes pères.",
+            "en": "And I deliver these plates into the hands of my son Omni, that they may be kept according to the commandments of my fathers.",
+            "zh": "我把這些頁片交到我兒子奧姆乃手中，使這些頁片能照祖先的命令寫下去。",
+            "jp": "わたしは先せん祖ぞたちの命めい令れいどおりにこの版はんが書かき継つがれるように，息むす子こオムナイの手てにこの版はんを渡わたす。",
+            "kr": "이제 나는 이 판을 나의 아들 옴나이의 손에 넘겨, 그것이 나의 조상들의 명령대로 기록되게 하노라."
+          }
+        }
+      ]
+    }
+  ]
+}

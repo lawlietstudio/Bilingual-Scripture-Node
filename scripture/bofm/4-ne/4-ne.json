@@ -1,0 +1,527 @@
+{
+  "book": {
+    "fr": "QUATRE NÉPHI",
+    "en": "FOURTH NEPHI",
+    "zh": "尼腓四書",
+    "jp": "第だい四ニーファイ",
+    "kr": "제 4 니파이"
+  },
+  "theme": {
+    "fr": "Histoire du peuple de Néphi, selon ses annales",
+    "en": "An account of the people of Nephi, according to his record.",
+    "zh": "尼腓人的記事；是根據他的紀錄寫的。",
+    "jp": "ニーファイの記き録ろくによるニーファイの民たみの話はなし。",
+    "kr": "그의 기록에 따른 니파이 백성의 기사."
+  },
+  "introduction": {
+    "fr": "Chapitre 1",
+    "en": "Chapter 1",
+    "zh": "第1章",
+    "jp": "第1章",
+    "kr": "제 1 장"
+  },
+  "chapters": [
+    {
+      "number": 1,
+      "introduction": {
+        "fr": "Les Néphites et les Lamanites sont tous convertis au Seigneur — Ils ont tout en commun, accomplissent des miracles et prospèrent dans le pays — Après deux siècles, des divisions, des abus, de fausses Églises et des persécutions apparaissent — Après trois cents ans, les Néphites et les Lamanites sont, les uns comme les autres, mauvais — Ammaron cache les annales sacrées. Vers 35–321 apr. J.-C.",
+        "en": "The Nephites and the Lamanites are all converted unto the Lord—They have all things in common, work miracles, and prosper in the land—After two centuries, divisions, evils, false churches, and persecutions arise—After three hundred years, both the Nephites and the Lamanites are wicked—Ammaron hides up the sacred records. About A.D. 35–321.",
+        "zh": "尼腓人和拉曼人都歸信主——他們凡物公用、行奇蹟，並在那地昌盛——兩世紀後，分裂、邪惡、假教會及迫害四起——三百年後，尼腓人和拉曼人都邪惡——阿摩龍藏起神聖紀錄。約主後35年至321年。",
+        "jp": "ニーファイ人じんとレーマン人じんは皆みな，主しゅに帰き依えする。すべてのものを共きょう有ゆうし，数かず々かずの奇き跡せきを行おこない，地ちで栄さかえる。二世せい紀き後ご，分ぶん裂れつと悪あく，偽いつわりの教きょう会かい，迫はく害がいが起おこる。三百年ねん後ご，ニーファイ人じんもレーマン人じんもともに悪わるくなる。アマロン，神しん聖せいな記き録ろくを隠かくす。紀き元げん約やく三十五年ねんから三百二十一年ねんに至いたる。",
+        "kr": "니파이인들과 레이맨인들이 모두 주께로 돌이킴—그들은 모든 것을 공유하고 기적을 행하며 땅에서 번영함—이백 년 후에 분열과 악과 거짓 교회와 핍박이 일어남—삼백 년 후에는 니파이인들과 레이맨인들이 모두 다 간악함—앰마론이 거룩한 기록을 감춤. 주후 35~321년경."
+      },
+      "verses": [
+        {
+          "key": "1",
+          "text": {
+            "fr": "Et il arriva que la trente-quatrième année passa, et aussi la trente-cinquième, et voici, les disciples de Jésus avaient formé une Église du Christ dans les pays alentour. Et tous ceux qui venaient à eux et se repentaient vraiment de leurs péchés étaient baptisés au nom de Jésus ; et ils recevaient aussi le Saint-Esprit.",
+            "en": "And it came to pass that the thirty and fourth year passed away, and also the thirty and fifth, and behold the disciples of Jesus had formed a church of Christ in all the lands round about. And as many as did come unto them, and did truly repent of their sins, were baptized in the name of Jesus; and they did also receive the Holy Ghost.",
+            "zh": "事情是這樣的，第三十四年過去了，三十五年也過去了，看啊，耶穌的門徒在周圍各地組織基督的教會。凡到他們那裡並真心悔改他們的罪的，都奉耶穌的名受了洗，並且也都接受了聖靈。",
+            "jp": "さて，第だい三十四年ねんが過すぎ去さり，第だい三十五年ねんも過すぎ去さって，見みよ，イエスの弟で子したちは周しゅう囲いの全ぜん地ちでキリストの教きょう会かいを設せつ立りつした。そして，彼かれらのところに来きて，罪つみを心こころから悔くい改あらためた者ものは皆みな，イエスの名なによってバプテスマを受うけ，また聖せい霊れいを受うけた。",
+            "kr": "그리고 이렇게 되었나니 제삼십사년이 지나가고, 또 제삼십오년도 지나가매, 보라 예수의 제자들은 주변의 온 땅에 그리스도의 교회를 세웠고, 그들에게로 와서, 자기의 죄를 진실로 회개하는 자는 모두 다 예수의 이름으로 침례를 받았으며, 또한 성신을 받았느니라."
+          }
+        },
+        {
+          "key": "2",
+          "text": {
+            "fr": "Et il arriva que la trente-sixième année, le peuple fut entièrement converti au Seigneur, sur toute la surface du pays, tant les Néphites que les Lamanites, et il n’y avait pas de querelles ni de controverses parmi eux, et tous les hommes pratiquaient la justice les uns envers les autres.",
+            "en": "And it came to pass in the thirty and sixth year, the people were all converted unto the Lord, upon all the face of the land, both Nephites and Lamanites, and there were no contentions and disputations among them, and every man did deal justly one with another.",
+            "zh": "事情是這樣的，第三十六年，整個地面上的人民，不論尼腓人或拉曼人，都歸信了主，他們之間沒有紛爭，也沒有爭論，每人都彼此公正相待。",
+            "jp": "そして第だい三十六年ねんには，民たみはニーファイ人じんもレーマン人じんもともに皆みな，地ちの全ぜん面めんで主しゅに帰き依えした。そして，彼かれらの中なかにはまったく争あらそいがなく，論ろん争そうもなく，皆みな，互たがいに公こう正せいに振ふる舞まった。",
+            "kr": "또 이렇게 되었나니 제삼십육년에는 니파이인이나 레이맨인이나를 막론하고 온 땅의 백성이 모두 주께로 돌이켰고, 저들 중에 다툼이나 논쟁이 없었으며, 사람마다 서로 대하기를 바르게 하였더라."
+          }
+        },
+        {
+          "key": "3",
+          "text": {
+            "fr": "Et ils avaient tout en commun ; c’est pourquoi il n’y avait ni riches ni pauvres, ni esclaves ni hommes libres, mais ils étaient tous affranchis et participants du don céleste.",
+            "en": "And they had all things common among them; therefore there were not rich and poor, bond and free, but they were all made free, and partakers of the heavenly gift.",
+            "zh": "他們凡物公用，因此沒有貧與富、束縛與自由之分，都是自由的，都享有天上的恩賜。",
+            "jp": "また，彼かれらはすべてのものを共きょう有ゆうしたので，物もの持もちも貧まずしい者ものも，束そく縛ばくされた者ものも自じ由ゆうな者ものもなく，皆みな自じ由ゆうとなり，天てんの賜たま物ものにあずかる者ものとなった。",
+            "kr": "또 저들은 저들 가운데 모든 것을 공유하였나니, 그러므로 부한 자나 가난한 자, 매인 자나 자유로운 자가 없이 저들이 모두 자유롭고 하늘의 은사에 참여하는 자가 되었더라."
+          }
+        },
+        {
+          "key": "4",
+          "text": {
+            "fr": "Et il arriva que la trente-septième année passa aussi et il continuait à y avoir la paix dans le pays.",
+            "en": "And it came to pass that the thirty and seventh year passed away also, and there still continued to be peace in the land.",
+            "zh": "事情是這樣的，第三十七年也過去了，那地依舊有持續的和平。",
+            "jp": "さて，第だい三十七年ねんも過すぎ去さり，地ちは依い然ぜんとして引ひき続つづき平へい和わであった。",
+            "kr": "또 이렇게 되었나니 제삼십칠년이 지나갔으되 땅에는 여전히 평화가 계속되었더라."
+          }
+        },
+        {
+          "key": "5",
+          "text": {
+            "fr": "Et des œuvres grandes et merveilleuses furent accomplies par les disciples de Jésus, de sorte qu’ils guérissaient les malades, et ressuscitaient les morts, et faisaient marcher les estropiés, et rendaient la vue aux aveugles et l’ouïe aux sourds ; et ils accomplirent toutes sortes de miracles parmi les enfants des hommes ; et ils ne faisaient de miracles qu’au nom de Jésus.",
+            "en": "And there were great and marvelous works wrought by the disciples of Jesus, insomuch that they did heal the sick, and raise the dead, and cause the lame to walk, and the blind to receive their sight, and the deaf to hear; and all manner of miracles did they work among the children of men; and in nothing did they work miracles save it were in the name of Jesus.",
+            "zh": "耶穌的門徒行了偉大而奇妙的事工，他們治癒病人、使死人復生、跛子行走、瞎子看見、聾子聽見；他們在人類兒女中行各樣奇蹟；他們除了奉耶穌的名外，不奉任何名行奇蹟。",
+            "jp": "そして，イエスの弟で子したちは大おおいなる驚おどろくべき業わざを行おこない，病びょう気きの者ものを癒いやし，死し者しゃをよみがえらせ，足あしの不ふ自じ由ゆうな者ものを歩あるけるようにし，目めの見みえない者ものを見みえるようにし，耳みみの聞きこえない者ものを聞きこえるようにした。また彼かれらは，人ひとの子こらの中なかで様さま々ざまな奇き跡せきを行おこなった。しかし，イエスの名なのほかには，どのような名なでも奇き跡せきを行おこなわなかった。",
+            "kr": "또 예수의 제자들은 크고 기이한 일들을 행하여 병든 자를 고치며, 죽은 자를 일으키며, 못 걷는 자를 걷게 하며, 맹인으로 그 시력을 얻게 하며, 못 듣는 자를 듣게 하며, 사람의 자녀들 가운데 온갖 기적을 행하되, 다름 아닌 오직 예수의 이름으로만 그들이 기적을 행하였느니라."
+          }
+        },
+        {
+          "key": "6",
+          "text": {
+            "fr": "Et ainsi passa la trente-huitième année, et aussi la trente-neuvième, et la quarante et unième, et la quarante-deuxième, oui, jusqu’à ce que quarante-neuf ans fussent passés, et aussi la cinquante et unième et la cinquante-deuxième ; oui, et même jusqu’à ce que cinquante-neuf ans fussent passés.",
+            "en": "And thus did the thirty and eighth year pass away, and also the thirty and ninth, and forty and first, and the forty and second, yea, even until forty and nine years had passed away, and also the fifty and first, and the fifty and second; yea, and even until fifty and nine years had passed away.",
+            "zh": "第三十八年過去了，三十九年、四十一年、四十二年，是的，直到第四十九年也都過去了；第五十一年、五十二年，是的，直到第五十九年也都過去了。",
+            "jp": "このようにして，第だい三十八年ねんが過すぎ去さり，また第だい三十九年ねん，第だい四十一年ねん，第だい四十二年ねん，そして第だい四十九年ねんも過すぎ去さり，また第だい五十一年ねん，第だい五十二年ねん，さらに第だい五十九年ねんも過すぎた。",
+            "kr": "이에 이같이 제삼십팔년이 지나가고 또한 제삼십구년과 제사십일년과 제사십이년이 지나가며, 참으로 사십구 년이 지나가기에 이르고 또한 제오십일년과 제오십이년이 지나가서, 참으로 오십구 년이 지나가기에 이르렀더라."
+          }
+        },
+        {
+          "key": "7",
+          "text": {
+            "fr": "Et le Seigneur les fit prospérer extrêmement dans le pays ; oui, de sorte qu’ils reconstruisirent des villes là où des villes avaient été brûlées.",
+            "en": "And the Lord did prosper them exceedingly in the land; yea, insomuch that they did build cities again where there had been cities burned.",
+            "zh": "主使他們在那地極其昌盛；是的，他們在燒毀的城市上重建城市。",
+            "jp": "主しゅは民たみを地ち上じょうで非ひ常じょうに栄さかえさせられたので，まことに，彼かれらは以い前ぜんに焼やけた町まちのあった所ところに再ふたたび町まちを築きずいた。",
+            "kr": "또 주께서는 저들을 땅에서 심히 번영하게 하신지라, 참으로 저들이 불탄 성읍들이 있던 곳에 다시 성읍들을 세웠더라."
+          }
+        },
+        {
+          "key": "8",
+          "text": {
+            "fr": "Oui, ils firent même reconstruire la grande ville de Zarahemla.",
+            "en": "Yea, even that great city Zarahemla did they cause to be built again.",
+            "zh": "是的，他們甚至重建了柴雷罕拉大城。",
+            "jp": "まことに，あの大おおきな町まちゼラヘムラさえも復ふっ興こうした。",
+            "kr": "참으로 저 큰 성 제이라헤믈라를 저들이 다시 건축되게 하였더라."
+          }
+        },
+        {
+          "key": "9",
+          "text": {
+            "fr": "Mais il y avait beaucoup de villes qui avaient été englouties, et des eaux étaient montées à leur place ; c’est pourquoi ces villes ne purent être rebâties.",
+            "en": "But there were many cities which had been sunk, and waters came up in the stead thereof; therefore these cities could not be renewed.",
+            "zh": "但是有許多城市已沉陷，被水淹沒，因此無法重建。",
+            "jp": "しかし，沈しずめられ，水みずに覆おおわれた町まちも多おおく，これらの町まちは再さい建けんすることができなかった。",
+            "kr": "그러나 많은 성읍이 가라앉아, 물이 그 대신에 올라왔으므로, 이러한 성읍들은 새롭게 할 수 없었더라."
+          }
+        },
+        {
+          "key": "10",
+          "text": {
+            "fr": "Et maintenant, voici, il arriva que le peuple de Néphi devint fort, et se multiplia extrêmement vite, et devint un peuple extrêmement beau et agréable.",
+            "en": "And now, behold, it came to pass that the people of Nephi did wax strong, and did multiply exceedingly fast, and became an exceedingly fair and delightsome people.",
+            "zh": "現在看啊，事情是這樣的，尼腓人日漸強大，人口極為快速地增加，成為非常俊美可愛的民族。",
+            "jp": "さて見みよ，ニーファイの民たみは力ちからをつけ，急きゅう速そくに増ふえ，非ひ常じょうに麗うるわしくて喜よろこばしい民たみになった。",
+            "kr": "또 이제 보라, 이렇게 되었나니 니파이 백성은 점점 강하여지고, 심히 빠르게 번성하며, 심히 아름답고 기뻐하심을 입는 백성이 되었더라."
+          }
+        },
+        {
+          "key": "11",
+          "text": {
+            "fr": "Et ils se mariaient, et mariaient leurs enfants, et étaient bénis, selon la multitude des promesses que le Seigneur leur avait faites.",
+            "en": "And they were married, and given in marriage, and were blessed according to the multitude of the promises which the Lord had made unto them.",
+            "zh": "他們男婚女嫁，並依主給予他們的許多應許而蒙受祝福。",
+            "jp": "彼かれらはめとり，嫁とつぎ，主しゅが彼かれらに立たてられた多おおくの約やく束そくのとおりに祝しゅく福ふくされた。",
+            "kr": "또 저들은 시집가고, 장가들며, 주께서 저들에게 맺으신 수많은 약속대로 복을 받았더라."
+          }
+        },
+        {
+          "key": "12",
+          "text": {
+            "fr": "Et ils ne marchaient plus selon les observances et les ordonnances de la loi de Moïse ; mais ils marchaient selon les commandements qu’ils avaient reçus de leur Seigneur et de leur Dieu, persévérant dans le jeûne et la prière, et se réunissant souvent, à la fois pour prier et pour entendre la parole du Seigneur.",
+            "en": "And they did not walk any more after the performances and ordinances of the law of Moses; but they did walk after the commandments which they had received from their Lord and their God, continuing in fasting and prayer, and in meeting together oft both to pray and to hear the word of the Lord.",
+            "zh": "他們不再按摩西律法的儀式和教儀行事，卻按他們從主他們的神那裡接受到的誡命行事，不斷禁食祈禱，並且經常聚在一起祈禱和聆聽主的話。",
+            "jp": "また彼かれらは，もはやモーセの律りっ法ぽうの勤つとめと儀ぎ式しきを守まもることなく，自じ分ぶんたちの主しゅ，自じ分ぶんたちの神かみから受うけた戒いましめに従したがって歩あゆみ，断だん食じきと祈いのりを続つづけ，また祈いのりをささげ，主しゅの言こと葉ばを聞きくためにしばしば集あつまった。",
+            "kr": "그리고 더 이상 모세의 율법의 의례와 의식을 따라 행하지 아니하고, 저들의 주 곧 저들의 하나님으로부터 받은 계명을 좇아 행하며, 금식과 기도를 계속하며, 자주 함께 모여 기도하며, 주의 말씀 듣기를 계속하였더라."
+          }
+        },
+        {
+          "key": "13",
+          "text": {
+            "fr": "Et il arriva qu’il n’y eut pas de querelles parmi tout le peuple dans tout le pays ; mais de grands miracles étaient accomplis parmi les disciples de Jésus.",
+            "en": "And it came to pass that there was no contention among all the people, in all the land; but there were mighty miracles wrought among the disciples of Jesus.",
+            "zh": "事情是這樣的，那地所有的人民中都沒有紛爭；耶穌的門徒卻行了許多大奇蹟。",
+            "jp": "そして，全ぜん地ちですべての民たみの中なかにまったく争あらそいがなく，イエスの弟で子したちの中なかで数かず々かずの大おおきな奇き跡せきが行おこなわれた。",
+            "kr": "또 이렇게 되었나니 온 땅의 모든 백성 가운데 다툼이 없었으며, 예수의 제자들 가운데서는 능한 기적들이 행하여졌더라."
+          }
+        },
+        {
+          "key": "14",
+          "text": {
+            "fr": "Et il arriva que la soixante et onzième année passa, et aussi la soixante-douzième année, oui, en bref, jusqu’à ce que la soixante-dix-neuvième année fût passée ; oui, cent ans étaient passés, et les disciples que Jésus avait choisis étaient tous allés au paradis de Dieu, sauf les trois qui devaient demeurer ; et il y eut d’autres disciples ordonnés à leur place ; et aussi, beaucoup de cette génération avaient quitté cette vie.",
+            "en": "And it came to pass that the seventy and first year passed away, and also the seventy and second year, yea, and in fine, till the seventy and ninth year had passed away; yea, even an hundred years had passed away, and the disciples of Jesus, whom he had chosen, had all gone to the paradise of God, save it were the three who should tarry; and there were other disciples ordained in their stead; and also many of that generation had passed away.",
+            "zh": "事情是這樣的，第七十一年過去了，第七十二年也過去了，是的，總之，直到第七十九年過去了，是的，一百年過去了，耶穌揀選的門徒，除了三位要留下的以外，都到神的樂園去了；另有其他的門徒蒙按立，接替他們；那一代許多的人也都去世了。",
+            "jp": "さて，第だい七十一年ねんが過すぎ，第だい七十二年ねんも過すぎ，要ようするに第だい七十九年ねんまで過すぎ去さった。また，第だい百年ねんも過すぎ去さった。そして，イエスが選えらばれた弟で子したちは，とどまることになっていた三人にんを除のぞいて，全ぜん員いんがすでに神かみのパラダイスへ行いき，彼かれらに代かわってほかの弟で子したちが聖せい任にんされた。また，その世せ代だいの多おおくの人ひともすでに世よを去さった。",
+            "kr": "그리고 이렇게 되었나니 제칠십일년이 지나가고, 또한 제칠십이년도 지나가고, 마침내 제칠십구년이 지나가고 참으로 백 년이 지나매, 예수께서 택하셨던 제자들이, 머물게 될 세 사람을 제외하고는 모두 하나님의 낙원으로 갔고, 그들 대신에 다른 제자들이 성임되었으며, 많은 그 세대 사람들이 또한 세상을 떠났느니라."
+          }
+        },
+        {
+          "key": "15",
+          "text": {
+            "fr": "Et il arriva qu’il n’y eut pas de querelles dans le pays, à cause de l’amour de Dieu qui demeurait dans le cœur du peuple.",
+            "en": "And it came to pass that there was no contention in the land, because of the love of God which did dwell in the hearts of the people.",
+            "zh": "事情是這樣的，那地沒有紛爭，因為人民心中有神的愛。",
+            "jp": "そして，民たみの心こころの中なかに宿やどっていた神かみの愛あいのために，地ちの面おもてにはまったく争あらそいがなかった。",
+            "kr": "또 이렇게 되었나니 백성들의 마음 속에 거하는 하나님의 사랑으로 말미암아 그 땅에 다툼이 없었더라."
+          }
+        },
+        {
+          "key": "16",
+          "text": {
+            "fr": "Et il n’y avait pas d’envies, ni de discordes, ni de tumultes, ni de fornications, ni de mensonges, ni de meurtres, ni aucune sorte de lasciveté ; et assurément il ne pouvait y avoir de peuple plus heureux parmi tout le peuple qui avait été créé par la main de Dieu.",
+            "en": "And there were no envyings, nor strifes, nor tumults, nor whoredoms, nor lyings, nor murders, nor any manner of lasciviousness; and surely there could not be a happier people among all the people who had been created by the hand of God.",
+            "zh": "沒有嫉妒、沒有不和、沒有暴動、沒有淫亂、沒有謊言、沒有謀殺，也沒有任何形式的色情；在由神的手所造的人當中，確實沒有比這人民更幸福的了。",
+            "jp": "また，ねたみや紛ふん争そう，騒そう動どう，みだらな行おこない，偽いつわり，殺さつ人じんもなく，どのような好こう色しょくもなく，神かみの手てによって造つくられたすべての人ひとの中なかで，彼かれら以い上じょうに幸しあわせな民たみは確たしかにあり得えなかった。",
+            "kr": "그리고 시기함이나, 싸움이나, 소동이나, 음행이나, 거짓말하는 일이나, 살인이나, 여하한 종류의 음란함도 없었으니, 정녕 하나님의 손으로 창조된 모든 백성 중에서 이들보다 더 행복한 백성이 있을 수 없었더라."
+          }
+        },
+        {
+          "key": "17",
+          "text": {
+            "fr": "Il n’y avait pas de brigands, ni d’assassins, et il n’y avait pas non plus de Lamanites, ni aucune sorte d’-ites ; mais ils étaient un, enfants du Christ et héritiers du royaume de Dieu.",
+            "en": "There were no robbers, nor murderers, neither were there Lamanites, nor any manner of -ites; but they were in one, the children of Christ, and heirs to the kingdom of God.",
+            "zh": "沒有盜匪，沒有殺人犯，沒有拉曼人，也沒有任何什麼什麼人；他們是一體，是基督的孩子，神國的繼承人。",
+            "jp": "強ごう盗とうも人ひと殺ごろしもおらず，レーマン人じんとか何なに々なに人じんとか言いわれる者ものもなく，彼かれらは一つであり，キリストの子こであり，神かみの王おう国こくを受うけ継つぐ者ものであった。",
+            "kr": "도적이나 살인자도 없었고 레이맨인이라든가 무슨무슨인이라고 불리움도 없이, 그들은 하나로서, 그리스도의 자녀요, 하나님의 나라의 상속자이었더라."
+          }
+        },
+        {
+          "key": "18",
+          "text": {
+            "fr": "Et comme ils étaient bénis ! Car le Seigneur les bénissait dans toutes leurs actions ; oui, ils furent bénis et rendus prospères jusqu’à ce que cent dix ans fussent passés ; et la première génération depuis le Christ s’en était allée, et il n’y avait pas de querelles dans tout le pays.",
+            "en": "And how blessed were they! For the Lord did bless them in all their doings; yea, even they were blessed and prospered until an hundred and ten years had passed away; and the first generation from Christ had passed away, and there was no contention in all the land.",
+            "zh": "他們何其幸福！因為主祝福他們所做的一切事；是的，使他們蒙福、昌盛，直到一百一十年過去了；基督以來的第一代過去了，全地沒有紛爭。",
+            "jp": "このように，彼かれらは何なんと祝しゅく福ふくされていたことか。主しゅが彼かれらの行おこなうすべてのことについて彼かれらを祝しゅく福ふくされたからである。第だい百十年ねんが過すぎ去さるまで，彼かれらは祝しゅく福ふくされて栄さかえた。そして，キリストからの最さい初しょの世せ代だいの人ひと々びとが世よを去さったが，全ぜん地ちに少すこしも争あらそいがなかった。",
+            "kr": "또 그들은 얼마나 복되었던고! 이는 주께서 그들의 범사에 복을 주셨음이라, 참으로 그들은 복을 받아 번영하며 백십 년이 지나기에 이르렀으니, 이에 그리스도로부터 첫째 세대가 지나갔고 온 땅에는 다툼이 없었더라."
+          }
+        },
+        {
+          "key": "19",
+          "text": {
+            "fr": "Et il arriva que Néphi, celui qui avait tenu ces dernières annales (et il les tint sur les plaques de Néphi), mourut, et son fils Amos les tint à sa place ; et il les tint aussi sur les plaques de Néphi.",
+            "en": "And it came to pass that Nephi, he that kept this last record, (and he kept it upon the plates of Nephi) died, and his son Amos kept it in his stead; and he kept it upon the plates of Nephi also.",
+            "zh": "事情是這樣的，寫先前這紀錄的尼腓（他把紀錄記在尼腓片上）去世了，他的兒子阿摩司接替他記錄，他也記錄在尼腓片上。",
+            "jp": "さて，ここまでの記き録ろくを記しるしたニーファイ（彼かれはそれをニーファイの版はんに記しるした）が死しに，彼かれの息むす子こアモスが代かわって書かき継ついだ。そして，アモスもニーファイの版はんに記しるした。",
+            "kr": "또 이렇게 되었나니 이 마지막 기록을 기록하던 니파이가 (그는 이를 니파이의 판에 기록하였더라) 죽으매, 그의 아들 아모스가 그를 대신하여 이를 기록하되, 저도 이를 니파이의 판에 기록하였더라."
+          }
+        },
+        {
+          "key": "20",
+          "text": {
+            "fr": "Et il les tint quatre-vingt-quatre ans, et il y avait toujours la paix dans le pays, sauf qu’une petite partie du peuple s’était révoltée, et avait quitté l’Église, et avait pris sur elle le nom de Lamanites ; c’est pourquoi il recommença à y avoir des Lamanites dans le pays.",
+            "en": "And he kept it eighty and four years, and there was still peace in the land, save it were a small part of the people who had revolted from the church and taken upon them the name of Lamanites; therefore there began to be Lamanites again in the land.",
+            "zh": "他寫了八十四年，那地仍然和平，只有一小部分人叛離教會，自稱拉曼人；因此，那地又開始有了拉曼人。",
+            "jp": "彼かれは八十四年ねん間かん記き録ろくを書かき継つぎ，その地ちは依い然ぜんとして平へい和わであった。ただ教きょう会かいから背そむいて，自みずからレーマン人じんと名な乗のった者ものたちが少しょう数すういただけである。このために再ふたたびこの地ちにレーマン人じんが存そん在ざいすることになった。",
+            "kr": "이에 저가 팔십사 년 동안 이를 기록하였으며 땅에는 여전히 평화가 있었으나, 다만 백성 중 소수의 부류가 모반하여 교회를 떠나 스스로 레이맨인이라 하는 이름을 취한 일이 있었나니 이리하여 땅에 다시 레이맨인이 생기니라."
+          }
+        },
+        {
+          "key": "21",
+          "text": {
+            "fr": "Et il arriva qu’Amos mourut aussi (et c’était cent quatre-vingt-quatorze ans depuis la venue du Christ), et son fils Amos tint les annales à sa place ; et il les tint aussi sur les plaques de Néphi ; et elles furent aussi écrites dans le livre de Néphi, qui est ce livre.",
+            "en": "And it came to pass that Amos died also, (and it was an hundred and ninety and four years from the coming of Christ) and his son Amos kept the record in his stead; and he also kept it upon the plates of Nephi; and it was also written in the book of Nephi, which is this book.",
+            "zh": "事情是這樣的，阿摩司也去世了（時為基督來臨後一百九十四年），他的兒子阿摩司接替他記錄；他也記錄在尼腓片上，也寫在尼腓書——即這本書裡。",
+            "jp": "さて，アモスも死しんで（それはキリストの来らい臨りんから数かぞえて百九十四年ねん目めのことであった），彼かれの息むす子こアモスが彼かれに代かわって記き録ろくを書かき継ついだ。息むす子このアモスもまた，ニーファイの版はんに書かき記しるした。その記き録ろくはニーファイの書しょ，すなわちこの書しょにも書かき記しるされている。",
+            "kr": "또 이렇게 되었나니 아모스도 죽고, (때는 주께서 오신 때로부터 백구십사 년이었더라) 그의 아들 아모스가 그를 대신하여 기록을 계속하되, 그도 이를 니파이의 판에 기록하였으며 이는 또한 니파이의 책 곧 이 책에도 기록되었느니라."
+          }
+        },
+        {
+          "key": "22",
+          "text": {
+            "fr": "Et il arriva que deux cents ans étaient passés ; et toute la deuxième génération avait quitté cette vie, sauf un petit nombre.",
+            "en": "And it came to pass that two hundred years had passed away; and the second generation had all passed away save it were a few.",
+            "zh": "事情是這樣的，兩百年過去了；除了少數人以外，第二代也都去世了。",
+            "jp": "さて，二百年ねんが過すぎ去さり，第だい二世せ代だいの人ひと々びとは，わずかな人ひと々びとを除のぞいてすべて世よを去さった。",
+            "kr": "또 이렇게 되었나니 이백 년이 지나매, 소수를 제외하고는 둘째 세대가 모두 세상을 떠나니라."
+          }
+        },
+        {
+          "key": "23",
+          "text": {
+            "fr": "Et maintenant, moi, Mormon, je voudrais que vous sachiez que le peuple s’était multiplié, de sorte qu’il était répandu sur toute la surface du pays, et qu’il était devenu extrêmement riche à cause de sa prospérité dans le Christ.",
+            "en": "And now I, Mormon, would that ye should know that the people had multiplied, insomuch that they were spread upon all the face of the land, and that they had become exceedingly rich, because of their prosperity in Christ.",
+            "zh": "我，摩爾門，希望你們知道，這人民由於人口增加而散居在整個地面上；他們因基督而昌盛，變得非常富有。",
+            "jp": "さて，わたしモルモンがあなたがたに知しってもらいたいのは，民たみが増ふえて地ちの全ぜん面めんに広ひろがり，キリストにあって栄さかえたために非ひ常じょうに豊ゆたかになったということである。",
+            "kr": "그리고 이제 나 몰몬은 백성들이 번성하여, 이윽고 온 지면에 퍼졌고, 그리스도 안에서 그들이 번영하였음으로 인하여 그들이 심히 부하게 되었음을 너희가 알기 원하노라."
+          }
+        },
+        {
+          "key": "24",
+          "text": {
+            "fr": "Et alors, cette deux cent unième année, certains parmi eux commencèrent à être enflés dans l’orgueil, portant des vêtements somptueux, et toutes sortes de perles fines, et les choses raffinées du monde.",
+            "en": "And now, in this two hundred and first year there began to be among them those who were lifted up in pride, such as the wearing of costly apparel, and all manner of fine pearls, and of the fine things of the world.",
+            "zh": "在這第兩百零一年，他們之中開始有人驕傲自大，如穿昂貴衣服，戴各樣華美的珍珠和世上精美的東西。",
+            "jp": "ところが，この第だい二百一年ねんには，高こう価かな衣い服ふくを着きて，あらゆる見み事ごとな真しん珠じゅと世よの美うつくしいものを身みに着つけるなどして，高こう慢まんになった者ものたちが彼かれらの中なかに現あらわれ始はじめた。",
+            "kr": "그리고 이제 이 제이백일년에 그들 가운데 교만 중에 자고하게 된 자들이 생겨, 값비싼 의복을 입으며, 온갖 좋은 진주와, 세상의 좋은 것으로 꾸밈과 같은 일을 하기 시작하였더라."
+          }
+        },
+        {
+          "key": "25",
+          "text": {
+            "fr": "Et à partir de ce moment-là, ils n’eurent plus leurs biens et leur subsistance en commun.",
+            "en": "And from that time forth they did have their goods and their substance no more common among them.",
+            "zh": "從那時起，他們不再共用物品和財產。",
+            "jp": "そのときから，彼かれらはもはや自じ分ぶんたちの所しょ有ゆう物ぶつと持もち物ものを共きょう有ゆうしなくなった。",
+            "kr": "또 그때로부터 그들이 그들의 물건과 그들의 소유를 더 이상 공유하지 아니하였더라."
+          }
+        },
+        {
+          "key": "26",
+          "text": {
+            "fr": "Et ils commencèrent à être divisés en classes ; et ils commencèrent à s’édifier des Églises pour obtenir du gain et commencèrent à nier la vraie Église du Christ.",
+            "en": "And they began to be divided into classes; and they began to build up churches unto themselves to get gain, and began to deny the true church of Christ.",
+            "zh": "他們開始劃分階級，開始建立自己的教會以謀利，並且開始否認基督真正的教會。",
+            "jp": "そして，彼かれらは階かい級きゅうに分わかれ始はじめた。また，彼かれらは利り益えきを得えようとして自じ分ぶん自じ身しんのために教きょう会かいを築きずき始はじめ，キリストのまことの教きょう会かいを否ひ定ていするようになった。",
+            "kr": "또 그들이 여러 계급으로 나뉘기 시작하며, 이익을 얻기 위해 자기를 위하여 교회를 세우기 시작하며, 참된 그리스도의 교회를 부인하기 시작하였더라."
+          }
+        },
+        {
+          "key": "27",
+          "text": {
+            "fr": "Et il arriva que lorsque deux cent dix ans furent passés, il y eut beaucoup d’Églises dans le pays ; oui il y eut beaucoup d’Églises qui professaient connaître le Christ, et cependant elles niaient la plus grande partie de son Évangile, de sorte qu’elles acceptaient toutes sortes de méchancetés et accordaient ce qui était sacré à ceux à qui cela avait été interdit pour cause d’indignité.",
+            "en": "And it came to pass that when two hundred and ten years had passed away there were many churches in the land; yea, there were many churches which professed to know the Christ, and yet they did deny the more parts of his gospel, insomuch that they did receive all manner of wickedness, and did administer that which was sacred unto him to whom it had been forbidden because of unworthiness.",
+            "zh": "事情是這樣的，兩百一十年過去時，那地已有許多教會；是的，許多教會自稱知道基督，卻否認祂大部分的福音，而接受各樣邪惡，把神聖之物給予因不配稱而被禁止領受的人。",
+            "jp": "さて，第だい二百十年ねんが過すぎたとき，国くに中じゅうに多おおくの教きょう会かいがあった。すなわち，キリストを知しっていると公こう言げんする教きょう会かいがたくさんあった。それらの教きょう会かいはキリストの福ふく音いんの大たい半はんを否ひ定ていし，あらゆる悪あくを受うけ入いれ，また神しん聖せいなものを，ふさわしくないので与あたえてはならないと禁きんじられた者ものにまで与あたえた。",
+            "kr": "또 이렇게 되었나니 이백십 년이 지나갔을 때 땅에는 많은 교회가 있었나니, 참으로 그리스도를 안다고 공언하는 교회가 많이 있었더라. 그러나 그럼에도 그들이 그의 복음의 대부분을 부인하였나니, 그 결과 그들이 온갖 간악함을 받아들이고, 합당하지 아니함으로 인하여 금지된 자에게 성스러운 것을 베풀었더라."
+          }
+        },
+        {
+          "key": "28",
+          "text": {
+            "fr": "Et cette Église se multiplia extrêmement à cause de l’iniquité et à cause du pouvoir de Satan, qui obtenait de l’emprise sur leur cœur.",
+            "en": "And this church did multiply exceedingly because of iniquity, and because of the power of Satan who did get hold upon their hearts.",
+            "zh": "這教會因罪惡和那抓住人心的撒但的勢力而大量增加。",
+            "jp": "この教きょう会かいは罪ざい悪あくのために，また彼かれらの心こころを捕とらえたサタンの力ちからのために，非ひ常じょうに人にん数ずうが増ふえた。",
+            "kr": "그리고 이 교회가 죄악으로 인하여, 또 그들의 마음을 사로잡은 사탄의 권능으로 인하여 심히 번성하였더라."
+          }
+        },
+        {
+          "key": "29",
+          "text": {
+            "fr": "Et puis, il y eut une autre Église qui niait le Christ ; et elle persécuta la vraie Église du Christ, à cause de son humilité et de sa croyance au Christ ; et elle la méprisait à cause des nombreux miracles qui étaient accomplis en son sein.",
+            "en": "And again, there was another church which denied the Christ; and they did persecute the true church of Christ, because of their humility and their belief in Christ; and they did despise them because of the many miracles which were wrought among them.",
+            "zh": "此外，另有一教會否認基督；那教會因基督真正的教會謙卑並相信基督，而迫害他們；那教會也因他們所行的許多奇蹟而蔑視他們。",
+            "jp": "さらに，ほかにキリストを否ひ定ていする教きょう会かいもあった。彼かれらはキリストのまことの教きょう会かいの人ひと々びとが謙けん遜そんで，キリストを信しんじていたために，これらの人ひとを迫はく害がいした。また，これらの人ひとの中なかで多おおくの奇き跡せきが行おこなわれたために，彼かれらはこれらの人ひとをさげすんだ。",
+            "kr": "그리고 또 그리스도를 부인하는 또 다른 교회가 있었으니, 그들은 참된 그리스도의 교회를 이들의 겸손함과 그리스도를 믿는 이들의 믿음으로 인하여 핍박하고, 또 이들 중에 이루어지는 많은 기적으로 인하여 이들을 멸시하였더라."
+          }
+        },
+        {
+          "key": "30",
+          "text": {
+            "fr": "C’est pourquoi elle exerça du pouvoir et de l’autorité sur les disciples de Jésus qui demeuraient avec elle, et elle les jeta en prison ; mais par le pouvoir de la parole de Dieu qui était en eux, les prisons se fendaient en deux, et ils s’en allaient, faisant de grands miracles en son sein.",
+            "en": "Therefore they did exercise power and authority over the disciples of Jesus who did tarry with them, and they did cast them into prison; but by the power of the word of God, which was in them, the prisons were rent in twain, and they went forth doing mighty miracles among them.",
+            "zh": "所以他們對留在那裡的基督門徒行使權力和權威，把他們關進監牢；但門徒藉著他們裡面的神的話的力量，使監牢裂成兩半，他們到各處去，在他們之中行大奇蹟。",
+            "jp": "そして彼かれらは，自じ分ぶんたちとともにいたイエスの弟で子したちに権けん力りょくと権けん威いを振ふるい，イエスの弟で子したちを牢ろうに入いれた。しかし，イエスの弟で子したちの内うちにある神かみの言こと葉ばの力ちからによって牢ろうは二つに裂さけ，弟で子したちは出でて来きて人ひと々びとの中なかで大おおきな奇き跡せきを行おこなった。",
+            "kr": "그리하여 그들은 이들과 함께 머물고 있는 예수의 제자들에게 권력과 권세를 행사하여 저들을 옥에 던져 넣었으나, 저들 안에 있는 하나님의 말씀의 권능으로 말미암아 옥들이 둘로 갈라지매, 저들이 나아가 그들 가운데 큰 기적들을 행하였더라."
+          }
+        },
+        {
+          "key": "31",
+          "text": {
+            "fr": "Néanmoins, et malgré tous ces miracles, le peuple s’endurcit le cœur, et chercha à les tuer, tout comme les Juifs à Jérusalem avaient cherché à tuer Jésus, selon sa parole.",
+            "en": "Nevertheless, and notwithstanding all these miracles, the people did harden their hearts, and did seek to kill them, even as the Jews at Jerusalem sought to kill Jesus, according to his word.",
+            "zh": "然而儘管有這一切奇蹟，人民仍然硬起心來，企圖殺害他們，正如耶路撒冷的猶太人，根據耶穌所說的，企圖殺害祂一樣。",
+            "jp": "にもかかわらず，またこれらのすべての奇き跡せきにもかかわらず，民たみは心こころをかたくなにした。そして，エルサレムのユダヤ人じんがイエスをその御み言こと葉ばのとおりに殺ころそうとしたように，イエスの弟で子したちを殺ころそうとした。",
+            "kr": "그러나 이 모든 기적에도 불구하고, 백성들은 그 마음을 완악하게 하고, 예수의 말씀대로 예루살렘에 있던 유대인들이 예수를 죽이기를 구한 것같이 저들을 죽이기를 구하였더라."
+          }
+        },
+        {
+          "key": "32",
+          "text": {
+            "fr": "Et on les jeta dans des fournaises ardentes, et ils en sortaient, n’ayant subi aucun mal.",
+            "en": "And they did cast them into furnaces of fire, and they came forth receiving no harm.",
+            "zh": "他們把他們丟進火爐，他們走了出來，沒有受到傷害。",
+            "jp": "そして彼かれらは，イエスの弟で子したちを燃もえ盛さかる炉ろの中なかに投なげ込こんだが，弟で子したちは何なんの害がいも受うけずに出でて来きた。",
+            "kr": "이에 그들이 저들을 불 풀무에 던져 넣었으나, 저들이 아무 해도 입지 않고 나아왔더라."
+          }
+        },
+        {
+          "key": "33",
+          "text": {
+            "fr": "Et on les jeta aussi dans des antres de bêtes sauvages, et ils jouaient avec les bêtes sauvages, comme un enfant avec un agneau ; et ils en sortaient sans avoir subi de mal.",
+            "en": "And they also cast them into dens of wild beasts, and they did play with the wild beasts even as a child with a lamb; and they did come forth from among them, receiving no harm.",
+            "zh": "他們又把他們丟進獸穴，他們卻像小孩與羔羊玩耍那樣，與野獸玩耍；他們從其中走出來，沒有受到傷害。",
+            "jp": "彼かれらはまた，イエスの弟で子したちを猛もう獣じゅうの穴あなの中なかに投なげ込こんだが，弟で子したちは子こ供どもが子こ羊ひつじと遊あそぶように猛もう獣じゅうたちと戯たわむれ，何なんの害がいも受うけずに猛もう獣じゅうたちの中なかから出でて来きた。",
+            "kr": "또한 저들을 들짐승의 굴에 던져 넣었으나, 저들이 어린아이가 어린 양과 더불어 장난함같이 들짐승들과 더불어 장난하고, 아무 해도 받지 않고 그들 중에서 나아왔더라."
+          }
+        },
+        {
+          "key": "34",
+          "text": {
+            "fr": "Néanmoins, le peuple s’endurcit le cœur, car il était entraîné par beaucoup de prêtres et de faux prophètes à édifier beaucoup d’Églises et à commettre toutes sortes d’iniquités. Et il frappait le peuple de Jésus ; mais le peuple de Jésus ne frappait pas en retour. Et ainsi, ils dégénérèrent, d’année en année, dans l’incrédulité et la méchanceté, jusqu’à ce que deux cent trente ans fussent passés.",
+            "en": "Nevertheless, the people did harden their hearts, for they were led by many priests and false prophets to build up many churches, and to do all manner of iniquity. And they did smite upon the people of Jesus; but the people of Jesus did not smite again. And thus they did dwindle in unbelief and wickedness, from year to year, even until two hundred and thirty years had passed away.",
+            "zh": "然而人民還是硬起心來，因為他們由許多祭司和假先知帶領，建立許多教會，行各樣的惡事。他們毆打耶穌的人民，但耶穌的人民並不還手。他們就這樣在不信和邪惡中衰落，年復一年，直到兩百三十年過去了。",
+            "jp": "それでも，民たみは多おおくの教きょう会かいを築きずき，様さま々ざまな罪ざい悪あくを行おこなうように多おおくの祭さい司したちと偽にせ預よ言げん者しゃたちに誘さそわれたので，心こころをかたくなにした。そして，彼かれらはイエスの民たみを打うった。しかし，イエスの民たみは打うち返かえさなかった。このために彼かれらは，二百三十年ねんが過すぎるまでには，年ねん々ねん，次し第だいに不ふ信しん仰こうになり，悪あくに陥おちいっていった。",
+            "kr": "그럼에도 불구하고 백성들은 그 마음을 완악하게 하였으니, 이는 그들이 많은 제사들과 거짓 선지자들에게 이끌려 많은 교회를 짓고, 온갖 죄악을 행하게 되었음이라. 또 그들이 예수의 백성을 쳤으나, 예수의 백성은 도로 치지 아니하였으니, 이같이 그들이 매년 믿지 않음과 간악함 중에 빠져 들어가, 이윽고 이백삼십 년이 지나기에 이르렀더라."
+          }
+        },
+        {
+          "key": "35",
+          "text": {
+            "fr": "Et alors, il arriva, cette année-là, oui, la deux cent trente et unième année, qu’il y eut une grande division parmi le peuple.",
+            "en": "And now it came to pass in this year, yea, in the two hundred and thirty and first year, there was a great division among the people.",
+            "zh": "事情是這樣的，就在這一年，是的，就在第兩百三十一年，人民嚴重分裂。",
+            "jp": "そして，この年とし，すなわち第だい二百三十一年ねんに，まことに，民たみの中なかに大おおきな分ぶん裂れつがあった。",
+            "kr": "그리고 이제 이렇게 되었나니 이 해, 곧 제이백삼십일년에 백성 가운데 큰 나뉨이 있었더라."
+          }
+        },
+        {
+          "key": "36",
+          "text": {
+            "fr": "Et il arriva que, cette année-là, s’éleva un peuple qui fut appelé les Néphites, et ils étaient de vrais croyants au Christ ; et parmi eux, il y avait ceux que les Lamanites appelaient Jacobites, et Joséphites, et Zoramites ;",
+            "en": "And it came to pass that in this year there arose a people who were called the Nephites, and they were true believers in Christ; and among them there were those who were called by the Lamanites—Jacobites, and Josephites, and Zoramites;",
+            "zh": "事情是這樣的，在這一年，興起了一個民族，稱為尼腓人，是真正相信基督的人；他們之中有拉曼人所稱的雅各人、約瑟人和卓倫人；",
+            "jp": "そしてこの年としに，ニーファイ人じんと呼よばれる民たみが起おこった。この民たみはキリストのまことの信しん者じゃであった。また，この民たみの中なかにはレーマン人じんからヤコブ人じん，ヨセフ人じん，ゾーラム人じんと呼よばれた人ひと々びともいた。",
+            "kr": "이에 이렇게 되었나니 이 해에 니파이인이라 일컫는 한 백성이 일어났으니, 이들은 그리스도를 참되게 믿는 자들이었으며, 이들 중에는 레이맨인들이 야곱인이라, 또 요셉인이라, 또 조램인이라 일컫는 자들이 있었더라."
+          }
+        },
+        {
+          "key": "37",
+          "text": {
+            "fr": "c’est pourquoi les vrais croyants au Christ et les vrais adorateurs du Christ (parmi lesquels se trouvaient les trois disciples de Jésus qui devaient demeurer) furent appelés Néphites, et Jacobites, et Joséphites, et Zoramites.",
+            "en": "Therefore the true believers in Christ, and the true worshipers of Christ, (among whom were the three disciples of Jesus who should tarry) were called Nephites, and Jacobites, and Josephites, and Zoramites.",
+            "zh": "因此，真正相信基督的人和真正崇拜基督的人（那三位要留在世上的耶穌門徒也在內）被稱為尼腓人、雅各人、約瑟人和卓倫人。",
+            "jp": "そこで，キリストのまことの信者しんじゃ，またキリストのまことの礼れい拝はい者しゃは（この世よにとどまることになっていたイエスの三人にんの弟で子したちもその中なかにいた），ニーファイ人じん，ヤコブ人じん，ヨセフ人じん，ゾーラム人じんと呼よばれた。",
+            "kr": "그러므로 그리스도를 참되게 믿는 자들과 그리스도를 참되게 예배하는 자들은 (이들 중에는 머물기로 된 예수의 세 제자가 있었더라) 니파이인, 그리고 야곱인, 그리고 요셉인, 그리고 조램인이라 일컬어졌더라."
+          }
+        },
+        {
+          "key": "38",
+          "text": {
+            "fr": "Et il arriva que ceux qui rejetaient l’Évangile furent appelés Lamanites, et Lémuélites, et Ismaélites ; et ils ne dégénéraient pas dans l’incrédulité, mais ils se rebellaient volontairement contre l’Évangile du Christ ; et ils enseignaient à leurs enfants qu’ils ne devaient pas croire, comme l’avaient fait leurs pères, qui avaient dégénéré dès le commencement.",
+            "en": "And it came to pass that they who rejected the gospel were called Lamanites, and Lemuelites, and Ishmaelites; and they did not dwindle in unbelief, but they did wilfully rebel against the gospel of Christ; and they did teach their children that they should not believe, even as their fathers, from the beginning, did dwindle.",
+            "zh": "事情是這樣的，拒絕福音者被稱為拉曼人、雷米爾人、以實瑪利人；他們並沒有在不信中衰落，但卻故意違背基督的福音；他們教導兒女不要相信，像他們的祖先一樣，一開始就衰落了。",
+            "jp": "そして，福ふく音いんを受うけ入いれなかった者ものは，レーマン人じん，レムエル人じん，イシマエル人じんと呼よばれた。彼かれらは次し第だいに不ふ信しん仰こうに陥おちいったのではなく，故こ意いにキリストの福ふく音いんに背そむいたのである。そして，彼かれらの先せん祖ぞが初はじめから信しん仰こうが薄うすらいでいたように，彼かれらは自じ分ぶんの子こ供どもたちに信しんじてはならないと教おしえたのであった。",
+            "kr": "또 이렇게 되었나니 복음을 저버린 자들은 레이맨인이라, 또 레뮤엘인이라, 또 이스마엘인이라 일컬어졌으니, 이들은 믿지 않음에 빠져든 것이 아니요, 고의로 그리스도의 복음을 거역한 것이라, 또 그들의 조상들이 처음부터 믿지 않음에 빠져든 것같이 그들은 그 자녀들을 가르쳐 믿지 않게 하였도다."
+          }
+        },
+        {
+          "key": "39",
+          "text": {
+            "fr": "Et c’était à cause de la méchanceté et de l’abomination de leurs pères, comme c’était au commencement. Et on leur enseignait à haïr les enfants de Dieu, comme on avait enseigné aux Lamanites, depuis le commencement, à haïr les enfants de Néphi.",
+            "en": "And it was because of the wickedness and abomination of their fathers, even as it was in the beginning. And they were taught to hate the children of God, even as the Lamanites were taught to hate the children of Nephi from the beginning.",
+            "zh": "那是因為他們祖先的邪惡和憎行，就像一開始那樣。他們被教導要恨神的兒女，就像拉曼人一開始就被教導要恨尼腓的子孫一樣。",
+            "jp": "それは，初はじめの時ときと同おなじように，彼かれらの先せん祖ぞの悪あく事じと忌いまわしい行おこないのためであった。レーマン人じんが初はじめからニーファイの子し孫そんを憎にくむことを教おしえられたように，彼かれらも神かみの子こたちを憎にくむように教おしえられたのである。",
+            "kr": "또 이는 처음에 그러하였던 것같이 그들의 조상들의 간악함과 가증함으로 인함이라. 이에 그들은 레이맨인들이 처음부터 니파이의 자손을 미워하도록 가르침을 받은 것같이 하나님의 자녀들을 미워하도록 가르침을 받았느니라."
+          }
+        },
+        {
+          "key": "40",
+          "text": {
+            "fr": "Et il arriva que deux cent quarante-quatre ans étaient passés, et telles étaient les affaires du peuple. Et la partie la plus méchante du peuple devint forte et devint beaucoup plus nombreuse que le peuple de Dieu.",
+            "en": "And it came to pass that two hundred and forty and four years had passed away, and thus were the affairs of the people. And the more wicked part of the people did wax strong, and became exceedingly more numerous than were the people of God.",
+            "zh": "事情是這樣的，兩百四十四年過去了，以上就是人民的情形。比較邪惡的那部分人民日漸強大，人數遠超過神的人民。",
+            "jp": "さて，すでに第だい二百四十四年ねんが過すぎ去さり，民たみの状じょう況きょうはこのようであった。そして，民たみの中なかのひときわ悪わるい者ものたちが力ちからをつけ，神かみの民たみよりもはるかに数かずが多おおくなった。",
+            "kr": "또 이렇게 되었나니 이백사십사 년이 지났고, 백성들의 제반사가 이러하였으며, 또 백성 중 보다 간악한 부류가 점점 강하여져서, 하나님의 백성보다도 그 수효가 심히 더 많아졌더라."
+          }
+        },
+        {
+          "key": "41",
+          "text": {
+            "fr": "Et ils continuaient toujours à s’édifier des Églises et à les orner de toutes sortes de choses précieuses. Et ainsi passèrent deux cent cinquante ans, et aussi deux cent soixante ans.",
+            "en": "And they did still continue to build up churches unto themselves, and adorn them with all manner of precious things. And thus did two hundred and fifty years pass away, and also two hundred and sixty years.",
+            "zh": "他們繼續建立自己的教會，用各種寶物裝飾教會。兩百五十年就這樣過去了，兩百六十年也過去了。",
+            "jp": "彼かれらは依い然ぜんとして自じ分ぶん自じ身しんのために教きょう会かいを築きずくことを続つづけ，あらゆる貴き重ちょうな品しな々じなで教きょう会かいを飾かざった。このようにして，第だい二百五十年ねんが過すぎ去さり，第だい二百六十年ねんも過すぎ去さった。",
+            "kr": "또 그들은 여전히 계속하여 자기들을 위하여 교회를 세우며, 온갖 귀한 것으로 교회를 장식하였으니, 이같이 이백오십 년이 지나고, 또 이백육십 년도 지나갔더라."
+          }
+        },
+        {
+          "key": "42",
+          "text": {
+            "fr": "Et il arriva que la partie méchante du peuple recommença à mettre sur pied les combinaisons et les serments secrets de Gadianton.",
+            "en": "And it came to pass that the wicked part of the people began again to build up the secret oaths and combinations of Gadianton.",
+            "zh": "事情是這樣的，邪惡的那部分人民又開始推展祕密誓約和甘大安敦幫派。",
+            "jp": "さて，民たみの中なかの悪わるい者ものたちは再ふたたびガデアントンの秘ひ密みつの誓ちかいと結けっ社しゃを設もうけ始はじめた。",
+            "kr": "또 이렇게 되었나니 백성 중 간악한 부류들이 또다시 개다이앤톤의 은밀한 맹세와 결사를 세우기 시작하였더라."
+          }
+        },
+        {
+          "key": "43",
+          "text": {
+            "fr": "Et aussi : le peuple qui était appelé le peuple de Néphi commença à être orgueilleux dans son cœur, à cause de son extrême richesse, et à devenir vaniteux comme ses frères, les Lamanites.",
+            "en": "And also the people who were called the people of Nephi began to be proud in their hearts, because of their exceeding riches, and become vain like unto their brethren, the Lamanites.",
+            "zh": "稱為尼腓人的人也因為非常富有而開始心懷驕傲，變得像他們的弟兄拉曼人那樣自負。",
+            "jp": "また，ニーファイの民たみと呼よばれた民たみも，自じ分ぶんたちの非ひ常じょうに多おおくの富とみのために心こころの中なかで誇ほこり，同胞はらからであるレーマン人じんのように虚きょ栄えい心しんが強つよくなり始はじめた。",
+            "kr": "또 니파이 백성이라 일컬어지는 백성들도 그 심히 큰 부로 인하여 그 마음이 교만하여져서, 그들의 형제 레이맨인들처럼 허황되어졌더라."
+          }
+        },
+        {
+          "key": "44",
+          "text": {
+            "fr": "Et à partir de ce moment-là, les disciples commencèrent à s’attrister pour les péchés du monde.",
+            "en": "And from this time the disciples began to sorrow for the sins of the world.",
+            "zh": "從這時起，門徒開始為世人的罪憂傷。",
+            "jp": "このときから，弟で子したちは世よの罪つみを悲かなしむようになった。",
+            "kr": "그리고 이때로부터 제자들은 세상의 죄로 인하여 슬퍼하기 시작하였더라."
+          }
+        },
+        {
+          "key": "45",
+          "text": {
+            "fr": "Et il arriva que lorsque trois cents ans furent passés, le peuple de Néphi et les Lamanites étaient devenus extrêmement méchants, les uns comme les autres.",
+            "en": "And it came to pass that when three hundred years had passed away, both the people of Nephi and the Lamanites had become exceedingly wicked one like unto another.",
+            "zh": "事情是這樣的，三百年過去時，尼腓人和拉曼人都變得非常邪惡，不相上下。",
+            "jp": "さて，第だい三百年ねんが過すぎ去さると，ニーファイの民たみもレーマン人じんもともに，同おなじように非ひ常じょうに悪わるくなっていた。",
+            "kr": "또 이렇게 되었나니 삼백 년이 지나매, 니파이 백성과 레이맨인들이 모두 하나같이 심히 간악하여졌더라."
+          }
+        },
+        {
+          "key": "46",
+          "text": {
+            "fr": "Et il arriva que les brigands de Gadianton se répandirent sur toute la surface du pays ; et il n’y en avait aucun qui fût juste, excepté les disciples de Jésus. Et ils amassaient de l’or et de l’argent en abondance et commerçaient dans toutes sortes de commerces.",
+            "en": "And it came to pass that the robbers of Gadianton did spread over all the face of the land; and there were none that were righteous save it were the disciples of Jesus. And gold and silver did they lay up in store in abundance, and did traffic in all manner of traffic.",
+            "zh": "事情是這樣的，甘大安敦盜匪在整個地面上蔓延，除了耶穌的門徒外，沒有一個義人。他們積存大量的金子和銀子，並從事各種交易。",
+            "jp": "そして，ガデアントンの強ごう盗とうたちが地ちの全ぜん面めんに広ひろがっており，イエスの弟で子したちのほかには，義ぎ人じんは一人ひとりもいなかった。ガデアントンの強ごう盗とうたちは金きんと銀ぎんを豊ゆたかに蓄たくわえ，またあらゆる商しょう品ひんを交こう易えきしていた。",
+            "kr": "또 이렇게 되었나니 개다이앤톤 도적들이 온 지면에 퍼져, 예수의 제자들 외에는 의로운 자가 하나도 없었으며, 그들은 금과 은을 풍성하게 저축해 두고, 온갖 물품으로 서로 무역하였더라."
+          }
+        },
+        {
+          "key": "47",
+          "text": {
+            "fr": "Et il arriva que lorsque trois cent cinq ans furent passés (et le peuple restait toujours dans la méchanceté), Amos mourut ; et son frère, Ammaron, tint les annales à sa place.",
+            "en": "And it came to pass that after three hundred and five years had passed away, (and the people did still remain in wickedness) Amos died; and his brother, Ammaron, did keep the record in his stead.",
+            "zh": "事情是這樣的，三百零五年過去後（人民仍舊邪惡），阿摩司去世了；他的弟弟阿摩龍接替他寫紀錄。",
+            "jp": "さて，第だい三百五年ねんが過すぎ去さり（民たみは依い然ぜんとして悪わるい状じょう態たいであり），アモスが死しんで，彼かれの兄きょう弟だいアマロンが彼かれに代かわって記き録ろくを書かき継ついだ。",
+            "kr": "또 이렇게 되었나니 삼백오 년이 지나간 후에, (백성들은 여전히 간악한 가운데 머물러 있었느니라) 아모스가 죽고, 그의 아우 앰마론이 그의 대신에 기록을 계속하였더라."
+          }
+        },
+        {
+          "key": "48",
+          "text": {
+            "fr": "Et il arriva que lorsque trois cent vingt ans furent passés, Ammaron, contraint par le Saint-Esprit, cacha les annales qui étaient sacrées, oui, toutes les annales sacrées qui avaient été transmises de génération en génération, qui étaient sacrées — et ce, jusqu’à la trois cent vingtième année depuis la venue du Christ.",
+            "en": "And it came to pass that when three hundred and twenty years had passed away, Ammaron, being constrained by the Holy Ghost, did hide up the records which were sacred—yea, even all the sacred records which had been handed down from generation to generation, which were sacred—even until the three hundred and twentieth year from the coming of Christ.",
+            "zh": "事情是這樣的，三百二十年過去時，阿摩龍受聖靈強制，把到基督來臨後三百二十年，代代相傳的神聖紀錄——也就是所有的神聖紀錄——藏了起來。",
+            "jp": "さて，第だい三百二十年ねんが過すぎ，アマロンは聖せい霊れいに強つよく促うながされて，神しん聖せいな数かず々かずの記き録ろく，言いい換かえれば，キリストの来らい臨りんから第だい三百二十年ねんまで代よ々よ伝つたえられてきたすべての神しん聖せいな記き録ろくを隠かくした。",
+            "kr": "그리고 이렇게 되었나니 삼백이십 년이 지났을 때, 앰마론이 성신의 강권하심을 받고, 성스러운 기록을 감추었으니—곧 그리스도께서 오신 때로부터 제삼백이십년이 되는 해에 이르기까지—참으로 거룩한 바 대대로 전달되어 내려온 모든 성스러운 기록이라."
+          }
+        },
+        {
+          "key": "49",
+          "text": {
+            "fr": "Et il les cacha pour le Seigneur, afin qu’elles reviennent au reste de la maison de Jacob, selon les prophéties et les promesses du Seigneur. Et telle est la fin des annales d’Ammaron.",
+            "en": "And he did hide them up unto the Lord, that they might come again unto the remnant of the house of Jacob, according to the prophecies and the promises of the Lord. And thus is the end of the record of Ammaron.",
+            "zh": "他為主藏起這些紀錄，使這些紀錄能按照主的預言和應許，再傳給雅各家族的遺裔。阿摩龍的紀錄就此結束。",
+            "jp": "彼かれはそれらの記き録ろくが主しゅの預よ言げんと約やく束そくのとおりに，ヤコブの家いえの残のこりの者ものに再ふたたび伝つたえられるように，それらの記き録ろくを主しゅに託たくして隠かくしたのである。これでアマロンの記き録ろくは終おわる。",
+            "kr": "이에 그가 기록을 주께 감추었나니, 이는 주의 약속과 예언대로 그 기록이 야곱 집의 남은 자들에게로 다시 나아오게 하려 함이라. 앰마론의 기록의 끝이 이와 같으니라."
+          }
+        }
+      ]
+    }
+  ]
+}

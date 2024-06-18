@@ -1,0 +1,337 @@
+{
+  "book": {
+    "fr": "LIVRE D’OMNI",
+    "en": "THE BOOK OF OMNI",
+    "zh": "奧姆乃書",
+    "jp": "オムナイ書しょ",
+    "kr": "옴나이서"
+  },
+  "theme": {
+    "fr": "Chapitre 1",
+    "en": "Chapter 1",
+    "zh": "第1章",
+    "jp": "第1章",
+    "kr": "제 1 장"
+  },
+  "introduction": {
+    "fr": "Omni, Amaron, Chémish, Abinadom et Amaléki gardent, tour à tour, les annales — Mosiah découvre le peuple de Zarahemla, qui vint de Jérusalem du temps de Sédécias — Mosiah devient son roi — Les descendants de Mulek à Zarahemla avaient découvert Coriantumr, dernier des Jarédites — Le roi Benjamin succède à Mosiah — Les hommes doivent faire offrande de leur âme au Christ. Vers 323–130 av. J.-C.",
+    "en": "Omni, Amaron, Chemish, Abinadom, and Amaleki, each in turn, keep the records—Mosiah discovers the people of Zarahemla, who came from Jerusalem in the days of Zedekiah—Mosiah is made king over them—The descendants of Mulek at Zarahemla had discovered Coriantumr, the last of the Jaredites—King Benjamin succeeds Mosiah—Men should offer their souls as an offering to Christ. About 323–130 B.C.",
+    "zh": "奧姆乃、艾曼龍、凱密希、阿賓納頓、亞瑪力依序保管紀錄——摩賽亞發現柴雷罕拉人，他們於西底家時離開耶路撒冷——摩賽亞被立為國王——在柴雷罕拉的繆萊克後裔發現最後一個雅列人柯林德茂——便雅憫繼摩賽亞為王——世人應把自己的靈魂當獻祭獻給基督。約主前323年至130年。",
+    "jp": "オムナイ，アメーロン，ケミシ，アビナドム，アマレカイが順じゅん次じ記き録ろくを書かき継つぐ。モーサヤ，ゼデキヤの時じ代だいにエルサレムから来きたゼラヘムラの民たみを発はっ見けんする。モーサヤ，彼かれらを治おさめる王おうとされる。ミュレクの子し孫そんは，かつてゼラヘムラで，ヤレド人じんの最さい後ごの生せい存ぞん者しゃであったコリアンタマーを発はっ見けんしていた。ベニヤミン王おう，モーサヤの跡あとを継つぐ。人ひとは自じ分ぶん自じ身しんをキリストへのささげ物ものとしてささげなければならない。紀き元げん前ぜん約やく三百二十三年ねんから百三十年ねんに至いたる。",
+    "kr": "옴나이, 애메이론, 케미시, 아빈아돔, 아맬레카이가 각각 차례대로 기록을 해 나감—모사이야가 시드기야 때에 예루살렘에서 온 제이라헤믈라 백성을 발견함—모사이야가 그들 위에 왕이 됨—뮬레크의 후손들이 야렛인 중의 마지막 사람인 코리앤투머를 발견하였음—베냐민 왕이 모사이야 왕의 뒤를 이음—사람은 마땅히 그 영혼을 그리스도께 예물로 드려야 함. 주전 323~130년경."
+  },
+  "chapters": [
+    {
+      "number": 1,
+      "introduction": {
+        "fr": "Omni, Amaron, Chémish, Abinadom et Amaléki gardent, tour à tour, les annales — Mosiah découvre le peuple de Zarahemla, qui vint de Jérusalem du temps de Sédécias — Mosiah devient son roi — Les descendants de Mulek à Zarahemla avaient découvert Coriantumr, dernier des Jarédites — Le roi Benjamin succède à Mosiah — Les hommes doivent faire offrande de leur âme au Christ. Vers 323–130 av. J.-C.",
+        "en": "Omni, Amaron, Chemish, Abinadom, and Amaleki, each in turn, keep the records—Mosiah discovers the people of Zarahemla, who came from Jerusalem in the days of Zedekiah—Mosiah is made king over them—The descendants of Mulek at Zarahemla had discovered Coriantumr, the last of the Jaredites—King Benjamin succeeds Mosiah—Men should offer their souls as an offering to Christ. About 323–130 B.C.",
+        "zh": "奧姆乃、艾曼龍、凱密希、阿賓納頓、亞瑪力依序保管紀錄——摩賽亞發現柴雷罕拉人，他們於西底家時離開耶路撒冷——摩賽亞被立為國王——在柴雷罕拉的繆萊克後裔發現最後一個雅列人柯林德茂——便雅憫繼摩賽亞為王——世人應把自己的靈魂當獻祭獻給基督。約主前323年至130年。",
+        "jp": "オムナイ，アメーロン，ケミシ，アビナドム，アマレカイが順じゅん次じ記き録ろくを書かき継つぐ。モーサヤ，ゼデキヤの時じ代だいにエルサレムから来きたゼラヘムラの民たみを発はっ見けんする。モーサヤ，彼かれらを治おさめる王おうとされる。ミュレクの子し孫そんは，かつてゼラヘムラで，ヤレド人じんの最さい後ごの生せい存ぞん者しゃであったコリアンタマーを発はっ見けんしていた。ベニヤミン王おう，モーサヤの跡あとを継つぐ。人ひとは自じ分ぶん自じ身しんをキリストへのささげ物ものとしてささげなければならない。紀き元げん前ぜん約やく三百二十三年ねんから百三十年ねんに至いたる。",
+        "kr": "옴나이, 애메이론, 케미시, 아빈아돔, 아맬레카이가 각각 차례대로 기록을 해 나감—모사이야가 시드기야 때에 예루살렘에서 온 제이라헤믈라 백성을 발견함—모사이야가 그들 위에 왕이 됨—뮬레크의 후손들이 야렛인 중의 마지막 사람인 코리앤투머를 발견하였음—베냐민 왕이 모사이야 왕의 뒤를 이음—사람은 마땅히 그 영혼을 그리스도께 예물로 드려야 함. 주전 323~130년경."
+      },
+      "verses": [
+        {
+          "key": "1",
+          "text": {
+            "fr": "Voici, il arriva que moi, Omni, ayant reçu de mon père, Jarom, le commandement d’écrire quelque peu sur ces plaques pour préserver notre généalogie —",
+            "en": "Behold, it came to pass that I, Omni, being commanded by my father, Jarom, that I should write somewhat upon these plates, to preserve our genealogy—",
+            "zh": "看啊，事情是這樣的，我，奧姆乃，奉父親雅龍之命，在這些頁片上寫幾句話，以延續我們的族譜；",
+            "jp": "見みよ，わたしオムナイは，わたしたちの系けい図ずを残のこすためにこの版はんに多た少しょうのことを書かき記しるすように，父ちちジェロムに命めいじられた。",
+            "kr": "보라, 이렇게 되었나니 나 옴나이는 우리의 족보를 보존하기 위하여, 이 판에 얼마간을 기록하라는 명령을 나의 부친 예이롬에게서 받았으매—"
+          }
+        },
+        {
+          "key": "2",
+          "text": {
+            "fr": "C’est pourquoi, je voudrais que vous sachiez que, pendant ma vie, j’ai beaucoup combattu par l’épée pour empêcher mon peuple, les Néphites, de tomber entre les mains de ses ennemis, les Lamanites. Mais voici, je suis personnellement un méchant homme, et je n’ai pas gardé les prescriptions et les commandements du Seigneur comme j’aurais dû le faire.",
+            "en": "Wherefore, in my days, I would that ye should know that I fought much with the sword to preserve my people, the Nephites, from falling into the hands of their enemies, the Lamanites. But behold, I of myself am a wicked man, and I have not kept the statutes and the commandments of the Lord as I ought to have done.",
+            "zh": "所以，我希望你們知道，我一生多半都在用劍作戰，以保護我人民尼腓人，使他們不致落入敵人拉曼人手中。但是看啊，我是個惡人，我並未像我應當做的那樣遵守主的規章和誡命。",
+            "jp": "それゆえ，わたしはあなたがたに知しらせたいことがある。わたしは，自じ分ぶんの民たみニーファイ人じんが敵てきであるレーマン人じんの手てに落おちないように，彼かれらを守まもるために生しょう涯がい剣つるぎを取とってよく戦たたかった。しかし見みよ，わたし自じ身しんは悪わるい人にん間げんであり，当とう然ぜん守まもっていなければならないほど主しゅの掟おきてと戒いましめを守まもってこなかった。",
+            "kr": "그런즉 나의 사는 날 동안에 내가 내 백성 니파이인들을 보전하여, 그들의 원수 레이맨인들의 손에 빠지지 않게 하고자, 칼로 많이 싸운 줄을 너희가 알기 바라노라. 그러나 보라, 나 스스로는 간악한 사람이요, 마땅히 했어야 할 대로 법도와 계명을 지키지 아니하였느니라."
+          }
+        },
+        {
+          "key": "3",
+          "text": {
+            "fr": "Et il arriva que deux cent soixante-seize ans étaient passés, et nous avions eu beaucoup de périodes de paix ; et nous avions eu beaucoup de périodes de grandes guerres et de grandes effusions de sang. Oui, en bref, deux cent quatre-vingt-deux ans étaient passés, et j’avais gardé ces plaques selon les commandements de mes pères ; et je les ai confiées à mon fils Amaron. Et je finis.",
+            "en": "And it came to pass that two hundred and seventy and six years had passed away, and we had many seasons of peace; and we had many seasons of serious war and bloodshed. Yea, and in fine, two hundred and eighty and two years had passed away, and I had kept these plates according to the commandments of my fathers; and I conferred them upon my son Amaron. And I make an end.",
+            "zh": "事情是這樣的，二百七十六年過去了，我們有許多年的太平日子，也有許多年的激戰和流血。是的，總之，二百八十二年過去了，我已照祖先的命令保管這些頁片，我要把這些頁片傳給我兒子艾曼龍，我寫到此為止。",
+            "jp": "そして，すでに二百七十六年ねんが過すぎ去さった。その間あいだ，平へい和わな時じ代だいも多おおくあり，また激はげしい戦せん争そうと流りゅう血けつの時じ代だいも多おおかった。そして要ようするに，すでに二百八十二年ねんが過すぎ去さった。わたしは先せん祖ぞの命めい令れいに従したがって，この版はんを保ほ存ぞんしてきた。そしてわたしは，息むす子こアメーロンにこれを託たくした。わたしはこれで記き録ろくを終おえる。",
+            "kr": "또 이렇게 되었나니 이백칠십육 년이 지나갔으며, 우리에게는 평화로운 시기도 많았고, 치열한 전쟁과 유혈의 시기도 많았으니, 참으로 그러하였느니라. 또 요컨대 이백팔십이 년이 지나갔으며, 나는 조상들의 명을 좇아 이 판들을 보존하였다가, 이를 나의 아들 애메이론에게 내려 주었노니, 이로써 나는 마치노라."
+          }
+        },
+        {
+          "key": "4",
+          "text": {
+            "fr": "Et maintenant, moi, Amaron, j’écris les choses que j’écris, qui sont peu nombreuses, dans le livre de mon père.",
+            "en": "And now I, Amaron, write the things whatsoever I write, which are few, in the book of my father.",
+            "zh": "我，艾曼龍，要寫的不多，凡我寫的，都寫在父親的書裡。",
+            "jp": "わたしアメーロンは，今いまわたしが書かき記しるすことを少すこしではあるが，父ちちの書しょに書かき記しるす。",
+            "kr": "그리고 이제 나 애메이론은, 적으나마 내가 기록하는 것은 무엇이든지 나의 부친의 책에 기록하노라."
+          }
+        },
+        {
+          "key": "5",
+          "text": {
+            "fr": "Voici, il arriva que trois cent vingt ans étaient passés, et la partie la plus méchante des Néphites fut détruite.",
+            "en": "Behold, it came to pass that three hundred and twenty years had passed away, and the more wicked part of the Nephites were destroyed.",
+            "zh": "看啊，三百二十年過去了，事情是這樣的，尼腓人中比較邪惡的已被毀滅了。",
+            "jp": "さて見みよ，すでに三百二十年ねんが過すぎ去さり，ニーファイ人じんの中なかのひときわ悪わるい者ものたちは滅ほろぼされてしまった。",
+            "kr": "보라, 이렇게 되었나니 삼백이십 년이 지나갔고, 니파이인들 가운데 더 간악한 자들이 멸망당하였으니,"
+          }
+        },
+        {
+          "key": "6",
+          "text": {
+            "fr": "Car le Seigneur ne voulut pas souffrir, après les avoir fait sortir du pays de Jérusalem et les avoir gardés et empêchés de tomber entre les mains de leurs ennemis, oui, il ne voulut pas souffrir que les paroles qu’il avait dites à nos pères ne fussent pas confirmées, celles qui disaient : Si vous ne gardez pas mes commandements, vous ne prospérerez pas dans le pays.",
+            "en": "For the Lord would not suffer, after he had led them out of the land of Jerusalem and kept and preserved them from falling into the hands of their enemies, yea, he would not suffer that the words should not be verified, which he spake unto our fathers, saying that: Inasmuch as ye will not keep my commandments ye shall not prosper in the land.",
+            "zh": "因為主不會容許在領他們離開耶路撒冷地、保護他們不落入敵人手中之後，是的，祂不會容許祂所說的話不應驗；祂曾對我們祖先說：只要你們不遵守我的誡命，你們必不得在此地昌盛。",
+            "jp": "なぜならば，主しゅはニーファイ人じんをエルサレムの地ちから連つれ出だし，敵てきの手てに落おちないように守まもってこられたので，かつて先せん祖ぞに言いわれた，「あなたがたはわたしの命めい令れいを守まもらないかぎり，地ちに栄さかえることはない」という御み言こと葉ばが実じっ証しょうされないことを許ゆるされないからである。",
+            "kr": "이는 주께서 그들을 예루살렘 땅에서 인도해 내시고 그들을 지키고 보전하사, 그들의 원수의 손에 빠지지 않게 하신 후에, 참으로 우리 조상들에게 하신 말씀이 입증되지 아니함을 용납하지 아니하고자 하심이라. 이르시되, 너희가 나의 계명을 지키지 아니할진대 너희는 이 땅에서 번성하지 못하리라 하셨느니라."
+          }
+        },
+        {
+          "key": "7",
+          "text": {
+            "fr": "C’est pourquoi, le Seigneur les châtia par un grand jugement ; néanmoins, il épargna les justes pour qu’ils ne périssent pas, mais les délivra des mains de leurs ennemis.",
+            "en": "Wherefore, the Lord did visit them in great judgment; nevertheless, he did spare the righteous that they should not perish, but did deliver them out of the hands of their enemies.",
+            "zh": "所以，主重重懲罰他們；然而，祂保全義人，使他們不致滅亡，卻救他們脫離敵人的手。",
+            "jp": "それゆえ，主しゅは彼かれらに厳きびしい裁さばきを下くだされた。しかしながら，主しゅは義ぎ人じんが滅ほろびることのないように彼かれらの命いのちを助たすけ，彼かれらを敵てきの手てから救すくわれた。",
+            "kr": "그리하여 주께서 큰 심판으로 그들을 징벌하셨으나, 그럼에도 불구하고 의로운 자들은 살려 두사 멸망하지 않게 하시고, 그들을 그 원수들의 손에서 건져 내셨느니라."
+          }
+        },
+        {
+          "key": "8",
+          "text": {
+            "fr": "Et il arriva que je remis les plaques à mon frère Chémish.",
+            "en": "And it came to pass that I did deliver the plates unto my brother Chemish.",
+            "zh": "事情是這樣的，我把頁片交給我弟弟凱密希。",
+            "jp": "そしてわたしは，この版はんを兄きょう弟だいのケミシに渡わたした。",
+            "kr": "그리고 이렇게 되었나니 나는 이 판을 나의 형제 케미시에게 넘겨주었노라."
+          }
+        },
+        {
+          "key": "9",
+          "text": {
+            "fr": "Maintenant, moi, Chémish, j’écris le peu de choses que j’écris dans le même livre, avec mon frère ; car voici, j’ai vu que la dernière chose qu’il a écrite, il l’a écrite de sa propre main ; et il l’a écrite le jour où il me les a remises. Et c’est de cette manière que nous tenons les annales, car c’est selon les commandements de nos pères. Et je finis.",
+            "en": "Now I, Chemish, write what few things I write, in the same book with my brother; for behold, I saw the last which he wrote, that he wrote it with his own hand; and he wrote it in the day that he delivered them unto me. And after this manner we keep the records, for it is according to the commandments of our fathers. And I make an end.",
+            "zh": "我，凱密希，要把我寫的幾句話，寫在我哥哥寫的同一本書裡；因為看啊，我看到他親手寫的最後幾句話，那是他把頁片交給我的同一天寫的。我們就這樣遵照祖先的命令，寫那些紀錄，我寫到此為止。",
+            "jp": "わたしケミシは，今いま書かき記しるしているわずかなことだけを，兄きょう弟だいと同おなじ書しょに書かき記しるす。見みよ，わたしは兄きょう弟だいが書かき記しるした最さい後ごの記き事じを見みたが，それは彼かれが自じ分ぶん自じ身しんで書かき記しるしたものである。彼かれは，わたしに版はんを渡わたしてくれたその日ひにそれを書かき記しるした。このように，わたしたちは記き録ろくを書かき継ついでいる。それは，わたしたちの先せん祖ぞの命めい令れいによるのである。わたしはこれで記き録ろくを終おえる。",
+            "kr": "이제 나 케미시는 내가 기록하는 약간의 것을 나의 형제와 같은 책에 기록하노라. 보라, 나는 그가 마지막으로 기록하는 것을 보았나니, 그는 자신의 손으로 그것을 기록하였고, 나에게 넘겨 주던 날에 그것을 기록하였느니라. 또 이와 같이 우리가 기록을 계속하는 것은 그것이 우리 조상들의 명령에 따른 것임이니라. 이로써 나는 마치노라."
+          }
+        },
+        {
+          "key": "10",
+          "text": {
+            "fr": "Voici, moi, Abinadom, je suis le fils de Chémish. Voici, il arriva que je vis beaucoup de guerres et de querelles entre mon peuple, les Néphites, et les Lamanites ; et moi, de ma propre épée, j’ai ôté la vie à beaucoup de Lamanites en défendant mes frères.",
+            "en": "Behold, I, Abinadom, am the son of Chemish. Behold, it came to pass that I saw much war and contention between my people, the Nephites, and the Lamanites; and I, with my own sword, have taken the lives of many of the Lamanites in the defence of my brethren.",
+            "zh": "看啊，我，阿賓納頓，是凱密希的兒子。看啊，事情是這樣的，我目睹我人民尼腓人與拉曼人之間的許多戰爭與紛爭；而我也曾為了保護我的弟兄，用我自己的劍，取了許多拉曼人的性命。",
+            "jp": "見みよ，わたしアビナドムはケミシの子こである。見みよ，わたしは，わたしの民たみであるニーファイ人じんとレーマン人じんの間あいだに多おおくの戦せん争そうや争あらそいを見みた。またわたしは，同胞はらからを守まもるために，自じ分ぶん自じ身しんの剣つるぎで多おおくのレーマン人じんの命いのちを奪うばってきた。",
+            "kr": "보라, 나 아빈아돔은 케미시의 아들이니라. 보라, 이렇게 되었나니 나는 나의 백성 곧 니파이인과 레이맨인 사이의 전쟁과 다툼을 많이 보았고, 또 나는 내 자신의 칼로 내 형제들을 지키기 위하여 많은 레이맨인들의 목숨을 빼앗았느니라."
+          }
+        },
+        {
+          "key": "11",
+          "text": {
+            "fr": "Et voici, les annales de ce peuple sont gravées sur des plaques qui sont détenues par les rois, selon les générations ; et je n’ai connaissance d’aucune révélation, sauf de ce qui a été écrit, ni d’aucune prophétie ; c’est pourquoi, ce qui est écrit suffit. Et je finis.",
+            "en": "And behold, the record of this people is engraven upon plates which is had by the kings, according to the generations; and I know of no revelation save that which has been written, neither prophecy; wherefore, that which is sufficient is written. And I make an end.",
+            "zh": "看啊，這人民的紀錄按世代刻在列王所持有的頁片上；除了已記載下來的以外，我不知道任何啟示和預言；所以，那些記載已經足夠了，我寫到此為止。",
+            "jp": "見みよ，この民たみの記き録ろくは，歴れき代だいの王おうが所しょ有ゆうする版はんに刻きざまれている。わたしは，すでに書かき記しるされている啓けい示じや預よ言げんのほかには何なに一ひとつ知しらない。したがって，十じゅう分ぶんなことが書かき記しるされている。わたしはこれで記き録ろくを終おえる。",
+            "kr": "또 보라, 이 백성의 기록은 대대로 열왕이 가지고 있는 판에 새겨져 있으며, 나는 이미 기록된 것 이외의 계시나 예언에 대해 알지 못하니, 그런즉 족한 만큼 기록되었도다. 이로써 나는 마치노라."
+          }
+        },
+        {
+          "key": "12",
+          "text": {
+            "fr": "Voici, je suis Amaléki, fils d’Abinadom. Voici, je vais vous parler quelque peu de Mosiah, qui fut proclamé roi sur le pays de Zarahemla ; car voici, averti par le Seigneur qu’il devait s’enfuir du pays de Néphi, et que tous ceux qui voulaient écouter la voix du Seigneur devaient aussi quitter le pays avec lui, et entrer dans le désert —",
+            "en": "Behold, I am Amaleki, the son of Abinadom. Behold, I will speak unto you somewhat concerning Mosiah, who was made king over the land of Zarahemla; for behold, he being warned of the Lord that he should flee out of the land of Nephi, and as many as would hearken unto the voice of the Lord should also depart out of the land with him, into the wilderness—",
+            "zh": "看啊，我是阿賓納頓的兒子亞瑪力，看啊，我要和你們談一談摩賽亞，他被立為柴雷罕拉地的國王；看啊，他得到主的警告，要他逃離尼腓地，凡聽從主聲音的，也要和他一起離開該地而進入曠野。",
+            "jp": "見みよ，わたしはアビナドムの子こ，アマレカイである。見みよ，わたしはゼラヘムラの地ちを治おさめる王おうとされたモーサヤについて，少すこしあなたがたに述のべよう。見みよ，モーサヤはニーファイの地ちから逃にげ出だすように，また，主しゅの声こえに聞きき従したがう者ものも皆みな，モーサヤとともにその地ちから荒あれ野のへ出でて行いくように，主しゅから警けい告こくを受うけた。",
+            "kr": "보라, 나는 아빈아돔의 아들 아맬레카이니라. 보라, 내가 제이라헤믈라 땅의 왕이 된 모사이야에 관하여 얼마간 너희에게 말하리니, 보라, 그는 니파이 땅에서 도망하되, 주의 음성에 귀를 기울이고자 하는 모든 자도 그와 함께 하여 광야로 들어가라는 경고를 주께로부터 받고—"
+          }
+        },
+        {
+          "key": "13",
+          "text": {
+            "fr": "il arriva qu’il fit ce que le Seigneur lui avait commandé. Et ils quittèrent le pays et entrèrent dans le désert, tous ceux qui voulaient écouter la voix du Seigneur ; et ils furent conduits par beaucoup de prédications et de prophéties. Et ils furent continuellement avertis par la parole de Dieu ; et ils furent conduits par la puissance de son bras à travers le désert, jusqu’au moment où ils descendirent au pays qui est appelé le pays de Zarahemla.",
+            "en": "And it came to pass that he did according as the Lord had commanded him. And they departed out of the land into the wilderness, as many as would hearken unto the voice of the Lord; and they were led by many preachings and prophesyings. And they were admonished continually by the word of God; and they were led by the power of his arm, through the wilderness until they came down into the land which is called the land of Zarahemla.",
+            "zh": "事情是這樣的，他遵照主的命令去做，凡願聽從主聲音的，都離開尼腓地，進入曠野；有許多講道和預言帶領他們，也不斷有神的話警告他們；神臂膀的大能帶領他們通過曠野，來到名叫柴雷罕拉地的地方。",
+            "jp": "そこでモーサヤは，主しゅに命めいじられたとおりにした。また，主しゅの声こえに聞きき従したがう者ものも皆みな，その地ちから荒あれ野のへ出でて行いった。そして，幾いく度たびにもわたる説せっ教きょうと預よ言げんによって導みちびかれ，また神かみの言こと葉ばにより絶たえず訓くん戒かいを受うけた。また彼かれらは，神かみの腕うでの力ちからによって導みちびかれ，荒あれ野のを通とおり過すぎてゼラヘムラの地ちと呼よばれる地ちに着ついた。",
+            "kr": "이에 이렇게 되었나니 그가 주께서 자기에게 명하신 대로 행하였고, 그들 곧 주의 음성에 귀 기울이려 하는 모든 자가 그 땅을 떠나 광야로 들어갔으니, 그들은 많은 가르침과 예언함으로 인도되었으며 또 그들은 끊임없이 하나님의 말씀으로 훈계를 받으며, 그의 팔의 힘으로 인도되어 광야를 지나 제이라헤믈라 땅이라 하는 땅으로 내려왔느니라."
+          }
+        },
+        {
+          "key": "14",
+          "text": {
+            "fr": "Et ils découvrirent un peuple qui était appelé le peuple de Zarahemla. Or, il y eut une grande allégresse parmi le peuple de Zarahemla ; et Zarahemla aussi fut dans une allégresse extrême, parce que le Seigneur avait envoyé le peuple de Mosiah avec les plaques d’airain qui contenaient les annales des Juifs.",
+            "en": "And they discovered a people, who were called the people of Zarahemla. Now, there was great rejoicing among the people of Zarahemla; and also Zarahemla did rejoice exceedingly, because the Lord had sent the people of Mosiah with the plates of brass which contained the record of the Jews.",
+            "zh": "他們發現一族人，稱為柴雷罕拉人。柴雷罕拉人非常高興，柴雷罕拉也非常高興，因為主派遣摩賽亞的人民，帶著記載猶太人紀錄的銅頁片來到這裡。",
+            "jp": "そして彼かれらは，ゼラヘムラの民たみと呼よばれた民たみを発はっ見けんした。そのために，ゼラヘムラの民たみの中なかに大おおきな喜よろこびが起おこり，またゼラヘムラ自じ身しんも，主しゅがモーサヤの民たみを遣つかわされたので，ことのほか喜よろこんだ。モーサヤの民たみはユダヤ人じんの記き録ろくが載のっている真しん鍮ちゅうの版はんを持もっていたからである。",
+            "kr": "그리고 그들은 제이라헤믈라 백성이라 칭하는 백성을 발견하였더라. 이제 주께서 유대인들의 기록이 실려 있는 놋쇠판과 함께 모사이야의 백성을 보내 주셨음으로 인하여, 제이라헤믈라 백성 중에는 크게 기뻐함이 있었고 제이라헤믈라 역시 심히 기뻐하였더라."
+          }
+        },
+        {
+          "key": "15",
+          "text": {
+            "fr": "Voici, il arriva que Mosiah découvrit que le peuple de Zarahemla était sorti de Jérusalem à l’époque où Sédécias, roi de Juda, fut emmené captif à Babylone.",
+            "en": "Behold, it came to pass that Mosiah discovered that the people of Zarahemla came out from Jerusalem at the time that Zedekiah, king of Judah, was carried away captive into Babylon.",
+            "zh": "看啊，事情是這樣的，摩賽亞發現，柴雷罕拉人是在猶大王西底家被俘往巴比倫時，從耶路撒冷出來的。",
+            "jp": "さて見みよ，モーサヤが知しったところによれば，ゼラヘムラの民たみは，ユダの王おうゼデキヤがバビロンへ囚とらわれの身みとなって連つれ去さられたときに，エルサレムから出でて来きた民たみであった。",
+            "kr": "보라, 이렇게 되었나니 모사이야는 제이라헤믈라의 백성이 유다왕 시드기야가 바벨론으로 사로잡혀 갈 때, 예루살렘에서 나왔다는 것을 알게 되었더라."
+          }
+        },
+        {
+          "key": "16",
+          "text": {
+            "fr": "Et ils voyagèrent dans le désert, et furent amenés par la main du Seigneur de l’autre côté des grandes eaux, au pays où Mosiah les découvrit ; et ils y demeuraient depuis ce temps-là.",
+            "en": "And they journeyed in the wilderness, and were brought by the hand of the Lord across the great waters, into the land where Mosiah discovered them; and they had dwelt there from that time forth.",
+            "zh": "他們在曠野中行進，由主的手帶領渡過大水，來到摩賽亞發現他們的地方；他們從那時起，就住在那裡。",
+            "jp": "そして，この民たみは荒あれ野のを旅たびし，主しゅの手てによって導みちびかれて大おお海うみを渡わたり，モーサヤが彼かれらを発はっ見けんした地ちに来きた。そのときから，彼かれらはいつまでもそこに住すんでいた。",
+            "kr": "또 그들은 광야를 여행하고, 주의 손으로 인도되어 큰 물을 건너, 모사이야가 그들을 발견한 땅에 이르렀고, 그때로부터 그 곳에 거하였더라."
+          }
+        },
+        {
+          "key": "17",
+          "text": {
+            "fr": "Et au moment où Mosiah les découvrit, ils étaient devenus extrêmement nombreux. Néanmoins, ils avaient eu beaucoup de guerres et de graves querelles, et étaient tombés de temps en temps par l’épée ; et leur langue s’était corrompue ; et ils n’avaient pas apporté d’annales avec eux ; et ils niaient l’existence de leur Créateur ; et ni Mosiah, ni le peuple de Mosiah ne pouvaient les comprendre.",
+            "en": "And at the time that Mosiah discovered them, they had become exceedingly numerous. Nevertheless, they had had many wars and serious contentions, and had fallen by the sword from time to time; and their language had become corrupted; and they had brought no records with them; and they denied the being of their Creator; and Mosiah, nor the people of Mosiah, could understand them.",
+            "zh": "摩賽亞發現他們時，他們已經人口眾多了，然而，他們也曾有過許多戰爭與激烈的紛爭，不時有人死於劍下；他們的語文已多訛誤；他們沒有帶任何紀錄；他們否認他們的創造主；摩賽亞及其人民都聽不懂他們的話。",
+            "jp": "そして，モーサヤが発はっ見けんしたときには，彼かれらは非ひ常じょうに大おおきな数かずになっていた。しかし，その前まえに多おおくの戦せん争そうと激はげしい争あらそいがあって，民たみが剣つるぎによって倒たおれたことも度たび々たびあった。また，彼かれらの言こと葉ばはなまっており，そのうえ，彼かれらは何なに一ひとつ記き録ろくを持もって来きておらず，しかも，自じ分ぶんたちの創そう造ぞう主ぬしの存そん在ざいを否ひ定ていしていた。それでモーサヤも，モーサヤの民たみも，彼かれらのことを理り解かいできなかった。",
+            "kr": "또 모사이야가 그들을 발견하였을 때 그들은 수효가 심히 많아졌었더라. 그러할지라도, 그들에게는 전쟁과 심한 다툼이 많이 있었고, 이에 그들은 시시로 칼에 쓰러졌었으며 그들의 언어는 혼잡하게 되었고 가져온 기록도 없었으며 또 그들은 그들을 지으신 창조주의 존재도 부인하였나니, 모사이야도 모사이야의 백성들도 그들의 말을 알아 들을 수 없었더라."
+          }
+        },
+        {
+          "key": "18",
+          "text": {
+            "fr": "Mais il arriva que Mosiah leur fit enseigner sa langue. Et il arriva que lorsque la langue de Mosiah leur eut été enseignée, Zarahemla donna la généalogie de ses pères, selon sa mémoire ; et elle est écrite, mais pas sur ces plaques-ci.",
+            "en": "But it came to pass that Mosiah caused that they should be taught in his language. And it came to pass that after they were taught in the language of Mosiah, Zarahemla gave a genealogy of his fathers, according to his memory; and they are written, but not in these plates.",
+            "zh": "但是事情是這樣的，摩賽亞便命柴雷罕拉人學習他的語文。事情是這樣的，他們學習摩賽亞的語文後，柴雷罕拉就憑記憶說出祖先的族譜；那些族譜都已記錄，但不是記在這些頁片裡。",
+            "jp": "そこでモーサヤはゼラヘムラの民たみに，モーサヤの言こと葉ばを教おしえさせた。そして，彼かれらがモーサヤの言こと葉ばを教おそわった後のち，ゼラヘムラは自じ分ぶんの記き憶おくに従したがって先せん祖ぞの系けい図ずを述のべた。その系けい図ずは書かき留とめられているが，この版はんには載のせない。",
+            "kr": "그러나 이렇게 되었나니 모사이야가 그들로 하여금 자기의 언어를 배우게 하였고, 또 이렇게 되었나니 그들이 모사이야의 언어를 배운 후에, 제이라헤믈라가 자기의 기억을 좇아 그 조상의 족보를 진술하매, 그것이 기록되었으나 이 판에는 기록되지 아니하니라."
+          }
+        },
+        {
+          "key": "19",
+          "text": {
+            "fr": "Et il arriva que les peuples de Zarahemla et de Mosiah s’unirent ; et Mosiah fut désigné pour être leur roi.",
+            "en": "And it came to pass that the people of Zarahemla, and of Mosiah, did unite together; and Mosiah was appointed to be their king.",
+            "zh": "事情是這樣的，柴雷罕拉人和摩賽亞人聯合起來，而摩賽亞被立為國王。",
+            "jp": "さて，ゼラヘムラの民たみとモーサヤの民たみは連れん合ごうし，モーサヤが彼かれらの王おうに選せん任にんされた。",
+            "kr": "또 이렇게 되었나니 제이라헤믈라와 모사이야의 백성들이 함께 연합하였고, 모사이야를 지명하여 그들의 왕을 삼았더라."
+          }
+        },
+        {
+          "key": "20",
+          "text": {
+            "fr": "Et il arriva, du temps de Mosiah, qu’une grande pierre portant des inscriptions gravées lui fut apportée ; et il interpréta les inscriptions gravées par le don et le pouvoir de Dieu.",
+            "en": "And it came to pass in the days of Mosiah, there was a large stone brought unto him with engravings on it; and he did interpret the engravings by the gift and power of God.",
+            "zh": "事情是這樣的，摩賽亞在位時，得了一塊刻有文字的巨石，他藉神的恩賜和能力，翻譯那鐫文。",
+            "jp": "そしてモーサヤの時じ代だいに，文も字じの刻きざまれている一つの大おおきな石いしが彼かれのもとに運はこばれてきた。それで彼かれは，神かみの賜たま物ものと力ちからによって，刻きざまれていたものを解かい読どくした。",
+            "kr": "또 이렇게 되었나니 모사이야의 시대에, 그에게로 가져온 큰 돌이 하나 있었는데 그 위에 새긴 것이 있었고, 그가 하나님의 은사와 권능으로 그 새겨진 것을 해석하였더라."
+          }
+        },
+        {
+          "key": "21",
+          "text": {
+            "fr": "Et elles racontaient l’histoire d’un certain Coriantumr et de ceux de son peuple qui avaient été tués. Coriantumr fut découvert par le peuple de Zarahemla ; et il demeura avec lui pendant neuf lunes.",
+            "en": "And they gave an account of one Coriantumr, and the slain of his people. And Coriantumr was discovered by the people of Zarahemla; and he dwelt with them for the space of nine moons.",
+            "zh": "那鐫文記載一位柯林德茂的事蹟及其人民的滅亡，柯林德茂被柴雷罕拉人發現，並與他們一起住了九個月。",
+            "jp": "それには，コリアンタマーという人じん物ぶつと，彼かれの民たみの中なかの殺ころされた者ものたちの話はなしが載のっていた。このコリアンタマーはゼラヘムラの民たみによって発はっ見けんされ，九か月げつの間あいだ彼かれらとともに暮くらしたのであった。",
+            "kr": "이에 그것은 코리앤투머라 하는 자와 죽임을 당한 그의 백성에 대한 기사더라. 또 코리앤투머는 제이라헤믈라 백성들이 발견하였고, 그는 그들과 함께 아홉 달 동안 거하였더라."
+          }
+        },
+        {
+          "key": "22",
+          "text": {
+            "fr": "Elles disaient aussi quelques mots concernant ses pères. Et ses premiers parents vinrent de la tour, à l’époque où le Seigneur confondit la langue du peuple ; et la sévérité du Seigneur tomba sur eux selon ses jugements, qui sont justes ; et leurs ossements jonchaient le pays situé du côté du nord.",
+            "en": "It also spake a few words concerning his fathers. And his first parents came out from the tower, at the time the Lord confounded the language of the people; and the severity of the Lord fell upon them according to his judgments, which are just; and their bones lay scattered in the land northward.",
+            "zh": "鐫文也約略提及他的祖先，他最早的祖先是在主混亂世人語言時，從高塔那裡出來的；後來，主依照其公正的判決，嚴厲地懲罰他們，他們的骸骨分散在北部地方。",
+            "jp": "また，コリアンタマーの先せん祖ぞについても少すこし述のべられていた。彼かれの最さい初しょの先せん祖ぞは，主しゅが人ひと々びとの言こと葉ばを乱みだされたときに，塔とうのある所ところから出でて来きたのである。そして，主しゅの公こう正せいな裁さばきによって彼かれの民たみに主しゅの厳きびしい罰ばつが下くだり，現げん在ざい，北ほっ方ぽうの地ちに彼かれらの骨ほねが散ちり散ぢりになっている。",
+            "kr": "그것은 또 그의 조상들에 관하여서도 몇 마디 말해 주었나니, 그의 첫 조상은 주께서 백성들의 언어를 혼잡하게 하실 때에, 탑으로부터 나왔으며 주의 엄하심이 의로우신 그의 심판을 좇아 그들에게 내린지라, 그들의 뼈가 북방 땅에 흩어져 있느니라."
+          }
+        },
+        {
+          "key": "23",
+          "text": {
+            "fr": "Voici, moi, Amaléki, je suis né du temps de Mosiah ; et j’ai vécu assez longtemps pour voir sa mort ; et Benjamin, son fils, règne à sa place.",
+            "en": "Behold, I, Amaleki, was born in the days of Mosiah; and I have lived to see his death; and Benjamin, his son, reigneth in his stead.",
+            "zh": "看啊，我，亞瑪力，生於摩賽亞在位時；我活著看到他去世，他的兒子便雅憫繼位統治。",
+            "jp": "見みよ，わたしアマレカイはモーサヤの時じ代だいに生うまれ，生いきている間あいだにモーサヤの死しを見みた。そして，彼かれの息むす子こベニヤミンが父ちちに代かわって治おさめている。",
+            "kr": "보라, 나 아맬레카이는 모사이야의 시대에 태어났으며, 생전에 그의 죽음을 보았고, 이제 그의 아들 베냐민이 그 대신에 다스렸더라."
+          }
+        },
+        {
+          "key": "24",
+          "text": {
+            "fr": "Et voici, j’ai vu, du temps du roi Benjamin, une grande guerre et une grande effusion de sang entre les Néphites et les Lamanites. Mais voici, les Néphites prirent fortement l’avantage sur eux ; oui, de telle sorte que le roi Benjamin les chassa du pays de Zarahemla.",
+            "en": "And behold, I have seen, in the days of king Benjamin, a serious war and much bloodshed between the Nephites and the Lamanites. But behold, the Nephites did obtain much advantage over them; yea, insomuch that king Benjamin did drive them out of the land of Zarahemla.",
+            "zh": "看啊，便雅憫王在位時，我曾目睹尼腓人與拉曼人之間一場血腥戰役；但是看啊，尼腓人得了極大的優勢，是的，便雅憫王把拉曼人逐出柴雷罕拉地。",
+            "jp": "見みよ，わたしはベニヤミン王おうの時じ代だいに，ニーファイ人じんとレーマン人じんの間あいだで一度ど激はげしい戦せん争そうがあり，またひどい流りゅう血けつがあったのを見みた。しかし見みよ，ニーファイ人じんがレーマン人じんよりも大おおいに優ゆう勢せいであったので，ベニヤミン王おうはゼラヘムラの地ちから彼かれらを追おい出だした。",
+            "kr": "또 보라, 나는 베냐민 왕의 시대에 니파이인과 레이맨인 사이에 격심한 한 전쟁과 많은 유혈이 있는 것을 보았느니라. 그러나 보라, 니파이인들이 훨씬 우세하게 되어 그들을 이기매, 마침내 베냐민 왕이 그들을 제이라헤믈라 땅 밖으로 몰아내었느니라."
+          }
+        },
+        {
+          "key": "25",
+          "text": {
+            "fr": "Et il arriva que je commençai à être vieux ; et, n’ayant pas de postérité, et sachant que le roi Benjamin est un homme juste devant le Seigneur, c’est pourquoi, je lui remettrai ces plaques, exhortant tous les hommes à venir à Dieu, le Saint d’Israël, et à croire aux prophéties, et aux révélations, et au ministère d’anges, et au don de parler en langues, et au don d’interprétation des langues, et à tout ce qui est bon ; car il n’est rien de bon qui ne vienne du Seigneur ; et ce qui est mauvais vient du diable.",
+            "en": "And it came to pass that I began to be old; and, having no seed, and knowing king Benjamin to be a just man before the Lord, wherefore, I shall deliver up these plates unto him, exhorting all men to come unto God, the Holy One of Israel, and believe in prophesying, and in revelations, and in the ministering of angels, and in the gift of speaking with tongues, and in the gift of interpreting languages, and in all things which are good; for there is nothing which is good save it comes from the Lord: and that which is evil cometh from the devil.",
+            "zh": "事情是這樣的，我開始老了，又無後裔，我知道便雅憫王在主前是個義人，所以，我要把這些頁片交給他，勸告所有的人要歸向神以色列聖者，並相信預言、啟示、天使的施助、說方言與譯方言的恩賜，以及一切好的事物；除非來自主，否則沒有事物是好的；而邪惡的就是來自魔鬼。",
+            "jp": "さて，わたしは年としを取とってきた。そして，わたしは子こ供どもがなく，またベニヤミン王おうが主しゅの前まえに正ただしい人ひとであることを知しっているので，この版はんを彼かれに渡わたす。わたしはすべての人ひとに，イスラエルの聖せい者じゃである神かみのもとに来きて，預よ言げんと啓けい示じ，天てん使しの働はたらき，異い言げんで語かたる賜たま物もの，言げん語ごを解かい釈しゃくする賜たま物もの，そのほかすべての善よいことを信しんじるように説とき勧すすめよう。主しゅから出でるもののほかに，善よいものは何なに一ひとつないからである。悪わるいものは悪あく魔まから出でる。",
+            "kr": "그리고 이렇게 되었나니 내가 늙었도다. 또 내가 후손이 없고, 베냐민 왕이 주 앞에 의인인줄 아노니, 그런즉 내가 이 판을 그에게 넘겨주리라. 그리하면서 내가 만인에게 권면하노니, 하나님 곧 이스라엘의 거룩하신 자에게로 와서 예언과 계시와 천사의 성역과 방언으로 말하는 은사와 언어를 통변하는 은사와 모든 선한 것을 믿으라. 이는 선한 것으로 주께로부터 오지 않는 것이 없고, 악한 것은 악마에게서 옴이니라."
+          }
+        },
+        {
+          "key": "26",
+          "text": {
+            "fr": "Et maintenant, mes frères bien-aimés, je voudrais que vous veniez au Christ, qui est le Saint d’Israël, et preniez part à son salut et au pouvoir de sa rédemption. Oui, venez à lui, et offrez-lui votre âme tout entière en offrande, et continuez dans le jeûne et la prière, et persévérez jusqu’à la fin ; et, comme le Seigneur vit, vous serez sauvés.",
+            "en": "And now, my beloved brethren, I would that ye should come unto Christ, who is the Holy One of Israel, and partake of his salvation, and the power of his redemption. Yea, come unto him, and offer your whole souls as an offering unto him, and continue in fasting and praying, and endure to the end; and as the Lord liveth ye will be saved.",
+            "zh": "現在，我心愛的弟兄們，我希望你們都歸向基督，祂就是以色列聖者，也要領受祂的救恩和救贖的大能。是的，來歸向祂，把你整個靈魂當獻祭獻給祂，不斷禁食、祈禱，並持守到底；像主活著一樣，你們必得救。",
+            "jp": "ところで，わたしの愛あいする同胞はらからよ，わたしはあなたがたがイスラエルの聖せい者じゃであるキリストのもとに来きて，キリストの救すくいと，キリストの贖あがないの力ちからにあずかるように望のぞんでいる。まことに，キリストのもとに来きて，自じ分ぶん自じ身しんをキリストへのささげ物ものとしてささげ，断だん食じきと祈いのりを続つづけ，最さい後ごまで堪たえ忍しのびなさい。そうすれば，主しゅが生いきておられるように，あなたがたは救すくわれるであろう。",
+            "kr": "그리고 이제 나의 사랑하는 형제들아, 나는 너희가 이스라엘의 거룩하신 자이신 그리스도에게로 와서, 그의 구원과 그의 구속의 능력에 참여하기를 바라노라. 참으로 그에게로 와서, 너희의 온 영혼을 그에게 예물로 드리고, 금식과 기도를 계속하며 끝까지 견디라. 그리하면 주께서 사심같이 너희가 구원을 얻으리로다."
+          }
+        },
+        {
+          "key": "27",
+          "text": {
+            "fr": "Et maintenant, je voudrais parler quelque peu d’un certain nombre d’hommes qui montèrent dans le désert pour retourner au pays de Néphi ; car il y en avait un grand nombre qui désiraient posséder le pays de leur héritage.",
+            "en": "And now I would speak somewhat concerning a certain number who went up into the wilderness to return to the land of Nephi; for there was a large number who were desirous to possess the land of their inheritance.",
+            "zh": "現在我要談談那些進入曠野、想回尼腓地的人的事；因為有許多人想擁有他們繼承的土地。",
+            "jp": "ところでわたしは，ニーファイの地ちへ帰かえろうとして荒あれ野のへ行いったある人ひと々びとのことについて，少しょう々しょう述のべたい。自じ分ぶんたちのかつての受うけ継つぎの地ちを手てに入いれたいと思おもった者ものたちが，大おお勢ぜいいたのである。",
+            "kr": "또 이제 나는 니파이 땅으로 돌아가려고 광야로 올라간 몇몇에 관하여 얼마간 말하고자 하노니, 그들의 기업의 땅을 소유하기 원하는 사람이 많았음이라."
+          }
+        },
+        {
+          "key": "28",
+          "text": {
+            "fr": "C’est pourquoi, ils montèrent dans le désert. Et leur chef étant un homme fort et puissant, et un homme au cou roide, c’est pourquoi, il provoqua une querelle parmi eux ; et ils furent tous tués dans le désert, sauf cinquante, et ils revinrent au pays de Zarahemla.",
+            "en": "Wherefore, they went up into the wilderness. And their leader being a strong and mighty man, and a stiffnecked man, wherefore he caused a contention among them; and they were all slain, save fifty, in the wilderness, and they returned again to the land of Zarahemla.",
+            "zh": "所以，他們就進入曠野，他們的領袖是個強壯有力、個性倔強的人，他在他們當中引起了一場紛爭，他們都在曠野被殺，只剩下五十人又回到柴雷罕拉地。",
+            "jp": "それで，彼かれらは荒あれ野のへ行いった。ところが，彼かれらの指し導どう者しゃは屈くっ強きょうな力ちからの強つよい男おとこで，そのうえ強ごう情じょうな男おとこであったので，彼かれらの中なかに争あらそいを引ひき起おこした。そして，五十人にんを除のぞく全ぜん員いんが荒あれ野のの中なかで殺ころされ，これらの五十人にんの者ものたちは，再ふたたびゼラヘムラの地ちに引ひき返かえして来きた。",
+            "kr": "그리하여 그들이 광야로 올라갔으나, 그들의 지도자가 힘이 센 용사요, 목이 뻣뻣한 자였던지라, 이에 그가 그들 가운데 분쟁을 일으키매, 그들이 광야에서 오십 인을 제외하고 다 죽임을 당한지라, 그들이 다시 제이라헤믈라 땅으로 돌아왔더라."
+          }
+        },
+        {
+          "key": "29",
+          "text": {
+            "fr": "Et il arriva qu’ils en prirent aussi d’autres en nombre considérable, et entreprirent de nouveau leur voyage dans le désert.",
+            "en": "And it came to pass that they also took others to a considerable number, and took their journey again into the wilderness.",
+            "zh": "事情是這樣的，他們後來又帶了其他相當多的人再次進入曠野。",
+            "jp": "そして彼かれらは，またほかの人ひと々びとを大おお勢ぜい連つれて，再ふたたび荒あれ野のへ旅たび立だった。",
+            "kr": "또 이렇게 되었나니 그들이 또한 다른 자들을 상당수 취하여, 다시 광야로 여행을 떠났더라."
+          }
+        },
+        {
+          "key": "30",
+          "text": {
+            "fr": "Et moi, Amaléki, j’avais un frère qui alla aussi avec eux ; et depuis lors, je ne sais plus rien d’eux. Et je suis sur le point de me coucher dans la tombe ; et ces plaques sont pleines. Et je finis de parler.",
+            "en": "And I, Amaleki, had a brother, who also went with them; and I have not since known concerning them. And I am about to lie down in my grave; and these plates are full. And I make an end of my speaking.",
+            "zh": "我，亞瑪力，有個弟弟也和他們同行，但我從此沒有他們的消息。我已不久人世，這些頁片也寫滿了，我講到此為止。",
+            "jp": "わたしアマレカイには一人ひとりの兄きょう弟だいがいたが，彼かれもこれらの人ひと々びとと一いっ緒しょに行いった。その後ごの彼かれらの消しょう息そくは分わからない。わたしは今いまや，まさに墓はかに身みを横よこたえようとしている。この版はんはすでに書かき尽つくされている。わたしはこれで述のべることを終おわりにする。",
+            "kr": "또 나 아맬레카이에게도 형제가 하나 있어 그도 그들과 함께 갔으나, 그 후로는 그들에 관하여 내가 알지 못하였노라. 이제 내가 곧 나의 무덤에 눕게 되었고, 이 판은 가득 찼도다. 이에 내가 나의 말함을 마치노라."
+          }
+        }
+      ]
+    }
+  ]
+}
