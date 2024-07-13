@@ -1,91 +1,13 @@
 const fs = require('fs');
 const path = require('path');
-
-const parseText = (text) => {
-    const lines = text.split('\n');
-    const chapters = [];
-    let currentChapter = null;
-    let currentVerseNumber = 0;
-    let introCapture = false;
-
-    lines.forEach(line => {
-        line = line.trim();
-        if (!line) return;
-
-        // const chapterMatch = line.match(/^Section (\d+)/i) || line.match(/^第(\d+)篇/);
-        const chapterMatch = line.match(/^Chapitre (\d+)/i) || line.match(/^CHAPTER (\d+)/i) || line.match(/^第(\d+)章/) || line.match(/^제 (\d+) 장/);
-        const verseMatch = line.match(/^\d+ (.*)$/) || line.match(/^(\d+)([^\d].*)$/);
-
-        if (chapterMatch) {
-            currentChapter = { number: parseInt(chapterMatch[1], 10), verses: [], introduction: "" };
-            chapters.push(currentChapter);
-            currentVerseNumber = 0; // Reset verse number for each chapter
-            introCapture = true; // Start capturing introduction text
-        } else if (introCapture && !verseMatch) {
-            currentChapter.introduction = line; // Capture introduction line
-            introCapture = false; // Stop capturing after the first line following chapter title
-        } else if (verseMatch && currentChapter) {
-            currentVerseNumber += 1;
-            currentChapter.verses.push({ key: `${currentVerseNumber}`, text: verseMatch[0].trim() });
-        }
-    });
-
-    return chapters;
-};
-
-const removeLeadingNumbers = (text) => {
-    return text.replace(/^\d+\s*/, '');
-}
-
-const combineTexts = (frenchChapters, englishChapters, chineseChapters, japaneseChapters, koreanChapters) => {
-    return englishChapters.map(engChapter => {
-        const chiChapter = chineseChapters.find(ch => ch.number === engChapter.number);
-        const jpnChapter = japaneseChapters.find(jp => jp.number === engChapter.number);
-        const korChapter = koreanChapters.find(kr => kr.number === engChapter.number);
-        const fraChapter = frenchChapters.find(fr => fr.number === engChapter.number);
-        // console.log(engChapter.number);
-        return {
-            number: engChapter.number,
-            introduction: {
-                fr: fraChapter.introduction,
-                en: engChapter.introduction,
-                zh: chiChapter.introduction,
-                jp: jpnChapter.introduction,
-                kr: korChapter.introduction
-            },
-            verses: engChapter.verses.map((verse, verseIndex) => ({
-                key: verse.key,
-                text: {
-                    fr: fraChapter.verses[verseIndex] ? removeLeadingNumbers(fraChapter.verses[verseIndex].text) : "",
-                    en: removeLeadingNumbers(verse.text),
-                    zh: chiChapter.verses[verseIndex] ? removeLeadingNumbers(chiChapter.verses[verseIndex].text) : "",
-                    jp: jpnChapter.verses[verseIndex] ? removeLeadingNumbers(jpnChapter.verses[verseIndex].text) : "",
-                    kr: korChapter.verses[verseIndex] ? removeLeadingNumbers(korChapter.verses[verseIndex].text) : ""
-                }
-            }))
-        };
-    });
-};
-
-const sortChapters = (chapters) => {
-    return chapters.sort((a, b) => a.number - b.number);
-};
-
-const extractBookDetails = (text) => {
-    const lines = text.split('\n').map(line => line.trim());
-    const book = lines[0];
-    const theme = lines.length > 3 ? lines[2] : "";
-    const introduction = lines.length > 3 ? lines[3] : lines[2];
-
-    return { book, theme, introduction };
-};
+const { parseText, combineTexts, sortChapters, extractBookDetails } = require('./utils');
 
 const main = () => {
     const mainFolderName = "ot"
-    const folderNames = ["gen", "ex"]
+    const folderNames = ["gen", "ex", "lev", "num", "deut"]
     // const folderName = "1-ne"
     for (folderName of folderNames) {
-        const dirPath = path.join(__dirname, `${mainFolderName}/${folderName}`);
+        const dirPath = path.join(__dirname, `scripture/${mainFolderName}/${folderName}`);
         const files = fs.readdirSync(dirPath);
         const frenchFiles = files.filter(file => file.includes('fra')).sort();
         const englishFiles = files.filter(file => file.includes('eng')).sort();
@@ -102,31 +24,31 @@ const main = () => {
         frenchFiles.forEach(file => {
             const filePath = path.join(dirPath, file);
             const text = fs.readFileSync(filePath, 'utf8');
-            allFrenchChapters = allFrenchChapters.concat(parseText(text));
+            allFrenchChapters = allFrenchChapters.concat(parseText(text, "chapters"));
         });
 
         englishFiles.forEach(file => {
             const filePath = path.join(dirPath, file);
             const text = fs.readFileSync(filePath, 'utf8');
-            allEnglishChapters = allEnglishChapters.concat(parseText(text));
+            allEnglishChapters = allEnglishChapters.concat(parseText(text, "chapters"));
         });
 
         chineseFiles.forEach(file => {
             const filePath = path.join(dirPath, file);
             const text = fs.readFileSync(filePath, 'utf8');
-            allChineseChapters = allChineseChapters.concat(parseText(text));
+            allChineseChapters = allChineseChapters.concat(parseText(text, "chapters"));
         });
 
         japaneseFiles.forEach(file => {
             const filePath = path.join(dirPath, file);
             const text = fs.readFileSync(filePath, 'utf8');
-            allJapaneseChapters = allJapaneseChapters.concat(parseText(text));
+            allJapaneseChapters = allJapaneseChapters.concat(parseText(text, "chapters"));
         });
 
         koreanFiles.forEach(file => {
             const filePath = path.join(dirPath, file);
             const text = fs.readFileSync(filePath, 'utf8');
-            allKoreanFilesChapters = allKoreanFilesChapters.concat(parseText(text));
+            allKoreanFilesChapters = allKoreanFilesChapters.concat(parseText(text, "chapters"));
         });
 
         const combinedChapters = combineTexts(allFrenchChapters, allEnglishChapters, allChineseChapters, allJapaneseChapters, allKoreanFilesChapters);
@@ -170,8 +92,8 @@ const main = () => {
                 fr: frenchDetails.introduction,
                 en: englishDetails.introduction,
                 zh: chineseDetails.introduction,
-                jp: japaneseDetails.introduction,
-                kr: koreanDetails.introduction
+                jp: (japaneseDetails.introduction.length != 0)? japaneseDetails.introduction : englishDetails.introduction,
+                kr: (koreanDetails.introduction.length != 0)? koreanDetails.introduction : englishDetails.introduction
             },
             chapters: sortedCombinedChapters
         };

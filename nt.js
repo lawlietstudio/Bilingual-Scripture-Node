@@ -1,0 +1,31 @@
+const newTestamentBooks = [
+    {"name": "matt", "chapters": 28},
+    {"name": "mark", "chapters": 16},
+    {"name": "luke", "chapters": 24},
+    {"name": "john", "chapters": 21},
+    {"name": "acts", "chapters": 28},
+    {"name": "rom", "chapters": 16},
+    {"name": "1-cor", "chapters": 16},
+    {"name": "2-cor", "chapters": 13},
+    {"name": "gal", "chapters": 6},
+    {"name": "eph", "chapters": 6},
+    {"name": "phil", "chapters": 4},
+    {"name": "col", "chapters": 4},
+    {"name": "1-thes", "chapters": 5},
+    {"name": "2-thes", "chapters": 3},
+    {"name": "1-tim", "chapters": 6},
+    {"name": "2-tim", "chapters": 4},
+    {"name": "titus", "chapters": 3},
+    {"name": "philem", "chapters": 1},
+    {"name": "heb", "chapters": 13},
+    {"name": "james", "chapters": 5},
+    {"name": "1-pet", "chapters": 5},
+    {"name": "2-pet", "chapters": 3},
+    {"name": "1-john", "chapters": 5},
+    {"name": "2-john", "chapters": 1},
+    {"name": "3-john", "chapters": 1},
+    {"name": "jude", "chapters": 1},
+    {"name": "rev", "chapters": 22}
+];
+
+module.exports = newTestamentBooks;
