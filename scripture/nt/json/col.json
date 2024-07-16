@@ -1,0 +1,1023 @@
+{
+  "book": {
+    "fr": "COLOSSIENS",
+    "en": "THE EPISTLE OF PAUL THE APOSTLE",
+    "zh": "歌羅西書",
+    "jp": "コロサイ人びとへの手紙てがみ",
+    "kr": "골로새서"
+  },
+  "theme": {
+    "fr": "Chapitre 1",
+    "en": "COLOSSIANS",
+    "zh": "第1章",
+    "jp": "第1章",
+    "kr": "제 1 장"
+  },
+  "introduction": {
+    "fr": "",
+    "en": "",
+    "zh": "",
+    "jp": "",
+    "kr": ""
+  },
+  "chapters": [
+    {
+      "number": 1,
+      "introduction": {
+        "fr": "Redemption comes through Christ—He created all things, is in the image of God, and is the Firstborn of the Father.",
+        "en": "Redemption comes through Christ—He created all things, is in the image of God, and is the Firstborn of the Father.",
+        "zh": "Redemption comes through Christ—He created all things, is in the image of God, and is the Firstborn of the Father.",
+        "jp": "Redemption comes through Christ—He created all things, is in the image of God, and is the Firstborn of the Father.",
+        "kr": "Redemption comes through Christ—He created all things, is in the image of God, and is the Firstborn of the Father."
+      },
+      "verses": [
+        {
+          "key": "1",
+          "text": {
+            "fr": "Paul, apôtre de Jésus Christ par la volonté de Dieu, et le frère Timothée,",
+            "en": "Paul, an apostle of Jesus Christ by the will of God, and Timotheus our brother,",
+            "zh": "奉　神旨意、作基督耶穌使徒的保羅、和兄弟提摩太、",
+            "jp": "神かみの御旨みむねによるキリスト・イエスの使徒しとパウロと兄弟きょうだいテモテから、",
+            "kr": "하나님의 뜻으로 말미암아 그리스도 예수의 사도 된 바울과 형제 디모데는"
+          }
+        },
+        {
+          "key": "2",
+          "text": {
+            "fr": "aux saints et fidèles frères en Christ qui sont à Colosses ; que la grâce et la paix vous soient données de la part de Dieu notre Père !",
+            "en": "To the saints and faithful brethren in Christ which are at Colosse: Grace be unto you, and peace, from God our Father and the Lord Jesus Christ.",
+            "zh": "寫信給歌羅西的聖徒、在基督裡有忠心的弟兄．願恩惠平安、從　神我們的父、歸與你們。",
+            "jp": "コロサイにいる、キリストにある聖徒せいとたち、忠実ちゅうじつな兄弟きょうだいたちへ。わたしたちの父ちちなる神かみから、恵めぐみと平安へいあんとが、あなたがたにあるように。",
+            "kr": "골로새에 있는 성도들 곧 그리스도 안에서 신실한 형제들에게 편지하노니 우리 아버지 하나님으로부터 은혜와 평강이 너희에게 있을지어다"
+          }
+        },
+        {
+          "key": "3",
+          "text": {
+            "fr": "Nous rendons grâces à Dieu, le Père de notre Seigneur Jésus Christ, et nous ne cessons de prier pour vous,",
+            "en": "We give thanks to God and the Father of our Lord Jesus Christ, praying always for you,",
+            "zh": "我們感謝　神我們主耶穌基督的父、常常為你們禱告．",
+            "jp": "わたしたちは、いつもあなたがたのために祈いのり、わたしたちの主しゅイエス・キリストの父ちちなる神かみに感謝かんしゃしている。",
+            "kr": "우리가 너희를 위하여 기도할 때마다 하나님 곧 우리 주 예수 그리스도의 아버지께 감사하노라"
+          }
+        },
+        {
+          "key": "4",
+          "text": {
+            "fr": "ayant été informés de votre foi en Jésus Christ et de votre charité pour tous les saints,",
+            "en": "Since we heard of your faith in Christ Jesus, and of the love which ye have to all the saints,",
+            "zh": "因聽見你們在基督耶穌裡的信心、並向眾聖徒的愛心．",
+            "jp": "これは、キリスト・イエスに対たいするあなたがたの信仰しんこうと、すべての聖徒せいとに対たいしていだいているあなたがたの愛あいとを、耳みみにしたからである。",
+            "kr": "이는 그리스도 예수 안에 너희의 믿음과 모든 성도에 대한 사랑을 들었음이요"
+          }
+        },
+        {
+          "key": "5",
+          "text": {
+            "fr": "à cause de l’espérance qui vous est réservée dans les cieux, et que la parole de la vérité, la parole de l’Évangile vous a précédemment fait connaître.",
+            "en": "For the hope which is laid up for you in heaven, whereof ye heard before in the word of the truth of the gospel;",
+            "zh": "是為那給你們存在天上的盼望．這盼望就是你們從前在福音真理的道上所聽見的．",
+            "jp": "この愛あいは、あなたがたのために天てんにたくわえられている望のぞみに基もとづくものであり、その望のぞみについては、あなたがたはすでに、あなたがたのところまで伝つたえられた福音ふくいんの真理しんりの言葉ことばによって聞きいている。",
+            "kr": "너희를 위하여 하늘에 쌓아 둔 소망으로 말미암음이니 곧 너희가 전에 복음 진리의 말씀을 들은 것이라"
+          }
+        },
+        {
+          "key": "6",
+          "text": {
+            "fr": "Il est au milieu de vous, et dans le monde entier ; il porte des fruits, et il va grandissant, comme c’est aussi le cas parmi vous, depuis le jour où vous avez entendu et connu la grâce de Dieu conformément à la vérité,",
+            "en": "Which is come unto you, as it is in all the world; and bringeth forth fruit, as it doth also in you, since the day ye heard of it, and knew the grace of God in truth:",
+            "zh": "這福音傳到你們那裡、也傳到普天之下、並且結果增長、如同在你們中間、自從你們聽見福音、真知道　神恩惠的日子一樣．",
+            "jp": "そして、この福音ふくいんは、世界中せかいじゅういたる所ところでそうであるように、あなたがたのところでも、これを聞きいて神かみの恵めぐみを知しったとき以来いらい、実みを結むすんで成長せいちょうしているのである。",
+            "kr": "이 복음이 이미 너희에게 이르매 너희가 듣고 참으로 하나님의 은혜를 깨달은 날부터 너희 중에서와 같이 또한 온 천하에서도 열매를 맺어 자라는도다"
+          }
+        },
+        {
+          "key": "7",
+          "text": {
+            "fr": "d’après les instructions que vous avez reçues d’Épaphras, notre bien-aimé compagnon de service, qui est pour vous un fidèle ministre de Christ,",
+            "en": "As ye also learned of Epaphras our dear fellowservant, who is for you a faithful minister of Christ;",
+            "zh": "正如你們從我們所親愛、一同作僕人的以巴弗所學的．他為我們〔有古卷作你們〕作了基督忠心的執事．",
+            "jp": "あなたがたはこの福音ふくいんを、わたしたちと同おなじ僕しもべである、愛あいするエペフラスから学まなんだのであった。彼かれはあなたがたのためのキリストの忠実ちゅうじつな奉仕者ほうししゃであって、",
+            "kr": "이와 같이 우리와 함께 종 된 사랑하는 에바브라에게 너희가 배웠나니 그는 너희를 위한 그리스도의 신실한 일꾼이요"
+          }
+        },
+        {
+          "key": "8",
+          "text": {
+            "fr": "et qui nous a appris de quelle charité l’Esprit vous anime.",
+            "en": "Who also declared unto us your love in the Spirit.",
+            "zh": "也把你們因聖靈所存的愛心告訴了我們。",
+            "jp": "あなたがたが御霊みたまによっていだいている愛あいを、わたしたちに知しらせてくれたのである。",
+            "kr": "성령 안에서 너희 사랑을 우리에게 알린 자니라"
+          }
+        },
+        {
+          "key": "9",
+          "text": {
+            "fr": "C’est pour cela que nous aussi, depuis le jour où nous en avons été informés, nous ne cessons de prier Dieu pour vous, et de demander que vous soyez remplis de la connaissance de sa volonté, en toute sagesse et intelligence spirituelle,",
+            "en": "For this cause we also, since the day we heard it, do not cease to pray for you, and to desire that ye might be filled with the knowledge of his will in all wisdom and spiritual understanding;",
+            "zh": "因此、我們自從聽見的日子、也就為你們不住的禱告祈求、願你們在一切屬靈的智慧悟性上、滿心知道　神的旨意．",
+            "jp": "そういうわけで、これらの事ことを耳みみにして以来いらい、わたしたちも絶たえずあなたがたのために祈いのり求もとめているのは、あなたがたがあらゆる霊的れいてきな知恵ちえと理解力りかいりょくとをもって、神かみの御旨みむねを深ふかく知しり、",
+            "kr": "이로써 우리도 듣던 날부터 너희를 위하여 기도하기를 그치지 아니하고 구하노니 너희로 하여금 모든 신령한 지혜와 총명에 하나님의 뜻을 아는 것으로 채우게 하시고"
+          }
+        },
+        {
+          "key": "10",
+          "text": {
+            "fr": "pour marcher d’une manière digne du Seigneur et lui être entièrement agréables, portant des fruits en toutes sortes de bonnes oeuvres et croissant par la connaissance de Dieu,",
+            "en": "That ye might walk worthy of the Lord unto all pleasing, being fruitful in every good work, and increasing in the knowledge of God;",
+            "zh": "好叫你們行事為人對得起主、凡事蒙他喜悅、在一切善事上結果子、漸漸的多知道　神．",
+            "jp": "主しゅのみこころにかなった生活せいかつをして真しんに主しゅを喜よろこばせ、あらゆる良よいわざを行おこなって実みを結むすび、神かみを知しる知識ちしきをいよいよ増まし加くわえるに至いたることである。",
+            "kr": "주께 합당하게 행하여 범사에 기쁘시게 하고 모든 선한 일에 열매를 맺게 하시며 하나님을 아는 것에 자라게 하시고"
+          }
+        },
+        {
+          "key": "11",
+          "text": {
+            "fr": "fortifiés à tous égards par sa puissance glorieuse, en sorte que vous soyez toujours et avec joie persévérants et patients.",
+            "en": "Strengthened with all might, according to his glorious power, unto all patience and longsuffering with joyfulness;",
+            "zh": "照他榮耀的權能、得以在各樣的力上加力、好叫你們凡事歡歡喜喜的忍耐寬容．",
+            "jp": "更さらにまた祈いのるのは、あなたがたが、神かみの栄光えいこうの勢いきおいにしたがって賜たまわるすべての力ちからによって強つよくされ、何事なにごとも喜よろこんで耐たえかつ忍しのび、",
+            "kr": "그의 영광의 힘을 따라 모든 능력으로 능하게 하시며 기쁨으로 모든 견딤과 오래 참음에 이르게 하시고"
+          }
+        },
+        {
+          "key": "12",
+          "text": {
+            "fr": "Rendez grâces au Père, qui vous a rendus capables d’avoir part à l’héritage des saints dans la lumière,",
+            "en": "Giving thanks unto the Father, which hath made us meet to be partakers of the inheritance of the saints in light:",
+            "zh": "又感謝父、叫我們能與眾聖徒在光明中同得基業．",
+            "jp": "光ひかりのうちにある聖徒せいとたちの特権とっけんにあずかるに足たる者ものとならせて下くださった父ちちなる神かみに、感謝かんしゃすることである。",
+            "kr": "우리로 하여금 빛 가운데서 성도의 기업의 부분을 얻기에 합당하게 하신 아버지께 감사하게 하시기를 원하노라"
+          }
+        },
+        {
+          "key": "13",
+          "text": {
+            "fr": "qui nous a délivrés de la puissance des ténèbres et nous a transportés dans le royaume du Fils de son amour,",
+            "en": "Who hath delivered us from the power of darkness, and hath translated us into the kingdom of his dear Son:",
+            "zh": "他救了我們脫離黑暗的權勢、把我們遷到他愛子的國裡．",
+            "jp": "神かみは、わたしたちをやみの力ちからから救すくい出だして、その愛あいする御子みこの支配下しはいかに移うつして下くださった。",
+            "kr": "그가 우리를 흑암의 권세에서 건져내사 그의 사랑의 아들의 나라로 옮기셨으니"
+          }
+        },
+        {
+          "key": "14",
+          "text": {
+            "fr": "en qui nous avons la rédemption, la rémission des péchés.",
+            "en": "In whom we have redemption through his blood, even the forgiveness of sins:",
+            "zh": "我們在愛子裡得蒙救贖、罪過得以赦免。",
+            "jp": "わたしたちは、この御子みこによってあがない、すなわち、罪つみのゆるしを受うけているのである。",
+            "kr": "그 아들 안에서 우리가 속량 곧 죄 사함을 얻었도다"
+          }
+        },
+        {
+          "key": "15",
+          "text": {
+            "fr": "Il est l’image du Dieu invisible, le premier-né de toute la création.",
+            "en": "Who is the image of the invisible God, the firstborn of every creature:",
+            "zh": "愛子是那不能看見之　神的像、是首生的、在一切被造的以先．",
+            "jp": "御子みこは、見みえない神かみのかたちであって、すべての造つくられたものに先さきだって生うまれたかたである。",
+            "kr": "그는 보이지 아니하는 하나님의 형상이시요 모든 피조물보다 먼저 나신 이시니"
+          }
+        },
+        {
+          "key": "16",
+          "text": {
+            "fr": "Car en lui ont été créées toutes les choses qui sont dans les cieux et sur la terre, les visibles et les invisibles, trônes, dignités, dominations, autorités. Tout a été créé par lui et pour lui.",
+            "en": "For by him were all things created, that are in heaven, and that are in earth, visible and invisible, whether they be thrones, or dominions, or principalities, or powers: all things were created by him, and for him:",
+            "zh": "因為萬有都是靠他造的、無論是天上的、地上的、能看見的、不能看見的、或是有位的、主治的、執政的、掌權的、一概都是藉著他造的、又是為他造的．",
+            "jp": "万物ばんぶつは、天てんにあるものも地ちにあるものも、見みえるものも見みえないものも、位くらいも主権しゅけんも、支配しはいも権威けんいも、みな御子みこにあって造つくられたからである。これらいっさいのものは、御子みこによって造つくられ、御子みこのために造つくられたのである。",
+            "kr": "만물이 그에게서 창조되되 하늘과 땅에서 보이는 것들과 보이지 않는 것들과 혹은 왕권들이나 주권들이나 통치자들이나 권세들이나 만물이 다 그로 말미암고 그를 위하여 창조되었고"
+          }
+        },
+        {
+          "key": "17",
+          "text": {
+            "fr": "Il est avant toutes choses, et toutes choses subsistent en lui.",
+            "en": "And he is before all things, and by him all things consist.",
+            "zh": "他在萬有之先．萬有也靠他而立。",
+            "jp": "彼かれは万物ばんぶつよりも先さきにあり、万物ばんぶつは彼かれにあって成なり立たっている。",
+            "kr": "또한 그가 만물보다 먼저 계시고 만물이 그 안에 함께 섰느니라"
+          }
+        },
+        {
+          "key": "18",
+          "text": {
+            "fr": "Il est la tête du corps de l’Église ; il est le commencement, le premier-né d’entre les morts, afin d’être en tout le premier.",
+            "en": "And he is the head of the body, the church: who is the beginning, the firstborn from the dead; that in all things he might have the preeminence.",
+            "zh": "他也是教會全體之首．他是元始、是從死裡首先復生的、使他可以在凡事上居首位。",
+            "jp": "そして自みずからは、そのからだなる教会きょうかいのかしらである。彼かれは初はじめの者ものであり、死人しにんの中なかから最初さいしょに生うまれたかたである。それは、ご自身じしんがすべてのことにおいて第だい一の者ものとなるためである。",
+            "kr": "그는 몸인 교회의 머리시라 그가 근본이시요 죽은 자들 가운데서 먼저 나신 이시니 이는 친히 만물의 으뜸이 되려 하심이요"
+          }
+        },
+        {
+          "key": "19",
+          "text": {
+            "fr": "Car Dieu a voulu que toute plénitude habitât en lui ;",
+            "en": "For it pleased the Father that in him should all fulness dwell;",
+            "zh": "因為父喜歡叫一切的豐盛、在他裡面居住。",
+            "jp": "神かみは、御旨みむねによって、御子みこのうちにすべての満みちみちた徳とくを宿やどらせ、",
+            "kr": "아버지께서는 모든 충만으로 예수 안에 거하게 하시고"
+          }
+        },
+        {
+          "key": "20",
+          "text": {
+            "fr": "il a voulu par lui réconcilier tout avec lui-même, tant ce qui est sur la terre que ce qui est dans les cieux, en faisant la paix par lui, par le sang de sa croix.",
+            "en": "And, having made peace through the blood of his cross, by him to reconcile all things unto himself; by him, I say, whether they be things in earth, or things in heaven.",
+            "zh": "既然藉著他在十字架上所流的血、成就了和平、便藉著他叫萬有、無論是地上的、天上的、都與自己和好了。",
+            "jp": "そして、その十字架じゅうじかの血ちによって平和へいわをつくり、万物ばんぶつ、すなわち、地ちにあるもの、天てんにあるものを、ことごとく、彼かれによってご自分じぶんと和解わかいさせて下くださったのである。",
+            "kr": "그의 십자가의 피로 화평을 이루사 만물 곧 땅에 있는 것들이나 하늘에 있는 것들이 그로 말미암아 자기와 화목하게 되기를 기뻐하심이라"
+          }
+        },
+        {
+          "key": "21",
+          "text": {
+            "fr": "Et vous, qui étiez autrefois étrangers et ennemis par vos pensées et par vos mauvaises oeuvres, il vous a maintenant réconciliés par sa mort dans le corps de sa chair,",
+            "en": "And you, that were sometime alienated and enemies in your mind by wicked works, yet now hath he reconciled",
+            "zh": "你們從前與　神隔絕、因著惡行、心裡與他為敵．",
+            "jp": "あなたがたも、かつては悪わるい行おこないをして神かみから離はなれ、心こころの中なかで神かみに敵対てきたいしていた。",
+            "kr": "전에 악한 행실로 멀리 떠나 마음으로 원수가 되었던 너희를"
+          }
+        },
+        {
+          "key": "22",
+          "text": {
+            "fr": "pour vous faire paraître devant lui saints, irrépréhensibles et sans reproche,",
+            "en": "In the body of his flesh through death, to present you holy and unblameable and unreproveable in his sight:",
+            "zh": "但如今他藉著基督的肉身受死、叫你們與自己和好、都成了聖潔、沒有瑕疵、無可責備、把你們引到自己面前。",
+            "jp": "しかし今いまでは、御子みこはその肉にくのからだにより、その死しをとおして、あなたがたを神かみと和解わかいさせ、あなたがたを聖せいなる、傷きずのない、責せめられるところのない者ものとして、みまえに立たたせて下くださったのである。",
+            "kr": "이제는 그의 육체의 죽음으로 말미암아 화목하게 하사 너희를 거룩하고 흠 없고 책망할 것이 없는 자로 그 앞에 세우고자 하셨으니"
+          }
+        },
+        {
+          "key": "23",
+          "text": {
+            "fr": "si du moins vous demeurez fondés et inébranlables dans la foi, sans vous détourner de l’espérance de l’Évangile que vous avez entendu, qui a été prêché à toute créature sous le ciel, et dont moi Paul, j’ai été fait ministre.",
+            "en": "If ye continue in the faith grounded and settled, and be not moved away from the hope of the gospel, which ye have heard, and which was preached to every creature which is under heaven; whereof I Paul am made a minister;",
+            "zh": "只要你們在所信的道上恆心、根基穩固、堅定不移、不至被引動失去〔原文作離開〕福音的盼望．這福音就是你們所聽過的、也是傳與普天下萬人聽的．〔萬人原文作凡受造的〕我保羅也作了這福音的執事。",
+            "jp": "ただし、あなたがたは、ゆるぐことがなく、しっかりと信仰しんこうにふみとどまり、すでに聞きいている福音ふくいんの望のぞみから移うつり行いくことのないようにすべきである。この福音ふくいんは、天てんの下したにあるすべての造つくられたものに対たいして宣のべ伝つたえられたものであって、それにこのパウロが奉仕ほうししているのである。",
+            "kr": "만일 너희가 믿음에 거하고 터 위에 굳게 서서 너희 들은 바 복음의 소망에서 흔들리지 아니하면 그리하리라 이 복음은 천하 만민에게 전파된 바요 나 바울은 이 복음의 일꾼이 되었노라"
+          }
+        },
+        {
+          "key": "24",
+          "text": {
+            "fr": "Je me réjouis maintenant dans mes souffrances pour vous ; et ce qui manque aux souffrances de Christ, je l’achève en ma chair, pour son corps, qui est l’Église.",
+            "en": "Who now rejoice in my sufferings for you, and fill up that which is behind of the afflictions of Christ in my flesh for his body’s sake, which is the church:",
+            "zh": "現在我為你們受苦、倒覺歡樂、並且為基督的身體、就是為教會、要在我肉身上補滿基督患難的缺欠。",
+            "jp": "今いまわたしは、あなたがたのための苦難くなんを喜よろこんで受うけており、キリストのからだなる教会きょうかいのために、キリストの苦くるしみのなお足たりないところを、わたしの肉体にくたいをもって補おぎなっている。",
+            "kr": "나는 이제 너희를 위하여 받는 괴로움을 기뻐하고 그리스도의 남은 고난을 그의 몸된 교회를 위하여 내 육체에 채우노라"
+          }
+        },
+        {
+          "key": "25",
+          "text": {
+            "fr": "C’est d’elle que j’ai été fait ministre, selon la charge que Dieu m’a donnée auprès de vous, afin que j’annonçasse pleinement la parole de Dieu,",
+            "en": "Whereof I am made a minister, according to the dispensation of God which is given to me for you, to fulfil the word of God;",
+            "zh": "我照　神為你們所賜我的職分、作了教會的執事、要把　神的道理傳得全備．",
+            "jp": "わたしは、神かみの言ことばを告つげひろめる務つとめを、あなたがたのために神かみから与あたえられているが、そのために教会きょうかいに奉仕ほうしする者ものになっているのである。",
+            "kr": "내가 교회의 일꾼 된 것은 하나님이 너희를 위하여 내게 주신 직분을 따라 하나님의 말씀을 이루려 함이니라"
+          }
+        },
+        {
+          "key": "26",
+          "text": {
+            "fr": "le mystère caché de tout temps et dans tous les âges, mais révélé maintenant à ses saints,",
+            "en": "Even the mystery which hath been hid from ages and from generations, but now is made manifest to his saints:",
+            "zh": "這道理就是歷世歷代所隱藏的奧秘、但如今向他的聖徒顯明了．",
+            "jp": "その言ことばの奥義おくぎは、代々よよにわたってこの世よから隠かくされていたが、今いまや神かみの聖徒せいとたちに明あきらかにされたのである。",
+            "kr": "이 비밀은 만세와 만대로부터 감추어졌던 것인데 이제는 그의 성도들에게 나타났고"
+          }
+        },
+        {
+          "key": "27",
+          "text": {
+            "fr": "à qui Dieu a voulu faire connaître quelle est la glorieuse richesse de ce mystère parmi les païens, savoir : Christ en vous, l’espérance de la gloire.",
+            "en": "To whom God would make known what is the riches of the glory of this mystery among the Gentiles; which is Christ in you, the hope of glory:",
+            "zh": "神願意叫他們知道、這奧秘在外邦人中有何等豐盛的榮耀．就是基督在你們心裡成了有榮耀的盼望．",
+            "jp": "神かみは彼かれらに、異邦人いほうじんの受うくべきこの奥義おくぎが、いかに栄光えいこうに富とんだものであるかを、知しらせようとされたのである。この奥義おくぎは、あなたがたのうちにいますキリストであり、栄光えいこうの望のぞみである。",
+            "kr": "하나님이 그들로 하여금 이 비밀의 영광이 이방인 가운데 얼마나 풍성한지를 알게 하려 하심이라 이 비밀은 너희 안에 계신 그리스도시니 곧 영광의 소망이니라"
+          }
+        },
+        {
+          "key": "28",
+          "text": {
+            "fr": "C’est lui que nous annonçons, exhortant tout homme, et instruisant tout homme en toute sagesse, afin de présenter à Dieu tout homme, devenu parfait en Christ.",
+            "en": "Whom we preach, warning every man, and teaching every man in all wisdom; that we may present every man perfect in Christ Jesus:",
+            "zh": "我們傳揚他、是用諸般的智慧、勸戒各人、教導各人．要把各人在基督裡完完全全的引到　神面前．",
+            "jp": "わたしたちはこのキリストを宣のべ伝つたえ、知恵ちえをつくしてすべての人ひとを訓戒くんかいし、また、すべての人ひとを教おしえている。それは、彼かれらがキリストにあって全まったき者ものとして立たつようになるためである。",
+            "kr": "우리가 그를 전파하여 각 사람을 권하고 모든 지혜로 각 사람을 가르침은 각 사람을 그리스도 안에서 완전한 자로 세우려 함이니"
+          }
+        },
+        {
+          "key": "29",
+          "text": {
+            "fr": "C’est à quoi je travaille, en combattant avec sa force, qui agit puissamment en moi.",
+            "en": "Whereunto I also labour, striving according to his working, which worketh in me mightily.",
+            "zh": "我也為此勞苦、照著他在我裡面運用的大能、盡心竭力。",
+            "jp": "わたしはこのために、わたしのうちに力強ちからづよく働はたらいておられるかたの力ちからにより、苦闘くとうしながら努力どりょくしているのである。",
+            "kr": "이를 위하여 나도 내 속에서 능력으로 역사하시는 이의 역사를 따라 힘을 다하여 수고하노라"
+          }
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "introduction": {
+        "fr": "The fulness of the Godhead dwells in Christ—Beware of being deceived by the traditions of men—The handwriting against us was nailed to the cross of Christ.",
+        "en": "The fulness of the Godhead dwells in Christ—Beware of being deceived by the traditions of men—The handwriting against us was nailed to the cross of Christ.",
+        "zh": "The fulness of the Godhead dwells in Christ—Beware of being deceived by the traditions of men—The handwriting against us was nailed to the cross of Christ.",
+        "jp": "The fulness of the Godhead dwells in Christ—Beware of being deceived by the traditions of men—The handwriting against us was nailed to the cross of Christ.",
+        "kr": "The fulness of the Godhead dwells in Christ—Beware of being deceived by the traditions of men—The handwriting against us was nailed to the cross of Christ."
+      },
+      "verses": [
+        {
+          "key": "1",
+          "text": {
+            "fr": "Je veux, en effet, que vous sachiez combien est grand le combat que je soutiens pour vous, et pour ceux qui sont à Laodicée, et pour tous ceux qui n’ont pas vu mon visage en la chair,",
+            "en": "For I would that ye knew what great conflict I have for you, and for them at Laodicea, and for as many as have not seen my face in the flesh;",
+            "zh": "我願意你們曉得我為你們和老底嘉人、並一切沒有與我親自見面的人、是何等的盡心竭力．",
+            "jp": "わたしが、あなたがたとラオデキヤにいる人ひとたちのため、また、直接ちょくせつにはまだ会あったことのない人々ひとびとのために、どんなに苦闘くとうしているか、わかってもらいたい。",
+            "kr": "내가 너희와 라오디게아에 있는 자들과 무릇 내 육신의 얼굴을 보지 못한 자들을 위하여 얼마나 힘쓰는지를 너희가 알기를 원하노니"
+          }
+        },
+        {
+          "key": "2",
+          "text": {
+            "fr": "afin qu’ils aient le coeur rempli de consolation, qu’ils soient unis dans la charité, et enrichis d’une pleine intelligence pour connaître le mystère de Dieu, savoir Christ,",
+            "en": "That their hearts might be comforted, being knit together in love, and unto all riches of the full assurance of understanding, to the acknowledgement of the mystery of God, and of the Father, and of Christ;",
+            "zh": "要叫他們的心得安慰、因愛心互相聯絡、以致豐豐足足在悟性中有充足的信心、使他們真知　神的奧秘、就是基督．",
+            "jp": "それは彼かれらが、心こころを励はげまされ、愛あいによって結むすび合あわされ、豊ゆたかな理解力りかいりょくを十分じゅうぶんに与あたえられ、神かみの奥義おくぎなるキリストを知しるに至いたるためである。",
+            "kr": "이는 그들로 마음에 위안을 받고 사랑 안에서 연합하여 확실한 이해의 모든 풍성함과 하나님의 비밀인 그리스도를 깨닫게 하려 함이니"
+          }
+        },
+        {
+          "key": "3",
+          "text": {
+            "fr": "mystère dans lequel sont cachés tous les trésors de la sagesse et de la science.",
+            "en": "In whom are hid all the treasures of wisdom and knowledge.",
+            "zh": "所積蓄的一切智慧知識、都在他裡面藏著。",
+            "jp": "キリストのうちには、知恵ちえと知識ちしきとの宝たからが、いっさい隠かくされている。",
+            "kr": "그 안에는 지혜와 지식의 모든 보화가 감추어져 있느니라"
+          }
+        },
+        {
+          "key": "4",
+          "text": {
+            "fr": "Je dis cela afin que personne ne vous trompe par des discours séduisants.",
+            "en": "And this I say, lest any man should beguile you with enticing words.",
+            "zh": "我說這話、免得有人用花言巧語迷惑你們。",
+            "jp": "わたしがこう言いうのは、あなたがたが、だれにも巧たくみな言葉ことばで迷まよわされることのないためである。",
+            "kr": "내가 이것을 말함은 아무도 교묘한 말로 너희를 속이지 못하게 하려 함이니"
+          }
+        },
+        {
+          "key": "5",
+          "text": {
+            "fr": "Car, si je suis absent de corps, je suis avec vous en esprit, voyant avec joie le bon ordre qui règne parmi vous, et la fermeté de votre foi en Christ.",
+            "en": "For though I be absent in the flesh, yet am I with you in the spirit, joying and beholding your order, and the steadfastness of your faith in Christ.",
+            "zh": "我身子雖與你們相離、心卻與你們同在、見你們循規蹈矩、信基督的心也堅固、我就歡喜了。",
+            "jp": "たとい、わたしは肉体にくたいにおいては離はなれていても、霊れいにおいてはあなたがたと一緒いっしょにいて、あなたがたの秩序ちつじょ正ただしい様子ようすとキリストに対たいするあなたがたの強固きょうこな信仰しんこうとを見みて、喜よろこんでいる。",
+            "kr": "이는 내가 육신으로는 떠나 있으나 심령으로는 너희와 함께 있어 너희가 질서 있게 행함과 그리스도를 믿는 너희 믿음이 굳건한 것을 기쁘게 봄이라"
+          }
+        },
+        {
+          "key": "6",
+          "text": {
+            "fr": "Ainsi donc, comme vous avez reçu le Seigneur Jésus Christ, marchez en lui,",
+            "en": "As ye have therefore received Christ Jesus the Lord, so walk ye in him:",
+            "zh": "你們既然接受了主基督耶穌、就當遵他而行．",
+            "jp": "このように、あなたがたは主しゅキリスト・イエスを受うけいれたのだから、彼かれにあって歩あるきなさい。",
+            "kr": "그러므로 너희가 그리스도 예수를 주로 받았으니 그 안에서 행하되"
+          }
+        },
+        {
+          "key": "7",
+          "text": {
+            "fr": "étant enracinés et fondés en lui, et affermis par la foi, d’après les instructions qui vous ont été données, et abondez en actions de grâces.",
+            "en": "Rooted and built up in him, and stablished in the faith, as ye have been taught, abounding therein with thanksgiving.",
+            "zh": "在他裡面生根建造、信心堅固、正如你們所領的教訓、感謝的心也更增長了。",
+            "jp": "また、彼かれに根ねざし、彼かれにあって建たてられ、そして教おしえられたように、信仰しんこうが確立かくりつされて、あふれるばかり感謝かんしゃしなさい。",
+            "kr": "그 안에 뿌리를 박으며 세움을 받아 교훈을 받은 대로 믿음에 굳게 서서 감사함을 넘치게 하라"
+          }
+        },
+        {
+          "key": "8",
+          "text": {
+            "fr": "Prenez garde que personne ne fasse de vous sa proie par la philosophie et par une vaine tromperie, s’appuyant sur la tradition des hommes, sur les rudiments du monde, et non sur Christ.",
+            "en": "Beware lest any man spoil you through philosophy and vain deceit, after the tradition of men, after the rudiments of the world, and not after Christ.",
+            "zh": "你們要謹慎、恐怕有人用他的理學、和虛空的妄言、不照著基督、乃照人間的遺傳、和世上的小學、就把你們擄去．",
+            "jp": "あなたがたは、むなしいだましごとの哲学てつがくで、人ひとのとりこにされないように、気きをつけなさい。それはキリストに従したがわず、世よのもろもろの霊力れいりょくに従したがう人間にんげんの言伝いいつたえに基もとづくものにすぎない。",
+            "kr": "누가 철학과 헛된 속임수로 너희를 사로잡을까 주의하라 이것은 사람의 전통과 세상의 초등학문을 따름이요 그리스도를 따름이 아니니라"
+          }
+        },
+        {
+          "key": "9",
+          "text": {
+            "fr": "Car en lui habite corporellement toute la plénitude de la divinité.",
+            "en": "For in him dwelleth all the fulness of the Godhead bodily.",
+            "zh": "因為　神本性一切的豐盛、都有形有體的居住在基督裡面．",
+            "jp": "キリストにこそ、満みちみちているいっさいの神かみの徳とくが、かたちをとって宿やどっており、",
+            "kr": "그 안에는 신성의 모든 충만이 육체로 거하시고"
+          }
+        },
+        {
+          "key": "10",
+          "text": {
+            "fr": "Vous avez tout pleinement en lui, qui est le chef de toute domination et de toute autorité.",
+            "en": "And ye are complete in him, which is the head of all principality and power:",
+            "zh": "你們在他裡面也得了豐盛。他是各樣執政掌權者的元首．",
+            "jp": "そしてあなたがたは、キリストにあって、それに満みたされているのである。彼かれはすべての支配しはいと権威けんいとのかしらであり、",
+            "kr": "너희도 그 안에서 충만하여졌으니 그는 모든 통치자와 권세의 머리시라"
+          }
+        },
+        {
+          "key": "11",
+          "text": {
+            "fr": "Et c’est en lui que vous avez été circoncis d’une circoncision que la main n’a pas faite, mais de la circoncision de Christ, qui consiste dans le dépouillement du corps de la chair :",
+            "en": "In whom also ye are circumcised with the circumcision made without hands, in putting off the body of the sins of the flesh by the circumcision of Christ:",
+            "zh": "你們在他裡面、也受了不是人手所行的割禮、乃是基督使你們脫去肉體情慾的割禮．",
+            "jp": "あなたがたはまた、彼かれにあって、手てによらない割礼かつれい、すなわち、キリストの割礼かつれいを受うけて、肉にくのからだを脱ぬぎ捨すてたのである。",
+            "kr": "또 그 안에서 너희가 손으로 하지 아니한 할례를 받았으니 곧 육의 몸을 벗는 것이요 그리스도의 할례니라"
+          }
+        },
+        {
+          "key": "12",
+          "text": {
+            "fr": "ayant été ensevelis avec lui par le baptême, vous êtes aussi ressuscités en lui et avec lui, par la foi en la puissance de Dieu, qui l’a ressuscité des morts.",
+            "en": "Buried with him in baptism, wherein also ye are risen with him through the faith of the operation of God, who hath raised him from the dead.",
+            "zh": "你們既受洗與他一同埋葬、也就在此與他一同復活．都因信那叫他從死裡復活　神的功用。",
+            "jp": "あなたがたはバプテスマを受うけて彼かれと共ともに葬ほうむられ、同時どうじに、彼かれを死人しにんの中なかからよみがえらせた神かみの力ちからを信しんじる信仰しんこうによって、彼かれと共ともによみがえらされたのである。",
+            "kr": "너희가 침례로 그리스도와 함께 장사되고 또 죽은 자들 가운데서 그를 일으키신 하나님의 역사를 믿음으로 말미암아 그 안에서 함께 일으키심을 받았느니라"
+          }
+        },
+        {
+          "key": "13",
+          "text": {
+            "fr": "Vous qui étiez morts par vos offenses et par l’incirconcision de votre chair, il vous a rendus à la vie avec lui, en nous faisant grâce pour toutes nos offenses ;",
+            "en": "And you, being dead in your sins and the uncircumcision of your flesh, hath he quickened together with him, having forgiven you all trespasses;",
+            "zh": "你們從前在過犯、和未受割禮的肉體中死了、　神赦免了你們〔或作我們〕一切過犯、便叫你們與基督一同活過來．",
+            "jp": "あなたがたは、先さきには罪つみの中なかにあり、かつ肉にくの割礼かつれいがないままで死しんでいた者ものであるが、神かみは、あなたがたをキリストと共ともに生いかし、わたしたちのいっさいの罪つみをゆるして下くださった。",
+            "kr": "또 범죄와 육체의 무할례로 죽었던 너희를 하나님이 그와 함께 살리시고 우리의 모든 죄를 사하시고"
+          }
+        },
+        {
+          "key": "14",
+          "text": {
+            "fr": "il a effacé l’acte dont les ordonnances nous condamnaient et qui subsistait contre nous, et il l’a détruit en le clouant à la croix ;",
+            "en": "Blotting out the handwriting of ordinances that was against us, which was contrary to us, and took it out of the way, nailing it to his cross;",
+            "zh": "又塗抹了在律例上所寫、攻擊我們有礙於我們的字據、把他撤去、釘在十字架上．",
+            "jp": "神かみは、わたしたちを責せめて不利ふりにおとしいれる証書しょうしょを、その規定きていもろともぬり消けし、これを取とり除のぞいて、十字架じゅうじかにつけてしまわれた。",
+            "kr": "우리를 거스르고 불리하게 하는 법조문으로 쓴 증서를 지우시고 제하여 버리사 십자가에 못 박으시고"
+          }
+        },
+        {
+          "key": "15",
+          "text": {
+            "fr": "il a dépouillé les dominations et les autorités, et les a livrées publiquement en spectacle, en triomphant d’elles par la croix.",
+            "en": "And having spoiled principalities and powers, he made a shew of them openly, triumphing over them in it.",
+            "zh": "既將一切執政的掌權的擄來、明顯給眾人看、就仗著十字架誇勝。",
+            "jp": "そして、もろもろの支配しはいと権威けんいとの武装ぶそうを解除かいじょし、キリストにあって凱旋がいせんし、彼かれらをその行列ぎょうれつに加くわえて、さらしものとされたのである。",
+            "kr": "통치자들과 권세들을 무력화하여 드러내어 구경거리로 삼으시고 십자가로 그들을 이기셨느니라"
+          }
+        },
+        {
+          "key": "16",
+          "text": {
+            "fr": "Que personne donc ne vous juge au sujet du manger ou du boire, ou au sujet d’une fête, d’une nouvelle lune, ou des sabbats :",
+            "en": "Let no man therefore judge you in meat, or in drink, or in respect of an holyday, or of the new moon, or of the sabbath days:",
+            "zh": "所以不拘在飲食上、或節期、月朔、安息日、都不可讓人論斷你們．",
+            "jp": "だから、あなたがたは、食物しょくもつと飲のみ物ものとにつき、あるいは祭まつりや新月しんげつや安息日あんそくにちなどについて、だれにも批評ひひょうされてはならない。",
+            "kr": "그러므로 먹고 마시는 것과 절기나 초하루나 안식일을 이유로 누구든지 너희를 비판하지 못하게 하라"
+          }
+        },
+        {
+          "key": "17",
+          "text": {
+            "fr": "c’était l’ombre des choses à venir, mais le corps est en Christ.",
+            "en": "Which are a shadow of things to come; but the body is of Christ.",
+            "zh": "這些原是後事的影兒．那形體卻是基督。",
+            "jp": "これらは、きたるべきものの影かげであって、その本体ほんたいはキリストにある。",
+            "kr": "이것들은 장래 일의 그림자이나 몸은 그리스도의 것이니라"
+          }
+        },
+        {
+          "key": "18",
+          "text": {
+            "fr": "Qu’aucun homme, sous une apparence d’humilité et par un culte des anges, ne vous ravisse à son gré le prix de la course, tandis qu’il s’abandonne à ses visions et qu’il est enflé d’un vain orgueil par ses pensées charnelles,",
+            "en": "Let no man beguile you of your reward in a voluntary humility and worshipping of angels, intruding into those things which he hath not seen, vainly puffed up by his fleshly mind,",
+            "zh": "不可讓人因著故意謙虛、和敬拜天使、就奪去你們的獎賞．這等人拘泥在所見過的、〔有古卷作這等人窺察所沒有見過的〕隨著自己的慾心、無故的自高自大、",
+            "jp": "あなたがたは、わざとらしい謙けんそんと天使てんし礼拝れいはいとにおぼれている人々ひとびとから、いろいろと悪評あくひょうされてはならない。彼かれらは幻まぼろしを見みたことを重おもんじ、肉にくの思おもいによっていたずらに誇ほこるだけで、",
+            "kr": "아무도 꾸며낸 겸손과 천사 숭배를 이유로 너희를 정죄하지 못하게 하라 그가 그 본 것에 의지하여 그 육신의 생각을 따라 헛되이 과장하고"
+          }
+        },
+        {
+          "key": "19",
+          "text": {
+            "fr": "sans s’attacher au chef, dont tout le corps, assisté et solidement assemblé par des jointures et des liens, tire l’accroissement que Dieu donne.",
+            "en": "And not holding the Head, from which all the body by joints and bands having nourishment ministered, and knit together, increaseth with the increase of God.",
+            "zh": "不持定元首、全身既然靠著他筋節得以相助聯絡、就因　神大得長進。",
+            "jp": "キリストなるかしらに、しっかりと着つくことをしない。このかしらから出でて、からだ全体ぜんたいは、節ふしと節ふし、筋すじと筋すじとによって強つよめられ結むすび合あわされ、神かみに育そだてられて成長せいちょうしていくのである。",
+            "kr": "머리를 붙들지 아니하는지라 온 몸이 머리로 말미암아 마디와 힘줄로 공급함을 받고 연합하여 하나님이 자라게 하시므로 자라느니라"
+          }
+        },
+        {
+          "key": "20",
+          "text": {
+            "fr": "Si vous êtes morts avec Christ aux rudiments du monde, pourquoi, comme si vous viviez dans le monde, vous impose-t-on ces préceptes :",
+            "en": "Wherefore if ye be dead with Christ from the rudiments of the world, why, as though living in the world, are ye subject to ordinances,",
+            "zh": "你們若是與基督同死、脫離了世上的小學、為甚麼仍像在世俗中活著、服從那不可拿、不可嘗、不可摸、等類的規條呢。",
+            "jp": "もしあなたがたが、キリストと共ともに死しんで世よのもろもろの霊力れいりょくから離はなれたのなら、なぜ、なおこの世よに生いきているもののように、",
+            "kr": "너희가 세상의 초등학문에서 그리스도와 함께 죽었거든 어찌하여 세상에 사는 것과 같이 규례에 순종하느냐"
+          }
+        },
+        {
+          "key": "21",
+          "text": {
+            "fr": "Ne prends pas ! ne goûte pas ! ne touche pas !",
+            "en": "(Touch not; taste not; handle not;",
+            "zh": "見上節",
+            "jp": "「さわるな、味あじわうな、触ふれるな」などという規定きていに縛しばられているのか。",
+            "kr": "(곧 붙잡지도 말고 맛보지도 말고 만지지도 말라 하는 것이니"
+          }
+        },
+        {
+          "key": "22",
+          "text": {
+            "fr": "préceptes qui tous deviennent pernicieux par l’abus, et qui ne sont fondés que sur les ordonnances et les doctrines des hommes ?",
+            "en": "Which all are to perish with the using;) after the commandments and doctrines of men?",
+            "zh": "這都是照人所吩咐所教導的。說到這一切、正用的時候就都敗壞了。",
+            "jp": "これらは皆みな、使つかえば尽つきてしまうもの、人間にんげんの規定きていや教おしえによっているものである。",
+            "kr": "이 모든 것은 한때 쓰이고는 없어지리라) 사람의 명령과 가르침을 따르느냐"
+          }
+        },
+        {
+          "key": "23",
+          "text": {
+            "fr": "Ils ont, à la vérité, une apparence de sagesse, en ce qu’ils indiquent un culte volontaire, de l’humilité, et le mépris du corps, mais ils sont sans aucun mérite et contribuent à la satisfaction de la chair.",
+            "en": "Which things have indeed a shew of wisdom in will worship, and humility, and neglecting of the body; not in any honour to the satisfying of the flesh.",
+            "zh": "這些規條、使人徒有智慧之名、用私意崇拜、自表謙卑、苦待己身、其實在克制肉體的情慾上、是毫無功效。",
+            "jp": "これらのことは、ひとりよがりの礼拝れいはいとわざとらしい謙けんそんと、からだの苦行くぎょうとをともなうので、知恵ちえのあるしわざらしく見みえるが、実じつは、ほしいままな肉欲にくよくを防ふせぐのに、なんの役やくにも立たつものではない。",
+            "kr": "이런 것들은 자의적 숭배와 겸손과 몸을 괴롭게 하는 데는 지혜 있는 모양이나 오직 육체 따르는 것을 금하는 데는 조금도 유익이 없느니라"
+          }
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "introduction": {
+        "fr": "Some lives are hidden with God in Christ—The Saints are told to be holy and to serve the Lord Jesus Christ.",
+        "en": "Some lives are hidden with God in Christ—The Saints are told to be holy and to serve the Lord Jesus Christ.",
+        "zh": "Some lives are hidden with God in Christ—The Saints are told to be holy and to serve the Lord Jesus Christ.",
+        "jp": "Some lives are hidden with God in Christ—The Saints are told to be holy and to serve the Lord Jesus Christ.",
+        "kr": "Some lives are hidden with God in Christ—The Saints are told to be holy and to serve the Lord Jesus Christ."
+      },
+      "verses": [
+        {
+          "key": "1",
+          "text": {
+            "fr": "Si donc vous êtes ressuscités avec Christ, cherchez les choses d’en haut, où Christ est assis à la droite de Dieu.",
+            "en": "If ye then be risen with Christ, seek those things which are above, where Christ sitteth on the right hand of God.",
+            "zh": "所以你們若真與基督一同復活、就當求在上面的事．那裡有基督坐在　神的右邊。",
+            "jp": "このように、あなたがたはキリストと共ともによみがえらされたのだから、上うえにあるものを求もとめなさい。そこではキリストが神かみの右みぎに座ざしておられるのである。",
+            "kr": "그러므로 너희가 그리스도와 함께 다시 살리심을 받았으면 위의 것을 찾으라 거기는 그리스도께서 하나님 우편에 앉아 계시느니라"
+          }
+        },
+        {
+          "key": "2",
+          "text": {
+            "fr": "Affectionnez-vous aux choses d’en haut, et non à celles qui sont sur la terre.",
+            "en": "Set your affection on things above, not on things on the earth.",
+            "zh": "你們要思念上面的事、不要思念地上的事。",
+            "jp": "あなたがたは上うえにあるものを思おもうべきであって、地上ちじょうのものに心こころを引ひかれてはならない。",
+            "kr": "위의 것을 생각하고 땅의 것을 생각하지 말라"
+          }
+        },
+        {
+          "key": "3",
+          "text": {
+            "fr": "Car vous êtes morts, et votre vie est cachée avec Christ en Dieu.",
+            "en": "For ye are dead, and your life is hid with Christ in God.",
+            "zh": "因為你們已經死了、你們的生命與基督一同藏在　神裡面。",
+            "jp": "あなたがたはすでに死しんだものであって、あなたがたのいのちは、キリストと共ともに神かみのうちに隠かくされているのである。",
+            "kr": "이는 너희가 죽었고 너희 생명이 그리스도와 함께 하나님 안에 감추어졌음이라"
+          }
+        },
+        {
+          "key": "4",
+          "text": {
+            "fr": "Quand Christ, votre vie, paraîtra, alors vous paraîtrez aussi avec lui dans la gloire.",
+            "en": "When Christ, who is our life, shall appear, then shall ye also appear with him in glory.",
+            "zh": "基督是我們的生命、他顯現的時候、你們也要與他一同顯現在榮耀裡。",
+            "jp": "わたしたちのいのちなるキリストが現あらわれる時ときには、あなたがたも、キリストと共ともに栄光えいこうのうちに現あらわれるであろう。",
+            "kr": "우리 생명이신 그리스도께서 나타나실 그 때에 너희도 그와 함께 영광 중에 나타나리라"
+          }
+        },
+        {
+          "key": "5",
+          "text": {
+            "fr": "Faites donc mourir les membres qui sont sur la terre, l’impudicité, l’impureté, les passions, les mauvais désirs, et la cupidité, qui est une idolâtrie.",
+            "en": "Mortify therefore your members which are upon the earth; fornication, uncleanness, inordinate affection, evil concupiscence, and covetousness, which is idolatry:",
+            "zh": "所以要治死你們在地上的肢體．就如淫亂、污穢、邪情、惡慾、和貪婪、貪婪就與拜偶像一樣。",
+            "jp": "だから、地上ちじょうの肢体したい、すなわち、不品行ふひんこう、汚けがれ、情欲じょうよく、悪あく欲よく、また貪欲どんよくを殺ころしてしまいなさい。貪欲どんよくは偶像ぐうぞう礼拝れいはいにほかならない。",
+            "kr": "그러므로 땅에 있는 지체를 죽이라 곧 음란과 부정과 사욕과 악한 정욕과 탐심이니 탐심은 우상 숭배니라"
+          }
+        },
+        {
+          "key": "6",
+          "text": {
+            "fr": "C’est à cause de ces choses que la colère de Dieu vient sur les fils de la rébellion,",
+            "en": "For which things’ sake the wrath of God cometh on the children of disobedience:",
+            "zh": "因這些事、　神的忿怒必臨到那悖逆之子。",
+            "jp": "これらのことのために、神かみの怒いかりが下くだるのである。",
+            "kr": "이것들로 말미암아 하나님의 진노가 임하느니라"
+          }
+        },
+        {
+          "key": "7",
+          "text": {
+            "fr": "parmi lesquels vous marchiez autrefois, lorsque vous viviez dans ces péchés.",
+            "en": "In the which ye also walked some time, when ye lived in them.",
+            "zh": "當你們在這些事中活著的時候、也曾這樣行過。",
+            "jp": "あなたがたも、以前いぜんこれらのうちに日ひを過すごしていた時ときには、これらのことをして歩あるいていた。",
+            "kr": "너희도 전에 그 가운데 살 때에는 그 가운데서 행하였으나"
+          }
+        },
+        {
+          "key": "8",
+          "text": {
+            "fr": "Mais maintenant, renoncez à toutes ces choses, à la colère, à l’animosité, à la méchanceté, à la calomnie, aux paroles déshonnêtes qui pourraient sortir de votre bouche.",
+            "en": "But now ye also put off all these; anger, wrath, malice, blasphemy, filthy communication out of your mouth.",
+            "zh": "但現在你們要棄絕這一切的事、以及惱恨、忿怒、惡毒、〔或作陰毒〕毀謗、並口中污穢的言語。",
+            "jp": "しかし今いまは、これらいっさいのことを捨すて、怒いかり、憤いきどおり、悪意あくい、そしり、口くちから出でる恥はずべき言葉ことばを、捨すててしまいなさい。",
+            "kr": "이제는 너희가 이 모든 것을 벗어 버리라 곧 분함과 노여움과 악의와 비방과 너희 입의 부끄러운 말이라"
+          }
+        },
+        {
+          "key": "9",
+          "text": {
+            "fr": "Ne mentez pas les uns aux autres, vous étant dépouillés du vieil homme et de ses oeuvres,",
+            "en": "Lie not one to another, seeing that ye have put off the old man with his deeds;",
+            "zh": "不要彼此說謊．因你們已經脫去舊人、和舊人的行為、",
+            "jp": "互たがいにうそを言いってはならない。あなたがたは、古ふるき人ひとをその行おこないと一緒いっしょに脱ぬぎ捨すて、",
+            "kr": "너희가 서로 거짓말을 하지 말라 옛 사람과 그 행위를 벗어 버리고"
+          }
+        },
+        {
+          "key": "10",
+          "text": {
+            "fr": "et ayant revêtu l’homme nouveau, qui se renouvelle, dans la connaissance, selon l’image de celui qui l’a créé.",
+            "en": "And have put on the new man, which is renewed in knowledge after the image of him that created him:",
+            "zh": "穿上了新人．這新人在知識上漸漸更新、正如造他主的形像．",
+            "jp": "造つくり主しゅのかたちに従したがって新あたらしくされ、真しんの知識ちしきに至いたる新あたらしき人ひとを着きたのである。",
+            "kr": "새 사람을 입었으니 이는 자기를 창조하신 이의 형상을 따라 지식에까지 새롭게 하심을 입은 자니라"
+          }
+        },
+        {
+          "key": "11",
+          "text": {
+            "fr": "Il n’y a ici ni Grec ni Juif, ni circoncis ni incirconcis, ni barbare ni Scythe, ni esclave ni libre ; mais Christ est tout et en tous.",
+            "en": "Where there is neither Greek nor Jew, circumcision nor uncircumcision, Barbarian, Scythian, bond nor free: but Christ is all, and in all.",
+            "zh": "在此並不分希利尼人、猶太人、受割禮的、未受割禮的、化外人、西古提人、為奴的、自主的．惟有基督是包括一切、又住在各人之內。",
+            "jp": "そこには、もはやギリシヤ人じんとユダヤ人じん、割礼かつれいと無む割礼かつれい、未開みかいの人ひと、スクテヤ人びと、奴隷どれい、自由人じゆうじんの差別さべつはない。キリストがすべてであり、すべてのもののうちにいますのである。",
+            "kr": "거기에는 헬라인이나 유대인이나 할례파나 무할례파나 야만인이나 스구디아인이나 종이나 자유인이 차별이 있을 수 없나니 오직 그리스도는 만유시요 만유 안에 계시니라"
+          }
+        },
+        {
+          "key": "12",
+          "text": {
+            "fr": "Ainsi donc, comme des élus de Dieu, saints et bien-aimés, revêtez-vous d’entrailles de miséricorde, de bonté, d’humilité, de douceur, de patience.",
+            "en": "Put on therefore, as the elect of God, holy and beloved, bowels of mercies, kindness, humbleness of mind, meekness, longsuffering;",
+            "zh": "所以你們既是　神的選民、聖潔蒙愛的人、就要存〔原文作穿下同〕憐憫、恩慈、謙虛、溫柔、忍耐的心。",
+            "jp": "だから、あなたがたは、神かみに選えらばれた者もの、聖せいなる、愛あいされている者ものであるから、あわれみの心こころ、慈愛じあい、謙けんそん、柔和にゅうわ、寛容かんようを身みに着つけなさい。",
+            "kr": "그러므로 너희는 하나님이 택하사 거룩하고 사랑 받는 자처럼 긍휼과 자비와 겸손과 온유와 오래 참음을 옷 입고"
+          }
+        },
+        {
+          "key": "13",
+          "text": {
+            "fr": "Supportez-vous les uns les autres, et, si l’un a sujet de se plaindre de l’autre, pardonnez-vous réciproquement. De même que Christ vous a pardonné, pardonnez-vous aussi.",
+            "en": "Forbearing one another, and forgiving one another, if any man have a quarrel against any: even as Christ forgave you, so also do ye.",
+            "zh": "倘若這人與那人有嫌隙、總要彼此包容、彼此饒恕．主怎樣饒恕了你們、你們也要怎樣饒恕人。",
+            "jp": "互たがいに忍しのびあい、もし互たがいに責せめむべきことがあれば、ゆるし合あいなさい。主しゅもあなたがたをゆるして下くださったのだから、そのように、あなたがたもゆるし合あいなさい。",
+            "kr": "누가 누구에게 불만이 있거든 서로 용납하여 피차 용서하되 주께서 너희를 용서하신 것 같이 너희도 그리하고"
+          }
+        },
+        {
+          "key": "14",
+          "text": {
+            "fr": "Mais par-dessus toutes ces choses revêtez-vous de la charité, qui est le lien de la perfection.",
+            "en": "And above all these things put on charity, which is the bond of perfectness.",
+            "zh": "在這一切之外、要存著愛心．愛心就是聯絡全德的。",
+            "jp": "これらいっさいのものの上うえに、愛あいを加くわえなさい。愛あいは、すべてを完全かんぜんに結むすぶ帯おびである。",
+            "kr": "이 모든 것 위에 사랑을 더하라 이는 온전하게 매는 띠니라"
+          }
+        },
+        {
+          "key": "15",
+          "text": {
+            "fr": "Et que la paix de Christ, à laquelle vous avez été appelés pour former un seul corps, règne dans vos coeurs. Et soyez reconnaissants.",
+            "en": "And let the peace of God rule in your hearts, to the which also ye are called in one body; and be ye thankful.",
+            "zh": "又要叫基督的平安在你們心裡作主．你們也為此蒙召、歸為一體．且要存感謝的心。",
+            "jp": "キリストの平和へいわが、あなたがたの心こころを支配しはいするようにしなさい。あなたがたが召めされて一体いったいとなったのは、このためでもある。いつも感謝かんしゃしていなさい。",
+            "kr": "그리스도의 평강이 너희 마음을 주장하게 하라 너희는 평강을 위하여 한 몸으로 부르심을 받았나니 너희는 또한 감사하는 자가 되라"
+          }
+        },
+        {
+          "key": "16",
+          "text": {
+            "fr": "Que la parole de Christ habite parmi vous abondamment ; instruisez-vous et exhortez-vous les uns les autres en toute sagesse, par des psaumes, par des hymnes, par des cantiques spirituels, chantant à Dieu dans vos coeurs sous l’inspiration de la grâce.",
+            "en": "Let the word of Christ dwell in you richly in all wisdom; teaching and admonishing one another in psalms and hymns and spiritual songs, singing with grace in your hearts to the Lord.",
+            "zh": "當用各樣的智慧、把基督的道理、豐豐富富的存在心裡、〔或作當把基督的道理豐豐富富的存在心裡以各樣的智慧〕用詩章、頌詞、靈歌、彼此教導、互相勸戒心被恩感歌頌　神。",
+            "jp": "キリストの言葉ことばを、あなたがたのうちに豊ゆたかに宿やどらせなさい。そして、知恵ちえをつくして互たがいに教おしえまた訓戒くんかいし、詩しとさんびと霊れいの歌うたとによって、感謝かんしゃして心こころから神かみをほめたたえなさい。",
+            "kr": "그리스도의 말씀이 너희 속에 풍성히 거하여 모든 지혜로 피차 가르치며 권면하고 시와 찬송과 신령한 노래를 부르며감사하는 마음으로 하나님을 찬양하고"
+          }
+        },
+        {
+          "key": "17",
+          "text": {
+            "fr": "Et quoi que vous fassiez, en parole ou en oeuvre, faites tout au nom du Seigneur Jésus, en rendant par lui des actions de grâces à Dieu le Père.",
+            "en": "And whatsoever ye do in word or deed, do all in the name of the Lord Jesus, giving thanks to God and the Father by him.",
+            "zh": "無論作甚麼、或說話、或行事、都要奉主耶穌的名、藉著他感謝父　神。",
+            "jp": "そして、あなたのすることはすべて、言葉ことばによるとわざによるとを問とわず、いっさい主しゅイエスの名なによってなし、彼かれによって父ちちなる神かみに感謝かんしゃしなさい。",
+            "kr": "또 무엇을 하든지 말에나 일에나 다 주 예수의 이름으로 하고 그를 힘입어 하나님 아버지께 감사하라"
+          }
+        },
+        {
+          "key": "18",
+          "text": {
+            "fr": "Femmes, soyez soumises à vos maris, comme il convient dans le Seigneur.",
+            "en": "Wives, submit yourselves unto your own husbands, as it is fit in the Lord.",
+            "zh": "你們作妻子的、當順服自己的丈夫、這在主裡面是相宜的。",
+            "jp": "妻つまたる者ものよ、夫おっとに仕つかえなさい。それが、主しゅにある者ものにふさわしいことである。",
+            "kr": "아내들아 남편에게 복종하라 이는 주 안에서 마땅하니라"
+          }
+        },
+        {
+          "key": "19",
+          "text": {
+            "fr": "Maris, aimez vos femmes, et ne vous aigrissez pas contre elles.",
+            "en": "Husbands, love your wives, and be not bitter against them.",
+            "zh": "你們作丈夫的、要愛你們的妻子、不可苦待他們。",
+            "jp": "夫おっとたる者ものよ、妻つまを愛あいしなさい。つらくあたってはいけない。",
+            "kr": "남편들아 아내를 사랑하며 괴롭게 하지 말라"
+          }
+        },
+        {
+          "key": "20",
+          "text": {
+            "fr": "Enfants, obéissez en toutes choses à vos parents, car cela est agréable dans le Seigneur.",
+            "en": "Children, obey your parents in all things: for this is well pleasing unto the Lord.",
+            "zh": "你們作兒女的、要凡事聽從父母、因為這是主所喜悅的。",
+            "jp": "子こたる者ものよ、何事なにごとについても両親りょうしんに従したがいなさい。これが主しゅに喜よろこばれることである。",
+            "kr": "자녀들아 모든 일에 부모에게 순종하라 이는 주 안에서 기쁘게 하는 것이니라"
+          }
+        },
+        {
+          "key": "21",
+          "text": {
+            "fr": "Pères, n’irritez pas vos enfants, de peur qu’ils ne se découragent.",
+            "en": "Fathers, provoke not your children to anger, lest they be discouraged.",
+            "zh": "你們作父親的、不要惹兒女的氣、恐怕他們失了志氣。",
+            "jp": "父ちちたる者ものよ、子供こどもをいらだたせてはいけない。心こころがいじけるかも知しれないから。",
+            "kr": "아비들아 너희 자녀를 노엽게 하지 말지니 낙심할까 함이라"
+          }
+        },
+        {
+          "key": "22",
+          "text": {
+            "fr": "Serviteurs, obéissez en toutes choses à vos maîtres selon la chair, non pas seulement sous leurs yeux, comme pour plaire aux hommes, mais avec simplicité de coeur, dans la crainte du Seigneur.",
+            "en": "Servants, obey in all things your masters according to the flesh; not with eyeservice, as menpleasers; but in singleness of heart, fearing God:",
+            "zh": "你們作僕人的、要凡事聽從你們肉身的主人、不要只在眼前事奉、像是討人喜歡的、總要存心誠實敬畏主．",
+            "jp": "僕しもべたる者ものよ、何事なにごとについても、肉にくによる主人しゅじんに従したがいなさい。人ひとにへつらおうとして、目先めさきだけの勤つとめをするのではなく、真心まごころをこめて主しゅを恐おそれつつ、従したがいなさい。",
+            "kr": "종들아 모든 일에 육신의 상전들에게 순종하되 사람을 기쁘게 하는 자와 같이 눈가림만 하지 말고 오직 주를 두려워하여 성실한 마음으로 하라"
+          }
+        },
+        {
+          "key": "23",
+          "text": {
+            "fr": "Tout ce que vous faites, faites-le de bon coeur, comme pour le Seigneur et non pour des hommes,",
+            "en": "And whatsoever ye do, do it heartily, as to the Lord, and not unto men;",
+            "zh": "無論作甚麼、都要從心裡作、像是給主作的、不是給人作的。",
+            "jp": "何なにをするにも、人ひとに対たいしてではなく、主しゅに対たいしてするように、心こころから働はたらきなさい。",
+            "kr": "무슨 일을 하든지 마음을 다하여 주께 하듯 하고 사람에게 하듯 하지 말라"
+          }
+        },
+        {
+          "key": "24",
+          "text": {
+            "fr": "sachant que vous recevrez du Seigneur l’héritage pour récompense. Servez Christ, le Seigneur.",
+            "en": "Knowing that of the Lord ye shall receive the reward of the inheritance: for ye serve the Lord Christ.",
+            "zh": "因你們知道從主那裡、必得著基業為賞賜．你們所事奉的乃是主基督。",
+            "jp": "あなたがたが知しっているとおり、あなたがたは御国みくにをつぐことを、報むくいとして主しゅから受うけるであろう。あなたがたは、主しゅキリストに仕つかえているのである。",
+            "kr": "이는 기업의 상을 주께 받을 줄 아나니 너희는 주 그리스도를 섬기느니라"
+          }
+        },
+        {
+          "key": "25",
+          "text": {
+            "fr": "Car celui qui agit injustement recevra selon son injustice, et il n’y a point d’acception de personnes.",
+            "en": "But he that doeth wrong shall receive for the wrong which he hath done: and there is no respect of persons.",
+            "zh": "那行不義的、必受不義的報應．主並不偏待人。",
+            "jp": "不正ふせいを行おこなう者ものは、自分じぶんの行おこなった不正ふせいに対たいして報むくいを受うけるであろう。それには差別さべつ扱あつかいはない。",
+            "kr": "불의를 행하는 자는 불의의 보응을 받으리니 주는 사람을 외모로 취하심이 없느니라"
+          }
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "introduction": {
+        "fr": "The Saints are told to be wise in all things—Luke and others greet the Colossians.",
+        "en": "The Saints are told to be wise in all things—Luke and others greet the Colossians.",
+        "zh": "The Saints are told to be wise in all things—Luke and others greet the Colossians.",
+        "jp": "The Saints are told to be wise in all things—Luke and others greet the Colossians.",
+        "kr": "The Saints are told to be wise in all things—Luke and others greet the Colossians."
+      },
+      "verses": [
+        {
+          "key": "1",
+          "text": {
+            "fr": "Maîtres, accordez à vos serviteurs ce qui est juste et équitable, sachant que vous aussi vous avez un maître dans le ciel.",
+            "en": "Masters, give unto your servants that which is just and equal; knowing that ye also have a Master in heaven.",
+            "zh": "你們作主人的、要公公平平的待僕人、因為知道你們也有一位主在天上。",
+            "jp": "主人しゅじんたる者ものよ、僕しもべを正ただしく公平こうへいに扱あつかいなさい。あなたがたにも主しゅが天てんにいますことが、わかっているのだから。",
+            "kr": "상전들아 의와 공평을 종들에게 베풀지니 너희에게도 하늘에 상전이 계심을 알지어다"
+          }
+        },
+        {
+          "key": "2",
+          "text": {
+            "fr": "Persévérez dans la prière, veillez-y avec actions de grâces.",
+            "en": "Continue in prayer, and watch in the same with thanksgiving;",
+            "zh": "你們要恆切禱告、在此儆醒感恩．",
+            "jp": "目めをさまして、感謝かんしゃのうちに祈いのり、ひたすら祈いのり続つづけなさい。",
+            "kr": "기도를 계속하고 기도에 감사함으로 깨어 있으라"
+          }
+        },
+        {
+          "key": "3",
+          "text": {
+            "fr": "Priez en même temps pour nous, afin que Dieu nous ouvre une porte pour la parole, en sorte que je puisse annoncer le mystère de Christ, pour lequel je suis dans les chaînes,",
+            "en": "Withal praying also for us, that God would open unto us a door of utterance, to speak the mystery of Christ, for which I am also in bonds:",
+            "zh": "也要為我們禱告、求　神給我們開傳道的門、能以講基督的奧秘、（我為此被捆鎖）",
+            "jp": "同時どうじにわたしたちのためにも、神かみが御言みことばのために門もんを開ひらいて下くださって、わたしたちがキリストの奥義おくぎを語かたれるように（わたしは、実じつは、そのために獄ごくにつながれているのである）、",
+            "kr": "또한 우리를 위하여 기도하되 하나님이 전도할 문을 우리에게 열어 주사 그리스도의 비밀을 말하게 하시기를 구하라 내가 이 일 때문에 매임을 당하였노라"
+          }
+        },
+        {
+          "key": "4",
+          "text": {
+            "fr": "et le faire connaître comme je dois en parler.",
+            "en": "That I may make it manifest, as I ought to speak.",
+            "zh": "叫我按著所該說的話、將這奧秘發明出來。",
+            "jp": "また、わたしが語かたるべきことをはっきりと語かたれるように、祈いのってほしい。",
+            "kr": "그리하면 내가 마땅히 할 말로써 이 비밀을 나타내리라"
+          }
+        },
+        {
+          "key": "5",
+          "text": {
+            "fr": "Conduisez-vous avec sagesse envers ceux du dehors, et rachetez le temps.",
+            "en": "Walk in wisdom toward them that are without, redeeming the time.",
+            "zh": "你們要愛惜光陰、用智慧與外人交往。",
+            "jp": "今いまの時ときを生いかして用もちい、そとの人ひとに対たいして賢かしこく行動こうどうしなさい。",
+            "kr": "외인에게 대해서는 지혜로 행하여 세월을 아끼라"
+          }
+        },
+        {
+          "key": "6",
+          "text": {
+            "fr": "Que votre parole soit toujours accompagnée de grâce, assaisonnée de sel, afin que vous sachiez comment il faut répondre à chacun.",
+            "en": "Let your speech be alway with grace, seasoned with salt, that ye may know how ye ought to answer every man.",
+            "zh": "你們的言語要常常帶著和氣、好像用鹽調和、就可知道該怎樣回答各人。",
+            "jp": "いつも、塩しおで味あじつけられた、やさしい言葉ことばを使つかいなさい。そうすれば、ひとりびとりに対たいしてどう答こたえるべきか、わかるであろう。",
+            "kr": "너희 말을 항상 은혜 가운데서 소금으로 맛을 냄과 같이 하라 그리하면 각 사람에게 마땅히 대답할 것을 알리라"
+          }
+        },
+        {
+          "key": "7",
+          "text": {
+            "fr": "Tychique, le bien-aimé frère et fidèle ministre, mon compagnon de service dans le Seigneur, vous communiquera tout ce qui me concerne.",
+            "en": "All my state shall Tychicus declare unto you, who is a beloved brother, and a faithful minister and fellowservant in the Lord:",
+            "zh": "有我親愛的兄弟推基古要將我一切的事都告訴你們．他是忠心的執事、和我一同作主的僕人。",
+            "jp": "わたしの様子ようすについては、主しゅにあって共ともに僕しもべであり、また忠実ちゅうじつに仕つかえている愛あいする兄弟きょうだいテキコが、あなたがたにいっさいのことを報告ほうこくするであろう。",
+            "kr": "두기고가 내 사정을 다 너희에게 알려 주리니 그는 사랑 받는 형제요 신실한 일꾼이요 주 안에서 함께 종이 된 자니라"
+          }
+        },
+        {
+          "key": "8",
+          "text": {
+            "fr": "Je l’envoie exprès vers vous, pour que vous connaissiez notre situation, et pour qu’il console vos coeurs.",
+            "en": "Whom I have sent unto you for the same purpose, that he might know your estate, and comfort your hearts;",
+            "zh": "我特意打發他到你們那裡去、好叫你們知道我們的光景、又叫他安慰你們的心。",
+            "jp": "わたしが彼かれをあなたがたのもとに送おくるのは、わたしたちの様子ようすを知しり、また彼かれによって心こころに励はげましを受うけるためなのである。",
+            "kr": "내가 그를 특별히 너희에게 보내는 것은 너희로 우리 사정을 알게 하고 너희 마음을 위로하게 하려 함이라"
+          }
+        },
+        {
+          "key": "9",
+          "text": {
+            "fr": "Je l’envoie avec Onésime, le fidèle et bien-aimé frère, qui est des vôtres. Ils vous informeront de tout ce qui se passe ici.",
+            "en": "With Onesimus, a faithful and beloved brother, who is one of you. They shall make known unto you all things which are done here.",
+            "zh": "我又打發一位親愛忠心的兄弟阿尼西母同去．他也是你們那裡的人。他們要把這裡一切的事都告訴你們。",
+            "jp": "あなたがたのひとり、忠実ちゅうじつな愛あいする兄弟きょうだいオネシモをも、彼かれと共ともに送おくる。彼かれらはあなたがたに、こちらのいっさいの事情じじょうを知しらせるであろう。",
+            "kr": "신실하고 사랑을 받는 형제 오네시모를 함께 보내노니 그는 너희에게서 온 사람이라 그들이 여기 일을 다 너희에게 알려 주리라"
+          }
+        },
+        {
+          "key": "10",
+          "text": {
+            "fr": "Aristarque, mon compagnon de captivité, vous salue, ainsi que Marc, le cousin de Barnabas, au sujet duquel vous avez reçu des ordres (s’il va chez vous, accueillez-le) ;",
+            "en": "Aristarchus my fellowprisoner saluteth you, and Marcus, sister’s son to Barnabas, (touching whom ye received commandments: if he come unto you, receive him;)",
+            "zh": "與我一同坐監的亞里達古問你們安。巴拿巴的表弟馬可也問你們安。（說到這馬可、你們已經受了吩咐．他若到了你們那裡、你們就接待他。）",
+            "jp": "わたしと一緒いっしょに捕とらわれの身みとなっているアリスタルコと、バルナバのいとこマルコとが、あなたがたによろしくと言いっている。このマルコについては、もし彼かれがあなたがたのもとに行いくなら、迎むかえてやるようにとのさしずを、あなたがたはすでに受うけているはずである。",
+            "kr": "나와 함께 갇힌 아리스다고와 바나바의 생질 마가와 (이 마가에 대하여 너희가 명을 받았으매 그가 이르거든 영접하라)"
+          }
+        },
+        {
+          "key": "11",
+          "text": {
+            "fr": "Jésus, appelé Justus, vous salue aussi. Ils sont du nombre des circoncis, et les seuls qui aient travaillé avec moi pour le royaume de Dieu, et qui aient été pour moi une consolation.",
+            "en": "And Jesus, which is called Justus, who are of the circumcision. These only are my fellowworkers unto the kingdom of God, which have been a comfort unto me.",
+            "zh": "耶數又稱為猶士都、也問你們安．奉割禮的人中、只有這三個人、是為　神的國與我一同作工的、也是叫我心裡得安慰的。",
+            "jp": "また、ユストと呼よばれているイエスからもよろしく。割礼かつれいの者ものの中なかで、この三人にんだけが神かみの国くにのために働はたらく同労者どうろうしゃであって、わたしの慰なぐさめとなった者ものである。",
+            "kr": "유스도라 하는 예수도 너희에게 문안하느니라 그들은 할례파이나 이들만은 하나님의 나라를 위하여 함께 역사하는 자들이니 이런 사람들이 나의 위로가 되었느니라"
+          }
+        },
+        {
+          "key": "12",
+          "text": {
+            "fr": "Épaphras, qui est des vôtres, vous salue : serviteur de Jésus Christ, il ne cesse de combattre pour vous dans ses prières, afin que, parfaits et pleinement persuadés, vous persistiez dans une entière soumission à la volonté de Dieu.",
+            "en": "Epaphras, who is one of you, a servant of Christ, saluteth you, always labouring fervently for you in prayers, that ye may stand perfect and complete in all the will of God.",
+            "zh": "有你們那裡的人、作基督耶穌僕人的以巴弗問你們安。他在禱告之間、常為你們竭力的祈求、願你們在　神一切的旨意上、得以完全、信心充足、能站立得穩。",
+            "jp": "あなたがたのうちのひとり、キリスト・イエスの僕しもべエパフラスから、よろしく。彼かれはいつも、祈いのりのうちであなたがたを覚おぼえ、あなたがたが全まったき人ひととなり、神かみの御旨みむねをことごとく確信かくしんして立たつようにと、熱心ねっしんに祈いのっている。",
+            "kr": "그리스도 예수의 종인 너희에게서 온 에바브라가 너희에게 문안하느니라 그가 항상 너희를 위하여 애써 기도하여 너희로 하나님의 모든 뜻 가운데서 완전하고 확신 있게 서기를 구하나니"
+          }
+        },
+        {
+          "key": "13",
+          "text": {
+            "fr": "Car je lui rends le témoignage qu’il a une grande sollicitude pour vous, pour ceux de Laodicée et pour ceux d’Hiérapolis.",
+            "en": "For I bear him record, that he hath a great zeal for you, and them that are in Laodicea, and them in Hierapolis.",
+            "zh": "他為你們和老底嘉並希拉波立的弟兄、多多的勞苦．這是我可以給他作見證的。",
+            "jp": "わたしは、彼かれがあなたがたのため、またラオデキヤとヒエラポリスの人々ひとびとのために、ひじょうに心労しんろうしていることを、証言しょうげんする。",
+            "kr": "그가 너희와 라오디게아에 있는 자들과 히에라볼리에 있는 자들을 위하여 많이 수고하는 것을 내가 증언하노라"
+          }
+        },
+        {
+          "key": "14",
+          "text": {
+            "fr": "Luc, le médecin bien-aimé, vous salue, ainsi que Démas.",
+            "en": "Luke, the beloved physician, and Demas, greet you.",
+            "zh": "所親愛的醫生路加、和底馬問你們安。",
+            "jp": "愛あいする医者いしゃルカとデマスとが、あなたがたによろしく。",
+            "kr": "사랑을 받는 의사 누가와 또 데마가 너희에게 문안하느니라"
+          }
+        },
+        {
+          "key": "15",
+          "text": {
+            "fr": "Saluez les frères qui sont à Laodicée, et Nymphas, et l’Église qui est dans sa maison.",
+            "en": "Salute the brethren which are in Laodicea, and Nymphas, and the church which is in his house.",
+            "zh": "請問老底嘉的弟兄和寧法、並他家裡的教會安。",
+            "jp": "ラオデキヤの兄弟きょうだいたちに、またヌンパとその家いえにある教会きょうかいとに、よろしく。",
+            "kr": "라오디게아에 있는 형제들과 눔바와 그 여자의 집에 있는 교회에 문안하고"
+          }
+        },
+        {
+          "key": "16",
+          "text": {
+            "fr": "Lorsque cette lettre aura été lue chez vous, faites en sorte qu’elle soit aussi lue dans l’Église des Laodicéens, et que vous lisiez à votre tour celle qui vous arrivera de Laodicée.",
+            "en": "And when this epistle is read among you, cause that it be read also in the church of the Laodiceans; and that ye likewise read the epistle from Laodicea.",
+            "zh": "你們念了這書信、便交給老底嘉的教會、叫他們也念．你們也要念從老底嘉來的書信。",
+            "jp": "この手紙てがみがあなたがたの所ところで朗読ろうどくされたら、ラオデキヤの教会きょうかいでも朗読ろうどくされるように、取とり計はからってほしい。またラオデキヤからまわって来くる手紙てがみを、あなたがたも朗読ろうどくしてほしい。",
+            "kr": "이 편지를 너희에게서 읽은 후에 라오디게아인의 교회에서도 읽게 하고 또 라오디게아로부터 오는 편지를 너희도 읽으라"
+          }
+        },
+        {
+          "key": "17",
+          "text": {
+            "fr": "Et dites à Archippe : Prends garde au ministère que tu as reçu dans le Seigneur, afin de le bien remplir.",
+            "en": "And say to Archippus, Take heed to the ministry which thou hast received in the Lord, that thou fulfil it.",
+            "zh": "要對亞基布說、務要謹慎、盡你從主所受的職分。",
+            "jp": "アルキポに、「主しゅにあって受うけた務つとめをよく果はたすように」と伝つたえてほしい。",
+            "kr": "아킵보에게 이르기를 주 안에서 받은 직분을 삼가 이루라고 하라"
+          }
+        },
+        {
+          "key": "18",
+          "text": {
+            "fr": "Je vous salue, moi Paul, de ma propre main. Souvenez-vous de mes liens. Que la grâce soit avec vous !",
+            "en": "The salutation by the hand of me Paul. Remember my bonds. Grace be with you. Amen.",
+            "zh": "我保羅親筆問你們安。你們要記念我的捆鎖。願恩惠常與你們同在。",
+            "jp": "パウロ自身じしんが、手てずからこのあいさつを書かく。わたしが獄ごくにつながれていることを、覚おぼえていてほしい。恵めぐみが、あなたがたと共ともにあるように。",
+            "kr": "나 바울은 친필로 문안하노니 내가 매인 것을 생각하라 은혜가 너희에게 있을지어다"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -2,6 +2,7 @@ const puppeteer = require('puppeteer');
 const fs = require('fs');
 const path = require('path');
 const oldTestamentBooks = require('./ot');
+const newTestamentBooks = require('./nt');
 
 // var chapter = "dc-testament/dc/";
 // var chapter = "pgp/abr/";
@@ -68,9 +69,9 @@ async function saveToFile(chapter, lang, content) {
 }
 
 async function main() {
-    for (var i = 0; i < oldTestamentBooks.length; i++) {
-        var chapter = `ot/${oldTestamentBooks[i].name}/`;
-        for (var j = 1; j <= oldTestamentBooks[i].chapters; j++) {
+    for (var i = 0; i < newTestamentBooks.length; i++) {
+        var chapter = `nt/${newTestamentBooks[i].name}/`;
+        for (var j = 1; j <= newTestamentBooks[i].chapters; j++) {
             newChapter = chapter + j
             const textEng = await scrapeText(newChapter, langeng);
             await saveToFile(newChapter, langeng, textEng);

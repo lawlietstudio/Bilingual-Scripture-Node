@@ -1,0 +1,24 @@
+{
+  "book": {
+    "fr": "PSAUMES",
+    "en": "THE BOOK OF",
+    "zh": "詩篇",
+    "jp": "詩篇しへん",
+    "kr": "시편"
+  },
+  "theme": {
+    "fr": "Chapitre 1",
+    "en": "",
+    "zh": "第1章",
+    "jp": "第1篇",
+    "kr": "제 1 편"
+  },
+  "introduction": {
+    "fr": "Heureux sont les justes. Les méchants sont menés à la ruine.",
+    "en": "Psalm 1",
+    "zh": "",
+    "jp": "Psalm 1",
+    "kr": "Psalm 1"
+  },
+  "chapters": []
+}

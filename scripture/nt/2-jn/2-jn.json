@@ -1,0 +1,167 @@
+{
+  "book": {
+    "fr": "2 JEAN",
+    "en": "THE SECOND EPISTLE OF",
+    "zh": "約翰二書",
+    "jp": "ヨハネの第だい二の手紙てがみ",
+    "kr": "요한2서"
+  },
+  "theme": {
+    "fr": "Chapitre 1",
+    "en": "",
+    "zh": "第1章",
+    "jp": "第1章",
+    "kr": "제 1 장"
+  },
+  "introduction": {
+    "fr": "",
+    "en": "Chapter 1",
+    "zh": "",
+    "jp": "Chapter 1",
+    "kr": "Chapter 1"
+  },
+  "chapters": [
+    {
+      "number": 1,
+      "introduction": {
+        "fr": "John rejoices because the children of the elect lady are true and faithful.",
+        "en": "John rejoices because the children of the elect lady are true and faithful.",
+        "zh": "John rejoices because the children of the elect lady are true and faithful.",
+        "jp": "John rejoices because the children of the elect lady are true and faithful.",
+        "kr": "John rejoices because the children of the elect lady are true and faithful."
+      },
+      "verses": [
+        {
+          "key": "1",
+          "text": {
+            "fr": "L’ancien, à Kyria l’élue et à ses enfants, que j’aime dans la vérité,—et ce n’est pas moi seul qui les aime, mais aussi tous ceux qui ont connu la vérité—",
+            "en": "The elder unto the elect lady and her children, whom I love in the truth; and not I only, but also all they that have known the truth;",
+            "zh": "作長老的寫信給蒙揀選的太太、〔太太或作教會下同〕和他的兒女、就是我誠心所愛的．不但我愛、也是一切知道真理之人所愛的．",
+            "jp": "長老ちょうろうのわたしから、真実しんじつに愛あいしている選えらばれた婦人ふじんとその子こたちへ。あなたがたを愛あいしているのは、わたしだけではなく、真理しんりを知しっている者ものはみなそうである。",
+            "kr": "장로인 나는 택하심을 받은 부녀와 그의 자녀들에게 편지하노니 내가 참으로 사랑하는 자요 나뿐 아니라 진리를 아는 모든 자도 그리하는 것은"
+          }
+        },
+        {
+          "key": "2",
+          "text": {
+            "fr": "à cause de la vérité qui demeure en nous, et qui sera avec nous pour l’éternité :",
+            "en": "For the truth’s sake, which dwelleth in us, and shall be with us for ever.",
+            "zh": "愛你們是為真理的緣故、這真理存在我們裡面、也必永遠與我們同在．",
+            "jp": "それは、わたしたちのうちにあり、また永遠えいえんに共ともにあるべき真理しんりによるのである。",
+            "kr": "우리 안에 거하여 영원히 우리와 함께 할 진리로 말미암음이로다"
+          }
+        },
+        {
+          "key": "3",
+          "text": {
+            "fr": "que la grâce, la miséricorde et la paix soient avec vous de la part de Dieu le Père et de la part de Jésus Christ, le Fils du Père, dans la vérité et la charité !",
+            "en": "Grace be with you, mercy, and peace, from God the Father, and from the Lord Jesus Christ, the Son of the Father, in truth and love.",
+            "zh": "恩惠、憐憫、平安、從父　神和他兒子耶穌基督、在真理和愛心上、必常與我們同在。",
+            "jp": "父ちちなる神かみおよび父ちちの御子みこイエス・キリストから、恵めぐみとあわれみと平安へいあんとが、真理しんりと愛あいのうちにあって、わたしたちと共ともにあるように。",
+            "kr": "은혜와 긍휼과 평강이 하나님 아버지와 아버지의 아들 예수 그리스도께로부터 진리와 사랑 가운데서 우리와 함께 있으리라"
+          }
+        },
+        {
+          "key": "4",
+          "text": {
+            "fr": "J’ai été fort réjoui de trouver de tes enfants qui marchent dans la vérité, selon le commandement que nous avons reçu du Père.",
+            "en": "I rejoiced greatly that I found of thy children walking in truth, as we have received a commandment from the Father.",
+            "zh": "我見你的兒女、有照我們從父所受之命令遵行真理的、就甚歡喜。",
+            "jp": "あなたの子供こどもたちのうちで、わたしたちが父ちちから受うけた戒いましめどおりに、真理しんりのうちを歩あるいている者ものがあるのを見みて、わたしは非常ひじょうに喜よろこんでいる。",
+            "kr": "너의 자녀들 중에 우리가 아버지께 받은 계명대로 진리를 행하는 자를 내가 보니 심히 기쁘도다"
+          }
+        },
+        {
+          "key": "5",
+          "text": {
+            "fr": "Et maintenant, ce que je te demande, Kyria,—non comme te prescrivant un commandement nouveau, mais celui que nous avons eu dès le commencement,—c’est que nous nous aimions les uns les autres.",
+            "en": "And now I beseech thee, lady, not as though I wrote a new commandment unto thee, but that which we had from the beginning, that we love one another.",
+            "zh": "太太阿、我現在勸你、我們大家要彼此相愛．這並不是我寫一條新命令給你、乃是我們從起初所受的命令。",
+            "jp": "婦人ふじんよ。ここにお願ねがいしたいことがある。それは、新あたらしい戒いましめを書かくわけではなく、初はじめから持もっていた戒いましめなのであるが、わたしたちは、みんな互たがいに愛あいし合おうではないか。",
+            "kr": "부녀여, 내가 이제 네게 구하노니 서로 사랑하자 이는 새 계명 같이 네게 쓰는 것이 아니요 처음부터 우리가 가진 것이라"
+          }
+        },
+        {
+          "key": "6",
+          "text": {
+            "fr": "Et l’amour consiste à marcher selon ses commandements. C’est là le commandement dans lequel vous devez marcher, comme vous l’avez appris dès le commencement.",
+            "en": "And this is love, that we walk after his commandments. This is the commandment, That, as ye have heard from the beginning, ye should walk in it.",
+            "zh": "我們若照他的命令行、這就是愛。你們從起初所聽見當行的、就是這命令。",
+            "jp": "父ちちの戒いましめどおりに歩あるくことが、すなわち、愛あいであり、あなたがたが初はじめから聞きいてきたとおりに愛あいのうちを歩あるくことが、すなわち、戒いましめなのである。",
+            "kr": "또 사랑은 이것이니 우리가 그 계명을 따라 행하는 것이요 계명은 이것이니 너희가 처음부터 들은 바와 같이 그 가운데서 행하라 하심이라"
+          }
+        },
+        {
+          "key": "7",
+          "text": {
+            "fr": "Car plusieurs séducteurs sont entrés dans le monde, qui ne confessent point que Jésus Christ est venu en chair. Celui qui est tel, c’est le séducteur et l’antéchrist.",
+            "en": "For many deceivers are entered into the world, who confess not that Jesus Christ is come in the flesh. This is a deceiver and an antichrist.",
+            "zh": "因為世上有許多迷惑人的出來、他們不認耶穌基督是成了肉身來的．這就是那迷惑人、敵基督的。",
+            "jp": "なぜなら、イエス・キリストが肉体にくたいをとってこられたことを告白こくはくしないで人ひとを惑まどわす者ものが、多おおく世よにはいってきたからである。そういう者ものは、惑まどわす者ものであり、反はんキリストである。",
+            "kr": "미혹하는 자가 세상에 많이 나왔나니 이는 예수 그리스도께서 육체로 오심을 부인하는 자라 이런 자가 미혹하는 자요 적그리스도니"
+          }
+        },
+        {
+          "key": "8",
+          "text": {
+            "fr": "Prenez garde à vous-mêmes, afin que vous ne perdiez pas le fruit de votre travail, mais que vous receviez une pleine récompense.",
+            "en": "Look to yourselves, that we lose not those things which we have wrought, but that we receive a full reward.",
+            "zh": "你們要小心、不要失去你們〔有古卷作我們〕所作的工、乃要得著滿足的賞賜。",
+            "jp": "よく注意ちゅういして、わたしたちの働はたらいて得えた成果せいかを失うしなうことがなく、豊ゆたかな報むくいを受うけられるようにしなさい。",
+            "kr": "너희는 스스로 삼가 우리가 일한 것을 잃지 말고 오직 온전한 상을 받으라"
+          }
+        },
+        {
+          "key": "9",
+          "text": {
+            "fr": "Quiconque va plus loin et ne demeure pas dans la doctrine de Christ n’a point Dieu ; celui qui demeure dans cette doctrine a le Père et le Fils.",
+            "en": "Whosoever transgresseth, and abideth not in the doctrine of Christ, hath not God. He that abideth in the doctrine of Christ, he hath both the Father and the Son.",
+            "zh": "凡越過基督的教訓、不常守著的、就沒有　神．常守這教訓的、就有父又有子。",
+            "jp": "すべてキリストの教おしえをとおり過すごして、それにとどまらない者ものは、神かみを持もっていないのである。その教おしえにとどまっている者ものは、父ちちを持もち、また御子みこをも持もつ。",
+            "kr": "지나쳐 그리스도의 교훈 안에 거하지 아니하는 자는 다 하나님을 모시지 못하되 교훈 안에 거하는 그 사람은 아버지와 아들을 모시느니라"
+          }
+        },
+        {
+          "key": "10",
+          "text": {
+            "fr": "Si quelqu’un vient à vous et n’apporte pas cette doctrine, ne le recevez pas dans votre maison, et ne lui dites pas : Salut !",
+            "en": "If there come any unto you, and bring not this doctrine, receive him not into your house, neither bid him God speed:",
+            "zh": "若有人到你們那裡、不是傳這教訓、不要接他到家裡、也不要問他的安．",
+            "jp": "この教おしえを持もたずにあなたがたのところに来くる者ものがあれば、その人ひとを家いえに入いれることも、あいさつすることもしてはいけない。",
+            "kr": "누구든지 이 교훈을 가지지 않고 너희에게 나아가거든 그를 집에 들이지도 말고 인사도 하지 말라"
+          }
+        },
+        {
+          "key": "11",
+          "text": {
+            "fr": "car celui qui lui dit : Salut ! participe à ses mauvaises oeuvres.",
+            "en": "For he that biddeth him God speed is partaker of his evil deeds.",
+            "zh": "因為問他安的、就在他的惡行上有分。",
+            "jp": "そのような人ひとにあいさつする者ものは、その悪わるい行おこないにあずかることになるからである。",
+            "kr": "그에게 인사하는 자는 그 악한 일에 참여하는 자임이라"
+          }
+        },
+        {
+          "key": "12",
+          "text": {
+            "fr": "Quoique j’eusse beaucoup de choses à vous écrire, je n’ai pas voulu le faire avec le papier et l’encre ; mais j’espère aller chez vous, et vous parler de bouche à bouche, afin que notre joie soit parfaite.",
+            "en": "Having many things to write unto you, I would not write with paper and ink: but I trust to come unto you, and speak face to face, that our joy may be full.",
+            "zh": "我還有許多事要寫給你們、卻不願意用紙墨寫出來．但盼望到你們那裡、與你們當面談論、使你們的喜樂滿足。",
+            "jp": "あなたがたに書かきおくることはたくさんあるが、紙かみと墨すみとで書かくことはすまい。むしろ、あなたがたのところに行いき、直接ちょくせつはなし合あって、共ともに喜よろこびに満みちあふれたいものである。",
+            "kr": "내가 너희에게 쓸 것이 많으나 종이와 먹으로 쓰기를 원하지 아니하고 오히려 너희에게 가서 대면하여 말하려 하니 이는 너희 기쁨을 충만하게 하려 함이라"
+          }
+        },
+        {
+          "key": "13",
+          "text": {
+            "fr": "Les enfants de ta soeur l’élue te saluent.",
+            "en": "The children of thy elect sister greet thee. Amen.",
+            "zh": "你那蒙揀選之姊妹的兒女都問你安。",
+            "jp": "選えらばれたあなたの姉妹しまいの子供こどもたちが、あなたによろしく。",
+            "kr": "택하심을 받은 네 자매의 자녀들이 네게 문안하느니라"
+          }
+        }
+      ]
+    }
+  ]
+}

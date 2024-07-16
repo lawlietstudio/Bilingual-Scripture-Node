@@ -1,0 +1,923 @@
+{
+  "book": {
+    "fr": "RUTH",
+    "en": "THE BOOK OF",
+    "zh": "路得記",
+    "jp": "ルツ記き",
+    "kr": "룻기"
+  },
+  "theme": {
+    "fr": "Chapitre 1",
+    "en": "",
+    "zh": "第1章",
+    "jp": "第1章",
+    "kr": "제 1 장"
+  },
+  "introduction": {
+    "fr": "Élimélec et sa famille partent pour Moab à cause de la famine. Ses fils se marient. Le père et ses fils meurent. Ruth, la Moabite, ayant perdu son mari, reste fidèlement auprès de Naomi. Elles arrivent à Bethléhem.",
+    "en": "Chapter 1",
+    "zh": "",
+    "jp": "Chapter 1",
+    "kr": "Chapter 1"
+  },
+  "chapters": [
+    {
+      "number": 1,
+      "introduction": {
+        "fr": "Élimélec et sa famille partent pour Moab à cause de la famine. Ses fils se marient. Le père et ses fils meurent. Ruth, la Moabite, ayant perdu son mari, reste fidèlement auprès de Naomi. Elles arrivent à Bethléhem.",
+        "en": "Elimelech and his family go to Moab because of famine—His sons marry—The father and sons die—Ruth, the Moabitess, her husband having died, remains constant to Naomi—They come to Bethlehem.",
+        "zh": "Elimelech and his family go to Moab because of famine—His sons marry—The father and sons die—Ruth, the Moabitess, her husband having died, remains constant to Naomi—They come to Bethlehem.",
+        "jp": "Elimelech and his family go to Moab because of famine—His sons marry—The father and sons die—Ruth, the Moabitess, her husband having died, remains constant to Naomi—They come to Bethlehem.",
+        "kr": "Elimelech and his family go to Moab because of famine—His sons marry—The father and sons die—Ruth, the Moabitess, her husband having died, remains constant to Naomi—They come to Bethlehem."
+      },
+      "verses": [
+        {
+          "key": "1",
+          "text": {
+            "fr": "Du temps des juges, il y eut une famine dans le pays. Un homme de Bethléhem de Juda partit, avec sa femme et ses deux fils, pour faire un séjour dans le pays de Moab.",
+            "en": "Now it came to pass in the days when the judges ruled, that there was a famine in the land. And a certain man of Beth-lehem-judah went to sojourn in the country of Moab, he, and his wife, and his two sons.",
+            "zh": "當士師秉政的時候、國中遭遇饑荒、在猶大伯利恆有一個人帶著妻子和兩個兒子往摩押地去寄居．",
+            "jp": "さばきづかさが世よを治おさめているころ、国くにに飢ききんがあったので、ひとりの人ひとがその妻つまとふたりの男おとこの子こを連つれてユダのベツレヘムを去さり、モアブの地ちへ行いってそこに滞在たいざいした。",
+            "kr": "사사들이 치리하던 때에 그 땅에 흉년이 드니라 유다 베들레헴에 한 사람이 그의 아내와 두 아들을 데리고 모압 지방에 가서 거류하였는데"
+          }
+        },
+        {
+          "key": "2",
+          "text": {
+            "fr": "Le nom de cet homme était Élimélec, celui de sa femme Naomi, et ses deux fils s’appelaient Machlon et Kiljon ; ils étaient Éphratiens, de Bethléhem de Juda. Arrivés au pays de Moab, ils y établirent leur demeure.",
+            "en": "And the name of the man was Elimelech, and the name of his wife Naomi, and the name of his two sons Mahlon and Chilion, Ephrathites of Beth-lehem-judah. And they came into the country of Moab, and continued there.",
+            "zh": "這人名叫以利米勒、他的妻名叫拿俄米、他兩個兒子、一個名叫瑪倫、一個名叫基連、都是猶大伯利恆的以法他人、他們到了摩押地就住在那裡。",
+            "jp": "その人ひとの名なはエリメレク、妻つまの名なはナオミ、ふたりの男おとこの子この名なはマロンとキリオンといい、ユダのベツレヘムのエフラタびとであった。彼かれらはモアブの地ちへ行いって、そこにおったが、",
+            "kr": "그 사람의 이름은 엘리멜렉이요 그의 아내의 이름은 나오미요 그의 두 아들의 이름은 말론과 기룐이니 유다 베들레헴 에브랏 사람들이더라 그들이 모압 지방에 들어가서 거기 살더니"
+          }
+        },
+        {
+          "key": "3",
+          "text": {
+            "fr": "Élimélec, mari de Naomi, mourut, et elle resta avec ses deux fils.",
+            "en": "And Elimelech Naomi’s husband died; and she was left, and her two sons.",
+            "zh": "後來拿俄米的丈夫以利米勒死了、剩下婦人和他兩個兒子。",
+            "jp": "ナオミの夫おっとエリメレクは死しんで、ナオミとふたりの男おとこの子こが残のこされた。",
+            "kr": "나오미의 남편 엘리멜렉이 죽고 나오미와 그의 두 아들이 남았으며"
+          }
+        },
+        {
+          "key": "4",
+          "text": {
+            "fr": "Ils prirent des femmes Moabites dont l’une se nommait Orpa et l’autre Ruth, et ils habitèrent là environ dix ans.",
+            "en": "And they took them wives of the women of Moab; the name of the one was Orpah, and the name of the other Ruth: and they dwelled there about ten years.",
+            "zh": "這兩個兒子娶了摩押女子為妻、一個名叫俄珥巴、一個名叫路得、在那裡住了約有十年。",
+            "jp": "ふたりの男おとこの子こはそれぞれモアブの女おんなを妻つまに迎むかえた。そのひとりの名なはオルパといい、ひとりの名なはルツといった。彼かれらはそこに十年ねんほど住すんでいたが、",
+            "kr": "그들은 모압 여자 중에서 그들의 아내를 맞이하였는데 하나의 이름은 오르바요 하나의 이름은 룻이더라 그들이 거기에 거주한 지 십 년쯤에"
+          }
+        },
+        {
+          "key": "5",
+          "text": {
+            "fr": "Machlon et Kiljon moururent aussi tous les deux et Naomi fut privée de ses deux fils et de son mari.",
+            "en": "And Mahlon and Chilion died also both of them; and the woman was left of her two sons and her husband.",
+            "zh": "瑪倫和基連二人也死了、剩下拿俄米沒有丈夫、也沒有兒子。",
+            "jp": "マロンとキリオンのふたりもまた死しんだ。こうしてナオミはふたりの子こと夫おっととに先さきだたれた。",
+            "kr": "말론과 기룐 두 사람이 다 죽고 그 여인은 두 아들과 남편의 뒤에 남았더라"
+          }
+        },
+        {
+          "key": "6",
+          "text": {
+            "fr": "Alors elle se leva avec ses belles-filles afin de quitter le pays de Moab, car elle avait appris au pays de Moab que l’Éternel avait visité son peuple, et lui avait donné du pain.",
+            "en": "¶ Then she arose with her daughters in law, that she might return from the country of Moab: for she had heard in the country of Moab how that the Lord had visited his people in giving them bread.",
+            "zh": "他就與兩個兒婦起身要從摩押地歸回、因為他在摩押地、聽見耶和華眷顧自己的百姓、賜糧食與他們。",
+            "jp": "その時とき、ナオミはモアブの地ちで、主しゅがその民たみを顧かえりみて、すでに食物しょくもつをお与あたえになっていることを聞きいたので、その嫁よめと共ともに立たって、モアブの地ちからふるさとへ帰かえろうとした。",
+            "kr": "그 여인이 모압 지방에서 여호와께서 자기 백성을 돌보시사 그들에게 양식을 주셨다 함을 듣고 이에 두 며느리와 함께 일어나 모압 지방에서 돌아오려 하여"
+          }
+        },
+        {
+          "key": "7",
+          "text": {
+            "fr": "Elle sortit du lieu qu’elle habitait, accompagnée de ses deux belles-filles, et elle se mit en route pour retourner dans le pays de Juda.",
+            "en": "Wherefore she went forth out of the place where she was, and her two daughters in law with her; and they went on the way to return unto the land of Judah.",
+            "zh": "於是他和兩個兒婦起行離開所住的地方、要回猶大地去。",
+            "jp": "そこで彼女かのじょは今いまいる所ところを出立しゅったつし、ユダの地ちへ帰かえろうと、ふたりの嫁よめを連つれて道みちに進すすんだ。",
+            "kr": "있던 곳에서 나오고 두 며느리도 그와 함께 하여 유다 땅으로 돌아오려고 길을 가다가"
+          }
+        },
+        {
+          "key": "8",
+          "text": {
+            "fr": "Naomi dit alors à ses deux belles-filles : Allez, retournez chacune chez votre mère ! Que l’Éternel use de bonté envers vous, comme vous l’avez fait envers ceux qui sont morts et envers moi !",
+            "en": "And Naomi said unto her two daughters in law, Go, return each to her mother’s house: the Lord deal kindly with you, as ye have dealt with the dead, and with me.",
+            "zh": "拿俄米對兩個兒婦說、你們各人回娘家去罷、願耶和華恩待你們、像你們恩待已死的人與我一樣．",
+            "jp": "しかしナオミはふたりの嫁よめに言いった、「あなたがたは、それぞれ自分じぶんの母ははの家いえに帰かえって行いきなさい。あなたがたが、死しんだふたりの子ことわたしに親切しんせつをつくしたように、どうぞ、主しゅがあなたがたに、いつくしみを賜たまわりますよう。",
+            "kr": "나오미가 두 며느리에게 이르되 너희는 각기 너희 어머니의 집으로 돌아가라 너희가 죽은 자들과 나를 선대한 것 같이 여호와께서 너희를 선대하시기를 원하며"
+          }
+        },
+        {
+          "key": "9",
+          "text": {
+            "fr": "Que l’Éternel vous fasse trouver à chacune du repos dans la maison d’un mari ! Et elle les embrassa. Elles élevèrent la voix et pleurèrent ;",
+            "en": "The Lord grant you that ye may find rest, each of you in the house of her husband. Then she kissed them; and they lifted up their voice, and wept.",
+            "zh": "願耶和華使你們各在新夫家中得平安．於是拿俄米與他們親嘴、他們就放聲而哭、",
+            "jp": "どうぞ、主しゅがあなたがたに夫おっとを与あたえ、夫おっとの家いえで、それぞれ身みの落おち着つき所どころを得えさせられるように」。こう言いって、ふたりの嫁よめに口くちづけしたので、彼かれらは声こえをあげて泣なき、",
+            "kr": "여호와께서 너희에게 허락하사 각기 남편의 집에서 위로를 받게 하시기를 원하노라 하고 그들에게 입 맞추매 그들이 소리를 높여 울며"
+          }
+        },
+        {
+          "key": "10",
+          "text": {
+            "fr": "et elles lui dirent : Non, nous irons avec toi vers ton peuple.",
+            "en": "And they said unto her, Surely we will return with thee unto thy people.",
+            "zh": "說、不然、我們必與你一同回你本國去。",
+            "jp": "ナオミに言いった、「いいえ、わたしたちは一緒いっしょにあなたの民たみのところへ帰かえります」。",
+            "kr": "나오미에게 이르되 아니니이다 우리는 어머니와 함께 어머니의 백성에게로 돌아가겠나이다 하는지라"
+          }
+        },
+        {
+          "key": "11",
+          "text": {
+            "fr": "Naomi, dit : Retournez, mes filles ! Pourquoi viendriez-vous avec moi ? Ai-je encore dans mon ventre des fils qui puissent devenir vos maris ?",
+            "en": "And Naomi said, Turn again, my daughters: why will ye go with me? are there yet any more sons in my womb, that they may be your husbands?",
+            "zh": "拿俄米說、我女兒們哪、回去罷、為何要跟我去呢、我還能生子作你們的丈夫麼．",
+            "jp": "しかしナオミは言いった、「娘むすめたちよ、帰かえって行いきなさい。どうして、わたしと一緒いっしょに行いこうというのですか。あなたがたの夫おっととなる子こがまだわたしの胎内たいないにいると思おもうのですか。",
+            "kr": "나오미가 이르되 내 딸들아 돌아가라 너희가 어찌 나와 함께 가려느냐 내 태중에 너희의 남편 될 아들들이 아직 있느냐"
+          }
+        },
+        {
+          "key": "12",
+          "text": {
+            "fr": "Retournez, mes filles, allez ! Je suis trop vieille pour me remarier. Et quand je dirais : J’ai de l’espérance ; quand cette nuit même je serais avec un mari et que j’enfanterais des fils,",
+            "en": "Turn again, my daughters, go your way; for I am too old to have an husband. If I should say, I have hope, if I should have an husband also to night, and should also bear sons;",
+            "zh": "我女兒們哪、回去罷、我年紀老邁、不能再有丈夫、即或說、我還有指望、今夜有丈夫可以生子．",
+            "jp": "娘むすめたちよ、帰かえって行いきなさい。わたしは年としをとっているので、夫おっとをもつことはできません。たとい、わたしが今夜こんや、夫おっとをもち、また子こを産うむ望のぞみがあるとしても、",
+            "kr": "내 딸들아 되돌아 가라 나는 늙었으니 남편을 두지 못할지라 가령 내가 소망이 있다고 말한다든지 오늘 밤에 남편을 두어 아들들을 낳는다 하더라도"
+          }
+        },
+        {
+          "key": "13",
+          "text": {
+            "fr": "attendriez-vous pour cela qu’ils aient grandi, refuseriez-vous pour cela de vous marier ? Non, mes filles ! car à cause de vous je suis dans une grande affliction parce que la main de l’Éternel s’est abattue sur moi.",
+            "en": "Would ye tarry for them till they were grown? would ye stay for them from having husbands? nay, my daughters; for it grieveth me much for your sakes that the hand of the Lord is gone out against me.",
+            "zh": "你們豈能等著他們長大呢、你們豈能等著他們不嫁別人呢．我女兒們哪、不要這樣、我為你們的緣故、甚是愁苦、因為耶和華伸手攻擊我。",
+            "jp": "そのためにあなたがたは、子こどもの成長せいちょうするまで待まっているつもりなのですか。あなたがたは、そのために夫おっとをもたずにいるつもりなのですか。娘むすめたちよ、それはいけません。主しゅの手てがわたしに臨のぞみ、わたしを責せめられたことで、あなたがたのために、わたしは非常ひじょうに心こころを痛いためているのです」。",
+            "kr": "너희가 어찌 그들이 자라기를 기다리겠으며 어찌 남편 없이 지내겠다고 결심하겠느냐 내 딸들아 그렇지 아니하니라 여호와의 손이 나를 치셨으므로 나는 너희로 말미암아 더욱 마음이 아프도다 하매"
+          }
+        },
+        {
+          "key": "14",
+          "text": {
+            "fr": "Et elles élevèrent la voix et pleurèrent encore. Orpa embrassa sa belle-mère mais Ruth s’attacha à elle.",
+            "en": "And they lifted up their voice, and wept again: and Orpah kissed her mother in law; but Ruth clave unto her.",
+            "zh": "兩個兒婦又放聲而哭、俄珥巴與婆婆親嘴而別、只是路得捨不得拿俄米。",
+            "jp": "彼かれらはまた声こえをあげて泣ないた。そしてオルパはそのしゅうとめに口くちづけしたが、ルツはしゅうとめを離はなれなかった。",
+            "kr": "그들이 소리를 높여 다시 울더니 오르바는 그의 시어머니에게 입 맞추되 룻은 그를 붙좇았더라"
+          }
+        },
+        {
+          "key": "15",
+          "text": {
+            "fr": "Naomi dit à Ruth : Voici, ta belle-sœur est retournée vers son peuple et vers ses dieux ; retourne chez toi comme ta belle-sœur.",
+            "en": "And she said, Behold, thy sister in law is gone back unto her people, and unto her gods: return thou after thy sister in law.",
+            "zh": "拿俄米說、看哪、你嫂子已經回他本國、和他所拜的神那裡去了、你也跟著你嫂子回去罷。",
+            "jp": "そこでナオミは言いった、「ごらんなさい。あなたの相嫁あいよめは自分じぶんの民たみと自分じぶんの神々かみがみのもとへ帰かえって行いきました。あなたも相嫁あいよめのあとについて帰かえりなさい」。",
+            "kr": "나오미가 또 이르되 보라 네 동서는 그의 백성과 그의 신들에게로 돌아가나니 너도 너의 동서를 따라 돌아가라 하니"
+          }
+        },
+        {
+          "key": "16",
+          "text": {
+            "fr": "Ruth répondit : Ne me presse pas de te laisser, de partir loin de toi ! Où tu iras j’irai, où tu demeureras je demeurerai ; ton peuple sera mon peuple et ton Dieu sera mon Dieu ;",
+            "en": "And Ruth said, Entreat me not to leave thee, or to return from following after thee: for whither thou goest, I will go; and where thou lodgest, I will lodge: thy people shall be my people, and thy God my God:",
+            "zh": "路得說、不要催我回去不跟隨你、你往那裡去、我也往那裡去．你在哪裡住宿、我也在那裡住宿．你的國就是我的國、你的　神就是我的　神．",
+            "jp": "しかしルツは言いった、「あなたを捨すて、あなたを離はなれて帰かえることをわたしに勧すすめないでください。わたしはあなたの行いかれる所ところへ行いき、またあなたの宿やどられる所ところに宿やどります。あなたの民たみはわたしの民たみ、あなたの神かみはわたしの神かみです。",
+            "kr": "룻이 이르되 내게 어머니를 떠나며 어머니를 따르지 말고 돌아가라 강권하지 마옵소서 어머니께서 가시는 곳에 나도 가고 어머니께서 머무시는 곳에서 나도 머물겠나이다 어머니의 백성이 나의 백성이 되고 어머니의 하나님이 나의 하나님이 되시리니"
+          }
+        },
+        {
+          "key": "17",
+          "text": {
+            "fr": "où tu mourras je mourrai et j’y serai enterrée. Que l’Éternel me traite dans toute sa rigueur si autre chose que la mort vient à me séparer de toi !",
+            "en": "Where thou diest, will I die, and there will I be buried: the Lord do so to me, and more also, if ought but death part thee and me.",
+            "zh": "你在那裡死、我也在那裡死、也葬在那裡．除非死能使你我相離、不然、願耶和華重重地降罰與我。",
+            "jp": "あなたの死しなれる所ところでわたしも死しんで、そのかたわらに葬ほうむられます。もし死しに別わかれでなく、わたしがあなたと別わかれるならば、主しゅよ、どうぞわたしをいくえにも罰ばっしてください」。",
+            "kr": "어머니께서 죽으시는 곳에서 나도 죽어 거기 묻힐 것이라 만일 내가 죽는 일 외에 어머니를 떠나면 여호와께서 내게 벌을 내리시고 더 내리시기를 원하나이다 하는지라"
+          }
+        },
+        {
+          "key": "18",
+          "text": {
+            "fr": "Naomi, la voyant décidée à partir avec elle, cessa ses instances.",
+            "en": "When she saw that she was steadfastly minded to go with her, then she left speaking unto her.",
+            "zh": "拿俄米見路得定意要跟隨自己去、就不再勸他了。",
+            "jp": "ナオミはルツが自分じぶんと一緒いっしょに行いこうと、固かたく決心けっしんしているのを見みたので、そのうえ言いうことをやめた。",
+            "kr": "나오미가 룻이 자기와 함께 가기로 굳게 결심함을 보고 그에게 말하기를 그치니라"
+          }
+        },
+        {
+          "key": "19",
+          "text": {
+            "fr": "Elles firent ensemble le voyage jusqu’à leur arrivée à Bethléhem. Et lorsqu’elles entrèrent dans Bethléhem, toute la ville fut émue à cause d’elles et les femmes disaient : Est-ce là Naomi ?",
+            "en": "¶ So they two went until they came to Beth-lehem. And it came to pass, when they were come to Beth-lehem, that all the city was moved about them, and they said, Is this Naomi?",
+            "zh": "於是二人同行、來到伯利恆、他們到了伯利恆、合城的人就都驚訝、婦女們說、這是拿俄米麼。",
+            "jp": "そしてふたりは旅たびをつづけて、ついにベツレヘムに着ついた。彼かれらがベツレヘムに着ついたとき、町まちはこぞって彼かれらのために騒さわぎたち、女おんなたちは言いった、「これはナオミですか」。",
+            "kr": "이에 그 두 사람이 베들레헴까지 갔더라 베들레헴에 이를 때에 온 성읍이 그들로 말미암아 떠들며 이르기를 이이가 나오미냐 하는지라"
+          }
+        },
+        {
+          "key": "20",
+          "text": {
+            "fr": "Elle leur dit : Ne m’appelez pas Naomi ; appelez-moi Mara, car le Tout-Puissant m’a remplie d’amertume.",
+            "en": "And she said unto them, Call me not Naomi, call me Mara: for the Almighty hath dealt very bitterly with me.",
+            "zh": "拿俄米對他們說、不要叫我拿俄米、〔拿俄米就是甜的意思〕要叫我瑪拉、〔瑪拉就是苦的意思〕因為全能者使我受了大苦。",
+            "jp": "ナオミは彼かれらに言いった、「わたしをナオミ（楽たのしみ）と呼よばずに、マラ（苦くるしみ）と呼よんでください。なぜなら全能者ぜんのうしゃがわたしをひどく苦くるしめられたからです。",
+            "kr": "나오미가 그들에게 이르되 나를 나오미라 부르지 말고 나를 마라라 부르라 이는 전능자가 나를 심히 괴롭게 하셨음이니라"
+          }
+        },
+        {
+          "key": "21",
+          "text": {
+            "fr": "J’étais dans l’abondance à mon départ et l’Éternel me ramène les mains vides. Pourquoi m’appelleriez-vous Naomi, puisque l’Éternel s’est prononcé contre moi et le Tout-Puissant m’a affligée ?",
+            "en": "I went out full, and the Lord hath brought me home again empty: why then call ye me Naomi, seeing the Lord hath testified against me, and the Almighty hath afflicted me?",
+            "zh": "我滿滿的出去、耶和華使我空空的回來、耶和華降禍與我、全能者使我受苦、既是這樣、你們為何還叫我拿俄米呢。",
+            "jp": "わたしは出でて行いくときは豊ゆたかでありましたが、主しゅはわたしをから手てで帰かえされました。主しゅがわたしを悩なやまし、全能者ぜんのうしゃがわたしに災わざわいをくだされたのに、どうしてわたしをナオミと呼よぶのですか」。",
+            "kr": "내가 풍족하게 나갔더니 여호와께서 내게 비어 돌아오게 하셨느니라 여호와께서 나를 징벌하셨고 전능자가 나를 괴롭게 하셨거늘 너희가 어찌 나를 나오미라 부르느냐 하니라"
+          }
+        },
+        {
+          "key": "22",
+          "text": {
+            "fr": "Ainsi revinrent du pays de Moab, Naomi et sa belle-fille, Ruth la Moabite. Elles arrivèrent à Bethléhem au commencement de la moisson de l’orge.",
+            "en": "So Naomi returned, and Ruth the Moabitess, her daughter in law, with her, which returned out of the country of Moab: and they came to Beth-lehem in the beginning of barley harvest.",
+            "zh": "拿俄米和他兒婦摩押女子路得、從摩押地回來到伯利恆、正是動手割大麥的時候。",
+            "jp": "こうしてナオミは、モアブの地ちから帰かえった嫁よめ、モアブの女おんなルツと一緒いっしょに帰かえってきて、大麦おおむぎ刈かりの初はじめにベツレヘムに着ついた。",
+            "kr": "나오미가 모압 지방에서 그의 며느리 모압 여인 룻과 함께 돌아왔는데 그들이 보리 추수 시작할 때에 베들레헴에 이르렀더라"
+          }
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "introduction": {
+        "fr": "Ruth va glaner dans les champs de Boaz, parent proche de Naomi. Il traite Ruth avec bonté.",
+        "en": "Ruth gleans in the fields of Boaz, a near relative of Naomi—He treats Ruth kindly.",
+        "zh": "Ruth gleans in the fields of Boaz, a near relative of Naomi—He treats Ruth kindly.",
+        "jp": "Ruth gleans in the fields of Boaz, a near relative of Naomi—He treats Ruth kindly.",
+        "kr": "Ruth gleans in the fields of Boaz, a near relative of Naomi—He treats Ruth kindly."
+      },
+      "verses": [
+        {
+          "key": "1",
+          "text": {
+            "fr": "Naomi avait un parent de son mari. C’était un homme puissant et riche, de la famille d’Élimélec, et qui se nommait Boaz.",
+            "en": "And Naomi had a kinsman of her husband’s, a mighty man of wealth, of the family of Elimelech; and his name was Boaz.",
+            "zh": "拿俄米的丈夫以利米勒的親族中、有一個人名叫波阿斯、是個大財主。",
+            "jp": "さてナオミには、夫おっとエリメレクの一族いちぞくで、非常ひじょうに裕福ゆうふくなひとりの親戚しんせきがあって、その名なをボアズといった。",
+            "kr": "나오미의 남편 엘리멜렉의 친족으로 유력한 자가 있으니 그의 이름은 보아스더라"
+          }
+        },
+        {
+          "key": "2",
+          "text": {
+            "fr": "Ruth la Moabite dit à Naomi : Laisse-moi, je te prie, aller glaner des épis dans le champ de celui aux yeux duquel je trouverai grâce. Elle lui répondit : Va, ma fille.",
+            "en": "And Ruth the Moabitess said unto Naomi, Let me now go to the field, and glean ears of corn after him in whose sight I shall find grace. And she said unto her, Go, my daughter.",
+            "zh": "摩押女子路得對拿俄米說、容我往田間去、我蒙誰的恩、就在誰的身後拾取麥穗、拿俄米說、女兒阿、你只管去。",
+            "jp": "モアブの女おんなルツはナオミに言いった、「どうぞ、わたしを畑はたけに行いかせてください。だれか親切しんせつな人ひとが見当みあたるならば、わたしはその方かたのあとについて落おち穂ぼを拾ひろいます」。ナオミが彼女かのじょに「娘むすめよ、行いきなさい」と言いったので、",
+            "kr": "모압 여인 룻이 나오미에게 이르되 원하건대 내가 밭으로 가서 내가 누구에게 은혜를 입으면 그를 따라서 이삭을 줍겠나이다 하니 나오미가 그에게 이르되 내 딸아 갈지어다 하매"
+          }
+        },
+        {
+          "key": "3",
+          "text": {
+            "fr": "Elle alla glaner dans un champ, derrière les moissonneurs. Et il se trouva par hasard que la parcelle de terre appartenait à Boaz, qui était de la famille d’Élimélec.",
+            "en": "And she went, and came, and gleaned in the field after the reapers: and her hap was to light on a part of the field belonging unto Boaz, who was of the kindred of Elimelech.",
+            "zh": "路得就去了、來到田間、在收割的人身後拾取麥穗、他恰巧到了以利米勒本族的人波阿斯那塊田裡。",
+            "jp": "ルツは行いって、刈かる人ひとたちのあとに従したがい、畑はたけで落おち穂ぼを拾ひろったが、彼女かのじょははからずもエリメレクの一族いちぞくであるボアズの畑はたけの部分ぶぶんにきた。",
+            "kr": "룻이 가서 베는 자를 따라 밭에서 이삭을 줍는데 우연히 엘리멜렉의 친족 보아스에게 속한 밭에 이르렀더라"
+          }
+        },
+        {
+          "key": "4",
+          "text": {
+            "fr": "Et voici, Boaz vint de Bethléhem et il dit aux moissonneurs : Que l’Éternel soit avec vous ! Ils lui répondirent : Que l’Éternel te bénisse !",
+            "en": "¶ And, behold, Boaz came from Beth-lehem, and said unto the reapers, The Lord be with you. And they answered him, The Lord bless thee.",
+            "zh": "波阿斯正從伯利恆來、對收割的人說、願耶和華與你們同在．他們回答說、願耶和華賜福與你。",
+            "jp": "その時ときボアズは、ベツレヘムからきて、刈かる者ものどもに言いった、「主しゅがあなたがたと共ともにおられますように」。彼かれらは答こたえた、「主しゅがあなたを祝福しゅくふくされますように」。",
+            "kr": "마침 보아스가 베들레헴에서부터 와서 베는 자들에게 이르되 여호와께서 너희와 함께 하시기를 원하노라 하니 그들이 대답하되 여호와께서 당신에게 복 주시기를 원하나이다 하니라"
+          }
+        },
+        {
+          "key": "5",
+          "text": {
+            "fr": "Et Boaz dit à son serviteur chargé de surveiller les moissonneurs : À qui est cette jeune femme ?",
+            "en": "Then said Boaz unto his servant that was set over the reapers, Whose damsel is this?",
+            "zh": "波阿斯問監管收割的僕人說、那是誰家的女子。",
+            "jp": "ボアズは刈かる人ひとたちを監督かんとくしているしもべに言いった、「これはだれの娘むすめですか」。",
+            "kr": "보아스가 베는 자들을 거느린 사환에게 이르되 이는 누구의 소녀냐 하니"
+          }
+        },
+        {
+          "key": "6",
+          "text": {
+            "fr": "Le serviteur chargé de surveiller les moissonneurs répondit : C’est une jeune femme Moabite qui est revenue avec Naomi du pays de Moab.",
+            "en": "And the servant that was set over the reapers answered and said, It is the Moabitish damsel that came back with Naomi out of the country of Moab:",
+            "zh": "監管收割的僕人回答說、是那摩押女子、跟隨拿俄米從摩押地回來的。",
+            "jp": "刈かる人ひとたちを監督かんとくしているしもべは答こたえた、「あれはモアブの女おんなで、モアブの地ちからナオミと一緒いっしょに帰かえってきたのですが、",
+            "kr": "베는 자를 거느린 사환이 대답하여 이르되 이는 나오미와 함께 모압 지방에서 돌아온 모압 소녀인데"
+          }
+        },
+        {
+          "key": "7",
+          "text": {
+            "fr": "Elle a dit : Permettez-moi de glaner et de ramasser des épis entre les gerbes, derrière les moissonneurs. Et depuis son arrivée ce matin, elle a été debout jusqu’à présent et ne s’est reposée qu’un moment dans la maison.",
+            "en": "And she said, I pray you, let me glean and gather after the reapers among the sheaves: so she came, and hath continued even from the morning until now, that she tarried a little in the house.",
+            "zh": "他說、請你容我跟著收割的人、拾取打捆剩下的麥穗、他從早晨直到如今、除了在屋子裡坐一會兒、常在這裡。",
+            "jp": "彼女かのじょは『どうぞ、わたしに、刈かる人ひとたちのあとについて、束たばのあいだで、落おち穂ぼを拾ひろい集あつめさせてください』と言いいました。そして彼女かのじょは朝あさ早はやくきて、今いままで働はたらいて、少すこしのあいだも休やすみませんでした」。",
+            "kr": "그의 말이 나로 베는 자를 따라 단 사이에서 이삭을 줍게 하소서 하였고 아침부터 와서는 잠시 집에서 쉰 외에 지금까지 계속하는 중이니이다"
+          }
+        },
+        {
+          "key": "8",
+          "text": {
+            "fr": "Boaz dit à Ruth : Écoute, ma fille, ne va pas glaner dans un autre champ ; ne t’éloigne pas d’ici et reste avec mes servantes.",
+            "en": "Then said Boaz unto Ruth, Hearest thou not, my daughter? Go not to glean in another field, neither go from hence, but abide here fast by my maidens:",
+            "zh": "波阿斯對路得說、女兒阿、聽我說、不要往別人田裡拾取麥穗、也不要離開這裡、要常與我使女們在一處。",
+            "jp": "ボアズはルツに言いった、「娘むすめよ、お聞ききなさい。ほかの畑はたけに穂ほを拾ひろいに行いってはいけません。またここを去さってはなりません。わたしのところで働はたらく女おんなたちを離はなれないで、ここにいなさい。",
+            "kr": "보아스가 룻에게 이르되 내 딸아 들으라 이삭을 주우러 다른 밭으로 가지 말며 여기서 떠나지 말고 나의 소녀들과 함께 있으라"
+          }
+        },
+        {
+          "key": "9",
+          "text": {
+            "fr": "Regarde où l’on moissonne dans le champ et va après elles. J’ai défendu à mes serviteurs de te toucher. Et quand tu auras soif, tu iras aux vases et tu boiras ce que les serviteurs auront puisé.",
+            "en": "Let thine eyes be on the field that they do reap, and go thou after them: have I not charged the young men that they shall not touch thee? and when thou art athirst, go unto the vessels, and drink of that which the young men have drawn.",
+            "zh": "我的僕人在那塊田收割、你就跟著他們去、我已經吩咐僕人不可欺負你、你若渴了、就可以到器皿那裡喝僕人打來的水。",
+            "jp": "人々ひとびとが刈かりとっている畑はたけに目めをとめて、そのあとについて行いきなさい。わたしは若者わかものたちに命めいじて、あなたのじゃまをしないようにと、言いっておいたではありませんか。あなたがかわく時ときには水みずがめのところへ行いって、若者わかものたちのくんだのを飲のみなさい」。",
+            "kr": "그들이 베는 밭을 보고 그들을 따르라 내가 그 소년들에게 명령하여 너를 건드리지 말라 하였느니라 목이 마르거든 그릇에 가서 소년들이 길어 온 것을 마실지니라 하는지라"
+          }
+        },
+        {
+          "key": "10",
+          "text": {
+            "fr": "Alors elle se prosterna face contre terre et elle lui dit : Comment ai-je trouvé grâce à tes yeux pour que tu t’intéresses à moi, à moi qui suis une étrangère ?",
+            "en": "Then she fell on her face, and bowed herself to the ground, and said unto him, Why have I found grace in thine eyes, that thou shouldest take knowledge of me, seeing I am a stranger?",
+            "zh": "路得就俯伏在地叩拜、對他說、我既是外邦人、怎麼蒙你的恩、這樣顧恤我呢。",
+            "jp": "彼女かのじょは地ちに伏ふして拝はいし、彼かれに言いった、「どうしてあなたは、わたしのような外国がいこく人じんを顧かえりみて、親切しんせつにしてくださるのですか」。",
+            "kr": "룻이 엎드려 얼굴을 땅에 대고 절하며 그에게 이르되 나는 이방 여인이거늘 당신이 어찌하여 내게 은혜를 베푸시며 나를 돌보시나이까 하니"
+          }
+        },
+        {
+          "key": "11",
+          "text": {
+            "fr": "Boaz lui répondit : On m’a rapporté tout ce que tu as fait pour ta belle-mère depuis la mort de ton mari, et comment tu as quitté ton père et ta mère et le pays de ta naissance pour aller vers un peuple que tu ne connaissais pas auparavant.",
+            "en": "And Boaz answered and said unto her, It hath fully been shewed me, all that thou hast done unto thy mother in law since the death of thine husband: and how thou hast left thy father and thy mother, and the land of thy nativity, and art come unto a people which thou knewest not heretofore.",
+            "zh": "波阿斯回答說、自從你丈夫死後、凡你向婆婆所行的、並你離開父母和本地、到素不認識的民中、這些事人全都告訴我了。",
+            "jp": "ボアズは答こたえて彼女かのじょに言いった、「あなたの夫おっとが死しんでこのかた、あなたがしゅうとめにつくしたこと、また自分じぶんの父母ふぼと生うまれた国くにを離はなれて、かつて知しらなかった民たみのところにきたことは皆みなわたしに聞きこえました。",
+            "kr": "보아스가 그에게 대답하여 이르되 네 남편이 죽은 후로 네가 시어머니에게 행한 모든 것과 네 부모와 고국을 떠나 전에 알지 못하던 백성에게로 온 일이 내게 분명히 알려졌느니라"
+          }
+        },
+        {
+          "key": "12",
+          "text": {
+            "fr": "Que l’Éternel te rende ce que tu as fait et que ta récompense soit entière de la part de l’Éternel, le Dieu d’Israël, sous les ailes duquel tu es venue te réfugier !",
+            "en": "The Lord recompense thy work, and a full reward be given thee of the Lord God of Israel, under whose wings thou art come to trust.",
+            "zh": "願耶和華照你所行的賞賜你、你來投靠耶和華以色列　神的翅膀下、願你滿得他的賞賜。",
+            "jp": "どうぞ、主しゅがあなたのしたことに報むくいられるように。どうぞ、イスラエルの神かみ、主しゅ、すなわちあなたがその翼つばさの下したに身みを寄よせようとしてきた主しゅからじゅうぶんの報むくいを得えられるように」。",
+            "kr": "여호와께서 네가 행한 일에 보답하시기를 원하며 이스라엘의 하나님 여호와께서 그의 날개 아래에 보호를 받으러 온 네게 온전한 상 주시기를 원하노라 하는지라"
+          }
+        },
+        {
+          "key": "13",
+          "text": {
+            "fr": "Et elle dit : Oh ! que je trouve grâce à tes yeux, mon seigneur ! Car tu m’as consolée et tu as parlé au cœur de ta servante. Et pourtant je ne suis pas, moi, comme l’une de tes servantes.",
+            "en": "Then she said, Let me find favour in thy sight, my lord; for that thou hast comforted me, and for that thou hast spoken friendly unto thine handmaid, though I be not like unto one of thine handmaidens.",
+            "zh": "路得說、我主阿、願在你眼前蒙恩、我雖然不及你的一個使女、你還用慈愛的話安慰我的心。",
+            "jp": "彼女かのじょは言いった、「わが主しゅよ、まことにありがとうございます。わたしはあなたのはしためのひとりにも及およばないのに、あなたはこんなにわたしを慰なぐさめ、はしためにねんごろに語かたられました」。",
+            "kr": "룻이 이르되 내 주여 내가 당신께 은혜 입기를 원하나이다 나는 당신의 하녀 중의 하나와도 같지 못하오나 당신이 이 하녀를 위로하시고 마음을 기쁘게 하는 말씀을 하셨나이다 하니라"
+          }
+        },
+        {
+          "key": "14",
+          "text": {
+            "fr": "Au moment du repas, Boaz dit à Ruth : Approche, mange du pain, et trempe ton morceau dans le vinaigre. Elle s’assit à côté des moissonneurs. Il lui donna du grain grillé ; elle mangea et se rassasia, et elle garda le reste.",
+            "en": "And Boaz said unto her, At mealtime come thou hither, and eat of the bread, and dip thy morsel in the vinegar. And she sat beside the reapers: and he reached her parched corn, and she did eat, and was sufficed, and left.",
+            "zh": "到了喫飯的時候、波阿斯對路得說、你到這裡來喫餅、將餅蘸在醋裡。路得就在收割的人旁邊坐下、他們把烘了的穗子遞給他、他喫飽了、還有餘剩的。",
+            "jp": "食事しょくじの時とき、ボアズは彼女かのじょに言いった、「ここへきて、パンを食たべ、あなたの食たべる物ものを酢すに浸ひたしなさい」。彼女かのじょが刈かる人々ひとびとのかたわらにすわったので、ボアズは焼麦やきむぎを彼女かのじょに与あたえた。彼女かのじょは飽あきるほど食たべて残のこした。",
+            "kr": "식사할 때에 보아스가 룻에게 이르되 이리로 와서 떡을 먹으며 네 떡 조각을 초에 찍으라 하므로 룻이 곡식 베는 자 곁에 앉으니 그가 볶은 곡식을 주매 룻이 배불리 먹고 남았더라"
+          }
+        },
+        {
+          "key": "15",
+          "text": {
+            "fr": "Puis elle se leva pour glaner. Boaz donna cet ordre à ses serviteurs : Qu’elle glane aussi entre les gerbes et ne l’inquiétez pas,",
+            "en": "And when she was risen up to glean, Boaz commanded his young men, saying, Let her glean even among the sheaves, and reproach her not:",
+            "zh": "他起來又拾取麥穗、波阿斯吩咐僕人說、他就是在捆中拾取麥穗也可以容他、不可羞辱他。",
+            "jp": "そして彼女かのじょがまた穂ほを拾ひろおうと立たちあがったとき、ボアズは若者わかものたちに命めいじて言いった、「彼女かのじょには束たばの間あいだでも穂ほを拾ひろわせなさい。とがめてはならない。",
+            "kr": "룻이 이삭을 주우러 일어날 때에 보아스가 자기 소년들에게 명령하여 이르되 그에게 곡식 단 사이에서 줍게 하고 책망하지 말며"
+          }
+        },
+        {
+          "key": "16",
+          "text": {
+            "fr": "et même vous ôterez pour elle des gerbes quelques épis, que vous la laisserez glaner sans lui faire de reproches.",
+            "en": "And let fall also some of the handfuls of purpose for her, and leave them, that she may glean them, and rebuke her not.",
+            "zh": "並要從捆裡抽出些來、留在地下任他拾取、不可叱嚇他。",
+            "jp": "また彼女かのじょのために束たばからわざと抜ぬき落おとしておいて拾ひろわせなさい。しかってはならない」。",
+            "kr": "또 그를 위하여 곡식 다발에서 조금씩 뽑아 버려서 그에게 줍게 하고 꾸짖지 말라 하니라"
+          }
+        },
+        {
+          "key": "17",
+          "text": {
+            "fr": "Elle glana dans le champ jusqu’au soir et elle battit ce qu’elle avait glané. Il y eut environ un épha d’orge.",
+            "en": "So she gleaned in the field until even, and beat out that she had gleaned: and it was about an ephah of barley.",
+            "zh": "這樣、路得在田間拾取麥穗、直到晚上、將所拾取的打了約有一伊法大麥．",
+            "jp": "こうして彼女かのじょは夕暮ゆうぐれまで畑はたけで落おち穂ぼを拾ひろった。そして拾ひろった穂ほを打うつと、大麦おおむぎは一エパほどあった。",
+            "kr": "룻이 밭에서 저녁까지 줍고 그 주운 것을 떠니 보리가 한 에바쯤 되는지라"
+          }
+        },
+        {
+          "key": "18",
+          "text": {
+            "fr": "Elle l’emporta et rentra dans la ville, et sa belle-mère vit ce qu’elle avait glané. Elle sortit aussi les restes de son repas et les lui donna.",
+            "en": "¶ And she took it up, and went into the city: and her mother in law saw what she had gleaned: and she brought forth, and gave to her that she had reserved after she was sufficed.",
+            "zh": "他就把所拾取的帶進城去、給婆婆看、又把他喫飽了、所剩的給了婆婆。",
+            "jp": "彼女かのじょはそれを携たずさえて町まちにはいり、しゅうとめにその拾ひろったものを見みせ、かつ食たべ飽あきて、残のこして持もちかえったものを取とり出だして与あたえた。",
+            "kr": "그것을 가지고 성읍에 들어가서 시어머니에게 그 주운 것을 보이고 그가 배불리 먹고 남긴 것을 내어 시어머니에게 드리매"
+          }
+        },
+        {
+          "key": "19",
+          "text": {
+            "fr": "Sa belle-mère lui dit : Où as-tu glané aujourd’hui et où as-tu travaillé ? Béni soit celui qui s’est intéressé à toi ! Et Ruth fit savoir à sa belle-mère chez qui elle avait travaillé : L’homme chez qui j’ai travaillé aujourd’hui, dit-elle, s’appelle Boaz.",
+            "en": "And her mother in law said unto her, Where hast thou gleaned to day? and where wroughtest thou? blessed be he that did take knowledge of thee. And she shewed her mother in law with whom she had wrought, and said, The man’s name with whom I wrought to day is Boaz.",
+            "zh": "婆婆問他說、你今日在那裡拾取麥穗、在那裡作工呢、願那顧恤你的得福．路得就告訴婆婆說、我今日在一個名叫波阿斯的人那裡作工。",
+            "jp": "しゅうとめは彼女かのじょに言いった、「あなたは、きょう、どこで穂ほを拾ひろいましたか。どこで働はたらきましたか。あなたをそのように顧かえりみてくださったかたに、どうか祝福しゅくふくがあるように」。そこで彼女かのじょは自分じぶんがだれの所ところで働はたらいたかを、しゅうとめに告つげて、「わたしが、きょう働はたらいたのはボアズという名なの人ひとの所ところです」と言いった。",
+            "kr": "시어머니가 그에게 이르되 오늘 어디서 주웠느냐 어디서 일을 하였느냐 너를 돌본 자에게 복이 있기를 원하노라 하니 룻이 누구에게서 일했는지를 시어머니에게 알게 하여 이르되 오늘 일하게 한 사람의 이름은 보아스니이다 하는지라"
+          }
+        },
+        {
+          "key": "20",
+          "text": {
+            "fr": "Naomi dit à sa belle-fille : Qu’il soit béni de l’Éternel, qui se montre miséricordieux pour les vivants comme il le fut pour ceux qui sont morts ! Cet homme est notre parent, lui dit encore Naomi, il est de ceux qui ont sur nous droit de rachat.",
+            "en": "And Naomi said unto her daughter in law, Blessed be he of the Lord, who hath not left off his kindness to the living and to the dead. And Naomi said unto her, The man is near of kin unto us, one of our next kinsmen.",
+            "zh": "拿俄米對兒婦說、願那人蒙耶和華賜福、因為他不斷的恩待活人死人．拿俄米又說、那是我們本族的人、是一個至近的親屬。",
+            "jp": "ナオミは嫁よめに言いった、「生いきている者ものをも、死しんだ者ものをも、顧かえりみて、いつくしみを賜たまわる主しゅが、どうぞその人ひとを祝福しゅくふくされますように」。ナオミはまた彼女かのじょに言いった、「その人ひとはわたしたちの縁者えんじゃで、最もっとも近ちかい親戚しんせきのひとりです」。",
+            "kr": "나오미가 자기 며느리에게 이르되 그가 여호와로부터 복 받기를 원하노라 그가 살아 있는 자와 죽은 자에게 은혜 베풀기를 그치지 아니하도다 하고 나오미가 또 그에게 이르되 그 사람은 우리와 가까우니 우리 기업을 무를 자 중의 하나이니라 하니라"
+          }
+        },
+        {
+          "key": "21",
+          "text": {
+            "fr": "Ruth la Moabite ajouta : Il m’a dit aussi : Reste avec mes serviteurs jusqu’à ce qu’ils aient achevé toute ma moisson.",
+            "en": "And Ruth the Moabitess said, He said unto me also, Thou shalt keep fast by my young men, until they have ended all my harvest.",
+            "zh": "摩押女子路得說、他對我說、你要緊隨我的僕人拾取麥穗、直等他們收完了我的莊稼。",
+            "jp": "モアブの女おんなルツは言いった、「その人ひとはまたわたしに『あなたはわたしのところの刈入かりいれが全部ぜんぶ終おわるまで、わたしのしもべたちのそばについていなさい』と言いいました」。",
+            "kr": "모압 여인 룻이 이르되 그가 내게 또 이르기를 내 추수를 다 마치기까지 너는 내 소년들에게 가까이 있으라 하더이다 하니"
+          }
+        },
+        {
+          "key": "22",
+          "text": {
+            "fr": "Et Naomi dit à Ruth, sa belle-fille : Il est bon, ma fille, que tu sortes avec ses servantes et qu’on ne te rencontre pas dans un autre champ.",
+            "en": "And Naomi said unto Ruth her daughter in law, It is good, my daughter, that thou go out with his maidens, that they meet thee not in any other field.",
+            "zh": "拿俄米對兒婦路得說、女兒阿、你跟著他的使女出去、不叫人遇見你在別人田間、這纔為好。",
+            "jp": "ナオミは嫁よめルツに言いった、「娘むすめよ、その人ひとのところで働はたらく女おんなたちと一緒いっしょに出でかけるのはけっこうです。そうすればほかの畑はたけで人ひとにいじめられるのを免まぬかれるでしょう」。",
+            "kr": "나오미가 며느리 룻에게 이르되 내 딸아 너는 그의 소녀들과 함께 나가고 다른 밭에서 사람을 만나지 아니하는 것이 좋으니라 하는지라"
+          }
+        },
+        {
+          "key": "23",
+          "text": {
+            "fr": "Elle resta donc avec les servantes de Boaz pour glaner jusqu’à la fin de la moisson del’orge et de la moisson du froment. Et elle demeurait avec sa belle-mère.",
+            "en": "So she kept fast by the maidens of Boaz to glean unto the end of barley harvest and of wheat harvest; and dwelt with her mother in law.",
+            "zh": "於是路得與波阿斯的使女、常在一處拾取麥穗、直到收完了大麥和小麥．路得仍與婆婆同住。",
+            "jp": "それで彼女かのじょはボアズのところで働はたらく女おんなたちのそばについていて穂ほを拾ひろい、大麦おおむぎ刈かりと小麦こむぎ刈かりの終おわるまでそうした。こうして彼女かのじょはしゅうとめと一緒いっしょに暮くらした。",
+            "kr": "이에 룻이 보아스의 소녀들에게 가까이 있어서 보리 추수와 밀 추수를 마치기까지 이삭을 주우며 그의 시어머니와 함께 거주하니라"
+          }
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "introduction": {
+        "fr": "Selon les instructions de Naomi, Ruth se couche aux pieds de Boaz. En tant que proche parent, il promet de la prendre pour femme.",
+        "en": "By Naomi’s instruction, Ruth lies at the feet of Boaz—He promises as a relative to take her as his wife.",
+        "zh": "By Naomi’s instruction, Ruth lies at the feet of Boaz—He promises as a relative to take her as his wife.",
+        "jp": "By Naomi’s instruction, Ruth lies at the feet of Boaz—He promises as a relative to take her as his wife.",
+        "kr": "By Naomi’s instruction, Ruth lies at the feet of Boaz—He promises as a relative to take her as his wife."
+      },
+      "verses": [
+        {
+          "key": "1",
+          "text": {
+            "fr": "Naomi, sa belle-mère, lui dit : Ma fille, je voudrais assurer ton repos afin que tu sois heureuse.",
+            "en": "Then Naomi her mother in law said unto her, My daughter, shall I not seek rest for thee, that it may be well with thee?",
+            "zh": "路得的婆婆拿俄米對他說、女兒阿、我不當為你找個安身之處、使你享福麼．",
+            "jp": "時ときにしゅうとめナオミは彼女かのじょに言いった、「娘むすめよ、わたしはあなたの落おち着つき所どころを求もとめて、あなたをしあわせにすべきではないでしょうか。",
+            "kr": "룻의 시어머니 나오미가 그에게 이르되 내 딸아 내가 너를 위하여 안식할 곳을 구하여 너를 복되게 하여야 하지 않겠느냐"
+          }
+        },
+        {
+          "key": "2",
+          "text": {
+            "fr": "Et maintenant Boaz, avec les servantes duquel tu as été, n’est-il pas notre parent ? Voici, il doit vanner cette nuit l’orge qui est dans l’aire.",
+            "en": "And now is not Boaz of our kindred, with whose maidens thou wast? Behold, he winnoweth barley to night in the threshingfloor.",
+            "zh": "你與波阿斯的使女常在一處、波阿斯不是我們的親族麼．他今夜在場上簸大麥、",
+            "jp": "あなたが一緒いっしょに働はたらいた女おんなたちの主人しゅじんボアズはわたしたちの親戚しんせきではありませんか。彼かれは今夜こんや、打うち場ばで大麦おおむぎをあおぎ分わけます。",
+            "kr": "네가 함께 하던 하녀들을 둔 보아스는 우리의 친족이 아니냐 보라 그가 오늘 밤에 타작 마당에서 보리를 까불리라"
+          }
+        },
+        {
+          "key": "3",
+          "text": {
+            "fr": "Lave-toi et oins-toi, puis remets tes habits et descends à l’aire. Tu ne te feras pas connaître à lui jusqu’à ce qu’il ait achevé de manger et de boire.",
+            "en": "Wash thyself therefore, and anoint thee, and put thy raiment upon thee, and get thee down to the floor: but make not thyself known unto the man, until he shall have done eating and drinking.",
+            "zh": "你要沐浴抹膏、換上衣服、下到場上、卻不要使那人認出你來、你等他喫喝完了、",
+            "jp": "それであなたは身みを洗あらって油あぶらをぬり、晴はれ着ぎをまとって打うち場ばに下くだって行いきなさい。ただ、あなたはその人ひとが飲のみ食くいを終おわるまで、その人ひとに知しられてはなりません。",
+            "kr": "그런즉 너는 목욕하고 기름을 바르고 의복을 입고 타작 마당에 내려가서 그 사람이 먹고 마시기를 다 하기까지는 그에게 보이지 말고"
+          }
+        },
+        {
+          "key": "4",
+          "text": {
+            "fr": "Et quand il ira se coucher, observe le lieu où il se couche. Ensuite va, découvre ses pieds et couche-toi. Il te dira lui-même ce que tu devras faire.",
+            "en": "And it shall be, when he lieth down, that thou shalt mark the place where he shall lie, and thou shalt go in, and uncover his feet, and lay thee down; and he will tell thee what thou shalt do.",
+            "zh": "到他睡的時候、你看準他睡的地方、就進去掀開他腳上的被、躺臥在那裡、他必告訴你所當作的事。",
+            "jp": "そしてその人ひとが寝ねる時とき、その寝ねる場所ばしょを見定みさだめ、はいって行いって、その足あしの所ところをまくって、そこに寝ねなさい。彼かれはあなたのすべきことを知しらせるでしょう」。",
+            "kr": "그가 누울 때에 너는 그가 눕는 곳을 알았다가 들어가서 그의 발치 이불을 들고 거기 누우라 그가 네 할 일을 네게 알게 하리라 하니"
+          }
+        },
+        {
+          "key": "5",
+          "text": {
+            "fr": "Elle lui répondit : Je ferai tout ce que tu as dit.",
+            "en": "And she said unto her, All that thou sayest unto me I will do.",
+            "zh": "路得說、凡你所吩咐的我必遵行。",
+            "jp": "ルツはしゅうとめに言いった、「あなたのおっしゃることを皆みないたしましょう」。",
+            "kr": "룻이 시어머니에게 이르되 어머니의 말씀대로 내가 다 행하리이다 하니라"
+          }
+        },
+        {
+          "key": "6",
+          "text": {
+            "fr": "Elle descendit à l’aire et fit tout ce qu’avait ordonné sa belle-mère.",
+            "en": "¶ And she went down unto the floor, and did according to all that her mother in law bade her.",
+            "zh": "路得就下到場上、照他婆婆所吩咐他的而行。",
+            "jp": "こうして彼女かのじょは打うち場ばに下くだり、すべてしゅうとめが命めいじたとおりにした。",
+            "kr": "그가 타작 마당으로 내려가서 시어머니의 명령대로 다 하니라"
+          }
+        },
+        {
+          "key": "7",
+          "text": {
+            "fr": "Boaz mangea et but, et son cœur était joyeux. Il alla se coucher à l’extrémité d’un tas de gerbes. Ruth vint alors tout doucement, découvrit ses pieds et se coucha.",
+            "en": "And when Boaz had eaten and drunk, and his heart was merry, he went to lie down at the end of the heap of corn: and she came softly, and uncovered his feet, and laid her down.",
+            "zh": "波阿斯喫喝完了、心裡歡暢、就去睡在麥堆旁邊．路得便悄悄的來掀開他腳上的被、躺臥在那裡。",
+            "jp": "ボアズは飲のみ食くいして、心こころをたのしませたあとで、麦むぎを積つんである場所ばしょのかたわらへ行いって寝ねた。そこで彼女かのじょはひそかに行いき、ボアズの足あしの所ところをまくって、そこに寝ねた。",
+            "kr": "보아스가 먹고 마시고 마음이 즐거워 가서 곡식 단 더미의 끝에 눕는지라 룻이 가만히 가서 그의 발치 이불을 들고 거기 누웠더라"
+          }
+        },
+        {
+          "key": "8",
+          "text": {
+            "fr": "Au milieu de la nuit, cet homme eut une frayeur ; il se pencha et voici, une femme était couchée à ses pieds.",
+            "en": "¶ And it came to pass at midnight, that the man was afraid, and turned himself: and, behold, a woman lay at his feet.",
+            "zh": "到了夜半、那人忽然驚醒、翻過身來、不料有女子躺在他的腳下．",
+            "jp": "夜中よなかになって、その人ひとは驚おどろき、起おきかえって見みると、ひとりの女おんなが足あしのところに寝ねていたので、",
+            "kr": "밤중에 그가 놀라 몸을 돌이켜 본즉 한 여인이 자기 발치에 누워 있는지라"
+          }
+        },
+        {
+          "key": "9",
+          "text": {
+            "fr": "Il dit : Qui es-tu ? Elle répondit : Je suis Ruth, ta servante ; étends ton aile sur ta servante car tu as droit de rachat.",
+            "en": "And he said, Who art thou? And she answered, I am Ruth thine handmaid: spread therefore thy skirt over thine handmaid; for thou art a near kinsman.",
+            "zh": "他就說、你是誰、回答說、我是你的婢女路得、求你用你的衣襟遮蓋我、因為你是我一個至近的親屬。",
+            "jp": "「あなたはだれですか」と言いうと、彼女かのじょは答こたえた、「わたしはあなたのはしためルツです。あなたのすそで、はしためをおおってください。あなたは最もっとも近ちかい親戚しんせきです」。",
+            "kr": "이르되 네가 누구냐 하니 대답하되 나는 당신의 여종 룻이오니 당신의 옷자락을 펴 당신의 여종을 덮으소서 이는 당신이 기업을 무를 자가 됨이니이다 하니"
+          }
+        },
+        {
+          "key": "10",
+          "text": {
+            "fr": "Et il dit : Sois bénie de l’Éternel, ma fille ! Ce dernier trait témoigne encore plus en ta faveur que le premier, car tu n’as pas recherché des jeunes gens, pauvres ou riches.",
+            "en": "And he said, Blessed be thou of the Lord, my daughter: for thou hast shewed more kindness in the latter end than at the beginning, inasmuch as thou followedst not young men, whether poor or rich.",
+            "zh": "波阿斯說、女兒阿、願你蒙耶和華賜福、你末後的恩比先前更大、因為少年人無論貧富、你都沒有跟從．",
+            "jp": "ボアズは言いった、「娘むすめよ、どうぞ、主しゅがあなたを祝福しゅくふくされるように。あなたは貧富ひんぷにかかわらず若わかい人ひとに従したがい行ゆくことはせず、あなたが最後さいごに示しめしたこの親切しんせつは、さきに示しめした親切しんせつにまさっています。",
+            "kr": "그가 이르되 내 딸아 여호와께서 네게 복 주시기를 원하노라 네가 가난하건 부하건 젊은 자를 따르지 아니하였으니 네가 베푼 인애가 처음보다 나중이 더하도다"
+          }
+        },
+        {
+          "key": "11",
+          "text": {
+            "fr": "Maintenant, ma fille, ne crains pas ; je ferai pour toi tout ce que tu diras ; car tout le monde ici sait que tu es une femme vertueuse.",
+            "en": "And now, my daughter, fear not; I will do to thee all that thou requirest: for all the city of my people doth know that thou art a virtuous woman.",
+            "zh": "女兒阿、現在不要懼怕、凡你所說的、我必照著行、我本城的人都知道你是個賢德的女子。",
+            "jp": "それで、娘むすめよ、あなたは恐おそれるにおよびません。あなたが求もとめることは皆みな、あなたのためにいたしましょう。わたしの町まちの人々ひとびとは皆みな、あなたがりっぱな女おんなであることを知しっているからです。",
+            "kr": "그리고 이제 내 딸아 두려워하지 말라 내가 네 말대로 네게 다 행하리라 네가 현숙한 여자인 줄을 나의 성읍 백성이 다 아느니라"
+          }
+        },
+        {
+          "key": "12",
+          "text": {
+            "fr": "Il est bien vrai que j’ai droit de rachat mais il en existe un autre plus proche que moi.",
+            "en": "And now it is true that I am thy near kinsman: howbeit there is a kinsman nearer than I.",
+            "zh": "我實在是你一個至近的親屬、只是還有一個人比我更近。",
+            "jp": "たしかにわたしは近ちかい親戚しんせきではありますが、わたしよりも、もっと近ちかい親戚しんせきがあります。",
+            "kr": "참으로 나는 기업을 무를 자이나 기업 무를 자로서 나보다 더 가까운 사람이 있으니"
+          }
+        },
+        {
+          "key": "13",
+          "text": {
+            "fr": "Passe ici la nuit. Et demain, s’il veut user envers toi du droit de rachat, à la bonne heure, qu’il le fasse ; mais s’il ne lui plaît pas d’en user envers toi, j’en userai, moi, l’Éternel est vivant ! Reste couchée jusqu’au matin.",
+            "en": "Tarry this night, and it shall be in the morning, that if he will perform unto thee the part of a kinsman, well; let him do the kinsman’s part: but if he will not do the part of a kinsman to thee, then will I do the part of a kinsman to thee, as the Lord liveth: lie down until the morning.",
+            "zh": "你今夜在這裡住宿、明早他若肯為你盡親屬的本分、就由他罷．倘若不肯、我指著永生的耶和華起誓、我必為你盡了本分、你只管躺到天亮。",
+            "jp": "今夜こんやはここにとどまりなさい。朝あさになって、もしその人ひとが、あなたのために親戚しんせきの義務ぎむをつくすならば、よろしい、その人ひとにさせなさい。しかし主しゅは生いきておられます。その人ひとが、あなたのために親戚しんせきの義務ぎむをつくすことを好このまないならば、わたしはあなたのために親戚しんせきの義務ぎむをつくしましょう。朝あさまでここにおやすみなさい」。",
+            "kr": "이 밤에 여기서 머무르라 아침에 그가 기업 무를 자의 책임을 네게 이행하려 하면 좋으니 그가 그 기업 무를 자의 책임을 행할 것이니라 만일 그가 기업 무를 자의 책임을 네게 이행하기를 기뻐하지 아니하면 여호와께서 살아 계심을 두고 맹세하노니 내가 기업 무를 자의 책임을 네게 이행하리라 아침까지 누워 있을지니라 하는지라"
+          }
+        },
+        {
+          "key": "14",
+          "text": {
+            "fr": "Elle resta couchée à ses pieds jusqu’au matin et elle se leva avant qu’on puisse se reconnaître l’un l’autre. Boaz dit : Qu’on ne sache pas qu’une femme est entrée dans l’aire.",
+            "en": "¶ And she lay at his feet until the morning: and she rose up before one could know another. And he said, Let it not be known that a woman came into the floor.",
+            "zh": "路得便在他腳下躺到天快亮、人彼此不能辨認的時候、就起來了．波阿斯說、不可使人知道有女子到場上來．",
+            "jp": "ルツは朝あさまで彼かれの足あしのところに寝ねたが、だれかれの見分みわけ難がたいころに起おきあがった。それはボアズが「この女おんなの打うち場ばにきたことが人ひとに知しられてはならない」と言いったからである。",
+            "kr": "룻이 새벽까지 그의 발치에 누웠다가 사람이 서로 알아보기 어려울 때에 일어났으니 보아스가 말하기를 여인이 타작 마당에 들어온 것을 사람이 알지 못하여야 할 것이라 하였음이라"
+          }
+        },
+        {
+          "key": "15",
+          "text": {
+            "fr": "Et il ajouta : Donne le manteau qui est sur toi et tiens-le. Elle le tint et il mesura six mesures d’orge qu’il chargea sur elle. Puis il rentra dans la ville.",
+            "en": "Also he said, Bring the veil that thou hast upon thee, and hold it. And when she held it, he measured six measures of barley, and laid it on her: and she went into the city.",
+            "zh": "又對路得說、打開你所披的外衣、他打開了、波阿斯就撮了六簸箕大麥、幫他扛在肩上、他便進城去了。",
+            "jp": "そしてボアズは言いった、「あなたの着きる外套がいとうを持もってきて、それを広ひろげなさい」。彼女かのじょがそれを広ひろげると、ボアズは大麦おおむぎ六オメルをはかって彼女かのじょに負おわせた。彼女かのじょは町まちに帰かえり、",
+            "kr": "보아스가 이르되 네 겉옷을 가져다가 그것을 펴서 잡으라 하매 그것을 펴서 잡으니 보리를 여섯 번 되어 룻에게 지워 주고 성읍으로 들어가니라"
+          }
+        },
+        {
+          "key": "16",
+          "text": {
+            "fr": "Ruth revint auprès de sa belle-mère et Naomi dit : Est-ce toi, ma fille ? Ruth lui raconta tout ce que cet homme avait fait pour elle.",
+            "en": "And when she came to her mother in law, she said, Who art thou, my daughter? And she told her all that the man had done to her.",
+            "zh": "路得回到婆婆那裡、婆婆說、女兒阿、怎麼樣了．路得就將那人向他所行的述說了一遍。",
+            "jp": "しゅうとめのところへ行いくと、しゅうとめは言いった、「娘むすめよ、どうでしたか」。そこでルツはその人ひとが彼女かのじょにしたことをことごとく告つげて、",
+            "kr": "룻이 시어머니에게 가니 그가 이르되 내 딸아 어떻게 되었느냐 하니 룻이 그 사람이 자기에게 행한 것을 다 알리고"
+          }
+        },
+        {
+          "key": "17",
+          "text": {
+            "fr": "Elle dit : Il m’a donné ces six mesures d’orge en disant : Tu ne retourneras pas à vide vers ta belle-mère.",
+            "en": "And she said, These six measures of barley gave he me; for he said to me, Go not empty unto thy mother in law.",
+            "zh": "又說、那人給了我六簸箕大麥、對我說、你不可空手回去見你的婆婆。",
+            "jp": "言いった、「あのかたはわたしに向むかって、から手てで、しゅうとめのところへ帰かえってはならないと言いって、この大麦おおむぎ六オメルをわたしにくださいました」。",
+            "kr": "이르되 그가 내게 이 보리를 여섯 번 되어 주며 이르기를 빈 손으로 네 시어머니에게 가지 말라 하더이다 하니라"
+          }
+        },
+        {
+          "key": "18",
+          "text": {
+            "fr": "Et Naomi dit : Sois tranquille, ma fille, jusqu’à ce que tu saches comment finira la chose, car cet homme ne se donnera pas de repos qu’il n’ait terminé cette affaire aujourd’hui.",
+            "en": "Then said she, Sit still, my daughter, until thou know how the matter will fall: for the man will not be in rest, until he have finished the thing this day.",
+            "zh": "婆婆說、女兒阿、你只管安坐等候、看這事怎樣成就、因為那人今日不辦成這事必不休息。",
+            "jp": "しゅうとめは言いった、「娘むすめよ、この事ことがどうなるかわかるまでお待まちなさい。あの人ひとは、きょう、その事ことを決定けっていしなければ落おち着つかないでしょう」。",
+            "kr": "이에 시어머니가 이르되 내 딸아 이 사건이 어떻게 될지 알기까지 앉아 있으라 그 사람이 오늘 이 일을 성취하기 전에는 쉬지 아니하리라 하니라"
+          }
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "introduction": {
+        "fr": "Le plus proche parent renonce au droit de rachat et Boaz épouse Ruth. Ruth enfante Obed, ancêtre du roi David.",
+        "en": "The nearest relative declines, and Boaz takes Ruth to wife—Ruth bears Obed, through whom came David the king.",
+        "zh": "The nearest relative declines, and Boaz takes Ruth to wife—Ruth bears Obed, through whom came David the king.",
+        "jp": "The nearest relative declines, and Boaz takes Ruth to wife—Ruth bears Obed, through whom came David the king.",
+        "kr": "The nearest relative declines, and Boaz takes Ruth to wife—Ruth bears Obed, through whom came David the king."
+      },
+      "verses": [
+        {
+          "key": "1",
+          "text": {
+            "fr": "Boaz monta à la porte et s’y arrêta. Or voici, celui qui avait droit de rachat et dont Boaz avait parlé vint à passer. Boaz lui dit : Approche, reste ici, toi un tel. Et il s’approcha et s’arrêta.",
+            "en": "Then went Boaz up to the gate, and sat him down there: and, behold, the kinsman of whom Boaz spake came by; unto whom he said, Ho, such a one! turn aside, sit down here. And he turned aside, and sat down.",
+            "zh": "波阿斯到了城門、坐在那裡、恰巧波阿斯所說的那至近的親屬經過．波阿斯說、某人哪、你來坐在這裡、他就來坐下．",
+            "jp": "ボアズは町まちの門もんのところへ上のぼっていって、そこにすわった。すると、さきにボアズが言いった親戚しんせきの人ひとが通とおり過すぎようとしたので、ボアズはその人ひとに言いった、「友ともよ、こちらへきて、ここにおすわりください」。彼かれはきてすわった。",
+            "kr": "보아스가 성문으로 올라가서 거기 앉아 있더니 마침 보아스가 말하던 기업 무를 자가 지나가는지라 보아스가 그에게 이르되 아무개여 이리로 와서 앉으라 하니 그가 와서 앉으매"
+          }
+        },
+        {
+          "key": "2",
+          "text": {
+            "fr": "Boaz prit alors dix hommes parmi les anciens de la ville et il dit : Asseyez-vous ici. Et ils s’assirent.",
+            "en": "And he took ten men of the elders of the city, and said, Sit ye down here. And they sat down.",
+            "zh": "波阿斯又從本城的長老中揀選了十人、對他們說、請你們坐在這裡、他們就都坐下．",
+            "jp": "ボアズはまた町まちの長老ちょうろう十人にんを招まねいて言いった、「ここにおすわりください」。彼かれらがすわった時とき、",
+            "kr": "보아스가 그 성읍 장로 열 명을 청하여 이르되 당신들은 여기 앉으라 하니 그들이 앉으매"
+          }
+        },
+        {
+          "key": "3",
+          "text": {
+            "fr": "Puis il dit à celui qui avait le droit de rachat : Naomi, revenue du pays de Moab, a vendu la parcelle de terre qui appartenait à notre frère Élimélec.",
+            "en": "And he said unto the kinsman, Naomi, that is come again out of the country of Moab, selleth a parcel of land, which was our brother Elimelech’s:",
+            "zh": "波阿斯對那至近的親屬說、從摩押地回來的拿俄米、現在要賣我們族兄以利米勒的那塊地．",
+            "jp": "ボアズは親戚しんせきの人ひとに言いった、「モアブの地ちから帰かえってきたナオミは、われわれの親族しんぞくエリメレクの地所じしょを売うろうとしています。",
+            "kr": "보아스가 그 기업 무를 자에게 이르되 모압 지방에서 돌아온 나오미가 우리 형제 엘리멜렉의 소유지를 팔려 하므로"
+          }
+        },
+        {
+          "key": "4",
+          "text": {
+            "fr": "J’ai cru devoir t’en informer et te dire : Acquiers-la en présence des habitants et en présence des anciens de mon peuple. Si tu veux racheter, rachète ; mais si tu ne veux pas, déclare-le-moi, afin que je le sache. Car il n’y a personne avant toi qui ait le droit de rachat et je l’ai après toi. Et il répondit : je rachèterai.",
+            "en": "And I thought to advertise thee, saying, Buy it before the inhabitants, and before the elders of my people. If thou wilt redeem it, redeem it: but if thou wilt not redeem it, then tell me, that I may know: for there is none to redeem it beside thee; and I am after thee. And he said, I will redeem it.",
+            "zh": "我想當贖那塊地的是你、其次是我、以外再沒有別人了、你可以在這裡的人面前、和我本國的長老面前說明、你若肯贖就贖、若不肯贖就告訴我．那人回答說、我肯贖。",
+            "jp": "それでわたしはそのことをあなたに知しらせて、ここにすわっている人々ひとびとと、民たみの長老ちょうろうたちの前まえで、それを買かいなさいと、あなたに言いおうと思おもいました。もし、あなたが、それをあがなおうと思おもわれるならば、あがなってください。しかし、あなたがそれをあがなわないならば、わたしにそう言いって知しらせてください。それをあがなう人ひとは、あなたのほかにはなく、わたしはあなたの次つぎですから」。彼かれは言いった、「わたしがあがないましょう」。",
+            "kr": "내가 여기 앉은 이들과 내 백성의 장로들 앞에서 그것을 사라고 네게 말하여 알게 하려 하였노라 만일 네가 무르려면 무르려니와 만일 네가 무르지 아니하려거든 내게 고하여 알게 하라 네 다음은 나요 그 외에는 무를 자가 없느니라 하니 그가 이르되 내가 무르리라 하는지라"
+          }
+        },
+        {
+          "key": "5",
+          "text": {
+            "fr": "Boaz dit : Le jour où tu acquerras le champ de la main de Naomi, tu l’acquerras en même temps de Ruth la Moabite, femme du défunt, pour relever le nom du défunt dans son héritage.",
+            "en": "Then said Boaz, What day thou buyest the field of the hand of Naomi, thou must buy it also of Ruth the Moabitess, the wife of the dead, to raise up the name of the dead upon his inheritance.",
+            "zh": "波阿斯說、你從拿俄米手中買這地的時候、也當娶〔原文作買十節同〕死人的妻摩押女子路得、使死人在產業上存留他的名。",
+            "jp": "そこでボアズは言いった、「あなたがナオミの手てからその地所じしょを買かう時ときには、死しんだ者ものの妻つまであったモアブの女おんなルツをも買かって、死しんだ者ものの名なを起おこしてその嗣し業ぎょうを伝つたえなければなりません」。",
+            "kr": "보아스가 이르되 네가 나오미의 손에서 그 밭을 사는 날에 곧 죽은 자의 아내 모압 여인 룻에게서 사서 그 죽은 자의 기업을 그의 이름으로 세워야 할지니라 하니"
+          }
+        },
+        {
+          "key": "6",
+          "text": {
+            "fr": "Et celui qui avait le droit de rachat répondit : Je ne peux pas racheter pour mon compte, de crainte de détruire mon héritage ; prends pour toi mon droit de rachat car je ne peux pas racheter.",
+            "en": "¶ And the kinsman said, I cannot redeem it for myself, lest I mar mine own inheritance: redeem thou my right to thyself; for I cannot redeem it.",
+            "zh": "那人說、這樣我就不能贖了、恐怕於我的產業有礙、你可以贖我所當贖的、我不能贖了。",
+            "jp": "その親戚しんせきの人ひとは言いった、「それでは、わたしにはあがなうことができません。そんなことをすれば自分じぶんの嗣し業ぎょうをそこないます。あなたがわたしに代かわって、自分じぶんであがなってください。わたしはあがなうことができませんから」。",
+            "kr": "그 기업 무를 자가 이르되 나는 내 기업에 손해가 있을까 하여 나를 위하여 무르지 못하노니 내가 무를 것을 네가 무르라 나는 무르지 못하겠노라 하는지라"
+          }
+        },
+        {
+          "key": "7",
+          "text": {
+            "fr": "Autrefois en Israël, pour valider une affaire quelconque relative à un rachat ou à un échange, l’un ôtait sa sandale et la donnait à l’autre : cela servait de témoignage en Israël.",
+            "en": "Now this was the manner in former time in Israel concerning redeeming and concerning changing, for to confirm all things; a man plucked off his shoe, and gave it to his neighbour: and this was a testimony in Israel.",
+            "zh": "從前在以色列中要定奪甚麼事、或贖回、或交易、這人就脫鞋給那人、以色列人都以此為證據。",
+            "jp": "むかしイスラエルでは、物ものをあがなう事ことと、権利けんりの譲渡じょうとについて、万事ばんじを決定けっていする時ときのならわしはこうであった。すなわち、その人ひとは、自分じぶんのくつを脱ぬいで、相手あいての人ひとに渡わたした。これがイスラエルでの証明しょうめいの方法ほうほうであった。",
+            "kr": "옛적 이스라엘 중에는 모든 것을 무르거나 교환하는 일을 확정하기 위하여 사람이 그의 신을 벗어 그의 이웃에게 주더니 이것이 이스라엘 중에 증명하는 전례가 된지라"
+          }
+        },
+        {
+          "key": "8",
+          "text": {
+            "fr": "Celui qui avait le droit de rachat dit donc à Boaz : Acquiers pour ton compte ! Et il ôta sa sandale.",
+            "en": "Therefore the kinsman said unto Boaz, Buy it for thee. So he drew off his shoe.",
+            "zh": "那人對波阿斯說、你自己買罷、於是將鞋脫下來了。",
+            "jp": "そこで親戚しんせきの人ひとがボアズにむかい「あなたが自分じぶんであがないなさい」と言いって、そのくつを脱ぬいだので、",
+            "kr": "이에 그 기업 무를 자가 보아스에게 이르되 네가 너를 위하여 사라 하고 그의 신을 벗는지라"
+          }
+        },
+        {
+          "key": "9",
+          "text": {
+            "fr": "Alors Boaz dit aux anciens et à tout le peuple : Vous êtes témoins aujourd’hui que j’ai acquis de la main de Naomi tout ce qui appartenait à Élimélec, à Kiljon et à Machlon,",
+            "en": "¶ And Boaz said unto the elders, and unto all the people, Ye are witnesses this day, that I have bought all that was Elimelech’s, and all that was Chilion’s and Mahlon’s, of the hand of Naomi.",
+            "zh": "波阿斯對長老和眾民說、你們今日作見證、凡屬以利米勒和基連、瑪倫的、我都從拿俄米手中置買了．",
+            "jp": "ボアズは長老ちょうろうたちとすべての民たみに言いった、「あなたがたは、きょう、わたしがエリメレクのすべての物ものおよびキリオンとマロンのすべての物ものをナオミの手てから買かいとった事ことの証人しょうにんです。",
+            "kr": "보아스가 장로들과 모든 백성에게 이르되 내가 엘리멜렉과 기룐과 말론에게 있던 모든 것을 나오미의 손에서 산 일에 너희가 오늘 증인이 되었고"
+          }
+        },
+        {
+          "key": "10",
+          "text": {
+            "fr": "et que je me suis également acquis pour femme Ruth la Moabite, femme de Machlon, pour relever le nom du défunt dans son héritage et afin que le nom du défunt ne soit pas retranché d’entre ses frères et de la porte de sa ville. Vous en êtes témoins aujourd’hui !",
+            "en": "Moreover Ruth the Moabitess, the wife of Mahlon, have I purchased to be my wife, to raise up the name of the dead upon his inheritance, that the name of the dead be not cut off from among his brethren, and from the gate of his place: ye are witnesses this day.",
+            "zh": "又娶了瑪倫的妻摩押女子路得為妻、好在死人的產業上存留他的名．免得他的名在本族本鄉滅沒、你們今日可以作見證。",
+            "jp": "またわたしはマロンの妻つまであったモアブの女おんなルツをも買かって、わたしの妻つまとしました。これはあの死しんだ者ものの名なを起おこしてその嗣し業ぎょうを伝つたえ、死しんだ者ものの名ながその一族いちぞくから、またその郷里きょうりの門もんから断絶だんぜつしないようにするためです。きょうあなたがたは、その証人しょうにんです」。",
+            "kr": "또 말론의 아내 모압 여인 룻을 사서 나의 아내로 맞이하고 그 죽은 자의 기업을 그의 이름으로 세워 그의 이름이 그의 형제 중과 그 곳 성문에서 끊어지지 아니하게 함에 너희가 오늘 증인이 되었느니라 하니"
+          }
+        },
+        {
+          "key": "11",
+          "text": {
+            "fr": "Tout le peuple qui était à la porte et les anciens dirent : Nous en sommes témoins ! Que l’Éternel rende la femme qui entre dans ta maison semblable à Rachel et à Léa, qui toutes les deux ont bâti la maison d’Israël ! Manifeste ta force dans Éphrata et fais-toi un nom dans Bethléhem !",
+            "en": "And all the people that were in the gate, and the elders, said, We are witnesses. The Lord make the woman that is come into thine house like Rachel and like Leah, which two did build the house of Israel: and do thou worthily in Ephratah, and be famous in Beth-lehem:",
+            "zh": "在城門坐著的眾民和長老都說、我們作見證、願耶和華使進你家的這女子、像建立以色列家的拉結、利亞二人一樣．又願你在以法他得亨通、在伯利恆得名聲．",
+            "jp": "すると門もんにいたすべての民たみと長老ちょうろうたちは言いった、「わたしたちは証人しょうにんです。どうぞ、主しゅがあなたの家いえにはいる女おんなを、イスラエルの家いえをたてたラケルとレアのふたりのようにされますよう。どうぞ、あなたがエフラタで富とみを得え、ベツレヘムで名なを揚あげられますように。",
+            "kr": "성문에 있는 모든 백성과 장로들이 이르되 우리가 증인이 되나니 여호와께서 네 집에 들어가는 여인으로 이스라엘의 집을 세운 라헬과 레아 두 사람과 같게 하시고 네가 에브랏에서 유력하고 베들레헴에서 유명하게 하시기를 원하며"
+          }
+        },
+        {
+          "key": "12",
+          "text": {
+            "fr": "Puisse la postérité que l’Éternel te donnera par cette jeune femme rendre ta maison semblable à la maison de Pérets, qui fut enfanté à Juda par Tamar !",
+            "en": "And let thy house be like the house of Pharez, whom Tamar bare unto Judah, of the seed which the Lord shall give thee of this young woman.",
+            "zh": "願耶和華從這少年女子賜你後裔、使你的家像他瑪從猶大所生法勒斯的家一般。",
+            "jp": "どうぞ、主しゅがこの若わかい女おんなによってあなたに賜たまわる子供こどもにより、あなたの家いえが、かのタマルがユダに産うんだペレヅの家いえのようになりますように」。",
+            "kr": "여호와께서 이 젊은 여자로 말미암아 네게 상속자를 주사 네 집이 다말이 유다에게 낳아준 베레스의 집과 같게 하시기를 원하노라 하니라"
+          }
+        },
+        {
+          "key": "13",
+          "text": {
+            "fr": "Boaz prit Ruth, qui devint sa femme, et il alla vers elle. L’Éternel permit à Ruth de concevoir et elle enfanta un fils.",
+            "en": "¶ So Boaz took Ruth, and she was his wife: and when he went in unto her, the Lord gave her conception, and she bare a son.",
+            "zh": "於是波阿斯娶了路得為妻、與他同房、耶和華使他懷孕生了一個兒子。",
+            "jp": "こうしてボアズはルツをめとって妻つまとし、彼女かのじょのところにはいった。主しゅは彼女かのじょをみごもらせられたので、彼女かのじょはひとりの男おとこの子こを産うんだ。",
+            "kr": "이에 보아스가 룻을 맞이하여 아내로 삼고 그에게 들어갔더니 여호와께서 그에게 임신하게 하시므로 그가 아들을 낳은지라"
+          }
+        },
+        {
+          "key": "14",
+          "text": {
+            "fr": "Les femmes dirent à Naomi : Béni soit l’Éternel, qui ne t’a pas laissé manquer aujourd’hui d’un homme ayant droit de rachat et dont le nom sera célébré en Israël !",
+            "en": "And the women said unto Naomi, Blessed be the Lord, which hath not left thee this day without a kinsman, that his name may be famous in Israel.",
+            "zh": "婦人們對拿俄米說、耶和華是應當稱頌的．因為今日沒有撇下你使你無至近的親屬．願這孩子在以色列中得名聲．",
+            "jp": "そのとき、女おんなたちはナオミに言いった、「主しゅはほむべきかな、主しゅはあなたを見捨みすてずに、きょう、あなたにひとりの近親きんしんをお授さづけになりました。どうぞ、その子この名ながイスラエルのうちに高たかく揚あげられますように。",
+            "kr": "여인들이 나오미에게 이르되 찬송할지로다 여호와께서 오늘 네게 기업 무를 자가 없게 하지 아니하셨도다 이 아이의 이름이 이스라엘 중에 유명하게 되기를 원하노라"
+          }
+        },
+        {
+          "key": "15",
+          "text": {
+            "fr": "Cet enfant restaurera ton âme et sera le soutien de ta vieillesse ; car ta belle-fille, qui t’aime, l’a enfanté, elle qui vaut mieux pour toi que sept fils.",
+            "en": "And he shall be unto thee a restorer of thy life, and a nourisher of thine old age: for thy daughter in law, which loveth thee, which is better to thee than seven sons, hath born him.",
+            "zh": "他必提起你的精神、奉養你的老、因為是愛慕你的那兒婦所生的、有這兒婦比有七個兒子還好。",
+            "jp": "彼かれはあなたのいのちを新あらたにし、あなたの老年ろうねんを養やしなう者ものとなるでしょう。あなたを愛あいするあなたの嫁よめ、七人にんのむすこにもまさる彼女かのじょが彼かれを産うんだのですから」。",
+            "kr": "이는 네 생명의 회복자이며 네 노년의 봉양자라 곧 너를 사랑하며 일곱 아들보다 귀한 네 며느리가 낳은 자로다 하니라"
+          }
+        },
+        {
+          "key": "16",
+          "text": {
+            "fr": "Naomi prit l’enfant et le serra contre sa poitrine, et elle se chargea de l’élever.",
+            "en": "And Naomi took the child, and laid it in her bosom, and became nurse unto it.",
+            "zh": "拿俄米就把孩子抱在懷中、作他的養母。",
+            "jp": "そこでナオミはその子こをとり、ふところに置おいて、養やしない育そだてた。",
+            "kr": "나오미가 아기를 받아 품에 품고 그의 양육자가 되니"
+          }
+        },
+        {
+          "key": "17",
+          "text": {
+            "fr": "Les voisines lui donnèrent un nom en disant : Un fils est né à Naomi ! Et elles l’appelèrent Obed. Ce fut le père d’Isaï, père de David.",
+            "en": "And the women her neighbours gave it a name, saying, There is a son born to Naomi; and they called his name Obed: he is the father of Jesse, the father of David.",
+            "zh": "鄰舍的婦人說、拿俄米得孩子了．就給孩子起名叫俄備得、這俄備得是耶西的父、耶西是大衛的父。",
+            "jp": "近所きんじょの女おんなたちは「ナオミに男おとこの子こが生うまれた」と言いって、彼かれに名なをつけ、その名なをオベデと呼よんだ。彼かれはダビデの父ちちであるエッサイの父ちちとなった。",
+            "kr": "그의 이웃 여인들이 그에게 이름을 지어 주되 나오미에게 아들이 태어났다 하여 그의 이름을 오벳이라 하였는데 그는 다윗의 아버지인 이새의 아버지였더라"
+          }
+        },
+        {
+          "key": "18",
+          "text": {
+            "fr": "Voici la postérité de Pérets.",
+            "en": "¶ Now these are the generations of Pharez: Pharez begat Hezron,",
+            "zh": "法勒斯的後代記在下面．法勒斯生希斯崙、",
+            "jp": "さてペレヅの子孫しそんは次つぎのとおりである。ペレヅからヘヅロンが生うまれ、",
+            "kr": "베레스의 계보는 이러하니라 베레스는 헤스론을 낳고"
+          }
+        },
+        {
+          "key": "19",
+          "text": {
+            "fr": "Pérets engendra Hetsron ; Hetsron engendra Ram ; Ram engendra Amminadab ;",
+            "en": "And Hezron begat Ram, and Ram begat Amminadab,",
+            "zh": "希斯崙生蘭、蘭生亞米拿達、",
+            "jp": "ヘヅロンからラムが生うまれ、ラムからアミナダブが生うまれ、",
+            "kr": "헤스론은 람을 낳았고 람은 암미나답을 낳았고"
+          }
+        },
+        {
+          "key": "20",
+          "text": {
+            "fr": "Amminadab engendra Nachschon ; Nachschon engendra Salmon ;",
+            "en": "And Amminadab begat Nahshon, and Nahshon begat Salmon,",
+            "zh": "亞米拿達生拿順、拿順生撒門、",
+            "jp": "アミナダブからナションが生うまれ、ナションからサルモンが生うまれ、",
+            "kr": "암미나답은 나손을 낳았고 나손은 살몬을 낳았고"
+          }
+        },
+        {
+          "key": "21",
+          "text": {
+            "fr": "Salmon engendra Boaz ; Boaz engendra Obed ;",
+            "en": "And Salmon begat Boaz, and Boaz begat Obed,",
+            "zh": "撒門生波阿斯、波阿斯生俄備得、",
+            "jp": "サルモンからボアズが生うまれ、ボアズからオベデが生うまれ、",
+            "kr": "살몬은 보아스를 낳았고 보아스는 오벳을 낳았고"
+          }
+        },
+        {
+          "key": "22",
+          "text": {
+            "fr": "Obed engendra Isaï ; et Isaï engendra David.",
+            "en": "And Obed begat Jesse, and Jesse begat David.",
+            "zh": "俄備得生耶西、耶西生大衛。",
+            "jp": "オベデからエッサイが生うまれ、エッサイからダビデが生うまれた。",
+            "kr": "오벳은 이새를 낳고 이새는 다윗을 낳았더라"
+          }
+        }
+      ]
+    }
+  ]
+}

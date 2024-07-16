@@ -4,7 +4,11 @@ const { parseText, combineTexts, sortChapters, extractBookDetails } = require('.
 
 const main = () => {
     const mainFolderName = "ot"
-    const folderNames = ["gen", "ex", "lev", "num", "deut"]
+    // const folderNames = ["gen", "ex", "lev", "num", "deut"]
+    // ["judg", "ruth", "1-sam", "2-sam", "1-kgs", "2-kgs", "1-chr", "2-chr", "ezra", "neh", "esth", "job", "ps", "prov", "eccl", "song", "isa", "jer", "lam", "ezek", "dan", "hosea", "joel", "amos", "obad", "jonah", "micah", "nahum", "hab", "zeph", "hag", "zech", "mal"];
+    // const folderNames = ["judg", "ruth", "1-sam", "2-sam", "1-kgs", "2-kgs", "1-chr", "2-chr", "ezra", "neh", "esth", "job", "ps", "prov", "eccl", "song", "isa", "jer", "lam", "ezek", "dan", "hosea", "joel", "amos", "obad", "jonah", "micah", "nahum", "hab", "zeph", "hag", "zech", "mal"];
+    
+    const folderNames = ["ps"]
     // const folderName = "1-ne"
     for (folderName of folderNames) {
         const dirPath = path.join(__dirname, `scripture/${mainFolderName}/${folderName}`);
@@ -99,6 +103,7 @@ const main = () => {
         };
 
         fs.writeFileSync(path.join(__dirname, `scripture/${mainFolderName}/${folderName}/${folderName}.json`), JSON.stringify(combinedJson, null, 2), 'utf8');
+        fs.writeFileSync(path.join(__dirname, `scripture/${mainFolderName}/json/${folderName}.json`), JSON.stringify(combinedJson, null, 2), 'utf8');
         console.log(`Combined JSON has been saved as ${folderName}.json`);
     }
 };

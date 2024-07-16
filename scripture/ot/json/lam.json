@@ -1,0 +1,1625 @@
+{
+  "book": {
+    "fr": "LAMENTATIONS",
+    "en": "THE",
+    "zh": "耶利米哀歌",
+    "jp": "哀歌あいか",
+    "kr": "예레미야애가"
+  },
+  "theme": {
+    "fr": "Chapitre 1",
+    "en": "OF JEREMIAH",
+    "zh": "第1章",
+    "jp": "第1章",
+    "kr": "제 1 장"
+  },
+  "introduction": {
+    "fr": "Jérémie se lamente de l’état misérable de Jérusalem. Jérusalem exprime elle-même son profond chagrin.",
+    "en": "",
+    "zh": "",
+    "jp": "",
+    "kr": ""
+  },
+  "chapters": [
+    {
+      "number": 1,
+      "introduction": {
+        "fr": "Jérémie se lamente de l’état misérable de Jérusalem. Jérusalem exprime elle-même son profond chagrin.",
+        "en": "Jeremiah laments the miserable condition of Jerusalem—Jerusalem herself complains of her deep sorrow.",
+        "zh": "Jeremiah laments the miserable condition of Jerusalem—Jerusalem herself complains of her deep sorrow.",
+        "jp": "Jeremiah laments the miserable condition of Jerusalem—Jerusalem herself complains of her deep sorrow.",
+        "kr": "Jeremiah laments the miserable condition of Jerusalem—Jerusalem herself complains of her deep sorrow."
+      },
+      "verses": [
+        {
+          "key": "1",
+          "text": {
+            "fr": "Comment ! elle est assise solitaire, cette ville si peuplée ! Elle est semblable à une veuve ! Grande entre les nations, souveraine parmi les états, Elle est réduite à la servitude !",
+            "en": "How doth the city sit solitary, that was full of people! how is she become as a widow! she that was great among the nations, and princess among the provinces, how is she become tributary!",
+            "zh": "先前滿有人民的城、現在何竟獨坐、先前在列國中為大的、現在竟如寡婦．先前在諸省中為王后的、現在成為進貢的。",
+            "jp": "ああ、むかしは、民たみの満みちみちていたこの都みやこ、国々くにぐにの民たみのうちで大おおいなる者ものであったこの町まち、今いまは寂さびしいさまで座ざし、やもめのようになった。もろもろの町まちのうちで女王じょおうであった者もの、今いまは奴隷どれいとなった。",
+            "kr": "슬프다 이 성이여 전에는 사람들이 많더니 이제는 어찌 그리 적막하게 앉았는고 전에는 열국 중에 크던 자가 이제는 과부 같이 되었고 전에는 열방 중에 공주였던 자가 이제는 강제 노동을 하는 자가 되었도다"
+          }
+        },
+        {
+          "key": "2",
+          "text": {
+            "fr": "Elle pleure pendant la nuit et ses joues sont couvertes de larmes ; De tous ceux qui l’aimaient nul ne la console ; Tous ses amis lui sont devenus infidèles, Ils sont devenus ses ennemis.",
+            "en": "She weepeth sore in the night, and her tears are on her cheeks: among all her lovers she hath none to comfort her: all her friends have dealt treacherously with her, they are become her enemies.",
+            "zh": "他夜間痛哭、淚流滿腮．在一切所親愛的中間、沒有一個安慰他的．他的朋友、都以詭詐待他、成為他的仇敵。",
+            "jp": "これは夜よもすがらいたく泣なき悲かなしみ、そのほおには涙なみだが流ながれている。そのすべての愛あいする者もののうちには、これを慰なぐさめる者ものはひとりもなく、そのすべての友ともはこれにそむいて、その敵てきとなった。",
+            "kr": "밤에는 슬피 우니 눈물이 뺨에 흐름이여 사랑하던 자들 중에 그에게 위로하는 자가 없고 친구들도 다 배반하여 원수들이 되었도다"
+          }
+        },
+        {
+          "key": "3",
+          "text": {
+            "fr": "Juda est en exil, victime de l’oppression et d’une grande servitude ; Il habite au milieu des nations Et il n’y trouve pas de repos ; Tous ses persécuteurs l’ont surpris dans l’angoisse.",
+            "en": "Judah is gone into captivity because of affliction, and because of great servitude: she dwelleth among the heathen, she findeth no rest: all her persecutors overtook her between the straits.",
+            "zh": "猶大因遭遇苦難、又因多服勞苦、就遷到外邦．他住在列國中、尋不著安息．追逼他的都在狹窄之地將他追上。",
+            "jp": "ユダは悩なやみのゆえに、また激はげしい苦役くえきのゆえに、のがれて行いって、もろもろの国民くにたみのうちに住すんでいるが、安息あんそくを得えず、これを追おう者ものがみな追おいついてみると、悩なやみのうちにあった。",
+            "kr": "유다는 환난과 많은 고난 가운데에 사로잡혀 갔도다 그가 열국 가운데에 거주하면서 쉴 곳을 얻지 못함이여 그를 핍박하는 모든 자들이 궁지에서 그를 뒤따라 잡았도다"
+          }
+        },
+        {
+          "key": "4",
+          "text": {
+            "fr": "Les chemins de Sion sont dans le deuil car on ne va plus aux fêtes ; Toutes ses portes sont désertes, Ses prêtres gémissent, Ses vierges sont affligées et elle est remplie d’amertume.",
+            "en": "The ways of Zion do mourn, because none come to the solemn feasts: all her gates are desolate: her priests sigh, her virgins are afflicted, and she is in bitterness.",
+            "zh": "錫安的路徑、因無人來守聖節就悲傷．他的城門淒涼、他的祭司歎息．他的處女受艱難、自己也愁苦。",
+            "jp": "シオンの道みちは祭まつりに上のぼってくる者もののないために悲かなしみ、その門もんはことごとく荒あれ、その祭司さいしたちは嘆なげき、そのおとめたちは引ひかれて行いき、シオンはみずからいたく苦くるしむ。",
+            "kr": "시온의 도로들이 슬퍼함이여 절기를 지키려 나아가는 사람이 없음이로다 모든 성문들이 적막하며 제사장들이 탄식하며 처녀들이 근심하며 시온도 곤고를 받았도다"
+          }
+        },
+        {
+          "key": "5",
+          "text": {
+            "fr": "Ses oppresseurs triomphent, ses ennemis sont en paix ; Car l’Éternel l’a humiliée À cause de la multitude de ses péchés ; Ses enfants ont marché captifs devant l’oppresseur.",
+            "en": "Her adversaries are the chief, her enemies prosper; for the Lord hath afflicted her for the multitude of her transgressions: her children are gone into captivity before the enemy.",
+            "zh": "他的敵人為首．他的仇敵亨通．因耶和華為他許多的罪過、使他受苦．他的孩童被敵人擄去。",
+            "jp": "そのあだはかしらとなり、その敵てきは栄さかえている。そのとがが多おおいので、主しゅがこれを悩なやまされたからである。その幼おさな子ごたちは捕とらわれて、あだの前まえに行いった。",
+            "kr": "그의 대적들이 머리가 되고 그의 원수들이 형통함은 그의 죄가 많으므로 여호와께서 그를 곤고하게 하셨음이라 어린 자녀들이 대적에게 사로잡혔도다"
+          }
+        },
+        {
+          "key": "6",
+          "text": {
+            "fr": "La fille de Sion a perdu toute sa gloire ; Ses chefs sont comme des cerfs Qui ne trouvent pas de nourriture Et qui fuient sans force devant celui qui les chasse.",
+            "en": "And from the daughter of Zion all her beauty is departed: her princes are become like harts that find no pasture, and they are gone without strength before the pursuer.",
+            "zh": "錫安城的威榮〔城原文作女子下同〕、全都失去．他的首領、像找不著草場的鹿、在追趕的人前、無力行走。",
+            "jp": "シオンの娘むすめの栄華えいがはことごとく彼女かのじょを離はなれ去さり、その君きみたちは牧草ぼくそうを得えない、しかのようになり、自分じぶんを追おう者ものの前まえに力ちからなく逃にげ去さった。",
+            "kr": "딸 시온의 모든 영광이 떠나감이여 그의 지도자들은 꼴을 찾지 못한 사슴들처럼 뒤쫓는 자 앞에서 힘없이 달아났도다"
+          }
+        },
+        {
+          "key": "7",
+          "text": {
+            "fr": "Aux jours de sa détresse et de sa misère, Jérusalem s’est souvenue De tous les biens qu’elle avait depuis longtemps, Quand son peuple est tombé sans secours sous la main de l’oppresseur ; Ses ennemis l’ont vue et ils ont ri de sa chute.",
+            "en": "Jerusalem remembered in the days of her affliction and of her miseries all her pleasant things that she had in the days of old, when her people fell into the hand of the enemy, and none did help her: the adversaries saw her, and did mock at her sabbaths.",
+            "zh": "耶路撒冷在困苦窘迫之時、就追想古時一切的樂境。他百姓落在敵人手中、無人救濟．敵人看見、就因他的荒涼嗤笑。",
+            "jp": "エルサレムはその悩なやみと苦くるしみの日ひに、昔むかしから持もっていたもろもろの宝たからを思おもい出だす。その民たみがあだの手てに陥おちいり、だれもこれを助たすける者もののない時とき、あだはこれを見みて、その滅ほろびをあざ笑わらった。",
+            "kr": "예루살렘이 환난과 유리하는 고통을 당하는 날에 옛날의 모든 즐거움을 기억하였음이여 그의 백성이 대적의 손에 넘어졌으나 그를 돕는 자가 없었고 대적들은 그의 멸망을 비웃는도다"
+          }
+        },
+        {
+          "key": "8",
+          "text": {
+            "fr": "Jérusalem a multiplié ses péchés, C’est pourquoi elle est un objet d’aversion ; Tous ceux qui l’honoraient la méprisent en voyant sa nudité ; Elle-même soupire et détourne la face.",
+            "en": "Jerusalem hath grievously sinned; therefore she is removed: all that honoured her despise her, because they have seen her nakedness: yea, she sigheth, and turneth backward.",
+            "zh": "耶路撒冷大大犯罪．所以成為不潔之物．素來尊敬他的、見他赤露就都藐視他．他自己也歎息退後。",
+            "jp": "エルサレムは、はなはだしく罪つみを犯おかしたので、汚けがれたものとなった。これを尊たっとんだ者ものも皆みなその裸はだかを見みたので、これを卑いやしめる。これもまたみずから嘆なげき、顔かおをそむける。",
+            "kr": "예루살렘이 크게 범죄함으로 조소거리가 되었으니 전에 그에게 영광을 돌리던 모든 사람이 그의 벗었음을 보고 업신여김이여 그는 탄식하며 물러가는도다"
+          }
+        },
+        {
+          "key": "9",
+          "text": {
+            "fr": "La souillure était dans les pans de sa robe et elle ne songeait pas à sa fin ; Elle est tombée d’une manière étonnante et nul ne la console. Vois ma misère, ô Éternel ! Quelle arrogance chez l’ennemi !",
+            "en": "Her filthiness is in her skirts; she remembereth not her last end; therefore she came down wonderfully: she had no comforter. O Lord, behold my affliction: for the enemy hath magnified himself.",
+            "zh": "他的污穢是在衣襟上．他不思想自己的結局．所以非常的敗落、無人安慰他。他說、耶和華阿、求你看我的苦難、因為仇敵誇大。",
+            "jp": "その汚けがれはその衣ころものすそにあり、これはその終おわりを思おもわなかった。それゆえ、これは驚おどろくばかりに落おちぶれ、これを慰なぐさめる者ものはひとりもない。「主しゅよ、わが悩なやみを顧かえりみてください、敵てきは勝かち誇ほこっていますから」。",
+            "kr": "그의 더러운 것이 그의 옷깃에 묻어 있으나 그의 나중을 생각하지 아니함이여 그러므로 놀랍도록 낮아져도 그를 위로할 자가 없도다 여호와여 원수가 스스로 큰 체하오니 나의 환난을 감찰하소서"
+          }
+        },
+        {
+          "key": "10",
+          "text": {
+            "fr": "L’oppresseur a étendu la main Sur tout ce qu’elle avait de précieux ; Elle a vu pénétrer dans son sanctuaire les nations Auxquelles tu avais défendu d’entrer dans ton assemblée.",
+            "en": "The adversary hath spread out his hand upon all her pleasant things: for she hath seen that the heathen entered into her sanctuary, whom thou didst command that they should not enter into thy congregation.",
+            "zh": "敵人伸手、奪取他的美物．他眼見外邦人進入他的聖所．論這外邦人你曾吩咐不可入你的會中。",
+            "jp": "敵てきは手てを伸のべて、その財宝ざいほうをことごとく奪うばった。あなたがさきに異邦人いほうじんらはあなたの公会こうかいに、はいってはならないと命めいじられたのに、彼かれらがその聖所せいじょにはいるのをシオンは見みた。",
+            "kr": "대적이 손을 펴서 그의 모든 보물들을 빼앗았나이다 주께서 이미 이방인들을 막아 주의 성회에 들어오지 못하도록 명령하신 그 성소에 그들이 들어간 것을 예루살렘이 보았나이다"
+          }
+        },
+        {
+          "key": "11",
+          "text": {
+            "fr": "Tout son peuple soupire, il cherche du pain ; Ils ont donné leurs choses précieuses contre de la nourriture Afin de leur rendre la vie. Vois, Éternel, regarde comme je suis méprisée !",
+            "en": "All her people sigh, they seek bread; they have given their pleasant things for meat to relieve the soul: see, O Lord, and consider; for I am become vile.",
+            "zh": "他的民都歎息、尋求食物．他們用美物換糧食、要救性命。他們說、耶和華阿、求你觀看、因為我甚是卑賤。",
+            "jp": "その民たみはみな嘆なげいて食物しょくもつを求もとめ、その命いのちをささえるために、財宝ざいほうを食物しょくもつにかえた。「主しゅよ、みそなわして、わたしの卑いやしめられるのを顧かえりみてください」。",
+            "kr": "그 모든 백성이 생명을 이으려고 보물로 먹을 것들을 바꾸었더니 지금도 탄식하며 양식을 구하나이다 나는 비천하오니 여호와여 나를 돌보시옵소서"
+          }
+        },
+        {
+          "key": "12",
+          "text": {
+            "fr": "Je m’adresse à vous, à vous tous qui passez ici ! Regardez et voyez s’il est une douleur pareille à ma douleur, À celle dont j’ai été frappée ! L’Éternel m’a affligée au jour de son ardente colère.",
+            "en": "¶ Is it nothing to you, all ye that pass by? behold, and see if there be any sorrow like unto my sorrow, which is done unto me, wherewith the Lord hath afflicted me in the day of his fierce anger.",
+            "zh": "你們一切過路的人哪、這事你們不介意麼．你們要觀看、有像這臨到我的痛苦沒有、就是耶和華在他發烈怒的日子使我所受的苦。",
+            "jp": "「すべて道行みちゆく人ひとよ、あなたがたはなんとも思おもわないのか。主しゅがその激はげしい怒いかりの日ひにわたしを悩なやまして、わたしにくだされた苦くるしみのような苦くるしみが、また世よにあるだろうか、尋たずねて見みよ。",
+            "kr": "지나가는 모든 사람들이여 너희에게는 관계가 없는가 나의 고통과 같은 고통이 있는가 볼지어다 여호와께서 그의 진노하신 날에 나를 괴롭게 하신 것이로다"
+          }
+        },
+        {
+          "key": "13",
+          "text": {
+            "fr": "D’en haut il a lancé dans mes os un feu qui les dévore ; Il a tendu un filet sous mes pieds, Il m’a fait tomber en arrière ; Il m’a jetée dans la désolation, dans une langueur de tous les jours.",
+            "en": "From above hath he sent fire into my bones, and it prevaileth against them: he hath spread a net for my feet, he hath turned me back: he hath made me desolate and faint all the day.",
+            "zh": "他從高天使火進入我的骨頭、剋制了我．他鋪下網羅、絆我的腳、使我轉回．他使我終日淒涼發昏。",
+            "jp": "主しゅは上うえから火ひを送おくり、それをわが骨ほねにくだし、網あみを張はってわが足あしを捕とらえ、わたしを引ひき返かえさせ、ひねもす心こころわびしく、かつ病やみ衰おとろえさせられた。",
+            "kr": "높은 곳에서 나의 골수에 불을 보내어 이기게 하시고 내 발 앞에 그물을 치사 나로 물러가게 하셨음이여 종일토록 나를 피곤하게 하여 황폐하게 하셨도다"
+          }
+        },
+        {
+          "key": "14",
+          "text": {
+            "fr": "Sa main a lié le joug de mes iniquités ; Elles se sont entrelacées, appliquées sur mon cou ; Il a brisé ma force ; Le Seigneur m’a livrée à des mains auxquelles je ne peux résister.",
+            "en": "The yoke of my transgressions is bound by his hand: they are wreathed, and come up upon my neck: he hath made my strength to fall, the Lord hath delivered me into their hands, from whom I am not able to rise up.",
+            "zh": "我罪過的軛、是他手所綁的、猶如軛繩縛在我頸項上．他使我的力量衰敗。主將我交在我所不能敵擋的人手中。",
+            "jp": "わたしのとがは、つかねられて、一つのくびきとせられ、主しゅのみ手てにより固かたく締しめられて、わたしの首くびにおかれ、わたしの力ちからを衰おとろえさせられた。主しゅはわたしを、立たちむかい得とくざる者ものの手てに渡わたされた。",
+            "kr": "내 죄악의 멍에를 그의 손으로 묶고 얽어 내 목에 올리사 내 힘을 피곤하게 하셨음이여 내가 감당할 수 없는 자의 손에 주께서 나를 넘기셨도다"
+          }
+        },
+        {
+          "key": "15",
+          "text": {
+            "fr": "Le Seigneur a terrassé tous les guerriers qui étaient au milieu de moi ; Il a rassemblé contre moi une armée Pour détruire mes jeunes hommes ; Le Seigneur a foulé au pressoir la vierge, fille de Juda.",
+            "en": "The Lord hath trodden under foot all my mighty men in the midst of me: he hath called an assembly against me to crush my young men: the Lord hath trodden the virgin, the daughter of Judah, as in a winepress.",
+            "zh": "主輕棄我中間的一切勇士、招聚多人〔原文作大會〕攻擊我、要壓碎我的少年人．主將猶大居民踹下、像在酒醡中一樣。",
+            "jp": "主しゅはわたしのうちにあるすべての勇士ゆうしを無視むしし、聖せい会かいを召集しょうしゅうして、わたしを攻せめ、わが若わかき人々ひとびとを打うち滅ほろぼされた。主しゅは酒さかぶねを踏ふむように、ユダの娘むすめなるおとめを踏ふみつけられた。",
+            "kr": "주께서 내 영토 안 나의 모든 용사들을 없는 것 같이 여기시고 성회를 모아 내 청년들을 부수심이여 처녀 딸 유다를 내 주께서 술틀에 밟으셨도다"
+          }
+        },
+        {
+          "key": "16",
+          "text": {
+            "fr": "C’est pour cela que je pleure, que mes yeux fondent en larmes ; Car il s’est éloigné de moi celui qui me consolerait, Qui ranimerait ma vie. Mes fils sont dans la désolation parce que l’ennemi a triomphé.",
+            "en": "For these things I weep; mine eye, mine eye runneth down with water, because the comforter that should relieve my soul is far from me: my children are desolate, because the enemy prevailed.",
+            "zh": "我因這些事哭泣．我眼淚汪汪．因為那當安慰我、救我性命的、離我甚遠．我的兒女孤苦、因為仇敵得了勝。",
+            "jp": "このために、わたしは泣なき悲かなしみ、わたしの目めは涙なみだであふれる。わたしを慰なぐさめる者もの、わたしを勇気ゆうきづける者ものがわたしから遠とおく離はなれたからである。わが子こらは敵てきが勝かったために、わびしい者ものとなった」。",
+            "kr": "이로 말미암아 내가 우니 내 눈에 눈물이 물 같이 흘러내림이여 나를 위로하여 내 생명을 회복시켜 줄 자가 멀리 떠났음이로다 원수들이 이기매 내 자녀들이 외롭도다"
+          }
+        },
+        {
+          "key": "17",
+          "text": {
+            "fr": "Sion a tendu les mains Et personne ne l’a consolée ; L’Éternel a envoyé contre Jacob les ennemis d’alentour ; Jérusalem a été un objet d’horreur au milieu d’eux.",
+            "en": "Zion spreadeth forth her hands, and there is none to comfort her: the Lord hath commanded concerning Jacob, that his adversaries should be round about him: Jerusalem is as a menstruous woman among them.",
+            "zh": "錫安舉手、無人安慰．耶和華論雅各已經出令、使四圍的人作他仇敵．耶路撒冷在他們中間、像不潔之物。",
+            "jp": "シオンは手てを伸のばしても、これを慰なぐさめる者ものはひとりもない。ヤコブについては、主しゅは命めいじて、その周囲しゅういの者ものを、これがあだとせられた。エルサレムは彼かれらの中なかにあって、汚けがれた物もののようになった。",
+            "kr": "시온이 두 손을 폈으나 그를 위로할 자가 없도다 여호와께서 야곱의 사방에 있는 자들에게 명령하여 야곱의 대적들이 되게 하셨으니 예루살렘은 그들 가운데에 있는 불결한 자가 되었도다"
+          }
+        },
+        {
+          "key": "18",
+          "text": {
+            "fr": "L’Éternel est juste Car j’ai été rebelle à ses ordres. Écoutez, vous tous, peuples, et voyez ma douleur ! Mes vierges et mes jeunes hommes sont allés en captivité.",
+            "en": "¶ The Lord is righteous; for I have rebelled against his commandment: hear, I pray you, all people, and behold my sorrow: my virgins and my young men are gone into captivity.",
+            "zh": "耶和華是公義的．他這樣待我、是因我違背他的命令。眾民哪、請聽我的話、看我的痛苦、我的處女和少年人、都被擄去。",
+            "jp": "「主しゅは正ただしい、わたしは、み言葉ことばにそむいた。すべての民たみよ、聞きけ、わが苦くるしみを顧かえりみよ。わがおとめらも、わが若人わこうどらも捕とらわれて行いった。",
+            "kr": "여호와는 의로우시도다 그러나 내가 그의 명령을 거역하였도다 너희 모든 백성들아 내 말을 듣고 내 고통을 볼지어다 나의 처녀들과 나의 청년들이 사로잡혀 갔도다"
+          }
+        },
+        {
+          "key": "19",
+          "text": {
+            "fr": "J’ai appelé mes amis et ils m’ont trompée. Mes prêtres et mes anciens ont expiré dans la ville : Ils cherchaient de la nourriture Afin de leur rendre la vie.",
+            "en": "I called for my lovers, but they deceived me: my priests and mine elders gave up the ghost in the city, while they sought their meat to relieve their souls.",
+            "zh": "我招呼我所親愛的、他們卻愚弄我．我的祭司和長老、正尋求食物救性命的時候、就在城中絕氣。",
+            "jp": "わたしはわが愛あいする者ものを呼よんだが、彼かれらはわたしを欺あざむいた。わが祭司さいしおよび長老ちょうろうたちは、その命いのちをささえようと、食物しょくもつを求もとめている間あいだに、町まちのうちで息いき絶たえた。",
+            "kr": "내가 내 사랑하는 자들을 불렀으나 그들은 나를 속였으며 나의 제사장들과 장로들은 그들의 목숨을 회복시킬 그들의 양식을 구하다가 성 가운데에서 기절하였도다"
+          }
+        },
+        {
+          "key": "20",
+          "text": {
+            "fr": "Éternel, regarde ma détresse ! Mes entrailles bouillonnent, Mon cœur est bouleversé au plus profond de moi, Car j’ai été rebelle. Au-dehors l’épée a fait ses ravages, au-dedans c’est la mort.",
+            "en": "Behold, O Lord; for I am in distress: my bowels are troubled; mine heart is turned within me; for I have grievously rebelled: abroad the sword bereaveth, at home there is as death.",
+            "zh": "耶和華阿、求你觀看、因為我在急難中．我心腸擾亂．我心在我裡面翻轉．因我大大悖逆．在外刀劍使人喪子、在家猶如死亡。",
+            "jp": "主しゅよ、顧かえりみてください、わたしは悩なやみ、わがはらわたはわきかえり、わが心臓しんぞうはわたしの内うちに転倒てんとうしています。わたしは、はなはだしくそむいたからです。外そとにはつるぎがあって、わが子こを奪うばい、家いえの内うちには死しのようなものがある。",
+            "kr": "여호와여 보시옵소서 내가 환난을 당하여 나의 애를 다 태우고 나의 마음이 상하오니 나의 반역이 심히 큼이니이다 밖에서는 칼이 내 아들을 빼앗아 가고 집 안에서는 죽음 같은 것이 있나이다"
+          }
+        },
+        {
+          "key": "21",
+          "text": {
+            "fr": "On a entendu mes soupirs et personne ne m’a consolée ; Tous mes ennemis ont appris mon malheur, Ils se sont réjouis de ce que tu l’as causé ; Tu amèneras, tu publieras le jour où ils seront comme moi.",
+            "en": "They have heard that I sigh: there is none to comfort me: all mine enemies have heard of my trouble; they are glad that thou hast done it: thou wilt bring the day that thou hast called, and they shall be like unto me.",
+            "zh": "聽見我歎息的有人．安慰我的卻無人．我的仇敵、都聽見我所遭的患難．因你作這事他們都喜樂。你必使你報告的日子來到、他們就像我一樣。",
+            "jp": "わたしがどんなに嘆なげくかを聞きいてください。わたしを慰なぐさめる者ものはひとりもなく、敵てきはみなわたしの悩なやみを聞きいて、あなたがこれをなされたのを喜よろこんだ。あなたがさきに告つげ知しらせたその日ひをきたらせ、彼かれらをも、わたしのようにしてください。",
+            "kr": "그들이 내가 탄식하는 것을 들었으나 나를 위로하는 자가 없으며 나의 모든 원수들은 내가 재난 당하는 것을 듣고 주께서 이렇게 행하신 것을 기뻐하나이다 그러나 주께서 그 선포하신 날을 이르게 하셔서 그들이 나와 같이 되게 하소서"
+          }
+        },
+        {
+          "key": "22",
+          "text": {
+            "fr": "Que toute leur méchanceté vienne devant toi ; Et traite-les comme tu m’as traitée À cause de toutes mes transgressions ! Car mes soupirs sont nombreux et mon cœur est souffrant.",
+            "en": "Let all their wickedness come before thee; and do unto them, as thou hast done unto me for all my transgressions: for my sighs are many, and my heart is faint.",
+            "zh": "願他們的惡行、都呈在你面前．你怎樣因我的一切罪過待我、求你照樣待他們．因我歎息甚多、心中發昏。",
+            "jp": "彼かれらの悪あくをことごとくあなたの前まえにあらわし、さきにわがもろもろのとがのために、わたしに行おこなわれたように、彼かれらにも行おこなってください。わが嘆なげきは多おおく、わが心こころは弱よわりはてているからです」。",
+            "kr": "그들의 모든 악을 주 앞에 가지고 오게 하시고 나의 모든 죄악들로 말미암아 내게 행하신 것 같이 그들에게 행하옵소서 나의 탄식이 많고 나의 마음이 병들었나이다"
+          }
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "introduction": {
+        "fr": "La souffrance, le chagrin et la désolation dominent à Jérusalem.",
+        "en": "Misery, sorrow, and desolation prevail in Jerusalem.",
+        "zh": "Misery, sorrow, and desolation prevail in Jerusalem.",
+        "jp": "Misery, sorrow, and desolation prevail in Jerusalem.",
+        "kr": "Misery, sorrow, and desolation prevail in Jerusalem."
+      },
+      "verses": [
+        {
+          "key": "1",
+          "text": {
+            "fr": "Comment ! le Seigneur, dans sa colère, a couvert de nuages la fille de Sion ! Il a précipité du ciel sur la terre la magnificence d’Israël ! Il ne s’est pas souvenu de son marchepied, Au jour de sa colère !",
+            "en": "How hath the Lord covered the daughter of Zion with a cloud in his anger, and cast down from heaven unto the earth the beauty of Israel, and remembered not his footstool in the day of his anger!",
+            "zh": "主何竟發怒、使黑雲遮蔽錫安城．他將以色列的華美、從天扔在地上、在他發怒的日子、並不記念自己的腳凳。",
+            "jp": "ああ、主しゅは怒いかりを起おこし、黒雲くろくもをもってシオンの娘むすめをおおわれた。主しゅはイスラエルの栄光えいこうを天てんから地ちに投なげ落おとし、その怒いかりの日ひに、おのれの足あし台だいを心こころにとめられなかった。",
+            "kr": "슬프다 주께서 어찌 그리 진노하사 딸 시온을 구름으로 덮으셨는가 이스라엘의 아름다움을 하늘에서 땅에 던지셨음이여 그의 진노의 날에 그의 발판을 기억하지 아니하셨도다"
+          }
+        },
+        {
+          "key": "2",
+          "text": {
+            "fr": "Le Seigneur a détruit sans pitié toutes les demeures de Jacob ; Il a, dans sa fureur, renversé les forteresses de la fille de Juda, Il les a fait rouler à terre ; Il a profané le royaume et ses chefs.",
+            "en": "The Lord hath swallowed up all the habitations of Jacob, and hath not pitied: he hath thrown down in his wrath the strong holds of the daughter of Judah; he hath brought them down to the ground: he hath polluted the kingdom and the princes thereof.",
+            "zh": "主吞滅雅各一切的住處、並不顧惜、他發怒傾覆猶大民的保障、使這保障坍倒在地．他辱沒這國、和其中的首領。",
+            "jp": "主しゅはヤコブのすべてのすまいを滅ほろぼして、あわれまず、その怒いかりによって、ユダの娘むすめのとりでをこわし、これを地ちに倒たおして、その国くにとそのつかさたちをはずかしめられた。",
+            "kr": "주께서 야곱의 모든 거처들을 삼키시고 긍휼히 여기지 아니하셨음이여 노하사 딸 유다의 견고한 성채들을 허물어 땅에 엎으시고 나라와 그 지도자들을 욕되게 하셨도다"
+          }
+        },
+        {
+          "key": "3",
+          "text": {
+            "fr": "Il a, dans son ardente colère, abattu toute la force d’Israël ; Il a retiré sa main droite en présence de l’ennemi ; Il a allumé en Jacob des flammes de feu, Qui dévorent de tous côtés.",
+            "en": "He hath cut off in his fierce anger all the horn of Israel: he hath drawn back his right hand from before the enemy, and he burned against Jacob like a flaming fire, which devoureth round about.",
+            "zh": "他發烈怒、把以色列的角、全然砍斷、在仇敵面前收回右手．他像火焰四圍吞滅、將雅各燒燬。",
+            "jp": "主しゅは激はげしい怒いかりをもって、イスラエルのすべての力ちからを断たち、敵てきの前まえで、おのれの右みぎの手てを引ひきもどし、周囲しゅういを焼やきつくす燃もえる火ひのように、ヤコブを焼やかれた。",
+            "kr": "맹렬한 진노로 이스라엘의 모든 뿔을 자르셨음이여 원수 앞에서 그의 오른손을 뒤로 거두어 들이시고 맹렬한 불이 사방으로 불사름 같이 야곱을 불사르셨도다"
+          }
+        },
+        {
+          "key": "4",
+          "text": {
+            "fr": "Il a tendu son arc comme un ennemi ; Sa main droite s’est dressée comme celle d’un assaillant ; Il a fait périr tout ce qui plaisait aux regards ; Il a répandu sa fureur comme un feu sur la tente de la fille de Sion.",
+            "en": "He hath bent his bow like an enemy: he stood with his right hand as an adversary, and slew all that were pleasant to the eye in the tabernacle of the daughter of Zion: he poured out his fury like fire.",
+            "zh": "他張弓、好像仇敵．他站著舉起右手、如同敵人、將悅人眼目的、盡行殺戮．在錫安百姓的帳棚上、倒出他的忿怒像火一樣。",
+            "jp": "主しゅは敵てきのように弓ゆみを張はり、あだのように右みぎの手てを伸のべて立たち、シオンの娘むすめの天幕てんまくにおるわれわれの目めに誇ほこる者ものを、ことごとく殺ころし、火ひのようにその怒いかりを注そそがれた。",
+            "kr": "원수 같이 그의 활을 당기고 대적처럼 그의 오른손을 들고 서서 눈에 드는 아름다운 모든 사람을 죽이셨음이여 딸 시온의 장막에 그의 노를 불처럼 쏟으셨도다"
+          }
+        },
+        {
+          "key": "5",
+          "text": {
+            "fr": "Le Seigneur a été comme un ennemi ; Il a dévoré Israël, il a dévoré tous ses palais, Il a détruit ses forteresses ; Il a rempli la fille de Juda de plaintes et de gémissements.",
+            "en": "The Lord was as an enemy: he hath swallowed up Israel, he hath swallowed up all her palaces: he hath destroyed his strong holds, and hath increased in the daughter of Judah mourning and lamentation.",
+            "zh": "主如仇敵吞滅以色列、和錫安的一切宮殿、拆毀百姓的保障、在猶大民中、加增悲傷哭號。",
+            "jp": "主しゅは敵てきのようになって、イスラエルを滅ほろぼし、そのすべての宮殿きゅうでんを滅ほろぼし、そのとりでをこわし、ユダの娘むすめの上うえに憂うれいと悲かなしみとを増まし加くわえられた。",
+            "kr": "주께서 원수 같이 되어 이스라엘을 삼키셨음이여 그 모든 궁궐들을 삼키셨고 견고한 성들을 무너뜨리사 딸 유다에 근심과 애통을 더하셨도다"
+          }
+        },
+        {
+          "key": "6",
+          "text": {
+            "fr": "Il a dévasté sa tente comme un jardin, Il a détruit le lieu de son assemblée ; L’Éternel a fait oublier en Sion les fêtes et le sabbat, Et dans sa violente colère, il a rejeté le roi et le prêtre.",
+            "en": "And he hath violently taken away his tabernacle, as if it were of a garden: he hath destroyed his places of the assembly: the Lord hath caused the solemn feasts and sabbaths to be forgotten in Zion, and hath despised in the indignation of his anger the king and the priest.",
+            "zh": "他強取自己的帳幕、好像是園中的窩棚、毀壞他的聚會之處、耶和華使聖節和安息日、在錫安都被忘記、又在怒氣的憤恨中、藐視君王和祭司。",
+            "jp": "主しゅは園そのの小屋こやのようにおのれの幕屋まくやを倒たおし、その祭まつりの場所ばしょをこわされた。主しゅは祭まつりと安息日あんそくにちとをシオンに忘わすれさせ、激はげしい怒いかりによって、王おうと祭司さいしとを捨すてられた。",
+            "kr": "주께서 그의 초막을 동산처럼 헐어 버리시며 그의 절기를 폐하셨도다 여호와께서 시온에서 절기와 안식일을 잊어버리게 하시며 그가 진노하사 왕과 제사장을 멸시하셨도다"
+          }
+        },
+        {
+          "key": "7",
+          "text": {
+            "fr": "Le Seigneur a dédaigné son autel, repoussé son sanctuaire, Il a livré entre les mains de l’ennemi les murs des palais de Sion ; Les cris ont retenti dans la maison de l’Éternel, Comme pour un jour de fête.",
+            "en": "The Lord hath cast off his altar, he hath abhorred his sanctuary, he hath given up into the hand of the enemy the walls of her palaces; they have made a noise in the house of the Lord, as in the day of a solemn feast.",
+            "zh": "耶和華丟棄自己的祭壇、憎惡自己的聖所、將宮殿的牆垣交付仇敵。他們在耶和華的殿中喧嚷、像在聖會之日一樣。",
+            "jp": "主しゅはその祭壇さいだんを忌いみ、その聖所せいじょをきらって、もろもろの宮殿きゅうでんの石いしがきを敵てきの手てに渡わたされた。彼かれらは祭まつりの日ひのように、主しゅの宮みやで声こえをあげた。",
+            "kr": "여호와께서 또 자기 제단을 버리시며 자기 성소를 미워하시며 궁전의 성벽들을 원수의 손에 넘기셨으매 그들이 여호와의 전에서 떠들기를 절기의 날과 같이 하였도다"
+          }
+        },
+        {
+          "key": "8",
+          "text": {
+            "fr": "L’Éternel avait résolu de détruire les murs de la fille de Sion ; Il a tendu le cordeau, il n’a pas retiré sa main sans les avoir anéantis ; Il a plongé dans le deuil rempart et murailles, Qui n’offrent plus ensemble qu’une triste ruine.",
+            "en": "The Lord hath purposed to destroy the wall of the daughter of Zion: he hath stretched out a line, he hath not withdrawn his hand from destroying: therefore he made the rampart and the wall to lament; they languished together.",
+            "zh": "耶和華定意拆毀錫安的城牆．他拉了準繩、不將手收回、定要毀滅．他使外郭和城牆都悲哀、一同衰敗。",
+            "jp": "主しゅはシオンの娘むすめの城壁じょうへきを破壊はかいしようと思おもい定さだめて、なわを張はり、打うちこわして、その手てをひかず、城壁じょうへきと石いしがきとを悲かなしませられた。これらは共ともに衰おとろえる。",
+            "kr": "여호와께서 딸 시온의 성벽을 헐기로 결심하시고 줄을 띠고 무너뜨리는 일에서 손을 거두지 아니하사 성벽과 성곽으로 통곡하게 하셨으매 그들이 함께 쇠하였도다"
+          }
+        },
+        {
+          "key": "9",
+          "text": {
+            "fr": "Ses portes sont enfoncées dans la terre ; Il en a détruit, rompu les barres. Son roi et ses chefs sont parmi les nations ; il n’y a plus de loi. Même les prophètes ne reçoivent aucune vision de l’Éternel.",
+            "en": "Her gates are sunk into the ground; he hath destroyed and broken her bars: her king and her princes are among the Gentiles: the law is no more; her prophets also find no vision from the Lord.",
+            "zh": "錫安的門、都陷入地內．主將他的門閂毀壞、折斷．他的君王和首領落在沒有律法的列國中．他的先知不得見耶和華的異象。",
+            "jp": "その門もんは地ちにうずもれ、主しゅはその貫かんの木きをこわし砕くだかれた。その王おうと君きみたちはもろもろの国民くにたみの中なかにおり、もはや律法りっぽうはなく、またその預言者よげんしゃは主しゅから幻まぼろしを得えない。",
+            "kr": "성문이 땅에 묻히며 빗장이 부서져 파괴되고 왕과 지도자들이 율법 없는 이방인들 가운데에 있으며 그 성의 선지자들은 여호와의 묵시를 받지 못하는도다"
+          }
+        },
+        {
+          "key": "10",
+          "text": {
+            "fr": "Les anciens de la fille de Sion sont assis à terre, ils sont muets ; Ils ont couvert leur tête de poussière, Ils se sont revêtus de sacs ; Les vierges de Jérusalem laissent retomber leur tête vers la terre.",
+            "en": "The elders of the daughter of Zion sit upon the ground, and keep silence: they have cast up dust upon their heads; they have girded themselves with sackcloth: the virgins of Jerusalem hang down their heads to the ground.",
+            "zh": "錫安城的長老坐在地上默默無聲．他們揚起塵土、落在頭上、腰束麻布．耶路撒冷的處女、垂頭至地。",
+            "jp": "シオンの娘むすめの長老ちょうろうたちは地ちに座ざして黙もくし、頭あたまにちりをかぶり、身みに荒布あらぬのをまとった。エルサレムのおとめたちはこうべを地ちにたれた。",
+            "kr": "딸 시온의 장로들이 땅에 앉아 잠잠하고 티끌을 머리에 덮어쓰고 굵은 베를 허리에 둘렀음이여 예루살렘 처녀들은 머리를 땅에 숙였도다"
+          }
+        },
+        {
+          "key": "11",
+          "text": {
+            "fr": "Mes yeux se consument dans les larmes, mes entrailles bouillonnent, Ma bile se répand sur la terre, À cause du désastre de la fille de mon peuple, Des enfants et des nourrissons en défaillance dans les rues de la ville.",
+            "en": "Mine eyes do fail with tears, my bowels are troubled, my liver is poured upon the earth, for the destruction of the daughter of my people; because the children and the sucklings swoon in the streets of the city.",
+            "zh": "我眼中流淚、以致失明．我的心腸擾亂、肝膽塗地．都因我眾民遭毀滅、又因孩童和喫奶的在城內街上發昏．",
+            "jp": "わが目めは涙なみだのためにつぶれ、わがはらわたはわきかえり、わが肝きもはわが民たみの娘むすめの滅ほろびのために、地ちに注そそぎ出だされる。幼おさな子こや乳ちのみ子ごが町まちのちまたに息いきも絶たえようとしているからである。",
+            "kr": "내 눈이 눈물에 상하며 내 창자가 끊어지며 내 간이 땅에 쏟아졌으니 이는 딸 내 백성이 패망하여 어린 자녀와 젖 먹는 아이들이 성읍 길거리에 기절함이로다"
+          }
+        },
+        {
+          "key": "12",
+          "text": {
+            "fr": "Ils disaient à leurs mères : Où y a-t-il du blé et du vin ? Et ils tombaient comme des blessés dans les rues de la ville, Ils rendaient l’âme sur la poitrine de leurs mères.",
+            "en": "They say to their mothers, Where is corn and wine? when they swooned as the wounded in the streets of the city, when their soul was poured out into their mothers’ bosom.",
+            "zh": "那時、他們在城內街上發昏、好像受傷的、在母親的懷裡、將要喪命、對母親說、穀酒在哪裡呢。",
+            "jp": "彼かれらが、傷きずついた者もののように町まちのちまたで息いきも絶たえようとするとき、その母ははのふところにその命いのちを注そそぎ出だそうとするとき、母ははにむかって、「パンとぶどう酒しゅとはどこにありますか」と叫さけぶ。",
+            "kr": "그들이 성읍 길거리에서 상한 자처럼 기절하여 그의 어머니들의 품에서 혼이 떠날 때에 어머니들에게 이르기를 곡식과 포도주가 어디 있느냐 하도다"
+          }
+        },
+        {
+          "key": "13",
+          "text": {
+            "fr": "Que dois-je te dire ? à quoi te comparer, fille de Jérusalem ? Qui trouver de semblable à toi et quelle consolation te donner, Vierge, fille de Sion ? Car ta plaie est grande comme la mer : qui pourra te guérir ?",
+            "en": "What thing shall I take to witness for thee? what thing shall I liken to thee, O daughter of Jerusalem? what shall I equal to thee, that I may comfort thee, O virgin daughter of Zion? for thy breach is great like the sea: who can heal thee?",
+            "zh": "耶路撒冷的民哪、我可用甚麼向你證明呢．我可用甚麼與你相比呢．錫安的民哪、我可拿甚麼和你比較、好安慰你呢．因為你的裂口大如海、誰能醫治你呢。",
+            "jp": "エルサレムの娘むすめよ、わたしは何なにをあなたに言いい、何なににあなたを比くらべることができようか。シオンの娘むすめなるおとめよ、わたしは何なにをもってあなたになぞらえて、あなたを慰なぐさめることができようか。あなたの破やぶれは海うみのように大おおきい、だれがあなたをいやすことができようか。",
+            "kr": "딸 예루살렘이여 내가 무엇으로 네게 증거하며 무엇으로 네게 비유할까 처녀 딸 시온이여 내가 무엇으로 네게 비교하여 너를 위로할까 너의 파괴됨이 바다 같이 크니 누가 너를 고쳐 줄소냐"
+          }
+        },
+        {
+          "key": "14",
+          "text": {
+            "fr": "Tes prophètes ont eu pour toi des visions vaines et fausses ; Ils n’ont pas mis à nu ton iniquité, Afin de détourner de toi la captivité ; Ils t’ont donné des oracles mensongers et trompeurs.",
+            "en": "Thy prophets have seen vain and foolish things for thee: and they have not discovered thine iniquity, to turn away thy captivity; but have seen for thee false burdens and causes of banishment.",
+            "zh": "你的先知為你見虛假和愚昧的異象、並沒有顯露你的罪孽、使你被擄的歸回．卻為你見虛假的默示、和使你被趕出本境的緣故。",
+            "jp": "あなたの預言者よげんしゃたちはあなたのために人ひとを欺あざむく偽いつわりの幻まぼろしを見みた。彼かれらはあなたの不義ふぎをあらわして捕とらわれを免まぬかれさせようとはせず、あなたのために人ひとを迷まよわす偽いつわりの託宣たくせんを見みた。",
+            "kr": "네 선지자들이 네게 대하여 헛되고 어리석은 묵시를 보았으므로 네 죄악을 드러내어서 네가 사로잡힌 것을 돌이키지 못하였도다 그들이 거짓 경고와 미혹하게 할 것만 보았도다"
+          }
+        },
+        {
+          "key": "15",
+          "text": {
+            "fr": "Tous les passants frappent des mains à tes dépens, Ils sifflent, ils secouent la tête contre la fille de Jérusalem : Est-ce là cette ville qu’on appelait une beauté parfaite, La joie de toute la terre ?",
+            "en": "All that pass by clap their hands at thee; they hiss and wag their head at the daughter of Jerusalem, saying, Is this the city that men call The perfection of beauty, The joy of the whole earth?",
+            "zh": "凡過路的、都向你拍掌．他們向耶路撒冷城、嗤笑搖頭、說、難道人所稱為全美的．稱為全地所喜悅的、就是這城麼。",
+            "jp": "すべて道行みちゆく人ひとは、あなたにむかって手てを打うち、エルサレムの娘むすめにむかって、あざ笑わらい、かつ頭あたまを振ふって言いう、「麗うるわしさのきわみ、全ぜん地ちの喜よろこびととなえられた町まちはこれなのか」と。",
+            "kr": "모든 지나가는 자들이 다 너를 향하여 박수치며 딸 예루살렘을 향하여 비웃고 머리를 흔들며 말하기를 온전한 영광이라, 모든 세상 사람들의 기쁨이라 일컫던 성이 이 성이냐 하며"
+          }
+        },
+        {
+          "key": "16",
+          "text": {
+            "fr": "Tous tes ennemis ouvrent la bouche contre toi, Ils sifflent, ils grincent des dents, Ils disent : Nous l’avons engloutie ! C’est bien le jour que nous attendions, nous l’avons atteint, nous le voyons !",
+            "en": "All thine enemies have opened their mouth against thee: they hiss and gnash the teeth: they say, We have swallowed her up: certainly this is the day that we looked for; we have found, we have seen it.",
+            "zh": "你的仇敵、都向你大大張口．他們嗤笑、又切齒、說、我們吞滅他、這真是我們所盼望的日子臨到了．我們親眼看見了。",
+            "jp": "あなたのもろもろの敵てきは、あなたをののしり、あざ笑わらい、歯はがみして言いう、「われわれはこれを滅ほろぼした、ああ、これはわれわれが望のぞんだ日ひだ、今いまわれわれはこれにあい、これを見みた」と。",
+            "kr": "네 모든 원수들은 너를 향하여 그들의 입을 벌리며 비웃고 이를 갈며 말하기를 우리가 그를 삼켰도다 우리가 바라던 날이 과연 이 날이라 우리가 얻기도 하고 보기도 하였다 하도다"
+          }
+        },
+        {
+          "key": "17",
+          "text": {
+            "fr": "L’Éternel a exécuté ce qu’il avait résolu, Il a accompli la parole qu’il avait arrêtée depuis longtemps, Il a détruit sans pitié ; Il a fait de toi la joie de l’ennemi, Il a relevé la force de tes oppresseurs.",
+            "en": "The Lord hath done that which he had devised; he hath fulfilled his word that he had commanded in the days of old: he hath thrown down, and hath not pitied: and he hath caused thine enemy to rejoice over thee, he hath set up the horn of thine adversaries.",
+            "zh": "耶和華成就了他所定的、應驗了他古時所命定的．他傾覆了、並不顧惜、使你的仇敵向你誇耀、使你敵人的角、也被高舉。",
+            "jp": "主しゅはその計画けいかくされたことを行おこない、警告けいこくされたことをなし遂とげ、いにしえから命めいじておかれたように、滅ほろぼして、あわれむことをせず、あなたについて敵てきを喜よろこばせ、あなたのあだの力ちからを高たかめられた。",
+            "kr": "여호와께서 이미 정하신 일을 행하시고 옛날에 명령하신 말씀을 다 이루셨음이여 긍휼히 여기지 아니하시고 무너뜨리사 원수가 너로 말미암아 즐거워하게 하며 네 대적자들의 뿔로 높이 들리게 하셨도다"
+          }
+        },
+        {
+          "key": "18",
+          "text": {
+            "fr": "Leur cœur crie vers le Seigneur … Mur de la fille de Sion, répands jour et nuit des torrents de larmes ! Ne te donne aucun répit, Et que ton œil n’ait pas de repos !",
+            "en": "Their heart cried unto the Lord, O wall of the daughter of Zion, let tears run down like a river day and night: give thyself no rest; let not the apple of thine eye cease.",
+            "zh": "錫安民的心哀求主．錫安的城牆阿、願你流淚如河、晝夜不息．願你眼中的瞳人、淚流不止。",
+            "jp": "シオンの娘むすめよ、声こえ高たからかに主しゅに呼よばわれ、夜よるも昼ひるも川かわのように涙なみだを流ながせ。みずから安やすんじることをせず、あなたのひとみを休やすませるな。",
+            "kr": "그들의 마음이 주를 향하여 부르짖기를 딸 시온의 성벽아 너는 밤낮으로 눈물을 강처럼 흘릴지어다 스스로 쉬지 말고 네 눈동자를 쉬게 하지 말지어다"
+          }
+        },
+        {
+          "key": "19",
+          "text": {
+            "fr": "Lève-toi, pousse des gémissements à l’entrée des veilles de la nuit ! Répands ton cœur comme de l’eau, en présence du Seigneur ! Lève tes mains vers lui pour la vie de tes enfants, Qui meurent de faim aux coins de toutes les rues !",
+            "en": "Arise, cry out in the night: in the beginning of the watches pour out thine heart like water before the face of the Lord: lift up thy hands toward him for the life of thy young children, that faint for hunger in the top of every street.",
+            "zh": "夜間、每逢交更的時候要起來呼喊、在主面前傾心如水．你的孩童在各市口上受餓發昏．你要為他們的性命向主舉手禱告。",
+            "jp": "夜よる、初更しょこうに起おきて叫さけべ。主しゅの前まえにあなたの心こころを水みずのように注そそぎ出だせ。町まちのかどで、飢うえて息いきも絶たえようとする幼おさな子この命いのちのために、主しゅにむかって両手りょうてをあげよ。",
+            "kr": "초저녁에 일어나 부르짖을지어다 네 마음을 주의 얼굴 앞에 물 쏟듯 할지어다 각 길 어귀에서 주려 기진한 네 어린 자녀들의 생명을 위하여 주를 향하여 손을 들지어다 하였도다"
+          }
+        },
+        {
+          "key": "20",
+          "text": {
+            "fr": "Vois, Éternel, regarde qui tu as ainsi traité ! Fallait-il que des femmes dévorent le fruit de leurs entrailles, Les petits enfants dont elles ont pris soin avec tendresse ? Que prêtres et prophètes soient massacrés dans le sanctuaire du Seigneur ?",
+            "en": "¶ Behold, O Lord, and consider to whom thou hast done this. Shall the women eat their fruit, and children of a span long? shall the priest and the prophet be slain in the sanctuary of the Lord?",
+            "zh": "耶和華阿、求你觀看、見你向誰這樣行．婦人豈可喫自己所生育手裡所搖弄的嬰孩麼．祭司和先知、豈可在主的聖所中被殺戮麼。",
+            "jp": "主しゅよ、みそなわして、顧かえりみてください。あなたはだれにむかってこのように行おこなわれたのですか。女おんなは自分じぶんの産うんだ子こ、その大事だいじに育そだてた幼おさな子ごを食たべるでしょうか。祭司さいしと預言者よげんしゃが主しゅの聖所せいじょで殺ころされていいでしょうか。",
+            "kr": "여호와여 보시옵소서 주께서 누구에게 이같이 행하셨는지요 여인들이 어찌 자기 열매 곧 그들이 낳은 아이들을 먹으오며 제사장들과 선지자들이 어찌 주의 성소에서 죽임을 당하오리이까"
+          }
+        },
+        {
+          "key": "21",
+          "text": {
+            "fr": "Les enfants et les vieillards sont couchés par terre dans les rues ; Mes vierges et mes jeunes hommes sont tombés par l’épée ; Tu as tué, au jour de ta colère, Tu as égorgé sans pitié.",
+            "en": "The young and the old lie on the ground in the streets: my virgins and my young men are fallen by the sword; thou hast slain them in the day of thine anger; thou hast killed, and not pitied.",
+            "zh": "少年人和老年人、都在街上躺臥、我的處女和壯丁、都倒在刀下．你發怒的日子、殺死他們．你殺了、並不顧惜。",
+            "jp": "老おいも若わかきも、ちまたのちりに伏ふし、わがおとめも、若人わこうども、つるぎで倒たおされてしまった。あなたは、その怒いかりの日ひにこれを殺ころし、これをほふって、あわれむことをされなかった。",
+            "kr": "늙은이와 젊은이가 다 길바닥에 엎드러졌사오며 내 처녀들과 내 청년들이 칼에 쓰러졌나이다 주께서 주의 진노의 날에 죽이시되 긍휼히 여기지 아니하시고 도륙하셨나이다"
+          }
+        },
+        {
+          "key": "22",
+          "text": {
+            "fr": "Tu as appelé de toutes parts sur moi l’épouvante, comme en un jour de fête. Au jour de la colère de l’Éternel, il n’y a eu ni réchappé ni survivant. Ceux que j’avais soignés et élevés, Mon ennemi les a consumés.",
+            "en": "Thou hast called as in a solemn day my terrors round about, so that in the day of the Lord’s anger none escaped nor remained: those that I have swaddled and brought up hath mine enemy consumed.",
+            "zh": "你招聚四圍驚嚇我的、像在大會的日子招聚人一樣．耶和華發怒的日子、無人逃脫、無人存留．我所搖弄所養育的嬰孩、仇敵都殺淨了。",
+            "jp": "あなたは、わたしの恐おそれるものを、祭まつりの日ひのように四方しほうから呼よび集あつめられた。主しゅの怒いかりの日ひには、のがれた者ものも残のこった者ものもなかった。わたしが、いだき育そだてた者ものをわたしの敵てきは滅ほろぼし尽つくした。",
+            "kr": "주께서 내 두려운 일들을 사방에서 부르시기를 절기 때 무리를 부름 같이 하셨나이다 여호와께서 진노하시는 날에는 피하거나 남은 자가 없나이다 내가 낳아 기르는 아이들을 내 원수가 다 멸하였나이다"
+          }
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "introduction": {
+        "fr": "Jérémie, parlant pour Juda, se lamente des calamités. Mais il fait confiance à l’Éternel et prie pour la délivrance.",
+        "en": "Jeremiah, speaking for Judah, laments the calamity but trusts in the Lord and prays for deliverance.",
+        "zh": "Jeremiah, speaking for Judah, laments the calamity but trusts in the Lord and prays for deliverance.",
+        "jp": "Jeremiah, speaking for Judah, laments the calamity but trusts in the Lord and prays for deliverance.",
+        "kr": "Jeremiah, speaking for Judah, laments the calamity but trusts in the Lord and prays for deliverance."
+      },
+      "verses": [
+        {
+          "key": "1",
+          "text": {
+            "fr": "Je suis l’homme qui a vu la misère Sous le bâton de sa fureur.",
+            "en": "I am the man that hath seen affliction by the rod of his wrath.",
+            "zh": "我是因耶和華忿怒的杖、遭遇困苦的人。",
+            "jp": "わたしは彼かれの怒いかりのむちによって、悩なやみにあった人ひとである。",
+            "kr": "여호와의 분노의 매로 말미암아 고난 당한 자는 나로다"
+          }
+        },
+        {
+          "key": "2",
+          "text": {
+            "fr": "Il m’a conduit, mené dans les ténèbres Et non dans la lumière.",
+            "en": "He hath led me, and brought me into darkness, but not into light.",
+            "zh": "他引導我、使我行在黑暗中、不行在光明裡。",
+            "jp": "彼かれはわたしをかり立たてて、光ひかりのない暗くらい中なかを歩あるかせ、",
+            "kr": "나를 이끌어 어둠 안에서 걸어가게 하시고 빛 안에서 걸어가지 못하게 하셨으며"
+          }
+        },
+        {
+          "key": "3",
+          "text": {
+            "fr": "Contre moi il tourne et retourne sa main Tout au long du jour.",
+            "en": "Surely against me is he turned; he turneth his hand against me all the day.",
+            "zh": "他真是終日再三反手攻擊我。",
+            "jp": "まことにその手てをしばしばかえて、ひねもすわたしを攻せめられた。",
+            "kr": "종일토록 손을 들어 자주자주 나를 치시는도다"
+          }
+        },
+        {
+          "key": "4",
+          "text": {
+            "fr": "Il a fait dépérir ma chair et ma peau, Il a brisé mes os.",
+            "en": "My flesh and my skin hath he made old; he hath broken my bones.",
+            "zh": "他使我的皮肉枯乾．他折斷〔或作壓傷〕我的骨頭。",
+            "jp": "彼かれはわが肉にくと皮かわを衰おとろえさせ、わが骨ほねを砕くだき、",
+            "kr": "나의 살과 가죽을 쇠하게 하시며 나의 뼈들을 꺾으셨고"
+          }
+        },
+        {
+          "key": "5",
+          "text": {
+            "fr": "Il a bâti autour de moi, Il m’a environné de poison et de douleur.",
+            "en": "He hath builded against me, and compassed me with gall and travail.",
+            "zh": "他築壘攻擊我、用苦楚〔原文作苦膽〕和艱難圍困我。",
+            "jp": "苦くるしみと悩なやみをもって、わたしを囲かこみ、わたしを閉とじこめ、",
+            "kr": "고통과 수고를 쌓아 나를 에우셨으며"
+          }
+        },
+        {
+          "key": "6",
+          "text": {
+            "fr": "Il me fait habiter dans les ténèbres Comme ceux qui sont morts depuis longtemps.",
+            "en": "He hath set me in dark places, as they that be dead of old.",
+            "zh": "他使我住在幽暗之處、像死了許久的人一樣。",
+            "jp": "遠とおい昔むかしに死しんだ者もののように、暗くらい所ところに住すまわせられた。",
+            "kr": "나를 어둠 속에 살게 하시기를 죽은 지 오랜 자 같게 하셨도다"
+          }
+        },
+        {
+          "key": "7",
+          "text": {
+            "fr": "Il m’a entouré d’un mur pour que je ne sorte pas ; Il m’a donné de pesantes chaînes.",
+            "en": "He hath hedged me about, that I cannot get out: he hath made my chain heavy.",
+            "zh": "他用籬笆圍住我、使我不能出去．他使我的銅鍊沉重。",
+            "jp": "彼かれはわたしのまわりに、かきをめぐらして、出でることのできないようにし、重おもい鎖くさりでわたしをつながれた。",
+            "kr": "나를 둘러싸서 나가지 못하게 하시고 내 사슬을 무겁게 하셨으며"
+          }
+        },
+        {
+          "key": "8",
+          "text": {
+            "fr": "J’ai beau crier et implorer du secours, Il ne donne pas accès à ma prière.",
+            "en": "Also when I cry and shout, he shutteth out my prayer.",
+            "zh": "我哀號求救、他使我的禱告、不得上達。",
+            "jp": "わたしは叫さけんで助たすけを求もとめたが、彼かれはわたしの祈いのりをしりぞけ、",
+            "kr": "내가 부르짖어 도움을 구하나 내 기도를 물리치시며"
+          }
+        },
+        {
+          "key": "9",
+          "text": {
+            "fr": "Il a fermé mon chemin avec des pierres de taille, Il a détruit mes sentiers.",
+            "en": "He hath inclosed my ways with hewn stone, he hath made my paths crooked.",
+            "zh": "他用鑿過的石頭、擋住我的道．他使我的路彎曲。",
+            "jp": "切きり石いしをもって、わたしの行いく道みちをふさぎ、わたしの道筋みちすじを曲まげられた。",
+            "kr": "다듬은 돌을 쌓아 내 길들을 막으사 내 길들을 굽게 하셨도다"
+          }
+        },
+        {
+          "key": "10",
+          "text": {
+            "fr": "Il a été pour moi un ours en embuscade, Un lion dans un lieu caché.",
+            "en": "He was unto me as a bear lying in wait, and as a lion in secret places.",
+            "zh": "他向我如熊埋伏、如獅子在隱密處。",
+            "jp": "彼かれはわたしに対たいして待まち伏ぶせするくまのように、潜ひそみ隠かくれるししのように、",
+            "kr": "그는 내게 대하여 엎드려 기다리는 곰과 은밀한 곳에 있는 사자 같으사"
+          }
+        },
+        {
+          "key": "11",
+          "text": {
+            "fr": "Il a détourné mes voies, il m’a déchiqueté, Il m’a jeté dans la désolation.",
+            "en": "He hath turned aside my ways, and pulled me in pieces: he hath made me desolate.",
+            "zh": "他使我轉離正路、將我撕碎、使我淒涼。",
+            "jp": "わが道みちを離はなれさせ、わたしを引ひき裂さいて、見みるかげもないみじめな者ものとし、",
+            "kr": "나의 길들로 치우치게 하시며 내 몸을 찢으시며 나를 적막하게 하셨도다"
+          }
+        },
+        {
+          "key": "12",
+          "text": {
+            "fr": "Il a tendu son arc et il m’a placé Comme un but pour sa flèche.",
+            "en": "He hath bent his bow, and set me as a mark for the arrow.",
+            "zh": "他張弓將我當作箭靶子。",
+            "jp": "その弓ゆみを張はって、わたしを矢やの的まとのようにされた。",
+            "kr": "활을 당겨 나를 화살의 과녁으로 삼으심이여"
+          }
+        },
+        {
+          "key": "13",
+          "text": {
+            "fr": "Il a fait entrer dans mes reins Les flèches de son carquois.",
+            "en": "He hath caused the arrows of his quiver to enter into my reins.",
+            "zh": "他把箭袋中的箭、射入我的肺腑。",
+            "jp": "彼かれはその箙えびらの矢やをわたしの心臓しんぞうに打うち込こまれた。",
+            "kr": "화살통의 화살들로 내 허리를 맞추셨도다"
+          }
+        },
+        {
+          "key": "14",
+          "text": {
+            "fr": "Je suis pour tout mon peuple un objet de raillerie, Chaque jour l’objet de leurs chansons.",
+            "en": "I was a derision to all my people; and their song all the day.",
+            "zh": "我成了眾民的笑話．他們終日以我為歌曲。",
+            "jp": "わたしはすべての民たみの物笑ものわらいとなり、ひねもす彼かれらの歌うたとなった。",
+            "kr": "나는 내 모든 백성에게 조롱거리 곧 종일토록 그들의 노랫거리가 되었도다"
+          }
+        },
+        {
+          "key": "15",
+          "text": {
+            "fr": "Il m’a rassasié d’amertume, Il m’a enivré d’absinthe.",
+            "en": "He hath filled me with bitterness, he hath made me drunken with wormwood.",
+            "zh": "他用苦楚充滿我、使我飽用茵蔯。",
+            "jp": "彼かれはわたしを苦にがい物もので飽あかせ、にがよもぎをわたしに飲のませられた。",
+            "kr": "나를 쓴 것들로 배불리시고 쑥으로 취하게 하셨으며"
+          }
+        },
+        {
+          "key": "16",
+          "text": {
+            "fr": "Il a brisé mes dents avec des cailloux, Il m’a couvert de cendre.",
+            "en": "He hath also broken my teeth with gravel stones, he hath covered me with ashes.",
+            "zh": "他又用沙石磣斷我的牙、用灰塵將我蒙蔽。",
+            "jp": "彼かれは小石こいしをもって、わたしの歯はを砕くだき、灰はいの中なかにわたしをころがされた。",
+            "kr": "조약돌로 내 이들을 꺾으시고 재로 나를 덮으셨도다"
+          }
+        },
+        {
+          "key": "17",
+          "text": {
+            "fr": "Tu m’as enlevé la paix ; Je ne connais plus le bonheur.",
+            "en": "And thou hast removed my soul far off from peace: I forgat prosperity.",
+            "zh": "你使我遠離平安．我忘記好處。",
+            "jp": "わが魂たましいは平和へいわを失うしない、わたしは幸福こうふくを忘わすれた。",
+            "kr": "주께서 내 심령이 평강에서 멀리 떠나게 하시니 내가 복을 내어버렸음이여"
+          }
+        },
+        {
+          "key": "18",
+          "text": {
+            "fr": "Et j’ai dit : Ma force est perdue, Je n’ai plus d’espérance en l’Éternel !",
+            "en": "And I said, My strength and my hope is perished from the Lord:",
+            "zh": "我就說、我的力量衰敗、我在耶和華那裡、毫無指望。",
+            "jp": "そこでわたしは言いった、「わが栄さかえはうせ去さり、わたしが主しゅに望のぞむところのものもうせ去さった」と。",
+            "kr": "스스로 이르기를 나의 힘과 여호와께 대한 내 소망이 끊어졌다 하였도다"
+          }
+        },
+        {
+          "key": "19",
+          "text": {
+            "fr": "Quand je pense à ma détresse et à ma misère, À l’absinthe et au poison ;",
+            "en": "Remembering mine affliction and my misery, the wormwood and the gall.",
+            "zh": "耶和華阿、求你記念我如茵蔯和苦膽的困苦窘迫。",
+            "jp": "どうか、わが悩なやみと苦くるしみ、にがよもぎと胆汁たんじゅうとを心こころに留とめてください。",
+            "kr": "내 고초와 재난 곧 쑥과 담즙을 기억하소서"
+          }
+        },
+        {
+          "key": "20",
+          "text": {
+            "fr": "Quand mon âme s’en souvient, Elle est abattue au plus profond de moi.",
+            "en": "My soul hath them still in remembrance, and is humbled in me.",
+            "zh": "我心想念這些、就在裡面憂悶。",
+            "jp": "わが魂たましいは絶たえずこれを思おもって、わがうちにうなだれる。",
+            "kr": "내 마음이 그것을 기억하고 내가 낙심이 되오나"
+          }
+        },
+        {
+          "key": "21",
+          "text": {
+            "fr": "Voici ce que je veux repasser en mon cœur, Ce qui me donnera de l’espérance.",
+            "en": "This I recall to my mind, therefore have I hope.",
+            "zh": "我想起這事、心裡就有指望。",
+            "jp": "しかし、わたしはこの事ことを心こころに思おもい起おこす。それゆえ、わたしは望のぞみをいだく。",
+            "kr": "이것을 내가 내 마음에 담아 두었더니 그것이 오히려 나의 소망이 되었사옴은"
+          }
+        },
+        {
+          "key": "22",
+          "text": {
+            "fr": "Les bontés de l’Éternel ne sont pas épuisées, Ses compassions ne sont pas à leur terme ;",
+            "en": "¶ It is of the Lord’s mercies that we are not consumed, because his compassions fail not.",
+            "zh": "我們不至消滅、是出於耶和華諸般的慈愛、是因他的憐憫、不至斷絕。",
+            "jp": "主しゅのいつくしみは絶たえることがなく、そのあわれみは尽つきることがない。",
+            "kr": "여호와의 인자와 긍휼이 무궁하시므로 우리가 진멸되지 아니함이니이다"
+          }
+        },
+        {
+          "key": "23",
+          "text": {
+            "fr": "Elles se renouvellent chaque matin. Oh ! que ta fidélité est grande !",
+            "en": "They are new every morning: great is thy faithfulness.",
+            "zh": "每早晨這都是新的．你的誠實、極其廣大。",
+            "jp": "これは朝あさごとに新あたらしく、あなたの真実しんじつは大おおきい。",
+            "kr": "이것들이 아침마다 새로우니 주의 성실하심이 크시도소이다"
+          }
+        },
+        {
+          "key": "24",
+          "text": {
+            "fr": "L’Éternel est mon partage, dit mon âme ; C’est pourquoi je veux espérer en lui.",
+            "en": "The Lord is my portion, saith my soul; therefore will I hope in him.",
+            "zh": "我心裡說、耶和華是我的分．因此、我要仰望他。",
+            "jp": "わが魂たましいは言いう、「主しゅはわたしの受うくべき分ぶんである、それゆえ、わたしは彼かれを待まち望のぞむ」と。",
+            "kr": "내 심령에 이르기를 여호와는 나의 기업이시니 그러므로 내가 그를 바라리라 하도다"
+          }
+        },
+        {
+          "key": "25",
+          "text": {
+            "fr": "L’Éternel a de la bonté pour qui espère en lui, Pour l’âme qui le cherche.",
+            "en": "The Lord is good unto them that wait for him, to the soul that seeketh him.",
+            "zh": "凡等候耶和華、心裡尋求他的、耶和華必施恩給他。",
+            "jp": "主しゅはおのれを待まち望のぞむ者ものと、おのれを尋たずね求もとめる者ものにむかって恵めぐみふかい。",
+            "kr": "기다리는 자들에게나 구하는 영혼들에게 여호와는 선하시도다"
+          }
+        },
+        {
+          "key": "26",
+          "text": {
+            "fr": "Il est bon d’attendre en silence Le secours de l’Éternel.",
+            "en": "It is good that a man should both hope and quietly wait for the salvation of the Lord.",
+            "zh": "人仰望耶和華、靜默等候他的救恩、這原是好的。",
+            "jp": "主しゅの救すくいを静しずかに待まち望のぞむことは、良よいことである。",
+            "kr": "사람이 여호와의 구원을 바라고 잠잠히 기다림이 좋도다"
+          }
+        },
+        {
+          "key": "27",
+          "text": {
+            "fr": "Il est bon pour l’homme De porter le joug dans sa jeunesse.",
+            "en": "It is good for a man that he bear the yoke in his youth.",
+            "zh": "人在幼年負軛、這原是好的。",
+            "jp": "人ひとが若わかい時ときにくびきを負おうことは、良よいことである。",
+            "kr": "사람은 젊었을 때에 멍에를 메는 것이 좋으니"
+          }
+        },
+        {
+          "key": "28",
+          "text": {
+            "fr": "Il se tiendra solitaire et silencieux Parce que l’Éternel le lui impose ;",
+            "en": "He sitteth alone and keepeth silence, because he hath borne it upon him.",
+            "zh": "他當獨坐無言、因為這是耶和華加在他身上的。",
+            "jp": "主しゅがこれを負おわせられるとき、ひとりすわって黙もくしているがよい。",
+            "kr": "혼자 앉아서 잠잠할 것은 주께서 그것을 그에게 메우셨음이라"
+          }
+        },
+        {
+          "key": "29",
+          "text": {
+            "fr": "Il mettra sa bouche dans la poussière Sans perdre toute espérance ;",
+            "en": "He putteth his mouth in the dust; if so be there may be hope.",
+            "zh": "他當口貼塵埃、或者有指望。",
+            "jp": "口くちをちりにつけよ、あるいはなお望のぞみがあるであろう。",
+            "kr": "그대의 입을 땅의 티끌에 댈지어다 혹시 소망이 있을지로다"
+          }
+        },
+        {
+          "key": "30",
+          "text": {
+            "fr": "Il présentera la joue à celui qui le frappe, Il se rassasiera de déshonneur.",
+            "en": "He giveth his cheek to him that smiteth him: he is filled full with reproach.",
+            "zh": "他當由人打他的腮頰．要滿受凌辱。",
+            "jp": "おのれを撃うつ者ものにほおを向むけ、満みち足たりるまでに、はずかしめを受うけよ。",
+            "kr": "자기를 치는 자에게 뺨을 돌려대어 치욕으로 배불릴지어다"
+          }
+        },
+        {
+          "key": "31",
+          "text": {
+            "fr": "Car le Seigneur Ne rejette pas pour toujours.",
+            "en": "For the Lord will not cast off for ever:",
+            "zh": "因為主必不永遠丟棄人。",
+            "jp": "主しゅはとこしえにこのような人ひとを捨すてられないからである。",
+            "kr": "이는 주께서 영원하도록 버리지 아니하실 것임이며"
+          }
+        },
+        {
+          "key": "32",
+          "text": {
+            "fr": "Mais, lorsqu’il afflige, Il a compassion selon sa grande miséricorde ;",
+            "en": "But though he cause grief, yet will he have compassion according to the multitude of his mercies.",
+            "zh": "主雖使人憂愁、還要照他諸般的慈愛發憐憫。",
+            "jp": "彼かれは悩なやみを与あたえられるが、そのいつくしみが豊ゆたかなので、またあわれみをたれられる。",
+            "kr": "그가 비록 근심하게 하시나 그의 풍부한 인자하심에 따라 긍휼히 여기실 것임이라"
+          }
+        },
+        {
+          "key": "33",
+          "text": {
+            "fr": "Car ce n’est pas volontiers qu’il humilie Et qu’il afflige les enfants des hommes.",
+            "en": "For he doth not afflict willingly nor grieve the children of men.",
+            "zh": "因他並不甘心使人受苦、使人憂愁。",
+            "jp": "彼かれは心こころから人ひとの子こを苦くるしめ悩なやますことをされないからである。",
+            "kr": "주께서 인생으로 고생하게 하시며 근심하게 하심은 본심이 아니시로다"
+          }
+        },
+        {
+          "key": "34",
+          "text": {
+            "fr": "Quand on foule aux pieds Tous les captifs du pays,",
+            "en": "To crush under his feet all the prisoners of the earth,",
+            "zh": "人將世上被囚的、踹〔原文作壓〕在腳下、",
+            "jp": "地ちのすべての捕とらわれ人びとを足あしの下したに踏ふみにじり、",
+            "kr": "세상에 있는 모든 갇힌 자들을 발로 밟는 것과"
+          }
+        },
+        {
+          "key": "35",
+          "text": {
+            "fr": "Quand on viole la justice humaine À la face du Très-Haut,",
+            "en": "To turn aside the right of a man before the face of the most High,",
+            "zh": "或在至高者面前屈枉人、",
+            "jp": "いと高たかき者ものの前まえに人ひとの公義こうぎをまげ、",
+            "kr": "지존자의 얼굴 앞에서 사람의 재판을 굽게 하는 것과"
+          }
+        },
+        {
+          "key": "36",
+          "text": {
+            "fr": "Quand on fait tort à autrui dans sa cause, Le Seigneur ne le voit-il pas ?",
+            "en": "To subvert a man in his cause, the Lord approveth not.",
+            "zh": "或在人的訟事上、顛倒是非．這都是主看不上的。",
+            "jp": "人ひとの訴うったえをくつがえすことは、主しゅのよみせられないことである。",
+            "kr": "사람의 송사를 억울하게 하는 것은 다 주께서 기쁘게 보시는 것이 아니로다"
+          }
+        },
+        {
+          "key": "37",
+          "text": {
+            "fr": "Qui dira qu’une chose arrive Sans que le Seigneur l’ait ordonnée ?",
+            "en": "¶ Who is he that saith, and it cometh to pass, when the Lord commandeth it not?",
+            "zh": "除非主命定、誰能說成就成呢。",
+            "jp": "主しゅが命めいじられたのでなければ、だれが命めいじて、その事ことの成なったことがあるか。",
+            "kr": "주의 명령이 아니면 누가 이것을 능히 말하여 이루게 할 수 있으랴"
+          }
+        },
+        {
+          "key": "38",
+          "text": {
+            "fr": "N’est-ce pas de la volonté du Très-Haut que viennent Les maux et les biens ?",
+            "en": "Out of the mouth of the most High proceedeth not evil and good?",
+            "zh": "禍福不都出於至高者的口麼。",
+            "jp": "災わざわいもさいわいも、いと高たかき者ものの口くちから出でるではないか。",
+            "kr": "화와 복이 지존자의 입으로부터 나오지 아니하느냐"
+          }
+        },
+        {
+          "key": "39",
+          "text": {
+            "fr": "Pourquoi l’homme vivant se plaindrait-il ? Que chacun se plaigne de ses propres péchés.",
+            "en": "Wherefore doth a living man complain, a man for the punishment of his sins?",
+            "zh": "活人因自己的罪受罰、為何發怨言呢。",
+            "jp": "生いける人ひとはどうしてつぶやかねばならないのか、人ひとは自分じぶんの罪つみの罰ばっせられるのを、つぶやくことができようか。",
+            "kr": "살아 있는 사람은 자기 죄들 때문에 벌을 받나니 어찌 원망하랴"
+          }
+        },
+        {
+          "key": "40",
+          "text": {
+            "fr": "Examinons nos voies, sondons-les Et retournons à l’Éternel ;",
+            "en": "Let us search and try our ways, and turn again to the Lord.",
+            "zh": "我們當深深考察自己的行為、再歸向耶和華。",
+            "jp": "われわれは、自分じぶんの行おこないを調しらべ、かつ省かえりみて、主しゅに帰かえろう。",
+            "kr": "우리가 스스로 우리의 행위들을 조사하고 여호와께로 돌아가자"
+          }
+        },
+        {
+          "key": "41",
+          "text": {
+            "fr": "Élevons nos cœurs et nos mains Vers Dieu qui est au ciel :",
+            "en": "Let us lift up our heart with our hands unto God in the heavens.",
+            "zh": "我們當誠心向天上的　神舉手禱告。",
+            "jp": "われわれは天てんにいます神かみにむかって、手てと共ともに心こころをもあげよう。",
+            "kr": "우리의 마음과 손을 아울러 하늘에 계신 하나님께 들자"
+          }
+        },
+        {
+          "key": "42",
+          "text": {
+            "fr": "Nous avons péché, nous avons été rebelles ! Tu n’as pas pardonné !",
+            "en": "We have transgressed and have rebelled: thou hast not pardoned.",
+            "zh": "我們犯罪背逆、你並不赦免。",
+            "jp": "「わたしたちは罪つみを犯おかし、そむきました、あなたはおゆるしになりませんでした。",
+            "kr": "우리의 범죄함과 우리의 반역함을 주께서 사하지 아니하시고"
+          }
+        },
+        {
+          "key": "43",
+          "text": {
+            "fr": "Tu t’es caché dans ta colère et tu nous as poursuivis ; Tu as tué sans miséricorde ;",
+            "en": "Thou hast covered with anger, and persecuted us: thou hast slain, thou hast not pitied.",
+            "zh": "你自被怒氣遮蔽、追趕我們．你施行殺戮、並不顧惜。",
+            "jp": "あなたは怒いかりをもってご自分じぶんをおおい、わたしたちを追おい攻せめ、殺ころして、あわれまず、",
+            "kr": "진노로 자신을 가리시고 우리를 추격하시며 죽이시고 긍휼을 베풀지 아니하셨나이다"
+          }
+        },
+        {
+          "key": "44",
+          "text": {
+            "fr": "Tu t’es enveloppé d’un nuage, Pour fermer l’accès à la prière.",
+            "en": "Thou hast covered thyself with a cloud, that our prayer should not pass through.",
+            "zh": "你以黑雲遮蔽自己、以致禱告不得透入。",
+            "jp": "また雲くもをもってご自分じぶんをおおい、祈いのりを通つうじないようにし、",
+            "kr": "주께서 구름으로 자신을 가리사 기도가 상달되지 못하게 하시고"
+          }
+        },
+        {
+          "key": "45",
+          "text": {
+            "fr": "Tu nous as rendus un objet de mépris et de dédain Au milieu des peuples.",
+            "en": "Thou hast made us as the offscouring and refuse in the midst of the people.",
+            "zh": "你使我們在萬民中成為污穢和渣滓。",
+            "jp": "もろもろの民たみの中なかに、わたしたちをちりあくたとなさいました。",
+            "kr": "우리를 뭇 나라 가운데에서 쓰레기와 폐물로 삼으셨으므로"
+          }
+        },
+        {
+          "key": "46",
+          "text": {
+            "fr": "Ils ouvrent la bouche contre nous, Tous ceux qui sont nos ennemis.",
+            "en": "All our enemies have opened their mouths against us.",
+            "zh": "我們的仇敵、都向我們大大張口。",
+            "jp": "敵てきはみなわたしたちをののしり、",
+            "kr": "우리의 모든 원수들이 우리를 향하여 그들의 입을 크게 벌렸나이다"
+          }
+        },
+        {
+          "key": "47",
+          "text": {
+            "fr": "Notre part a été la terreur et la fosse, Le ravage et la ruine.",
+            "en": "Fear and a snare is come upon us, desolation and destruction.",
+            "zh": "恐懼和陷坑、殘害和毀滅、都臨近我們。",
+            "jp": "恐おそれと落おとし穴あなと、荒廃こうはいと滅亡めつぼうとが、わたしたちに臨のぞみました。",
+            "kr": "두려움과 함정과 파멸과 멸망이 우리에게 임하였도다"
+          }
+        },
+        {
+          "key": "48",
+          "text": {
+            "fr": "Des torrents d’eau coulent de mes yeux, À cause de la ruine de la fille de mon peuple.",
+            "en": "Mine eye runneth down with rivers of water for the destruction of the daughter of my people.",
+            "zh": "因我眾民遭的毀滅、我就眼淚下流如河。",
+            "jp": "わが民たみの娘むすめの滅ほろびによって、わたしの目めには涙なみだの川かわが流ながれています。",
+            "kr": "딸 내 백성의 파멸로 말미암아 내 눈에는 눈물이 시내처럼 흐르도다"
+          }
+        },
+        {
+          "key": "49",
+          "text": {
+            "fr": "Mon œil fond en larmes, sans repos, Sans répit,",
+            "en": "Mine eye trickleth down, and ceaseth not, without any intermission,",
+            "zh": "我的眼多多流淚、總不止息、",
+            "jp": "わが目めは絶たえず涙なみだを注そそぎ出だして、やむことなく、",
+            "kr": "내 눈에 흐르는 눈물이 그치지 아니하고 쉬지 아니함이여"
+          }
+        },
+        {
+          "key": "50",
+          "text": {
+            "fr": "Jusqu’à ce que l’Éternel regarde et voie Du haut des cieux ;",
+            "en": "Till the Lord look down, and behold from heaven.",
+            "zh": "直等耶和華垂顧、從天觀看。",
+            "jp": "主しゅが天てんから見みおろして、顧かえりみられる時ときにまで及およぶでしょう。",
+            "kr": "여호와께서 하늘에서 살피시고 돌아보실 때까지니라"
+          }
+        },
+        {
+          "key": "51",
+          "text": {
+            "fr": "Mon œil me fait souffrir À cause de toutes les filles de ma ville.",
+            "en": "Mine eye affecteth mine heart because of all the daughters of my city.",
+            "zh": "因我本城的眾民、我的眼、使我的心傷痛。",
+            "jp": "わが目めはわが町まちのすべての娘むすめの最期さいごのゆえに、わたしを痛いたませます。",
+            "kr": "나의 성읍의 모든 여자들을 내 눈으로 보니 내 심령이 상하는도다"
+          }
+        },
+        {
+          "key": "52",
+          "text": {
+            "fr": "Ils m’ont donné la chasse comme à un oiseau Ceux qui sont à tort mes ennemis.",
+            "en": "Mine enemies chased me sore, like a bird, without cause.",
+            "zh": "無故與我為仇的追逼我、像追雀鳥一樣。",
+            "jp": "ゆえなくわたしに敵てきする者ものどもによって、わたしは鳥とりのように追おわれました。",
+            "kr": "나의 원수들이 이유없이 나를 새처럼 사냥하는도다"
+          }
+        },
+        {
+          "key": "53",
+          "text": {
+            "fr": "Ils ont voulu anéantir ma vie dans une fosse Et ils ont jeté des pierres sur moi.",
+            "en": "They have cut off my life in the dungeon, and cast a stone upon me.",
+            "zh": "他們使我的命在牢獄中斷絕、並將一塊石頭拋在我身上。",
+            "jp": "彼かれらは生いきているわたしを穴あなの中なかに投なげ入いれ、わたしの上うえに石いしを投なげつけました。",
+            "kr": "그들이 내 생명을 끊으려고 나를 구덩이에 넣고 그 위에 돌을 던짐이여"
+          }
+        },
+        {
+          "key": "54",
+          "text": {
+            "fr": "Les eaux ont inondé ma tête ; Je disais : Je suis perdu !",
+            "en": "Waters flowed over mine head; then I said, I am cut off.",
+            "zh": "眾水流過我頭．我說、我命斷絕了。",
+            "jp": "水みずはわたしの頭あたまの上うえにあふれ、わたしは『断たち滅ほろぼされた』と言いいました。",
+            "kr": "물이 내 머리 위로 넘치니 내가 스스로 이르기를 이제는 멸절되었다 하도다"
+          }
+        },
+        {
+          "key": "55",
+          "text": {
+            "fr": "J’ai invoqué ton nom, ô Éternel, Du fond de la fosse.",
+            "en": "¶ I called upon thy name, O Lord, out of the low dungeon.",
+            "zh": "耶和華阿、我從深牢中求告你的名。",
+            "jp": "主しゅよ、わたしは深ふかい穴あなからみ名なを呼よびました。",
+            "kr": "여호와여 내가 심히 깊은 구덩이에서 주의 이름을 불렀나이다"
+          }
+        },
+        {
+          "key": "56",
+          "text": {
+            "fr": "Tu as entendu ma voix : Ne ferme pas l’oreille à mes soupirs, à mes cris !",
+            "en": "Thou hast heard my voice: hide not thine ear at my breathing, at my cry.",
+            "zh": "你曾聽見我的聲音．我求你解救、你不要掩耳不聽。",
+            "jp": "あなたはわが声こえを聞きかれました、『わが嘆なげきと叫さけびに耳みみをふさがないでください』。",
+            "kr": "주께서 이미 나의 음성을 들으셨사오니 이제 나의 탄식과 부르짖음에 주의 귀를 가리지 마옵소서"
+          }
+        },
+        {
+          "key": "57",
+          "text": {
+            "fr": "Au jour où je t’ai invoqué, tu t’es approché, Tu as dit : Ne crains pas !",
+            "en": "Thou drewest near in the day that I called upon thee: thou saidst, Fear not.",
+            "zh": "我求告你的日子、你臨近我、說、不要懼怕。",
+            "jp": "わたしがあなたに呼よばわったとき、あなたは近寄ちかよって、『恐おそれるな』と言いわれました。",
+            "kr": "내가 주께 아뢴 날에 주께서 내게 가까이 하여 이르시되 두려워하지 말라 하셨나이다"
+          }
+        },
+        {
+          "key": "58",
+          "text": {
+            "fr": "Seigneur, tu as défendu la cause de mon âme, Tu as racheté ma vie.",
+            "en": "O Lord, thou hast pleaded the causes of my soul; thou hast redeemed my life.",
+            "zh": "主阿、你伸明了我的冤．你救贖了我的命。",
+            "jp": "主しゅよ、あなたはわが訴うったえを取とりあげて、わたしの命いのちをあがなわれました。",
+            "kr": "주여 주께서 내 심령의 원통함을 풀어 주셨고 내 생명을 속량하셨나이다"
+          }
+        },
+        {
+          "key": "59",
+          "text": {
+            "fr": "Éternel, tu as vu ce qu’on m’a fait souffrir : Rends-moi justice !",
+            "en": "O Lord, thou hast seen my wrong: judge thou my cause.",
+            "zh": "耶和華阿、你見了我受的委屈．求你為我伸冤。",
+            "jp": "主しゅよ、あなたはわたしがこうむった不義ふぎをごらんになりました。わたしの訴うったえをおさばきください。",
+            "kr": "여호와여 나의 억울함을 보셨사오니 나를 위하여 원통함을 풀어주옵소서"
+          }
+        },
+        {
+          "key": "60",
+          "text": {
+            "fr": "Tu as vu toutes leurs vengeances, Tous leurs complots contre moi.",
+            "en": "Thou hast seen all their vengeance and all their imaginations against me.",
+            "zh": "他們仇恨我、謀害我、你都看見了。",
+            "jp": "あなたはわたしに対たいする彼かれらの報復ほうふくと、陰謀いんぼうとを、ことごとくごらんになりました。",
+            "kr": "그들이 내게 보복하며 나를 모해함을 주께서 다 보셨나이다"
+          }
+        },
+        {
+          "key": "61",
+          "text": {
+            "fr": "Éternel, tu as entendu leurs outrages, Tous leurs complots contre moi,",
+            "en": "Thou hast heard their reproach, O Lord, and all their imaginations against me;",
+            "zh": "耶和華阿、你聽見他們辱罵我的話、知道他們向我所設的計、",
+            "jp": "主しゅよ、あなたはわたしに対たいする彼かれらのそしりと、陰謀いんぼうとを、ことごとく聞きかれました。",
+            "kr": "여호와여 그들이 나를 비방하며 나를 모해하는 모든 것"
+          }
+        },
+        {
+          "key": "62",
+          "text": {
+            "fr": "Les discours de mes adversaires et les projets Qu’ils formaient chaque jour contre moi.",
+            "en": "The lips of those that rose up against me, and their device against me all the day.",
+            "zh": "並那些起來攻擊我的人、口中所說的話、以及終日向我所設的計謀。",
+            "jp": "立たってわたしに逆さからう者ものどものくちびると、その思おもいは、ひねもすわたしを攻せめています。",
+            "kr": "곧 일어나 나를 치는 자들의 입술에서 나오는 것들과 종일 나를 모해하는 것들을 들으셨나이다"
+          }
+        },
+        {
+          "key": "63",
+          "text": {
+            "fr": "Regarde quand ils sont assis et quand ils se lèvent : Je suis l’objet de leurs chansons.",
+            "en": "Behold their sitting down, and their rising up; I am their musick.",
+            "zh": "求你觀看、他們坐下起來、都以我為歌曲。",
+            "jp": "どうか、彼かれらのすわるをも、立たつをも、みそなわしてください。わたしは彼かれらの歌うたとなっています。",
+            "kr": "그들이 앉으나 서나 나를 조롱하여 노래하는 것을 주목하여 보옵소서"
+          }
+        },
+        {
+          "key": "64",
+          "text": {
+            "fr": "Tu leur donneras un salaire, ô Éternel, Selon l’œuvre de leurs mains ;",
+            "en": "¶ Render unto them a recompence, O Lord, according to the work of their hands.",
+            "zh": "耶和華阿、你要按著他們手所作的、向他們施行報應。",
+            "jp": "主しゅよ、彼かれらの手てのわざにしたがって、彼かれらに報むくい、",
+            "kr": "여호와여 주께서 그들의 손이 행한 대로 그들에게 보응하사"
+          }
+        },
+        {
+          "key": "65",
+          "text": {
+            "fr": "Tu les livreras à l’endurcissement de leur cœur, À ta malédiction contre eux ;",
+            "en": "Give them sorrow of heart, thy curse unto them.",
+            "zh": "你要使他們心裡剛硬、使你的咒詛臨到他們。",
+            "jp": "彼かれらの心こころをかたくなにし、あなたののろいを彼かれらに注そそいでください。",
+            "kr": "그들에게 거만한 마음을 주시고 그들에게 저주를 내리소서"
+          }
+        },
+        {
+          "key": "66",
+          "text": {
+            "fr": "Tu les poursuivras dans ta colère et tu les extermineras De dessous les cieux, ô Éternel !",
+            "en": "Persecute and destroy them in anger from under the heavens of the Lord.",
+            "zh": "你要發怒追趕他們、從耶和華的天下除滅他們。",
+            "jp": "主しゅよ、怒いかりをもって彼かれらを追おい、天あめが下したから彼かれらを滅ほろぼしてください」。",
+            "kr": "주께서 진노로 그들을 뒤쫓으사 여호와의 하늘 아래에서 멸하소서"
+          }
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "introduction": {
+        "fr": "La condition de Sion est déplorable en raison du péché et de l’iniquité.",
+        "en": "The condition of Zion is pitiful because of sin and iniquity.",
+        "zh": "The condition of Zion is pitiful because of sin and iniquity.",
+        "jp": "The condition of Zion is pitiful because of sin and iniquity.",
+        "kr": "The condition of Zion is pitiful because of sin and iniquity."
+      },
+      "verses": [
+        {
+          "key": "1",
+          "text": {
+            "fr": "Comment ! l’or a perdu son éclat ! L’or pur est altéré ! Les pierres du sanctuaire sont dispersées Aux coins de toutes les rues !",
+            "en": "How is the gold become dim! how is the most fine gold changed! the stones of the sanctuary are poured out in the top of every street.",
+            "zh": "黃金何其失光．純金何其變色．聖所的石頭倒在各市口上。",
+            "jp": "ああ、黄金おうごんは光ひかりを失うしない、純金じゅんきんは色いろを変へんじ、聖所せいじょの石いしはすべてのちまたのかどに投なげ捨すてられた。",
+            "kr": "슬프다 어찌 그리 금이 빛을 잃고 순금이 변질하였으며 성소의 돌들이 거리 어귀마다 쏟아졌는고"
+          }
+        },
+        {
+          "key": "2",
+          "text": {
+            "fr": "Les nobles fils de Sion, Estimés à l’égal de l’or pur, Sont regardés, hélas ! comme des vases de terre, Ouvrage des mains du potier !",
+            "en": "The precious sons of Zion, comparable to fine gold, how are they esteemed as earthen pitchers, the work of the hands of the potter!",
+            "zh": "錫安寶貴的眾子、好比精金、現在何竟算為窰匠手所作的瓦瓶。",
+            "jp": "ああ、精せい金きんにも比ひすべきシオンのいとし子ごらは、陶器とうき師しの手てのわざである土つちの器うつわのようにみなされる。",
+            "kr": "순금에 비할 만큼 보배로운 시온의 아들들이 어찌 그리 토기장이가 만든 질항아리 같이 여김이 되었는고"
+          }
+        },
+        {
+          "key": "3",
+          "text": {
+            "fr": "Les chacals mêmes présentent la mamelle, Et allaitent leurs petits ; Mais la fille de mon peuple est devenue cruelle Comme les autruches du désert.",
+            "en": "Even the sea monsters draw out the breast, they give suck to their young ones: the daughter of my people is become cruel, like the ostriches in the wilderness.",
+            "zh": "野狗尚且把奶乳哺其子、我民的婦人倒成為殘忍、好像曠野的鴕鳥一般。",
+            "jp": "山犬やまいぬさえも乳ちぶさをたれて、その子こに乳ちちを飲のませる。ところが、わが民たみの娘むすめは、荒野あらののだちょうのように無慈悲むじひになった。",
+            "kr": "들개들도 젖을 주어 그들의 새끼를 먹이나 딸 내 백성은 잔인하여 마치 광야의 타조 같도다"
+          }
+        },
+        {
+          "key": "4",
+          "text": {
+            "fr": "La langue du nourrisson s’attache à son palais, Desséchée par la soif ; Les enfants demandent du pain, Et personne ne leur en donne.",
+            "en": "The tongue of the sucking child cleaveth to the roof of his mouth for thirst: the young children ask bread, and no man breaketh it unto them.",
+            "zh": "喫奶孩子的舌頭、因乾渴貼住上膛．孩童求餅、無人擘給他們。",
+            "jp": "乳ちのみ子ごの舌したはかわいて、上うえあごに、ひたとつき、幼おさな子ごらはパンを求もとめても、これに与あたえる者ものがない。",
+            "kr": "젖먹이가 목말라서 혀가 입천장에 붙음이여 어린 아이들이 떡을 구하나 떼어 줄 사람이 없도다"
+          }
+        },
+        {
+          "key": "5",
+          "text": {
+            "fr": "Ceux qui se nourrissaient de mets délicats Périssent dans les rues ; Ceux qui étaient élevés dans la pourpre Étreignent le fumier.",
+            "en": "They that did feed delicately are desolate in the streets: they that were brought up in scarlet embrace dunghills.",
+            "zh": "素來喫美好食物的、現今在街上變為孤寒．素來臥朱紅褥子的、現今躺臥糞堆．",
+            "jp": "うまい物ものを食たべていた者ものは、落おちぶれて、ちまたにおり、紫むらさきの着物きもので育そだてられた者ものも、今いまは灰はいだまりの上うえに伏ふしている。",
+            "kr": "맛있는 음식을 먹던 자들이 외롭게 거리 거리에 있으며 이전에는 붉은 옷을 입고 자라난 자들이 이제는 거름더미를 안았도다"
+          }
+        },
+        {
+          "key": "6",
+          "text": {
+            "fr": "Le châtiment de la fille de mon peuple est plus grand Que celui de Sodome, Détruite en un instant, Sans que personne ait porté la main sur elle.",
+            "en": "For the punishment of the iniquity of the daughter of my people is greater than the punishment of the sin of Sodom, that was overthrown as in a moment, and no hands stayed on her.",
+            "zh": "都因我眾民的罪孽、比所多瑪的罪還大．所多瑪雖然無人加手於他、還是轉眼之間被傾覆。",
+            "jp": "わが民たみの娘むすめのうけた懲こらしめは、ソドムの罰ばつよりも大おおきかった。ソドムは昔むかし、人ひとの手てによらないで、またたくまに滅ほろぼされたのだ。",
+            "kr": "전에 소돔이 사람의 손을 대지 아니하였는데도 순식간에 무너지더니 이제는 딸 내 백성의 죄가 소돔의 죄악보다 무겁도다"
+          }
+        },
+        {
+          "key": "7",
+          "text": {
+            "fr": "Ses princes étaient plus éclatants que la neige, Plus blancs que le lait ; Ils avaient le teint plus vermeil que le corail ; Leur figure était comme le saphir.",
+            "en": "Her Nazarites were purer than snow, they were whiter than milk, they were more ruddy in body than rubies, their polishing was of sapphire:",
+            "zh": "錫安的貴冑、素來比雪純淨、比奶更白．他們的身體、比紅寶玉〔或作珊瑚〕更紅、像光潤的藍寶石一樣。",
+            "jp": "わが民たみの君きみたちは雪ゆきよりも清きよらかに、乳ちちよりも白しろく、そのからだは、さんごよりも赤あかく、その姿すがたの美うつくしさはサファイヤのようであった。",
+            "kr": "전에는 존귀한 자들의 몸이 눈보다 깨끗하고 젖보다 희며 산호들보다 붉어 그들의 윤택함이 갈아서 빛낸 청옥 같더니"
+          }
+        },
+        {
+          "key": "8",
+          "text": {
+            "fr": "Leur aspect est plus sombre que le noir ; On ne les reconnaît pas dans les rues ; Ils ont la peau collée sur les os, Sèche comme du bois.",
+            "en": "Their visage is blacker than a coal; they are not known in the streets: their skin cleaveth to their bones; it is withered, it is become like a stick.",
+            "zh": "現在他們的面貌比煤炭更黑、以致在街上無人認識．他們的皮膚、緊貼骨頭、枯乾如同槁木。",
+            "jp": "今いまはその顔かおはすすよりも黒くろく、町まちの中なかにいても人ひとに知しられず、その皮膚ひふは縮ちぢんで骨ほねにつき、かわいて枯かれ木きのようになった。",
+            "kr": "이제는 그들의 얼굴이 숯보다 검고 그들의 가죽이 뼈들에 붙어 막대기 같이 말랐으니 어느 거리에서든지 알아볼 사람이 없도다"
+          }
+        },
+        {
+          "key": "9",
+          "text": {
+            "fr": "Ceux qui périssent par l’épée sont plus heureux Que ceux qui périssent par la faim, Qui tombent exténués, Privés du fruit des champs.",
+            "en": "They that be slain with the sword are better than they that be slain with hunger: for these pine away, stricken through for want of the fruits of the field.",
+            "zh": "餓死的、不如被刀殺的、因為這是缺了田間的土產、就身體衰弱、漸漸消滅。",
+            "jp": "つるぎで殺ころされる者ものは、飢うえて死しぬ者ものよりもさいわいである。彼かれらは田畑たはたの産物さんぶつの欠乏けつぼうによって、刺さされた者もののように衰おとろえ行いくからである。",
+            "kr": "칼에 죽은 자들이 주려 죽은 자들보다 나음은 토지 소산이 끊어지므로 그들은 찔림 받은 자들처럼 점점 쇠약하여 감이로다"
+          }
+        },
+        {
+          "key": "10",
+          "text": {
+            "fr": "Les femmes, malgré leur tendresse, Font cuire leurs enfants ; Ils leur servent de nourriture, Au milieu du désastre de la fille de mon peuple.",
+            "en": "The hands of the pitiful women have sodden their own children: they were their meat in the destruction of the daughter of my people.",
+            "zh": "慈悲的婦人、當我眾民被毀滅的時候、親手煮自己的兒女作為食物。",
+            "jp": "わが民たみの娘むすめの滅ほろびる時ときには情深なさけぶかい女おんなたちさえも、手てずから自分じぶんの子こどもを煮にて、それを食物しょくもつとした。",
+            "kr": "딸 내 백성이 멸망할 때에 자비로운 부녀들이 자기들의 손으로 자기들의 자녀들을 삶아 먹었도다"
+          }
+        },
+        {
+          "key": "11",
+          "text": {
+            "fr": "L’Éternel est allé au bout de sa fureur, Il a répandu son ardente colère ; Il a allumé dans Sion un feu Qui en dévore les fondements.",
+            "en": "The Lord hath accomplished his fury; he hath poured out his fierce anger, and hath kindled a fire in Zion, and it hath devoured the foundations thereof.",
+            "zh": "耶和華發怒成就他所定的、倒出他的烈怒．在錫安使火起、燒燬錫安的根基。",
+            "jp": "主しゅはその憤いきどおりをことごとく漏もらし、激はげしい怒いかりをそそぎ、シオンに火ひを燃もやして、その礎いしずえまでも焼やき払はらわれた。",
+            "kr": "여호와께서 그의 분을 내시며 그의 맹렬한 진노를 쏟으심이여 시온에 불을 지르사 그 터를 사르셨도다"
+          }
+        },
+        {
+          "key": "12",
+          "text": {
+            "fr": "Les rois de la terre n’auraient pas cru, Aucun des habitants du monde n’aurait cru Que l’adversaire, que l’ennemi entrerait Dans les portes de Jérusalem.",
+            "en": "The kings of the earth, and all the inhabitants of the world, would not have believed that the adversary and the enemy should have entered into the gates of Jerusalem.",
+            "zh": "地上的君王、和世上的居民、都不信敵人和仇敵能進耶路撒冷的城門。",
+            "jp": "地ちの王おうたちも、世よの民たみらもみな、エルサレムの門もんに、あだや敵てきが、討うち入はいろうとは信しんじなかった。",
+            "kr": "대적과 원수가 예루살렘 성문으로 들어갈 줄은 세상의 모든 왕들과 천하 모든 백성이 믿지 못하였었도다"
+          }
+        },
+        {
+          "key": "13",
+          "text": {
+            "fr": "Voilà le fruit des péchés de ses prophètes, Des iniquités de ses prêtres, Qui ont répandu au milieu d’elle Le sang des justes !",
+            "en": "¶ For the sins of her prophets, and the iniquities of her priests, that have shed the blood of the just in the midst of her,",
+            "zh": "這都因他先知的罪惡、和祭司的罪孽．他們在城中流了義人的血。",
+            "jp": "これはその預言者よげんしゃたちの罪つみのため、その祭司さいしたちの不義ふぎのためであった。彼かれらは義人ぎじんの血ちをその町まちの中なかに流ながした者ものである。",
+            "kr": "그의 선지자들의 죄들과 제사장들의 죄악들 때문이니 그들이 성읍 안에서 의인들의 피를 흘렸도다"
+          }
+        },
+        {
+          "key": "14",
+          "text": {
+            "fr": "Ils erraient en aveugles dans les rues, Souillés de sang ; On ne pouvait Toucher leurs vêtements.",
+            "en": "They have wandered as blind men in the streets, they have polluted themselves with blood, so that men could not touch their garments.",
+            "zh": "他們在街上如瞎子亂走、又被血玷污、以致人不能摸他們的衣服。",
+            "jp": "彼かれらは盲人もうじんのように、ちまたにさまよい、血ちで汚けがれている。だれもその衣ころもにさわることができない。",
+            "kr": "그들이 거리 거리에서 맹인 같이 방황함이여 그들의 옷들이 피에 더러워졌으므로 아무도 만질 수 없도다"
+          }
+        },
+        {
+          "key": "15",
+          "text": {
+            "fr": "Éloignez-vous, impurs ! leur criait-on, Éloignez-vous, éloignez-vous, ne nous touchez pas ! Ils sont en fuite, ils errent çà et là ; On dit parmi les nations : Ils n’auront plus leur demeure !",
+            "en": "They cried unto them, Depart ye; it is unclean; depart, depart, touch not: when they fled away and wandered, they said among the heathen, They shall no more sojourn there.",
+            "zh": "人向他們喊著說、不潔淨的．躲開、躲開、不要挨近我．他們逃走飄流的時候、列國中有人說、他們不可仍在這裡寄居。",
+            "jp": "人々ひとびとは彼かれらにむかって、「去されよ、けがらわしい」、「去されよ、去されよ、さわるな」と叫さけんだので、彼かれらは逃にげ去さって放浪者ほうろうしゃとなったが、異邦人いほうじんの中なかでも人々ひとびとは「もうわれわれのうちに宿やどってはならない」と言いった。",
+            "kr": "사람들이 그들에게 외쳐 이르기를 저리 가라 부정하다, 저리 가라, 저리 가라, 만지지 말라 하였음이여 그들이 도망하여 방황할 때에 이방인들이 말하기를 그들이 다시는 여기서 살지 못하리라 하였도다"
+          }
+        },
+        {
+          "key": "16",
+          "text": {
+            "fr": "L’Éternel les a dispersés dans sa colère, Il ne tourne plus les regards vers eux ; On n’a eu ni respect pour les prêtres, Ni pitié pour les anciens.",
+            "en": "The anger of the Lord hath divided them; he will no more regard them: they respected not the persons of the priests, they favoured not the elders.",
+            "zh": "耶和華發怒、將他們分散、不再眷顧他們．人不重看祭司、也不厚待長老。",
+            "jp": "主しゅはみずから彼かれらを散ちらして、再ふたたび彼かれらを顧かえりみず、祭司さいしを尊たっとばず、長老ちょうろうをいたわられなかった。",
+            "kr": "여호와께서 노하여 그들을 흩으시고 다시는 돌보지 아니하시리니 그들이 제사장들을 높이지 아니하였으며 장로들을 대접하지 아니하였음이로다"
+          }
+        },
+        {
+          "key": "17",
+          "text": {
+            "fr": "Nos yeux se consumaient encore, Et nous attendions vainement du secours ; Nos regards se portaient avec espérance Vers une nation qui ne nous a pas délivrés.",
+            "en": "As for us, our eyes as yet failed for our vain help: in our watching we have watched for a nation that could not save us.",
+            "zh": "我們仰望人來幫助、以致眼目失明、還是枉然．我們所盼望的、竟盼望一個不能救人的國。",
+            "jp": "われわれの目めは、むなしく助たすけを待まち望のぞんで疲つかれ衰おとろえた。われわれは待まち望のぞんだが、救すくいを与あたえ得えない国くにびとを待まち望のぞんだ。",
+            "kr": "우리가 헛되이 도움을 바라므로 우리의 눈이 상함이여 우리를 구원하지 못할 나라를 바라보고 바라보았도다"
+          }
+        },
+        {
+          "key": "18",
+          "text": {
+            "fr": "On épiait nos pas, Pour nous empêcher d’aller sur nos places ; Notre fin s’approchait, nos jours étaient accomplis … Notre fin est arrivée !",
+            "en": "They hunt our steps, that we cannot go in our streets: our end is near, our days are fulfilled; for our end is come.",
+            "zh": "仇敵追趕我們的腳步像打獵的、以致我們不敢在自己的街上行走．我們的結局臨近、我們的日子滿足、我們的結局來到了。",
+            "jp": "人々ひとびとがわれわれの歩あゆみをうかがうので、われわれは自分じぶんの町まちの中なかをも、歩あるくことができなかった。われわれの終おわりは近ちかづいた、日ひは尽つきた。われわれの終おわりが来きたからである。",
+            "kr": "그들이 우리의 걸음을 엿보니 우리가 거리마다 다 다닐 수 없음이여 우리의 끝이 가깝고 우리의 날들이 다하였으며 우리의 종말이 이르렀도다"
+          }
+        },
+        {
+          "key": "19",
+          "text": {
+            "fr": "Nos persécuteurs étaient plus légers Que les aigles du ciel ; Ils nous ont poursuivis sur les montagnes, Ils nous ont dressé des embûches dans le désert.",
+            "en": "Our persecutors are swifter than the eagles of the heaven: they pursued us upon the mountains, they laid wait for us in the wilderness.",
+            "zh": "追趕我們的、比空中的鷹更快．他們在山上追逼我們、在曠野埋伏、等候我們。",
+            "jp": "われわれを追おう者ものは空そらのはげたかよりも速はやく、彼かれらは山やまでわれわれを追おい立たて、野のでわれわれを待まち伏ぶせる。",
+            "kr": "우리를 뒤쫓는 자들이 하늘의 독수리들보다 빠름이여 산 꼭대기까지도 뒤쫓으며 광야에서도 우리를 잡으려고 매복하였도다"
+          }
+        },
+        {
+          "key": "20",
+          "text": {
+            "fr": "Celui qui nous faisait respirer, l’oint de l’Éternel, A été pris dans leurs fosses, Lui de qui nous disions : Nous vivrons sous son ombre parmi les nations.",
+            "en": "The breath of our nostrils, the anointed of the Lord, was taken in their pits, of whom we said, Under his shadow we shall live among the heathen.",
+            "zh": "耶和華的受膏者、好比我們鼻中的氣、在他們的坑中被捉住．我們曾論到他說、我們必在他蔭下、在列國中存活。",
+            "jp": "われわれが鼻はなの息いきとたのんだ者もの、主しゅに油あぶらそそがれた者ものは、彼かれらの落おとし穴あなで捕とらえられた。彼かれはわれわれが「異邦人いほうじんの中なかでもその陰かげに生いきるであろう」と思おもった者ものである。",
+            "kr": "우리의 콧김 곧 여호와께서 기름 부으신 자가 그들의 함정에 빠졌음이여 우리가 그를 가리키며 전에 이르기를 우리가 그의 그늘 아래에서 이방인들 중에 살겠다 하던 자로다"
+          }
+        },
+        {
+          "key": "21",
+          "text": {
+            "fr": "Réjouis-toi, tressaille d’allégresse, fille d’Édom, Habitante du pays d’Uts ! Vers toi aussi passera la coupe ; Tu t’enivreras et tu seras mise à nu.",
+            "en": "¶ Rejoice and be glad, O daughter of Edom, that dwellest in the land of Uz; the cup also shall pass through unto thee: thou shalt be drunken, and shalt make thyself naked.",
+            "zh": "住烏斯地的以東民哪、只管歡喜快樂．苦杯也必傳到你那裡．你必喝醉、以致露體。",
+            "jp": "ウズの地ちに住すむエドムの娘むすめよ、喜よろこび楽たのしめ、あなたにもまた杯さかずきがめぐって行いく、あなたも酔よって裸はだかになる。",
+            "kr": "우스 땅에 사는 딸 에돔아 즐거워하며 기뻐하라 잔이 네게도 이를지니 네가 취하여 벌거벗으리라"
+          }
+        },
+        {
+          "key": "22",
+          "text": {
+            "fr": "Fille de Sion, la punition de ton iniquité est à son terme ; Il ne t’enverra plus en captivité. Fille d’Édom, il châtiera ton iniquité, Il mettra tes péchés à découvert.",
+            "en": "¶ The punishment of thine iniquity is accomplished, O daughter of Zion; he will no more carry thee away into captivity: he will visit thine iniquity, O daughter of Edom; he will discover thy sins.",
+            "zh": "錫安的民哪、你罪孽的刑罰受足了．耶和華必不使你再被擄去。以東的民哪、他必追討你的罪孽、顯露你的罪惡。",
+            "jp": "シオンの娘むすめよ、あなたの不義ふぎの罰ばつは終おわった。主しゅは重かさねてあなたを捕とらえ移うつされない。エドムの娘むすめよ、主しゅはあなたの不義ふぎを罰ばっし、あなたの罪つみをあらわされる。",
+            "kr": "딸 시온아 네 죄악의 형벌이 다하였으니 주께서 다시는 너로 사로잡혀 가지 아니하게 하시리로다 딸 에돔아 주께서 네 죄악을 벌하시며 네 허물을 드러내시리로다"
+          }
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "introduction": {
+        "fr": "Jérémie décrit dans une prière l’état malheureux de Sion.",
+        "en": "Jeremiah recites in prayer the sorrowful condition of Zion.",
+        "zh": "Jeremiah recites in prayer the sorrowful condition of Zion.",
+        "jp": "Jeremiah recites in prayer the sorrowful condition of Zion.",
+        "kr": "Jeremiah recites in prayer the sorrowful condition of Zion."
+      },
+      "verses": [
+        {
+          "key": "1",
+          "text": {
+            "fr": "Souviens-toi, Éternel, de ce qui nous est arrivé ! Regarde, vois notre déshonneur !",
+            "en": "Remember, O Lord, what is come upon us: consider, and behold our reproach.",
+            "zh": "耶和華阿、求你記念我們所遭遇的事．觀看我們所受的凌辱。",
+            "jp": "主しゅよ、われわれに臨のぞんだ事ことを覚おぼえてください。われわれのはずかしめを顧かえりみてください。",
+            "kr": "여호와여 우리가 당한 것을 기억하시고 우리가 받은 치욕을 살펴보옵소서"
+          }
+        },
+        {
+          "key": "2",
+          "text": {
+            "fr": "Notre héritage est passé à des étrangers, Nos maisons à des inconnus.",
+            "en": "Our inheritance is turned to strangers, our houses to aliens.",
+            "zh": "我們的產業、歸與外邦人．我們的房屋、歸與外路人。",
+            "jp": "われわれの嗣し業ぎょうは他国たこくの人ひとに移うつり、家いえは異邦人いほうじんのものとなった。",
+            "kr": "우리의 기업이 외인들에게, 우리의 집들도 이방인들에게 돌아갔나이다"
+          }
+        },
+        {
+          "key": "3",
+          "text": {
+            "fr": "Nous sommes orphelins, sans père ; Nos mères sont comme des veuves.",
+            "en": "We are orphans and fatherless, our mothers are as widows.",
+            "zh": "我們是無父的孤兒．我們的母親、好像寡婦。",
+            "jp": "われわれはみなしごとなって父ちちはなく、母はははやもめにひとしい。",
+            "kr": "우리는 아버지 없는 고아들이오며 우리의 어머니는 과부들 같으니"
+          }
+        },
+        {
+          "key": "4",
+          "text": {
+            "fr": "Nous buvons notre eau à prix d’argent, Nous payons notre bois.",
+            "en": "We have drunken our water for money; our wood is sold unto us.",
+            "zh": "我們出錢纔得水喝．我們的柴是人賣給我們的。",
+            "jp": "われわれは金かねを出だして水みずを飲のみ、価あたいを払はらって、たきぎを獲えなければならない。",
+            "kr": "우리가 은을 주고 물을 마시며 값을 주고 나무들을 가져오며"
+          }
+        },
+        {
+          "key": "5",
+          "text": {
+            "fr": "Nous sommes poursuivis, le joug sur le cou ; Nous sommes épuisés, nous n’avons pas de repos.",
+            "en": "Our necks are under persecution: we labour, and have no rest.",
+            "zh": "追趕我們的、到了我們的頸項上．我們疲乏不得歇息。",
+            "jp": "われわれは首くびにくびきをかけられて追おい使つかわれ、疲つかれても休やすむことができない。",
+            "kr": "우리를 뒤쫓는 자들이 우리의 목을 눌렀사오니 우리가 기진하여 쉴 수 없나이다"
+          }
+        },
+        {
+          "key": "6",
+          "text": {
+            "fr": "Nous avons tendu la main vers l’Égypte, vers l’Assyrie, Pour nous rassasier de pain.",
+            "en": "We have given the hand to the Egyptians, and to the Assyrians, to be satisfied with bread.",
+            "zh": "我們投降埃及人、和亞述人、為要得糧喫飽。",
+            "jp": "われわれは足たりるだけの食物しょくもつを獲えるために、エジプトおよびアッスリヤに手てをさし伸のべた。",
+            "kr": "우리가 애굽 사람과 앗수르 사람과 악수하고 양식을 얻어 배불리고자 하였나이다"
+          }
+        },
+        {
+          "key": "7",
+          "text": {
+            "fr": "Nos pères ont péché, ils ne sont plus Et c’est nous qui portons la peine de leurs iniquités.",
+            "en": "Our fathers have sinned, and are not; and we have borne their iniquities.",
+            "zh": "我們列祖犯罪、而今不在了．我們擔當他們的罪孽。",
+            "jp": "われわれの先祖せんぞは罪つみを犯おかして、すでに世よになく、われわれはその不義ふぎの責せめを負おっている。",
+            "kr": "우리의 조상들은 범죄하고 없어졌으며 우리는 그들의 죄악을 담당하였나이다"
+          }
+        },
+        {
+          "key": "8",
+          "text": {
+            "fr": "Des esclaves dominent sur nous Et personne ne nous délivre de leurs mains.",
+            "en": "Servants have ruled over us: there is none that doth deliver us out of their hand.",
+            "zh": "奴僕轄制我們．無人救我們脫離他們的手。",
+            "jp": "奴隷どれいであった者ものがわれわれを治おさめるが、われわれをその手てから救すくい出だす者ものがない。",
+            "kr": "종들이 우리를 지배함이여 그들의 손에서 건져낼 자가 없나이다"
+          }
+        },
+        {
+          "key": "9",
+          "text": {
+            "fr": "Nous cherchons notre pain au péril de notre vie Devant l’épée du désert.",
+            "en": "We gat our bread with the peril of our lives because of the sword of the wilderness.",
+            "zh": "因為曠野的刀劍、我們冒著險、纔得糧食。",
+            "jp": "われわれは荒野あらののつるぎのゆえに、おのが命いのちをかけて食物しょくもつを獲える。",
+            "kr": "광야에는 칼이 있으므로 죽기를 무릅써야 양식을 얻사오니"
+          }
+        },
+        {
+          "key": "10",
+          "text": {
+            "fr": "Notre peau est brûlante comme un four Par l’ardeur de la faim.",
+            "en": "Our skin was black like an oven because of the terrible famine.",
+            "zh": "因飢餓燥熱、我們的皮膚就黑如爐。",
+            "jp": "われわれの皮膚ひふは飢餓きがの激はげしい熱ねつのために、炉ろのように熱あつい。",
+            "kr": "굶주림의 열기로 말미암아 우리의 피부가 아궁이처럼 검으니이다"
+          }
+        },
+        {
+          "key": "11",
+          "text": {
+            "fr": "Ils ont déshonoré les femmes dans Sion, Les vierges dans les villes de Juda.",
+            "en": "They ravished the women in Zion, and the maids in the cities of Judah.",
+            "zh": "敵人在錫安玷污婦人、在猶大的城邑玷污處女。",
+            "jp": "女おんなたちはシオンで犯おかされ、おとめたちはユダの町々まちまちで汚けがされた。",
+            "kr": "대적들이 시온에서 부녀들을, 유다 각 성읍에서 처녀들을 욕보였나이다"
+          }
+        },
+        {
+          "key": "12",
+          "text": {
+            "fr": "Des chefs ont été pendus par les mains ; La personne des anciens n’a pas été respectée.",
+            "en": "Princes are hanged up by their hand: the faces of elders were not honoured.",
+            "zh": "他們吊起首領的手、也不尊敬老人的面。",
+            "jp": "君きみたる者ものも彼かれらの手てでつるされ、長老ちょうろうたちも尊たっとばれず、",
+            "kr": "지도자들은 그들의 손에 매달리고 장로들의 얼굴도 존경을 받지 못하나이다"
+          }
+        },
+        {
+          "key": "13",
+          "text": {
+            "fr": "Les jeunes hommes ont porté la meule, Les enfants ont chancelé sous des fardeaux de bois.",
+            "en": "They took the young men to grind, and the children fell under the wood.",
+            "zh": "少年人扛磨石、孩童背木柴、都絆跌了。",
+            "jp": "若者わかものたちは、ひきうすをになわせられ、わらべたちは、たきぎを負おって、よろめき、",
+            "kr": "청년들이 맷돌을 지며 아이들이 나무를 지다가 엎드러지오며"
+          }
+        },
+        {
+          "key": "14",
+          "text": {
+            "fr": "Les anciens ne sont plus à la porte, Les jeunes hommes ont cessé leurs chants.",
+            "en": "The elders have ceased from the gate, the young men from their musick.",
+            "zh": "老年人在城門口斷絕、少年人不再作樂。",
+            "jp": "長老ちょうろうたちは門もんに集あつまることをやめ、若者わかものたちはその音楽おんがくを廃はいした。",
+            "kr": "노인들은 다시 성문에 앉지 못하며 청년들은 다시 노래하지 못하나이다"
+          }
+        },
+        {
+          "key": "15",
+          "text": {
+            "fr": "La joie a disparu de nos cœurs, Le deuil a remplacé nos danses.",
+            "en": "The joy of our heart is ceased; our dance is turned into mourning.",
+            "zh": "我們心中的快樂止息、跳舞變為悲哀。",
+            "jp": "われわれの心こころの喜よろこびはやみ、踊おどりは悲かなしみに変かわり、",
+            "kr": "우리의 마음에는 기쁨이 그쳤고 우리의 춤은 변하여 슬픔이 되었사오며"
+          }
+        },
+        {
+          "key": "16",
+          "text": {
+            "fr": "La couronne de notre tête est tombée ! Malheur à nous, parce que nous avons péché !",
+            "en": "The crown is fallen from our head: woe unto us, that we have sinned!",
+            "zh": "冠冕從我們的頭上落下．我們犯罪了、我們有禍了。",
+            "jp": "われわれの冠かんむりはこうべから落おちた。わざわいなるかな、われわれは罪つみを犯おかしたからである。",
+            "kr": "우리의 머리에서는 면류관이 떨어졌사오니 오호라 우리의 범죄 때문이니이다"
+          }
+        },
+        {
+          "key": "17",
+          "text": {
+            "fr": "Si notre cœur est souffrant, Si nos yeux sont obscurcis,",
+            "en": "For this our heart is faint; for these things our eyes are dim.",
+            "zh": "這些事我們心裡發昏．我們的眼睛昏花。",
+            "jp": "このために、われわれの心こころは衰おとろえ、これらの事ことのために、われわれの目めはくらくなった。",
+            "kr": "이러므로 우리의 마음이 피곤하고 이러므로 우리 눈들이 어두우며"
+          }
+        },
+        {
+          "key": "18",
+          "text": {
+            "fr": "C’est que la montagne de Sion est ravagée, C’est que les renards s’y promènent.",
+            "en": "Because of the mountain of Zion, which is desolate, the foxes walk upon it.",
+            "zh": "錫安山荒涼、野狗〔或作狐狸〕行在其上。",
+            "jp": "シオンの山やまは荒あれはて、山犬やまいぬがその上うえを歩あるいているからである。",
+            "kr": "시온 산이 황폐하여 여우가 그 안에서 노나이다"
+          }
+        },
+        {
+          "key": "19",
+          "text": {
+            "fr": "Toi, l’Éternel, tu règnes à jamais ; Ton trône subsiste de génération en génération.",
+            "en": "Thou, O Lord, remainest for ever; thy throne from generation to generation.",
+            "zh": "耶和華阿、你存到永遠、你的寶座、存到萬代。",
+            "jp": "しかし主しゅよ、あなたはとこしえに統すべ治おさめられる。あなたの、み位くらいは世々よよ絶たえることがない。",
+            "kr": "여호와여 주는 영원히 계시오며 주의 보좌는 대대에 이르나이다"
+          }
+        },
+        {
+          "key": "20",
+          "text": {
+            "fr": "Pourquoi nous oublierais-tu pour toujours, Nous abandonnerais-tu pour de longues années ?",
+            "en": "Wherefore dost thou forget us for ever, and forsake us so long time?",
+            "zh": "你為何永遠忘記我們、為何許久離棄我們。",
+            "jp": "なぜ、あなたはわれわれをながく忘わすれ、われわれを久ひさしく捨すておかれるのですか。",
+            "kr": "주께서 어찌하여 우리를 영원히 잊으시오며 우리를 이같이 오래 버리시나이까"
+          }
+        },
+        {
+          "key": "21",
+          "text": {
+            "fr": "Fais-nous revenir vers toi, ô Éternel, et nous reviendrons ! Donne-nous encore des jours comme ceux d’autrefois !",
+            "en": "Turn thou us unto thee, O Lord, and we shall be turned; renew our days as of old.",
+            "zh": "耶和華阿、求你使我們向你回轉、我們便得回轉．求你復新我們的日子、像古時一樣。",
+            "jp": "主しゅよ、あなたに帰かえらせてください、われわれは帰かえります。われわれの日ひを新あらたにして、いにしえの日ひのようにしてください。",
+            "kr": "여호와여 우리를 주께로 돌이키소서 그리하시면 우리가 주께로 돌아가겠사오니 우리의 날들을 다시 새롭게 하사 옛적 같게 하옵소서"
+          }
+        },
+        {
+          "key": "22",
+          "text": {
+            "fr": "Nous aurais-tu entièrement rejetés, Et t’irriterais-tu contre nous jusqu’à l’excès !",
+            "en": "But thou hast utterly rejected us; thou art very wroth against us.",
+            "zh": "你竟全然棄絕我們、向我們大發烈怒。",
+            "jp": "あなたは全まったくわれわれを捨すてられたのですか、はなはだしく怒いかっていられるのですか。",
+            "kr": "주께서 우리를 아주 버리셨사오며 우리에게 진노하심이 참으로 크시니이다"
+          }
+        }
+      ]
+    }
+  ]
+}

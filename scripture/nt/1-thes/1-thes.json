@@ -1,0 +1,975 @@
+{
+  "book": {
+    "fr": "1 THESSALONICIENS",
+    "en": "THE FIRST EPISTLE OF PAUL THE APOSTLE TO THE",
+    "zh": "帖撒羅尼迦前書",
+    "jp": "テサロニケ人びとへの第だい一の手紙てがみ",
+    "kr": "데살로니가전서"
+  },
+  "theme": {
+    "fr": "Chapitre 1",
+    "en": "",
+    "zh": "第1章",
+    "jp": "第1章",
+    "kr": "제 1 장"
+  },
+  "introduction": {
+    "fr": "",
+    "en": "Chapter 1",
+    "zh": "",
+    "jp": "Chapter 1",
+    "kr": "Chapter 1"
+  },
+  "chapters": [
+    {
+      "number": 1,
+      "introduction": {
+        "fr": "The gospel comes both in word and in power.",
+        "en": "The gospel comes both in word and in power.",
+        "zh": "The gospel comes both in word and in power.",
+        "jp": "The gospel comes both in word and in power.",
+        "kr": "The gospel comes both in word and in power."
+      },
+      "verses": [
+        {
+          "key": "1",
+          "text": {
+            "fr": "Paul, et Silvain, et Timothée, à l’Église des Thessaloniciens, qui est en Dieu le Père et en Jésus Christ le Seigneur : que la grâce et la paix vous soient données !",
+            "en": "Paul, and Silvanus, and Timotheus, unto the church of the Thessalonians which is in God the Father and in the Lord Jesus Christ: Grace be unto you, and peace, from God our Father, and the Lord Jesus Christ.",
+            "zh": "保羅、西拉、提摩太、寫信給帖撒羅尼迦在父　神和主耶穌基督裡的教會．願恩惠平安歸與你們。",
+            "jp": "パウロとシルワノとテモテから、父ちちなる神かみと主しゅイエス・キリストとにあるテサロニケ人びとたちの教会きょうかいへ。恵めぐみと平安へいあんとが、あなたがたにあるように。",
+            "kr": "바울과 실루아노와 디모데는 하나님 아버지와 주 예수 그리스도 안에 있는 데살로니가인의 교회에 편지하노니 은혜와 평강이 너희에게 있을지어다"
+          }
+        },
+        {
+          "key": "2",
+          "text": {
+            "fr": "Nous rendons continuellement grâces à Dieu pour vous tous, faisant mention de vous dans nos prières,",
+            "en": "We give thanks to God always for you all, making mention of you in our prayers;",
+            "zh": "我們為你們眾人常常感謝　神、禱告的時候提到你們．",
+            "jp": "わたしたちは祈いのりの時ときにあなたがたを覚おぼえ、あなたがた一同いちどうのことを、いつも神かみに感謝かんしゃし、",
+            "kr": "우리가 너희 모두로 말미암아 항상 하나님께 감사하며 기도할 때에 너희를 기억함은"
+          }
+        },
+        {
+          "key": "3",
+          "text": {
+            "fr": "nous rappelant sans cesse l’oeuvre de votre foi, le travail de votre charité, et la fermeté de votre espérance en notre Seigneur Jésus Christ, devant Dieu notre Père.",
+            "en": "Remembering without ceasing your work of faith, and labour of love, and patience of hope in our Lord Jesus Christ, in the sight of God and our Father;",
+            "zh": "在　神我們的父面前、不住的記念你們因信心所作的工夫、因愛心所受的勞苦、因盼望我們主耶穌基督所存的忍耐。",
+            "jp": "あなたがたの信仰しんこうの働はたらきと、愛あいの労苦ろうくと、わたしたちの主しゅイエス・キリストに対たいする望のぞみの忍耐にんたいとを、わたしたちの父ちちなる神かみのみまえに、絶たえず思おもい起おこしている。",
+            "kr": "너희의 믿음의 역사와 사랑의 수고와 우리 주 예수 그리스도에 대한 소망의 인내를 우리 하나님 아버지 앞에서 끊임없이 기억함이니"
+          }
+        },
+        {
+          "key": "4",
+          "text": {
+            "fr": "Nous savons, frères bien-aimés de Dieu, que vous avez été élus,",
+            "en": "Knowing, brethren beloved, your election of God.",
+            "zh": "被　神所愛的弟兄阿、我知道你們是蒙揀選的．",
+            "jp": "神かみに愛あいされている兄弟きょうだいたちよ。わたしたちは、あなたがたが神かみに選えらばれていることを知しっている。",
+            "kr": "하나님의 사랑하심을 받은 형제들아 너희를 택하심을 아노라"
+          }
+        },
+        {
+          "key": "5",
+          "text": {
+            "fr": "notre Évangile ne vous ayant pas été prêché en paroles seulement, mais avec puissance, avec l’Esprit Saint, et avec une pleine persuasion ; car vous n’ignorez pas que nous nous sommes montrés ainsi parmi vous, à cause de vous.",
+            "en": "For our gospel came not unto you in word only, but also in power, and in the Holy Ghost, and in much assurance; as ye know what manner of men we were among you for your sake.",
+            "zh": "因為我們的福音傳到你們那裡、不獨在乎言語、也在乎權能、和聖靈、並充足的信心．正如你們知道我們在你們那裡、為你們的緣故是怎樣為人。",
+            "jp": "なぜなら、わたしたちの福音ふくいんがあなたがたに伝つたえられたとき、それは言葉ことばだけによらず、力ちからと聖霊せいれいと強つよい確信かくしんとによったからである。わたしたちが、あなたがたの間あいだで、みんなのためにどんなことをしたか、あなたがたの知しっているとおりである。",
+            "kr": "이는 우리 복음이 너희에게 말로만 이른 것이 아니라 또한 능력과 성령과 큰 확신으로 된 것임이라 우리가 너희 가운데서 너희를 위하여 어떤 사람이 된 것은 너희가 아는 바와 같으니라"
+          }
+        },
+        {
+          "key": "6",
+          "text": {
+            "fr": "Et vous-mêmes, vous avez été mes imitateurs et ceux du Seigneur, en recevant la parole au milieu de beaucoup de tribulations, avec la joie du Saint Esprit,",
+            "en": "And ye became followers of us, and of the Lord, having received the word in much affliction, with joy of the Holy Ghost:",
+            "zh": "並且你們在大難之中、蒙了聖靈所賜的喜樂、領受真道、就效法我們、也效法了主．",
+            "jp": "そしてあなたがたは、多おおくの患難かんなんの中なかで、聖霊せいれいによる喜よろこびをもって御言みことばを受うけいれ、わたしたちと主しゅとにならう者ものとなり、",
+            "kr": "또 너희는 많은 환난 가운데서 성령의 기쁨으로 말씀을 받아 우리와 주를 본받은 자가 되었으니"
+          }
+        },
+        {
+          "key": "7",
+          "text": {
+            "fr": "en sorte que vous êtes devenus un modèle pour tous les croyants de la Macédoine et de l’Achaïe.",
+            "en": "So that ye were ensamples to all that believe in Macedonia and Achaia.",
+            "zh": "甚至你們作了馬其頓和亞該亞、所有信主之人的榜樣。",
+            "jp": "こうして、マケドニヤとアカヤとにいる信者しんじゃ全体ぜんたいの模範もはんになった。",
+            "kr": "그러므로 너희가 마게도냐와 아가야에 있는 모든 믿는 자의 본이 되었느니라"
+          }
+        },
+        {
+          "key": "8",
+          "text": {
+            "fr": "Non seulement, en effet, la parole du Seigneur a retenti de chez vous dans la Macédoine et dans l’Achaïe, mais votre foi en Dieu s’est fait connaître en tout lieu, de telle manière que nous n’avons pas besoin d’en parler.",
+            "en": "For from you sounded out the word of the Lord not only in Macedonia and Achaia, but also in every place your faith to God-ward is spread abroad; so that we need not to speak any thing.",
+            "zh": "因為主的道從你們那裡已經傳揚出來、你們向　神的信心不但在馬其頓和亞該亞、就是在各處、也都傳開了．所以不用我們說甚麼話。",
+            "jp": "すなわち、主しゅの言葉ことばはあなたがたから出でて、ただマケドニヤとアカヤとに響ひびきわたっているばかりではなく、至いたるところで、神かみに対たいするあなたがたの信仰しんこうのことが言いいひろめられたので、これについては何なにも述のべる必要ひつようはないほどである。",
+            "kr": "주의 말씀이 너희에게로부터 마게도냐와 아가야에만 들릴 뿐 아니라 하나님을 향하는 너희 믿음의 소문이 각처에 퍼졌으므로 우리는 아무 말도 할 것이 없노라"
+          }
+        },
+        {
+          "key": "9",
+          "text": {
+            "fr": "Car on raconte, à notre sujet, quel accès nous avons eu auprès de vous, et comment vous vous êtes convertis à Dieu, en abandonnant les idoles pour servir le Dieu vivant et vrai,",
+            "en": "For they themselves shew of us what manner of entering in we had unto you, and how ye turned to God from idols to serve the living and true God;",
+            "zh": "因為他們自己已經報明我們是怎樣進到你們那裡、你們是怎樣離棄偶像歸向　神、要服事那又真又活的　神、",
+            "jp": "わたしたちが、どんなにしてあなたがたの所ところにはいって行いったか、また、あなたがたが、どんなにして偶像ぐうぞうを捨すてて神かみに立たち帰かえり、生いけるまことの神かみに仕つかえるようになり、",
+            "kr": "그들이 우리에 대하여 스스로 말하기를 우리가 어떻게 너희 가운데에 들어갔는지와 너희가 어떻게 우상을 버리고 하나님께로 돌아와서 살아 계시고 참되신 하나님을 섬기는지와"
+          }
+        },
+        {
+          "key": "10",
+          "text": {
+            "fr": "et pour attendre des cieux son Fils, qu’il a ressuscité des morts, Jésus, qui nous délivre de la colère à venir.",
+            "en": "And to wait for his Son from heaven, whom he raised from the dead, even Jesus, which delivered us from the wrath to come.",
+            "zh": "等候他兒子從天降臨、就是他從死裡復活的、那位救我們脫離將來忿怒的耶穌。",
+            "jp": "そして、死人しにんの中なかからよみがえった神かみの御子みこ、すなわち、わたしたちをきたるべき怒いかりから救すくい出だして下くださるイエスが、天てんから下くだってこられるのを待まつようになったかを、彼かれら自身じしんが言いいひろめているのである。",
+            "kr": "또 죽은 자들 가운데서 다시 살리신 그의 아들이 하늘로부터 강림하실 것을 너희가 어떻게 기다리는지를 말하니 이는 장래의 노하심에서 우리를 건지시는 예수시니라"
+          }
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "introduction": {
+        "fr": "True ministers preach in a godly manner—Converts are the glory and joy of missionaries.",
+        "en": "True ministers preach in a godly manner—Converts are the glory and joy of missionaries.",
+        "zh": "True ministers preach in a godly manner—Converts are the glory and joy of missionaries.",
+        "jp": "True ministers preach in a godly manner—Converts are the glory and joy of missionaries.",
+        "kr": "True ministers preach in a godly manner—Converts are the glory and joy of missionaries."
+      },
+      "verses": [
+        {
+          "key": "1",
+          "text": {
+            "fr": "Vous savez vous-mêmes, frères, que notre arrivée chez vous n’a pas été sans résultat.",
+            "en": "For yourselves, brethren, know our entrance in unto you, that it was not in vain:",
+            "zh": "弟兄們、你們自己原曉得我們進到你們那裡、並不是徒然的。",
+            "jp": "兄弟きょうだいたちよ。あなたがた自身じしんが知しっているとおり、わたしたちがあなたがたの所ところにはいって行いったことは、むだではなかった。",
+            "kr": "형제들아 우리가 너희 가운데 들어간 것이 헛되지 않은 줄을 너희가 친히 아나니"
+          }
+        },
+        {
+          "key": "2",
+          "text": {
+            "fr": "Après avoir souffert et reçu des outrages à Philippes, comme vous le savez, nous prîmes de l’assurance en notre Dieu, pour vous annoncer l’Évangile de Dieu, au milieu de bien des combats.",
+            "en": "But even after that we had suffered before, and were shamefully entreated, as ye know, at Philippi, we were bold in our God to speak unto you the gospel of God with much contention.",
+            "zh": "我們從前在腓立比被害受辱、這是你們知道的．然而還是靠我們的　神放開膽量、在大爭戰中把　神的福音傳給你們。",
+            "jp": "それどころか、あなたがたが知しっているように、わたしたちは、先さきにピリピで苦くるしめられ、はずかしめられたにもかかわらず、わたしたちの神かみに勇気ゆうきを与あたえられて、激はげしい苦闘くとうのうちに神かみの福音ふくいんをあなたがたに語かたったのである。",
+            "kr": "너희가 아는 바와 같이 우리가 먼저 빌립보에서 고난과 능욕을 당하였으나 우리 하나님을 힘입어 많은 싸움 중에 하나님의 복음을 너희에게 전하였노라"
+          }
+        },
+        {
+          "key": "3",
+          "text": {
+            "fr": "Car notre prédication ne repose ni sur l’erreur, ni sur des motifs impurs, ni sur la fraude ;",
+            "en": "For our exhortation was not of deceit, nor of uncleanness, nor in guile:",
+            "zh": "我們的勸勉、不是出於錯誤、不是出於污穢、也不是用詭詐．",
+            "jp": "いったい、わたしたちの宣教せんきょうは、迷まよいや汚けがれた心こころから出でたものでもなく、だましごとでもない。",
+            "kr": "우리의 권면은 간사함이나 부정에서 난 것이 아니요 속임수로 하는 것도 아니라"
+          }
+        },
+        {
+          "key": "4",
+          "text": {
+            "fr": "mais, selon que Dieu nous a jugés dignes de nous confier l’Évangile, ainsi nous parlons, non comme pour plaire à des hommes, mais pour plaire à Dieu, qui sonde nos coeurs.",
+            "en": "But as we were allowed of God to be put in trust with the gospel, even so we speak; not as pleasing men, but God, which trieth our hearts.",
+            "zh": "但　神既然驗中了我們、把福音託付我們、我們就照樣講、不是要討人喜歡、乃是要討那察驗我們心的　神喜歡。",
+            "jp": "かえって、わたしたちは神かみの信しん任にんを受うけて福音ふくいんを託たくされたので、人間にんげんに喜よろこばれるためではなく、わたしたちの心こころを見分みわける神かみに喜よろこばれるように、福音ふくいんを語かたるのである。",
+            "kr": "오직 하나님께 옳게 여기심을 입어 복음을 위탁 받았으니 우리가 이와 같이 말함은 사람을 기쁘게 하려 함이 아니요 오직 우리 마음을 감찰하시는 하나님을 기쁘시게 하려 함이라"
+          }
+        },
+        {
+          "key": "5",
+          "text": {
+            "fr": "Jamais, en effet, nous n’avons usé de paroles flatteuse, comme vous le savez ; jamais nous n’avons eu la cupidité pour mobile, Dieu en est témoin.",
+            "en": "For neither at any time used we flattering words, as ye know, nor a cloak of covetousness; God is witness:",
+            "zh": "因為我們從來沒有用過諂媚的話、這是你們知道的．也沒有藏著貪心、這是　神可以作見證的。",
+            "jp": "わたしたちは、あなたがたが知しっているように、決けっしてへつらいの言葉ことばを用もちいたこともなく、口実こうじつを設もうけて、むさぼったこともない。それは、神かみがあかしして下くださる。",
+            "kr": "너희도 알거니와 우리가 아무 때에도 아첨하는 말이나 탐심의 탈을 쓰지 아니한 것을 하나님이 증언하시느니라"
+          }
+        },
+        {
+          "key": "6",
+          "text": {
+            "fr": "Nous n’avons point cherché la gloire qui vient des hommes, ni de vous ni des autres ; nous aurions pu nous produire avec autorité comme apôtres de Christ,",
+            "en": "Nor of men sought we glory, neither of you, nor yet of others, when we might have been burdensome, as the apostles of Christ.",
+            "zh": "我們作基督的使徒、雖然可以叫人尊重、卻沒有向你們或向別人求榮耀、",
+            "jp": "また、わたしたちは、キリストの使徒しととして重おもんじられることができたのであるが、あなたがたからにもせよ、ほかの人々ひとびとからにもせよ、人間にんげんからの栄誉えいよを求もとめることはしなかった。",
+            "kr": "또한 우리는 너희에게서든지 다른 이에게서든지 사람에게서는 영광을 구하지 아니하였노라"
+          }
+        },
+        {
+          "key": "7",
+          "text": {
+            "fr": "mais nous avons été pleins de douceur au milieu de vous. De même qu’une nourrice prend un tendre soin de ses enfants,",
+            "en": "But we were gentle among you, even as a nurse cherisheth her children:",
+            "zh": "只在你們中間存心溫柔、如同母親乳養自己的孩子。",
+            "jp": "むしろ、あなたがたの間あいだで、ちょうど母ははがその子供こどもを育そだてるように、やさしくふるまった。",
+            "kr": "우리는 그리스도의 사도로서 마땅히 권위를 주장할 수 있으나 도리어 너희 가운데서 유순한 자가 되어 유모가 자기 자녀를 기름과 같이 하였으니"
+          }
+        },
+        {
+          "key": "8",
+          "text": {
+            "fr": "nous aurions voulu, dans notre vive affection pour vous, non seulement vous donner l’Évangile de Dieu, mais encore nos propres vies, tant vous nous étiez devenus chers.",
+            "en": "So being affectionately desirous of you, we were willing to have imparted unto you, not the gospel of God only, but also our own souls, because ye were dear unto us.",
+            "zh": "我們既是這樣愛你們、不但願意將　神的福音給你們、連自己的性命也願意給你們、因你們是我們所疼愛的。",
+            "jp": "このように、あなたがたを慕したわしく思おもっていたので、ただ神かみの福音ふくいんばかりではなく、自分じぶんのいのちまでもあなたがたに与あたえたいと願ねがったほどに、あなたがたを愛あいしたのである。",
+            "kr": "우리가 이같이 너희를 사모하여 하나님의 복음뿐 아니라 우리의 목숨까지도 너희에게 주기를 기뻐함은 너희가 우리의 사랑하는 자 됨이라"
+          }
+        },
+        {
+          "key": "9",
+          "text": {
+            "fr": "Vous vous rappelez, frères, notre travail et notre peine : nuit et jour à l’oeuvre, pour n’être à charge à aucun de vous, nous vous avons prêché l’Évangile de Dieu.",
+            "en": "For ye remember, brethren, our labour and travail: for labouring night and day, because we would not be chargeable unto any of you, we preached unto you the gospel of God.",
+            "zh": "弟兄們、你們記念我們的辛苦勞碌、晝夜作工、傳　神的福音給你們、免得叫你們一人受累。",
+            "jp": "兄弟きょうだいたちよ。あなたがたはわたしたちの労苦ろうくと努力どりょくとを記憶きおくしていることであろう。すなわち、あなたがたのだれにも負担ふたんをかけまいと思おもって、日夜にちやはたらきながら、あなたがたに神かみの福音ふくいんを宣のべ伝つたえた。",
+            "kr": "형제들아 우리의 수고와 애쓴 것을 너희가 기억하리니 너희 아무에게도 폐를 끼치지 아니하려고 밤낮으로 일하면서 너희에게 하나님의 복음을 전하였노라"
+          }
+        },
+        {
+          "key": "10",
+          "text": {
+            "fr": "Vous êtes témoins, et Dieu l’est aussi, que nous avons eu envers vous qui croyez une conduite sainte, juste et irréprochable.",
+            "en": "Ye are witnesses, and God also, how holily and justly and unblameably we behaved ourselves among you that believe:",
+            "zh": "我們向你們信主的人、是何等聖潔、公義、無可指摘、有你們作見證、也有　神作見證。",
+            "jp": "あなたがたもあかしし、神かみもあかしして下くださるように、わたしたちはあなたがた信者しんじゃの前まえで、信心しんじん深ぶかく、正ただしく、責せめられるところがないように、生活せいかつをしたのである。",
+            "kr": "우리가 너희 믿는 자들을 향하여 어떻게 거룩하고 옳고 흠 없이 행하였는지에 대하여 너희가 증인이요 하나님도 그러하시도다"
+          }
+        },
+        {
+          "key": "11",
+          "text": {
+            "fr": "Vous savez aussi que nous avons été pour chacun de vous ce qu’un père est pour ses enfants,",
+            "en": "As ye know how we exhorted and comforted and charged every one of you, as a father doth his children,",
+            "zh": "你們也曉得我們怎樣勸勉你們、安慰你們、囑咐你們各人、好像父親待自己的兒女一樣．",
+            "jp": "そして、あなたがたも知しっているとおり、父ちちがその子こに対たいしてするように、あなたがたのひとりびとりに対たいして、",
+            "kr": "너희도 아는 바와 같이 우리가 너희 각 사람에게 아버지가 자기 자녀에게 하듯 권면하고 위로하고 경계하노니"
+          }
+        },
+        {
+          "key": "12",
+          "text": {
+            "fr": "vous exhortant, vous consolant, vous conjurant de marcher d’une manière digne de Dieu, qui vous appelle à son royaume et à sa gloire.",
+            "en": "That ye would walk worthy of God, who hath called you unto his kingdom and glory.",
+            "zh": "要叫你們行事對得起那召你們進他國得他榮耀的　神。",
+            "jp": "御国みくにとその栄光えいこうとに召めして下くださった神かみのみこころにかなって歩あるくようにと、勧すすめ、励はげまし、また、さとしたのである。",
+            "kr": "이는 너희를 부르사 자기 나라와 영광에 이르게 하시는 하나님께 합당히 행하게 하려 함이라"
+          }
+        },
+        {
+          "key": "13",
+          "text": {
+            "fr": "C’est pourquoi nous rendons continuellement grâces à Dieu de ce qu’en recevant la parole de Dieu, que nous vous avons fait entendre, vous l’avez reçue, non comme la parole des hommes, mais, ainsi qu’elle l’est véritablement, comme la parole de Dieu, qui agit en vous qui croyez.",
+            "en": "For this cause also thank we God without ceasing, because, when ye received the word of God which ye heard of us, ye received it not as the word of men, but as it is in truth, the word of God, which effectually worketh also in you that believe.",
+            "zh": "為此、我們也不住的感謝　神、因你們聽見我們所傳　神的道、就領受了、不以為是人的道、乃以為是　神的道．這道實在是　神的、並且運行在你們信主的人心中。",
+            "jp": "これらのことを考かんがえて、わたしたちがまた絶たえず神かみに感謝かんしゃしているのは、あなたがたがわたしたちの説といた神かみの言ことばを聞きいた時ときに、それを人間にんげんの言葉ことばとしてではなく、神かみの言ことばとして——事実じじつそのとおりであるが——受うけいれてくれたことである。そして、この神かみの言ことばは、信しんじるあなたがたのうちに働はたらいているのである。",
+            "kr": "이러므로 우리가 하나님께 끊임없이 감사함은 너희가 우리에게 들은 바 하나님의 말씀을 받을 때에 사람의 말로 받지 아니하고 하나님의 말씀으로 받음이니 진실로 그러하도다 이 말씀이 또한 너희 믿는 자 가운데에서 역사하느니라"
+          }
+        },
+        {
+          "key": "14",
+          "text": {
+            "fr": "Car vous, frères, vous êtes devenus les imitateurs des Églises de Dieu qui sont en Jésus Christ dans la Judée, parce que vous aussi, vous avez souffert de la part de vos propres compatriotes les mêmes maux qu’elles ont soufferts de la part des Juifs.",
+            "en": "For ye, brethren, became followers of the churches of God which in Judæa are in Christ Jesus: for ye also have suffered like things of your own countrymen, even as they have of the Jews:",
+            "zh": "弟兄們、你們曾效法猶太中、在基督耶穌裡　神的各教會．因為你們也受了本地人的苦害、像他們受了猶太人的苦害一樣。",
+            "jp": "兄弟きょうだいたちよ。あなたがたは、ユダヤの、キリスト・イエスにある神かみの諸しょ教会きょうかいにならう者ものとなった。すなわち、彼かれらがユダヤ人じんたちから苦くるしめられたと同おなじように、あなたがたもまた同国人どうこくじんから苦くるしめられた。",
+            "kr": "형제들아 너희가 그리스도 예수 안에서 유대에 있는 하나님의 교회들을 본받은 자 되었으니 그들이 유대인들에게 고난을 받음과 같이 너희도 너희 동족에게서 동일한 고난을 받았느니라"
+          }
+        },
+        {
+          "key": "15",
+          "text": {
+            "fr": "Ce sont ces Juifs qui ont fait mourir le Seigneur Jésus et les prophètes, qui nous ont persécutés, qui ne plaisent point à Dieu, et qui sont ennemis de tous les hommes,",
+            "en": "Who both killed the Lord Jesus, and their own prophets, and have persecuted us; and they please not God, and are contrary to all men:",
+            "zh": "這猶太人殺了主耶穌和先知、又把我們趕出去．他們不得　神的喜悅、且與眾人為敵．",
+            "jp": "ユダヤ人じんたちは主しゅイエスと預言者よげんしゃたちとを殺ころし、わたしたちを迫害はくがいし、神かみを喜よろこばせず、すべての人ひとに逆さからい、",
+            "kr": "유대인은 주 예수와 선지자들을 죽이고 우리를 쫓아내고 하나님을 기쁘시게 하지 아니하고 모든 사람에게 대적이 되어"
+          }
+        },
+        {
+          "key": "16",
+          "text": {
+            "fr": "nous empêchant de parler aux païens pour qu’ils soient sauvés, en sorte qu’ils ne cessent de mettre le comble à leurs péchés. Mais la colère a fini par les atteindre.",
+            "en": "Forbidding us to speak to the Gentiles that they might be saved, to fill up their sins alway: for the wrath is come upon them to the uttermost.",
+            "zh": "不許我們傳道給外邦人使外邦人得救、常常充滿自己的罪惡．　神的忿怒臨在他們身上已經到了極處。",
+            "jp": "わたしたちが異邦人いほうじんに救すくいの言ことばを語かたるのを妨さまたげて、絶たえず自分じぶんの罪つみを満みたしている。そこで、神かみの怒いかりは最もっとも激はげしく彼かれらに臨のぞむに至いたったのである。",
+            "kr": "우리가 이방인에게 말하여 구원받게 함을 그들이 금하여 자기 죄를 항상 채우매 노하심이 끝까지 그들에게 임하였느니라"
+          }
+        },
+        {
+          "key": "17",
+          "text": {
+            "fr": "Pour nous, frères, après avoir été quelque temps séparés de vous, de corps mais non de coeur, nous avons eu d’autant plus ardemment le vif désir de vous voir.",
+            "en": "But we, brethren, being taken from you for a short time in presence, not in heart, endeavoured the more abundantly to see your face with great desire.",
+            "zh": "弟兄們、我們暫時與你們離別、是面目離別、心裡卻不離別、我們極力的想法子、很願意見你們的面．",
+            "jp": "兄弟きょうだいたちよ。わたしたちは、しばらくの間あいだ、あなたがたから引ひき離はなされていたので——心こころにおいてではなく、からだだけではあるが——なおさら、あなたがたの顔かおを見みたいと切せつにこいねがった。",
+            "kr": "형제들아 우리가 잠시 너희를 떠난 것은 얼굴이요 마음은 아니니 너희 얼굴 보기를 열정으로 더욱 힘썼노라"
+          }
+        },
+        {
+          "key": "18",
+          "text": {
+            "fr": "Aussi voulions-nous aller vers vous, du moins moi Paul, une et même deux fois ; mais Satan nous en a empêchés.",
+            "en": "Wherefore we would have come unto you, even I Paul, once and again; but Satan hindered us.",
+            "zh": "所以我們有意到你們那裡、我保羅有一兩次要去、只是撒但阻擋了我們。",
+            "jp": "だから、わたしたちは、あなたがたの所ところに行いこうとした。ことに、このパウロは、一再いっさいならず行いこうとしたのである。それだのに、わたしたちはサタンに妨さまたげられた。",
+            "kr": "그러므로 나 바울은 한번 두번 너희에게 가고자 하였으나 사탄이 우리를 막았도다"
+          }
+        },
+        {
+          "key": "19",
+          "text": {
+            "fr": "Qui est, en effet, notre espérance, ou notre joie, ou notre couronne de gloire ? N’est-ce pas vous aussi, devant notre Seigneur Jésus, lors de son avènement ?",
+            "en": "For what is our hope, or joy, or crown of rejoicing? Are not even ye in the presence of our Lord Jesus Christ at his coming?",
+            "zh": "我們的盼望和喜樂、並所誇的冠冕、是甚麼呢．豈不是我們主耶穌來的時候你們在他面前站立得住麼。",
+            "jp": "実際じっさい、わたしたちの主しゅイエスの来臨らいりんにあたって、わたしたちの望のぞみと喜よろこびと誇ほこりの冠かんむりとなるべき者ものは、あなたがたを外ほかにして、だれがあるだろうか。",
+            "kr": "우리의 소망이나 기쁨이나 자랑의 면류관이 무엇이냐 그가 강림하실 때 우리 주 예수 앞에 너희가 아니냐"
+          }
+        },
+        {
+          "key": "20",
+          "text": {
+            "fr": "Oui, vous êtes notre gloire et notre joie.",
+            "en": "For ye are our glory and joy.",
+            "zh": "因為你們就是我們的榮耀、我們的喜樂。",
+            "jp": "あなたがたこそ、実じつにわたしたちのほまれであり、喜よろこびである。",
+            "kr": "너희는 우리의 영광이요 기쁨이니라"
+          }
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "introduction": {
+        "fr": "The Saints are told to perfect that which is lacking in their faith.",
+        "en": "The Saints are told to perfect that which is lacking in their faith.",
+        "zh": "The Saints are told to perfect that which is lacking in their faith.",
+        "jp": "The Saints are told to perfect that which is lacking in their faith.",
+        "kr": "The Saints are told to perfect that which is lacking in their faith."
+      },
+      "verses": [
+        {
+          "key": "1",
+          "text": {
+            "fr": "C’est pourquoi, impatients que nous étions, et nous décidant à rester seuls à Athènes,",
+            "en": "Wherefore when we could no longer forbear, we thought it good to be left at Athens alone;",
+            "zh": "我們既不能再忍、就願意獨自等在雅典．",
+            "jp": "そこで、わたしたちはこれ以上いじょう耐たえられなくなって、わたしたちだけがアテネに留まることに定さだめ、",
+            "kr": "이러므로 우리가 참다 못하여 우리만 아덴에 머물기를 좋게 생각하고"
+          }
+        },
+        {
+          "key": "2",
+          "text": {
+            "fr": "nous envoyâmes Timothée, notre frère, ministre de Dieu dans l’Évangile de Christ, pour vous affermir et vous exhorter au sujet de votre foi,",
+            "en": "And sent Timotheus, our brother, and minister of God, and our fellowlabourer in the gospel of Christ, to establish you, and to comfort you concerning your faith:",
+            "zh": "打發我們的兄弟在基督福音上作　神執事的提摩太前去、〔作　神執事的有古卷作與　神同工的〕堅固你們、並在你們所信的道上勸慰你們．",
+            "jp": "わたしたちの兄弟きょうだいで、キリストの福音ふくいんにおける神かみの同労者どうろうしゃテモテをつかわした。それは、あなたがたの信仰しんこうを強つよめ、",
+            "kr": "우리 형제 곧 그리스도의 복음을 전하는 하나님의 일꾼인 디모데를 보내노니 이는 너희를 굳건하게 하고 너희 믿음에 대하여 위로함으로"
+          }
+        },
+        {
+          "key": "3",
+          "text": {
+            "fr": "afin que personne ne fût ébranlé au milieu des tribulations présentes ; car vous savez vous-mêmes que nous sommes destinés à cela.",
+            "en": "That no man should be moved by these afflictions: for yourselves know that we are appointed thereunto.",
+            "zh": "免得有人被諸般患難搖動．因為你們自己知道我們受患難原是命定的。",
+            "jp": "このような患難かんなんの中なかにあって、動揺どうようする者ものがひとりもないように励はげますためであった。あなたがたの知しっているとおり、わたしたちは患難かんなんに会あうように定さだめられているのである。",
+            "kr": "아무도 이 여러 환난 중에 흔들리지 않게 하려 함이라 우리가 이것을 위하여 세움 받은 줄을 너희가 친히 알리라"
+          }
+        },
+        {
+          "key": "4",
+          "text": {
+            "fr": "Et lorsque nous étions auprès de vous, nous vous annoncions d’avance que nous serions exposés à des tribulations, comme cela est arrivé, et comme vous le savez.",
+            "en": "For verily, when we were with you, we told you before that we should suffer tribulation; even as it came to pass, and ye know.",
+            "zh": "我們在你們那裡的時候、預先告訴你們、我們必受患難、以後果然應驗了、你們也知道。",
+            "jp": "そして、あなたがたの所ところにいたとき、わたしたちがやがて患難かんなんに会あうことをあらかじめ言いっておいたが、あなたがたの知しっているように、今いまそのとおりになったのである。",
+            "kr": "우리가 너희와 함께 있을 때에 장차 받을 환난을 너희에게 미리 말하였는데 과연 그렇게 된 것을 너희가 아느니라"
+          }
+        },
+        {
+          "key": "5",
+          "text": {
+            "fr": "Ainsi, dans mon impatience, j’envoyai m’informer de votre foi, dans la crainte que le tentateur ne vous eût tentés, et que nous n’eussions travaillé en vain.",
+            "en": "For this cause, when I could no longer forbear, I sent to know your faith, lest by some means the tempter have tempted you, and our labour be in vain.",
+            "zh": "為此、我既不能再忍、就打發人去、要曉得你們的信心如何、恐怕那誘惑人的到底誘惑了你們、叫我們的勞苦歸於徒然。",
+            "jp": "そこで、わたしはこれ以上いじょう耐たえられなくなって、もしや「試こころみる者もの」があなたがたを試こころみ、そのためにわたしたちの労苦ろうくがむだになりはしないかと気きづかって、あなたがたの信仰しんこうを知しるために、彼かれをつかわしたのである。",
+            "kr": "이러므로 나도 참다 못하여 너희 믿음을 알기 위하여 그를 보내었노니 이는 혹 시험하는 자가 너희를 시험하여 우리 수고를 헛되게 할까 함이니"
+          }
+        },
+        {
+          "key": "6",
+          "text": {
+            "fr": "Mais Timothée, récemment arrivé ici de chez vous, nous a donné de bonnes nouvelles de votre foi et de votre charité, et nous a dit que vous avez toujours de nous un bon souvenir, désirant nous voir comme nous désirons aussi vous voir.",
+            "en": "But now when Timotheus came from you unto us, and brought us good tidings of your faith and charity, and that ye have good remembrance of us always, desiring greatly to see us, as we also to see you:",
+            "zh": "但提摩太剛纔從你們那裡回來、將你們信心和愛心的好消息報給我們、又說你們常常記念我們、切切的想見我們、如同我們想見你們一樣．",
+            "jp": "ところが今いまテモテが、あなたがたの所ところからわたしたちのもとに帰かえってきて、あなたがたの信仰しんこうと愛あいとについて知しらせ、また、あなたがたがいつもわたしたちのことを覚おぼえ、わたしたちがあなたがたに会あいたく思おもっていると同おなじように、わたしたちにしきりに会あいたがっているという吉報きっぽうをもたらした。",
+            "kr": "지금은 디모데가 너희에게로부터 와서 너희 믿음과 사랑의 기쁜 소식을 우리에게 전하고 또 너희가 항상 우리를 잘 생각하여 우리가 너희를 간절히 보고자 함과 같이 너희도 우리를 간절히 보고자 한다 하니"
+          }
+        },
+        {
+          "key": "7",
+          "text": {
+            "fr": "En conséquence, frères, au milieu de toutes nos calamités et de nos tribulations, nous avons été consolés à votre sujet, à cause de votre foi.",
+            "en": "Therefore, brethren, we were comforted over you in all our affliction and distress by your faith:",
+            "zh": "所以弟兄們、我們在一切困苦患難之中、因著你們的信心就得了安慰．",
+            "jp": "兄弟きょうだいたちよ。それによって、わたしたちはあらゆる苦難くなんと患難かんなんとの中なかにありながら、あなたがたの信仰しんこうによって慰なぐさめられた。",
+            "kr": "이러므로 형제들아 우리가 모든 궁핍과 환난 가운데서 너희 믿음으로 말미암아 너희에게 위로를 받았노라"
+          }
+        },
+        {
+          "key": "8",
+          "text": {
+            "fr": "Car maintenant nous vivons, puisque vous demeurez fermes dans le Seigneur.",
+            "en": "For now we live, if ye stand fast in the Lord.",
+            "zh": "你們若靠主站立得穩、我們就活了。",
+            "jp": "なぜなら、あなたがたが主しゅにあって堅かたく立たってくれるなら、わたしたちはいま生いきることになるからである。",
+            "kr": "그러므로 너희가 주 안에 굳게 선즉 우리가 이제는 살리라"
+          }
+        },
+        {
+          "key": "9",
+          "text": {
+            "fr": "Quelles actions de grâces, en effet, nous pouvons rendre à Dieu à votre sujet, pour toute la joie que nous éprouvons à cause de vous, devant notre Dieu !",
+            "en": "For what thanks can we render to God again for you, for all the joy wherewith we joy for your sakes before our God;",
+            "zh": "我們在　神面前、因著你們甚是喜樂、為這一切喜樂、可用何等的感謝、為你們報答　神呢。",
+            "jp": "ほんとうに、わたしたちの神かみのみまえで、あなたがたのことで喜よろこぶ大おおきな喜よろこびのために、どんな感謝かんしゃを神かみにささげたらよいだろうか。",
+            "kr": "우리가 우리 하나님 앞에서 너희로 말미암아 모든 기쁨으로 기뻐하니 너희를 위하여 능히 어떠한 감사로 하나님께 보답할까"
+          }
+        },
+        {
+          "key": "10",
+          "text": {
+            "fr": "Nuit et jour, nous le prions avec une extrême ardeur de nous permettre de vous voir, et de compléter ce qui manque à votre foi.",
+            "en": "Night and day praying exceedingly that we might see your face, and might perfect that which is lacking in your faith?",
+            "zh": "我們晝夜切切的祈求、要見你們的面、補滿你們信心的不足。",
+            "jp": "わたしたちは、あなたがたの顔かおを見み、あなたがたの信仰しんこうの足たりないところを補おぎないたいと、日夜にちやしきりに願ねがっているのである。",
+            "kr": "주야로 심히 간구함은 너희 얼굴을 보고 너희 믿음이 부족한 것을 보충하게 하려 함이라"
+          }
+        },
+        {
+          "key": "11",
+          "text": {
+            "fr": "Que Dieu lui-même, notre Père, et notre Seigneur Jésus, aplanissent notre route pour que nous allions à vous !",
+            "en": "Now God himself and our Father, and our Lord Jesus Christ, direct our way unto you.",
+            "zh": "願　神我們的父、和我們的主耶穌、一直引領我們到你們那裡去．",
+            "jp": "どうか、わたしたちの父ちちなる神かみご自身じしんと、わたしたちの主しゅイエスとが、あなたがたのところへ行いく道みちを、わたしたちに開ひらいて下くださるように。",
+            "kr": "하나님 우리 아버지와 우리 주 예수는 우리 길을 너희에게로 갈 수 있게 하시오며"
+          }
+        },
+        {
+          "key": "12",
+          "text": {
+            "fr": "Que le Seigneur augmente de plus en plus parmi vous, et à l’égard de tous, cette charité que nous avons nous-mêmes pour vous,",
+            "en": "And the Lord make you to increase and abound in love one toward another, and toward all men, even as we do toward you:",
+            "zh": "又願主叫你們彼此相愛的心、並愛眾人的心、都能增長、充足、如同我們愛你們一樣．",
+            "jp": "どうか、主しゅが、あなたがた相互そうごの愛あいとすべての人ひとに対たいする愛あいとを、わたしたちがあなたがたを愛あいする愛あいと同おなじように、増まし加くわえて豊ゆたかにして下くださるように。",
+            "kr": "또 주께서 우리가 너희를 사랑함과 같이 너희도 피차간과 모든 사람에 대한 사랑이 더욱 많아 넘치게 하사"
+          }
+        },
+        {
+          "key": "13",
+          "text": {
+            "fr": "afin d’affermir vos coeurs pour qu’ils soient irréprochables dans la sainteté devant Dieu notre Père, lors de l’avènement de notre Seigneur Jésus avec tous ses saints !",
+            "en": "To the end he may stablish your hearts unblameable in holiness before God, even our Father, at the coming of our Lord Jesus Christ with all his saints.",
+            "zh": "好使你們、當我們主耶穌同他眾聖徒來的時候、在我們父　神面前、心裡堅固、成為聖潔、無可責備。",
+            "jp": "そして、どうか、わたしたちの主しゅイエスが、そのすべての聖せいなる者ものと共ともにこられる時とき、神かみのみまえに、あなたがたの心こころを強つよめ、清きよく、責せめられるところのない者ものにして下くださるように。",
+            "kr": "너희 마음을 굳건하게 하시고 우리 주 예수께서 그의 모든 성도와 함께 강림하실 때에 하나님 우리 아버지 앞에서 거룩함에 흠이 없게 하시기를 원하노라"
+          }
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "introduction": {
+        "fr": "The Saints are told to be holy, sanctify themselves, and love one another—The Lord will come, and the dead will rise.",
+        "en": "The Saints are told to be holy, sanctify themselves, and love one another—The Lord will come, and the dead will rise.",
+        "zh": "The Saints are told to be holy, sanctify themselves, and love one another—The Lord will come, and the dead will rise.",
+        "jp": "The Saints are told to be holy, sanctify themselves, and love one another—The Lord will come, and the dead will rise.",
+        "kr": "The Saints are told to be holy, sanctify themselves, and love one another—The Lord will come, and the dead will rise."
+      },
+      "verses": [
+        {
+          "key": "1",
+          "text": {
+            "fr": "Au reste, frères, puisque vous avez appris de nous comment vous devez vous conduire et plaire à Dieu, et que c’est là ce que vous faites, nous vous prions et nous vous conjurons au nom du Seigneur Jésus de marcher à cet égard de progrès en progrès.",
+            "en": "Furthermore then we beseech you, brethren, and exhort you by the Lord Jesus, that as ye have received of us how ye ought to walk and to please God, so ye would abound more and more.",
+            "zh": "弟兄們、我還有話說．我們靠著主耶穌求你們、勸你們、你們既然受了我們的教訓、知道該怎樣行、可以討　神的喜悅、就要照你們現在所行的、更加勉勵。",
+            "jp": "最後さいごに、兄弟きょうだいたちよ。わたしたちは主しゅイエスにあってあなたがたに願ねがいかつ勧すすめる。あなたがたが、どのように歩あるいて神かみを喜よろこばすべきかをわたしたちから学まなんだように、また、いま歩あるいているとおりに、ますます歩あるき続つづけなさい。",
+            "kr": "그러므로 형제들아 우리가 끝으로 주 예수 안에서 너희에게 구하고 권면하노니 너희가 마땅히 어떻게 행하며 하나님을 기쁘시게 할 수 있는지를 우리에게 배웠으니 곧 너희가 행하는 바라 더욱 많이 힘쓰라"
+          }
+        },
+        {
+          "key": "2",
+          "text": {
+            "fr": "Vous savez, en effet, quels préceptes nous vous avons donnés de la part du Seigneur Jésus.",
+            "en": "For ye know what commandments we gave you by the Lord Jesus.",
+            "zh": "你們原曉得我們憑主耶穌傳給你們甚麼命令。",
+            "jp": "わたしたちがどういう教おしえを主しゅイエスによって与あたえたか、あなたがたはよく知しっている。",
+            "kr": "우리가 주 예수로 말미암아 너희에게 무슨 명령으로 준 것을 너희가 아느니라"
+          }
+        },
+        {
+          "key": "3",
+          "text": {
+            "fr": "Ce que Dieu veut, c’est votre sanctification ; c’est que vous vous absteniez de l’impudicité ;",
+            "en": "For this is the will of God, even your sanctification, that ye should abstain from fornication:",
+            "zh": "神的旨意就是要你們成為聖潔、遠避淫行．",
+            "jp": "神かみのみこころは、あなたがたが清きよくなることである。すなわち、不品行ふひんこうを慎つつしみ、",
+            "kr": "하나님의 뜻은 이것이니 너희의 거룩함이라 곧 음란을 버리고"
+          }
+        },
+        {
+          "key": "4",
+          "text": {
+            "fr": "c’est que chacun de vous sache posséder son corps dans la sainteté et l’honnêteté,",
+            "en": "That every one of you should know how to possess his vessel in sanctification and honour;",
+            "zh": "要你們各人曉得怎樣用聖潔尊貴、守著自己的身體．",
+            "jp": "各自かくじ、気きをつけて自分じぶんのからだを清きよく尊たっとく保たもち、",
+            "kr": "각각 거룩함과 존귀함으로 자기의 아내 대할 줄을 알고"
+          }
+        },
+        {
+          "key": "5",
+          "text": {
+            "fr": "sans vous livrer à une convoitise passionnée, comme font les païens qui ne connaissent pas Dieu ;",
+            "en": "Not in the lust of concupiscence, even as the Gentiles which know not God:",
+            "zh": "不放縱私慾的邪情、像那不認識　神的外邦人．",
+            "jp": "神かみを知しらない異邦人いほうじんのように情欲じょうよくをほしいままにせず、",
+            "kr": "하나님을 모르는 이방인과 같이 색욕을 따르지 말고"
+          }
+        },
+        {
+          "key": "6",
+          "text": {
+            "fr": "c’est que personne n’use envers son frère de fraude et de cupidité dans les affaires, parce que le Seigneur tire vengeance de toutes ces choses, comme nous vous l’avons déjà dit et attesté.",
+            "en": "That no man go beyond and defraud his brother in any matter: because that the Lord is the avenger of all such, as we also have forewarned you and testified.",
+            "zh": "不要一個人在這事上越分、欺負他的弟兄．因為這一類的事、主必報應、正如我預先對你們說過、又切切囑咐你們的。",
+            "jp": "また、このようなことで兄弟きょうだいを踏ふみつけたり、だましたりしてはならない。前まえにもあなたがたにきびしく警告けいこくしておいたように、主しゅはこれらすべてのことについて、報むくいをなさるからである。",
+            "kr": "이 일에 분수를 넘어서 형제를 해하지 말라 이는 우리가 너희에게 미리 말하고 증언한 것과 같이 이 모든 일에 주께서 신원하여 주심이라"
+          }
+        },
+        {
+          "key": "7",
+          "text": {
+            "fr": "Car Dieu ne nous a pas appelés à l’impureté, mais à la sanctification.",
+            "en": "For God hath not called us unto uncleanness, but unto holiness.",
+            "zh": "神召我們、本不是要我們沾染污穢、乃是要我們成為聖潔。",
+            "jp": "神かみがわたしたちを召めされたのは、汚けがれたことをするためではなく、清きよくなるためである。",
+            "kr": "하나님이 우리를 부르심은 부정하게 하심이 아니요 거룩하게 하심이니"
+          }
+        },
+        {
+          "key": "8",
+          "text": {
+            "fr": "Celui donc qui rejette ces préceptes ne rejette pas un homme, mais Dieu, qui vous a aussi donné son Saint Esprit.",
+            "en": "He therefore that despiseth, despiseth not man, but God, who hath also given unto us his holy Spirit.",
+            "zh": "所以那棄絕的、不是棄絕人、乃是棄絕那賜聖靈給你們的　神。",
+            "jp": "こういうわけであるから、これらの警告けいこくを拒こばむ者ものは、人ひとを拒こばむのではなく、聖霊せいれいをあなたがたの心こころに賜たまわる神かみを拒こばむのである。",
+            "kr": "그러므로 저버리는 자는 사람을 저버림이 아니요 너희에게 그의 성령을 주신 하나님을 저버림이니라"
+          }
+        },
+        {
+          "key": "9",
+          "text": {
+            "fr": "Pour ce qui est de l’amour fraternel, vous n’avez pas besoin qu’on vous en écrive ; car vous avez vous-mêmes appris de Dieu à vous aimer les uns les autres,",
+            "en": "But as touching brotherly love ye need not that I write unto you: for ye yourselves are taught of God to love one another.",
+            "zh": "論到弟兄們相愛、不用人寫信給你們．因為你們自己蒙了　神的教訓、叫你們彼此相愛。",
+            "jp": "兄弟きょうだい愛あいについては、今いまさら書かきおくる必要ひつようはない。あなたがたは、互たがいに愛あいし合あうように神かみに直接ちょくせつ教おしえられており、",
+            "kr": "형제 사랑에 관하여는 너희에게 쓸 것이 없음은 너희들 자신이 하나님의 가르치심을 받아 서로 사랑함이라"
+          }
+        },
+        {
+          "key": "10",
+          "text": {
+            "fr": "et c’est aussi ce que vous faites envers tous les frères dans la Macédoine entière. Mais nous vous exhortons, frères, à abonder toujours plus dans cet amour,",
+            "en": "And indeed ye do it toward all the brethren which are in all Macedonia: but we beseech you, brethren, that ye increase more and more;",
+            "zh": "你們向馬其頓全地的眾弟兄、固然是這樣行、但我勸弟兄們要更加勉勵．",
+            "jp": "また、事実じじつマケドニヤ全土ぜんどにいるすべての兄弟きょうだいに対たいして、それを実行じっこうしているのだから。しかし、兄弟きょうだいたちよ。あなたがたに勧すすめる。ますます、そうしてほしい。",
+            "kr": "너희가 온 마게도냐 모든 형제에 대하여 과연 이것을 행하도다 형제들아 권하노니 더욱 그렇게 행하고"
+          }
+        },
+        {
+          "key": "11",
+          "text": {
+            "fr": "et à mettre votre honneur à vivre tranquilles, à vous occuper de vos propres affaires, et à travailler de vos mains, comme nous vous l’avons recommandé,",
+            "en": "And that ye study to be quiet, and to do your own business, and to work with your own hands, as we commanded you;",
+            "zh": "又要立志作安靜人、辦自己的事、親手作工、正如我們從前所吩咐你們的．",
+            "jp": "そして、あなたがたに命めいじておいたように、つとめて落おち着ついた生活せいかつをし、自分じぶんの仕事しごとに身みをいれ、手てずから働はたらきなさい。",
+            "kr": "또 너희에게 명한 것 같이 조용히 자기 일을 하고 너희 손으로 일하기를 힘쓰라"
+          }
+        },
+        {
+          "key": "12",
+          "text": {
+            "fr": "en sorte que vous vous conduisiez honnêtement envers ceux du dehors, et que vous n’ayez besoin de personne.",
+            "en": "That ye may walk honestly toward them that are without, and that ye may have lack of nothing.",
+            "zh": "叫你們可以向外人行事端正、自己也就沒有甚麼缺乏了。",
+            "jp": "そうすれば、外部がいぶの人々ひとびとに対たいして品位ひんいを保たもち、まただれの世話せわにもならずに、生活せいかつできるであろう。",
+            "kr": "이는 외인에 대하여 단정히 행하고 또한 아무 궁핍함이 없게 하려 함이라"
+          }
+        },
+        {
+          "key": "13",
+          "text": {
+            "fr": "Nous ne voulons pas, frères, que vous soyez dans l’ignorance au sujet de ceux qui dorment, afin que vous ne vous affligiez pas comme les autres qui n’ont point d’espérance.",
+            "en": "But I would not have you to be ignorant, brethren, concerning them which are asleep, that ye sorrow not, even as others which have no hope.",
+            "zh": "論到睡了的人、我們不願意弟兄們不知道、恐怕你們憂傷、像那些沒有指望的人一樣。",
+            "jp": "兄弟きょうだいたちよ。眠ねむっている人々ひとびとについては、無知むちでいてもらいたくない。望のぞみを持もたない外ほかの人々ひとびとのように、あなたがたが悲かなしむことのないためである。",
+            "kr": "형제들아 자는 자들에 관하여는 너희가 알지 못함을 우리가 원하지 아니하노니 이는 소망 없는 다른 이와 같이 슬퍼하지 않게 하려 함이라"
+          }
+        },
+        {
+          "key": "14",
+          "text": {
+            "fr": "Car, si nous croyons que Jésus est mort et qu’il est ressuscité, croyons aussi que Dieu ramènera par Jésus et avec lui ceux qui sont morts.",
+            "en": "For if we believe that Jesus died and rose again, even so them also which sleep in Jesus will God bring with him.",
+            "zh": "我們若信耶穌死而復活了、那已經在耶穌裡睡了的人、　神也必將他與耶穌一同帶來。",
+            "jp": "わたしたちが信しんじているように、イエスが死しんで復活ふっかつされたからには、同様どうように神かみはイエスにあって眠ねむっている人々ひとびとをも、イエスと一緒いっしょに導みちき出だして下くださるであろう。",
+            "kr": "우리가 예수께서 죽으셨다가 다시 살아나심을 믿을진대 이와 같이 예수 안에서 자는 자들도 하나님이 그와 함께 데리고 오시리라"
+          }
+        },
+        {
+          "key": "15",
+          "text": {
+            "fr": "Voici, en effet, ce que nous vous déclarons d’après la parole du Seigneur : nous les vivants, restés pour l’avènement du Seigneur, nous ne devancerons pas ceux qui sont morts.",
+            "en": "For this we say unto you by the word of the Lord, that we which are alive and remain unto the coming of the Lord shall not prevent them which are asleep.",
+            "zh": "我們現在照主的話告訴你們一件事．我們這活著還存留到主降臨的人、斷不能在那已經睡了的人之先．",
+            "jp": "わたしたちは主しゅの言葉ことばによって言いうが、生いきながらえて主しゅの来臨らいりんの時ときまで残のこるわたしたちが、眠ねむった人々ひとびとより先さきになることは、決けっしてないであろう。",
+            "kr": "우리가 주의 말씀으로 너희에게 이것을 말하노니 주께서 강림하실 때까지 우리 살아 남아 있는 자도 자는 자보다 결코 앞서지 못하리라"
+          }
+        },
+        {
+          "key": "16",
+          "text": {
+            "fr": "Car le Seigneur lui-même, à un signal donné, à la voix d’un archange, et au son de la trompette de Dieu, descendra du ciel, et les morts en Christ ressusciteront premièrement.",
+            "en": "For the Lord himself shall descend from heaven with a shout, with the voice of the archangel, and with the trump of God: and the dead in Christ shall rise first:",
+            "zh": "因為主必親自從天降臨、有呼叫的聲音、和天使長的聲音、又有　神的號吹響．那在基督裡死了的人必先復活。",
+            "jp": "すなわち、主しゅご自身じしんが天使てんしのかしらの声こえと神かみのラッパの鳴なり響ひびくうちに、合図あいずの声こえで、天てんから下くだってこられる。その時とき、キリストにあって死しんだ人々ひとびとが、まず最初さいしょによみがえり、",
+            "kr": "주께서 호령과 천사장의 소리와 하나님의 나팔 소리로 친히 하늘로부터 강림하시리니 그리스도 안에서 죽은 자들이 먼저 일어나고"
+          }
+        },
+        {
+          "key": "17",
+          "text": {
+            "fr": "Ensuite, nous les vivants, qui seront restés, nous serons tous ensemble enlevés avec eux sur des nuées, à la rencontre du Seigneur dans les airs, et ainsi nous serons toujours avec le Seigneur.",
+            "en": "Then we which are alive and remain shall be caught up together with them in the clouds, to meet the Lord in the air: and so shall we ever be with the Lord.",
+            "zh": "以後我們這活著還存留的人、必和他們一同被提到雲裡、在空中與主相遇．這樣、我們就要和主永遠同在。",
+            "jp": "それから生いき残のこっているわたしたちが、彼かれらと共ともに雲くもに包つつまれて引ひき上あげられ、空中くうちゅうで主しゅに会あい、こうして、いつも主しゅと共ともにいるであろう。",
+            "kr": "그 후에 우리 살아 남은 자들도 그들과 함께 구름 속으로 끌어 올려 공중에서 주를 영접하게 하시리니 그리하여 우리가 항상 주와 함께 있으리라"
+          }
+        },
+        {
+          "key": "18",
+          "text": {
+            "fr": "Consolez-vous donc les uns les autres par ces paroles.",
+            "en": "Wherefore comfort one another with these words.",
+            "zh": "所以你們當用這些話彼此勸慰。",
+            "jp": "だから、あなたがたは、これらの言葉ことばをもって互たがいに慰なぐさめ合あいなさい。",
+            "kr": "그러므로 이러한 말로 서로 위로하라"
+          }
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "introduction": {
+        "fr": "The Saints will know the season of the Second Coming of Christ—Live the way Saints should live—Rejoice evermore—Do not despise prophesyings.",
+        "en": "The Saints will know the season of the Second Coming of Christ—Live the way Saints should live—Rejoice evermore—Do not despise prophesyings.",
+        "zh": "The Saints will know the season of the Second Coming of Christ—Live the way Saints should live—Rejoice evermore—Do not despise prophesyings.",
+        "jp": "The Saints will know the season of the Second Coming of Christ—Live the way Saints should live—Rejoice evermore—Do not despise prophesyings.",
+        "kr": "The Saints will know the season of the Second Coming of Christ—Live the way Saints should live—Rejoice evermore—Do not despise prophesyings."
+      },
+      "verses": [
+        {
+          "key": "1",
+          "text": {
+            "fr": "Pour ce qui est des temps et des moments, vous n’avez pas besoin, frères, qu’on vous en écrive.",
+            "en": "But of the times and the seasons, brethren, ye have no need that I write unto you.",
+            "zh": "弟兄們、論到時候日期、不用寫信給你們．",
+            "jp": "兄弟きょうだいたちよ。その時期じきと場合ばあいとについては、書かきおくる必要ひつようはない。",
+            "kr": "형제들아 때와 시기에 관하여는 너희에게 쓸 것이 없음은"
+          }
+        },
+        {
+          "key": "2",
+          "text": {
+            "fr": "Car vous savez bien vous-mêmes que le jour du Seigneur viendra comme un voleur dans la nuit.",
+            "en": "For yourselves know perfectly that the day of the Lord so cometh as a thief in the night.",
+            "zh": "因為你們自己明明曉得、主的日子來到、好像夜間的賊一樣。",
+            "jp": "あなたがた自身じしんがよく知しっているとおり、主しゅの日ひは盗人ぬすびとが夜よるくるように来くる。",
+            "kr": "주의 날이 밤에 도둑 같이 이를 줄을 너희 자신이 자세히 알기 때문이라"
+          }
+        },
+        {
+          "key": "3",
+          "text": {
+            "fr": "Quand les hommes diront : Paix et sûreté ! alors une ruine soudaine les surprendra, comme les douleurs de l’enfantement surprennent la femme enceinte, et ils n’échapperont point.",
+            "en": "For when they shall say, Peace and safety; then sudden destruction cometh upon them, as travail upon a woman with child; and they shall not escape.",
+            "zh": "人正說平安穩妥的時候、災禍忽然臨到他們、如同產難臨到懷胎的婦人一樣．他們絕不能逃脫。",
+            "jp": "人々ひとびとが平和へいわだ無事ぶじだと言いっているその矢先やさきに、ちょうど妊婦にんぷに産うみの苦くるしみが臨のぞむように、突如とつじょとして滅ほろびが彼かれらをおそって来くる。そして、それからのがれることは決けっしてできない。",
+            "kr": "그들이 평안하다, 안전하다 할 그 때에 임신한 여자에게 해산의 고통이 이름과 같이 멸망이 갑자기 그들에게 이르리니 결코 피하지 못하리라"
+          }
+        },
+        {
+          "key": "4",
+          "text": {
+            "fr": "Mais vous, frères, vous n’êtes pas dans les ténèbres, pour que ce jour vous surprenne comme un voleur ;",
+            "en": "But ye, brethren, are not in darkness, that that day should overtake you as a thief.",
+            "zh": "弟兄們、你們卻不在黑暗裡、叫那日子臨到你們像賊一樣。",
+            "jp": "しかし兄弟きょうだいたちよ。あなたがたは暗くらやみの中なかにいないのだから、その日ひが、盗人ぬすびとのようにあなたがたを不ふ意いに襲おそうことはないであろう。",
+            "kr": "형제들아 너희는 어둠에 있지 아니하매 그 날이 도둑 같이 너희에게 임하지 못하리니"
+          }
+        },
+        {
+          "key": "5",
+          "text": {
+            "fr": "vous êtes tous des enfants de la lumière et des enfants du jour. Nous ne sommes point de la nuit ni des ténèbres.",
+            "en": "Ye are all the children of light, and the children of the day: we are not of the night, nor of darkness.",
+            "zh": "你們都是光明之子、都是白晝之子、我們不是屬黑夜的、也不是屬幽暗的．",
+            "jp": "あなたがたはみな光ひかりの子こであり、昼ひるの子こなのである。わたしたちは、夜よるの者ものでもやみの者ものでもない。",
+            "kr": "너희는 다 빛의 아들이요 낮의 아들이라 우리가 밤이나 어둠에 속하지 아니하나니"
+          }
+        },
+        {
+          "key": "6",
+          "text": {
+            "fr": "Ne dormons donc point comme les autres, mais veillons et soyons sobres.",
+            "en": "Therefore let us not sleep, as do others; but let us watch and be sober.",
+            "zh": "所以我們不要睡覺、像別人一樣、總要儆醒謹守。",
+            "jp": "だから、ほかの人々ひとびとのように眠ねむっていないで、目めをさまして慎つつしんでいよう。",
+            "kr": "그러므로 우리는 다른 이들과 같이 자지 말고 오직 깨어 정신을 차릴지라"
+          }
+        },
+        {
+          "key": "7",
+          "text": {
+            "fr": "Car ceux qui dorment dorment la nuit, et ceux qui s’enivrent s’enivrent la nuit.",
+            "en": "For they that sleep sleep in the night; and they that be drunken are drunken in the night.",
+            "zh": "因為睡了的人是在夜間睡．醉了的人是在夜間醉．",
+            "jp": "眠ねむる者ものは夜よる眠ねむり、酔よう者ものは夜よる酔ようのである。",
+            "kr": "자는 자들은 밤에 자고 취하는 자들은 밤에 취하되"
+          }
+        },
+        {
+          "key": "8",
+          "text": {
+            "fr": "Mais nous qui sommes du jour, soyons sobres, ayant revêtu la cuirasse de la foi et de la charité, et ayant pour casque l’espérance du salut.",
+            "en": "But let us, who are of the day, be sober, putting on the breastplate of faith and love; and for an helmet, the hope of salvation.",
+            "zh": "但我們既然屬乎白晝、就應當謹守、把信和愛當作護心鏡遮胸．把得救的盼望當作頭盔戴上。",
+            "jp": "しかし、わたしたちは昼ひるの者ものなのだから、信仰しんこうと愛あいとの胸当むねあてを身みにつけ、救すくいの望のぞみのかぶとをかぶって、慎つつしんでいよう。",
+            "kr": "우리는 낮에 속하였으니 정신을 차리고 믿음과 사랑의 호심경을 붙이고 구원의 소망의 투구를 쓰자"
+          }
+        },
+        {
+          "key": "9",
+          "text": {
+            "fr": "Car Dieu ne nous a pas destinés à la colère, mais à l’acquisition du salut par notre Seigneur Jésus Christ,",
+            "en": "For God hath not appointed us to wrath, but to obtain salvation by our Lord Jesus Christ,",
+            "zh": "因為　神不是預定我們受刑、乃是預定我們藉著我們主耶穌基督得救．",
+            "jp": "神かみは、わたしたちを怒いかりにあわせるように定さだめられたのではなく、わたしたちの主しゅイエス・キリストによって救すくいを得えるように定さだめられたのである。",
+            "kr": "하나님이 우리를 세우심은 노하심에 이르게 하심이 아니요 오직 우리 주 예수 그리스도로 말미암아 구원을 받게 하심이라"
+          }
+        },
+        {
+          "key": "10",
+          "text": {
+            "fr": "qui est mort pour nous, afin que, soit que nous veillons, soit que nous dormions, nous vivions ensemble avec lui.",
+            "en": "Who died for us, that, whether we wake or sleep, we should live together with him.",
+            "zh": "他替我們死、叫我們無論醒著睡著、都與他同活。",
+            "jp": "キリストがわたしたちのために死しなれたのは、さめていても眠ねむっていても、わたしたちが主しゅと共ともに生いきるためである。",
+            "kr": "예수께서 우리를 위하여 죽으사 우리로 하여금 깨어 있든지 자든지 자기와 함께 살게 하려 하셨느니라"
+          }
+        },
+        {
+          "key": "11",
+          "text": {
+            "fr": "C’est pourquoi exhortez-vous réciproquement, et édifiez-vous les uns les autres, comme en réalité vous le faites.",
+            "en": "Wherefore comfort yourselves together, and edify one another, even as also ye do.",
+            "zh": "所以你們該彼此勸慰、互相建立、正如你們素常所行的。",
+            "jp": "だから、あなたがたは、今いましているように、互たがいに慰なぐさめ合あい、相互そうごの徳とくを高たかめなさい。",
+            "kr": "그러므로 피차 권면하고 서로 덕을 세우기를 너희가 하는 것 같이 하라"
+          }
+        },
+        {
+          "key": "12",
+          "text": {
+            "fr": "Nous vous prions, frères, d’avoir de la considération pour ceux qui travaillent parmi vous, qui vous dirigent dans le Seigneur, et qui vous exhortent.",
+            "en": "And we beseech you, brethren, to know them which labour among you, and are over you in the Lord, and admonish you;",
+            "zh": "弟兄們、我們勸你們敬重那在你們中間勞苦的人、就是在主裡面治理你們、勸戒你們的．",
+            "jp": "兄弟きょうだいたちよ。わたしたちはお願ねがいする。どうか、あなたがたの間あいだで労ろうし、主しゅにあってあなたがたを指導しどうし、かつ訓戒くんかいしている人々ひとびとを重おもんじ、",
+            "kr": "형제들아 우리가 너희에게 구하노니 너희 가운데서 수고하고 주 안에서 너희를 다스리며 권하는 자들을 너희가 알고"
+          }
+        },
+        {
+          "key": "13",
+          "text": {
+            "fr": "Ayez pour eux beaucoup d’affection, à cause de leur oeuvre. Soyez en paix entre vous.",
+            "en": "And to esteem them very highly in love for their work’s sake. And be at peace among yourselves.",
+            "zh": "又因他們所作的工、用愛心格外尊重他們．你們也要彼此和睦。",
+            "jp": "彼かれらの働はたらきを思おもって、特とくに愛あいし敬うやまいなさい。互たがいに平和へいわに過すごしなさい。",
+            "kr": "그들의 역사로 말미암아 사랑 안에서 가장 귀히 여기며 너희끼리 화목하라"
+          }
+        },
+        {
+          "key": "14",
+          "text": {
+            "fr": "Nous vous prions aussi, frères, avertissez ceux qui vivent dans le désordre, consolez ceux qui sont abattus, supportez les faibles, usez de patience envers tous.",
+            "en": "Now we exhort you, brethren, warn them that are unruly, comfort the feebleminded, support the weak, be patient toward all men.",
+            "zh": "我們又勸弟兄們、要警戒不守規矩的人．勉勵灰心的人．扶助軟弱的人．也要向眾人忍耐。",
+            "jp": "兄弟きょうだいたちよ。あなたがたにお勧すすめする。怠惰たいだな者ものを戒いましめ、小心しょうしんな者ものを励はげまし、弱よわい者ものを助たすけ、すべての人ひとに対たいして寛容かんようでありなさい。",
+            "kr": "또 형제들아 너희를 권면하노니 게으른 자들을 권계하며 마음이 약한 자들을 격려하고 힘이 없는 자들을 붙들어 주며 모든 사람에게 오래 참으라"
+          }
+        },
+        {
+          "key": "15",
+          "text": {
+            "fr": "Prenez garde que personne ne rende à autrui le mal pour le mal ; mais poursuivez toujours le bien, soit entre vous, soit envers tous.",
+            "en": "See that none render evil for evil unto any man; but ever follow that which is good, both among yourselves, and to all men.",
+            "zh": "你們要謹慎、無論是誰都不可以惡報惡．或是彼此相待、或是待眾人、常要追求良善。",
+            "jp": "だれも悪あくをもって悪あくに報むくいないように心こころがけ、お互たがいに、またみんなに対たいして、いつも善ぜんを追おい求もとめなさい。",
+            "kr": "삼가 누가 누구에게든지 악으로 악을 갚지 말게 하고 서로 대하든지 모든 사람을 대하든지 항상 선을 따르라"
+          }
+        },
+        {
+          "key": "16",
+          "text": {
+            "fr": "Soyez toujours joyeux.",
+            "en": "Rejoice evermore.",
+            "zh": "要常常喜樂．",
+            "jp": "いつも喜よろこんでいなさい。",
+            "kr": "항상 기뻐하라"
+          }
+        },
+        {
+          "key": "17",
+          "text": {
+            "fr": "Priez sans cesse.",
+            "en": "Pray without ceasing.",
+            "zh": "不住的禱告．",
+            "jp": "絶たえず祈いのりなさい。",
+            "kr": "쉬지 말고 기도하라"
+          }
+        },
+        {
+          "key": "18",
+          "text": {
+            "fr": "Rendez grâces en toutes choses, car c’est à votre égard la volonté de Dieu en Jésus Christ.",
+            "en": "In every thing give thanks: for this is the will of God in Christ Jesus concerning you.",
+            "zh": "凡事謝恩．因為這是　神在基督耶穌裡向你們所定的旨意。",
+            "jp": "すべての事ことについて、感謝かんしゃしなさい。これが、キリスト・イエスにあって、神かみがあなたがたに求もとめておられることである。",
+            "kr": "범사에 감사하라 이것이 그리스도 예수 안에서 너희를 향하신 하나님의 뜻이니라"
+          }
+        },
+        {
+          "key": "19",
+          "text": {
+            "fr": "N’éteignez pas l’Esprit.",
+            "en": "Quench not the Spirit.",
+            "zh": "不要銷滅聖靈的感動．",
+            "jp": "御霊みたまを消けしてはいけない。",
+            "kr": "성령을 소멸하지 말며"
+          }
+        },
+        {
+          "key": "20",
+          "text": {
+            "fr": "Ne méprisez pas les prophéties.",
+            "en": "Despise not prophesyings.",
+            "zh": "不要藐視先知的講論．",
+            "jp": "預言よげんを軽かろんじてはならない。",
+            "kr": "예언을 멸시하지 말고"
+          }
+        },
+        {
+          "key": "21",
+          "text": {
+            "fr": "Mais examinez toutes choses ; retenez ce qui est bon ;",
+            "en": "Prove all things; hold fast that which is good.",
+            "zh": "但要凡事察驗．善美的要持守。",
+            "jp": "すべてのものを識別しきべつして、良よいものを守まもり、",
+            "kr": "범사에 헤아려 좋은 것을 취하고"
+          }
+        },
+        {
+          "key": "22",
+          "text": {
+            "fr": "abstenez-vous de toute espèce de mal.",
+            "en": "Abstain from all appearance of evil.",
+            "zh": "各樣的惡事要禁戒不作。",
+            "jp": "あらゆる種類しゅるいの悪あくから遠とおざかりなさい。",
+            "kr": "악은 어떤 모양이라도 버리라"
+          }
+        },
+        {
+          "key": "23",
+          "text": {
+            "fr": "Que le Dieu de paix vous sanctifie lui-même tout entiers, et que tout votre être, l’esprit, l’âme et le corps, soit conservé irrépréhensible, lors de l’avènement de notre Seigneur Jésus Christ !",
+            "en": "And the very God of peace sanctify you wholly; and I pray God your whole spirit and soul and body be preserved blameless unto the coming of our Lord Jesus Christ.",
+            "zh": "願賜平安的　神、親自使你們全然成聖．又願你們的靈、與魂、與身子、得蒙保守、在我主耶穌基督降臨的時候、完全無可指摘。",
+            "jp": "どうか、平和へいわの神かみご自身じしんが、あなたがたを全まったくきよめて下くださるように。また、あなたがたの霊れいと心こころとからだとを完全かんぜんに守まもって、わたしたちの主しゅイエス・キリストの来臨らいりんのときに、責せめられるところのない者ものにして下くださるように。",
+            "kr": "평강의 하나님이 친히 너희를 온전히 거룩하게 하시고 또 너희의 온 영과 혼과 몸이 우리 주 예수 그리스도께서 강림하실 때에 흠 없게 보전되기를 원하노라"
+          }
+        },
+        {
+          "key": "24",
+          "text": {
+            "fr": "Celui qui vous a appelés est fidèle, et c’est lui qui le fera.",
+            "en": "Faithful is he that calleth you, who also will do it.",
+            "zh": "那召你們的本是信實的、他必成就這事。",
+            "jp": "あなたがたを召めされたかたは真実しんじつであられるから、このことをして下くださるであろう。",
+            "kr": "너희를 부르시는 이는 미쁘시니 그가 또한 이루시리라"
+          }
+        },
+        {
+          "key": "25",
+          "text": {
+            "fr": "Frères, priez pour nous.",
+            "en": "Brethren, pray for us.",
+            "zh": "請弟兄們為我們禱告。",
+            "jp": "兄弟きょうだいたちよ。わたしたちのためにも、祈いのってほしい。",
+            "kr": "형제들아 우리를 위하여 기도하라"
+          }
+        },
+        {
+          "key": "26",
+          "text": {
+            "fr": "Saluez tous les frères par un saint baiser.",
+            "en": "Greet all the brethren with an holy kiss.",
+            "zh": "與眾弟兄親嘴問安務要聖潔。",
+            "jp": "すべての兄弟きょうだいたちに、きよい接吻せっぷんをもって、よろしく伝つたえてほしい。",
+            "kr": "거룩하게 입맞춤으로 모든 형제에게 문안하라"
+          }
+        },
+        {
+          "key": "27",
+          "text": {
+            "fr": "Je vous en conjure par le Seigneur, que cette lettre soit lue à tous les frères.",
+            "en": "I charge you by the Lord that this epistle be read unto all the holy brethren.",
+            "zh": "我指著主囑咐你們、要把這信念給眾弟兄聽。",
+            "jp": "わたしは主しゅによって命めいじる。この手紙てがみを、みんなの兄弟きょうだいに読よみ聞きかせなさい。",
+            "kr": "내가 주를 힘입어 너희를 명하노니 모든 형제에게 이 편지를 읽어 주라"
+          }
+        },
+        {
+          "key": "28",
+          "text": {
+            "fr": "Que la grâce de notre Seigneur Jésus Christ soit avec vous !",
+            "en": "The grace of our Lord Jesus Christ be with you. Amen.",
+            "zh": "願我主耶穌基督的恩常與你們同在。",
+            "jp": "わたしたちの主しゅイエス・キリストの恵めぐみが、あなたがたと共ともにあるように。",
+            "kr": "우리 주 예수 그리스도의 은혜가 너희에게 있을지어다"
+          }
+        }
+      ]
+    }
+  ]
+}

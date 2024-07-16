@@ -1,0 +1,429 @@
+{
+  "book": {
+    "fr": "AGGÉE",
+    "en": "HAGGAI",
+    "zh": "哈該書",
+    "jp": "ハガイ書しょ",
+    "kr": "학개"
+  },
+  "theme": {
+    "fr": "Chapitre 1",
+    "en": "Chapter 1",
+    "zh": "第1章",
+    "jp": "第1章",
+    "kr": "제 1 장"
+  },
+  "introduction": {
+    "fr": "Aggée exhorte le peuple à rebâtir le temple.",
+    "en": "Haggai exhorts the people to build the temple.",
+    "zh": "",
+    "jp": "Haggai exhorts the people to build the temple.",
+    "kr": "Haggai exhorts the people to build the temple."
+  },
+  "chapters": [
+    {
+      "number": 1,
+      "introduction": {
+        "fr": "Aggée exhorte le peuple à rebâtir le temple.",
+        "en": "Haggai exhorts the people to build the temple.",
+        "zh": "Haggai exhorts the people to build the temple.",
+        "jp": "Haggai exhorts the people to build the temple.",
+        "kr": "Haggai exhorts the people to build the temple."
+      },
+      "verses": [
+        {
+          "key": "1",
+          "text": {
+            "fr": "La seconde année du roi Darius, le premier jour du sixième mois, la parole de l’Éternel fut adressée par Aggée, le prophète, à Zorobabel, fils de Schealthiel, gouverneur de Juda, et à Josué, fils de Jotsadak, le grand prêtre, en ces mots :",
+            "en": "In the second year of Darius the king, in the sixth month, in the first day of the month, came the word of the Lord by Haggai the prophet unto Zerubbabel the son of Shealtiel, governor of Judah, and to Joshua the son of Josedech, the high priest, saying,",
+            "zh": "大利烏王第二年、六月初一日、耶和華的話藉先知哈該、向猶大省長撒拉鐵的兒子所羅巴伯、和約撒答的兒子大祭司約書亞說、",
+            "jp": "ダリヨス王おうの二年ねん六月がつ、その月つきの一日にちに、主しゅの言葉ことばが預言者よげんしゃハガイによって、シャルテルの子こ、ユダの総督そうとくゼルバベル、およびヨザダクの子こ、大だい祭司さいしヨシュアに臨のぞんだ、",
+            "kr": "다리오 왕 제이년 여섯째 달 곧 그 달 초하루에 여호와의 말씀이 선지자 학개로 말미암아 스알디엘의 아들 유다 총독 스룹바벨과 여호사닥의 아들 대제사장 여호수아에게 임하니라 이르시되"
+          }
+        },
+        {
+          "key": "2",
+          "text": {
+            "fr": "Ainsi parle l’Éternel des armées : Ce peuple dit que le temps n’est pas venu, le temps de rebâtir la maison de l’Éternel.",
+            "en": "Thus speaketh the Lord of hosts, saying, This people say, The time is not come, the time that the Lord’s house should be built.",
+            "zh": "萬軍之耶和華如此說、這百姓說、建造耶和華殿的時候尚未來到。",
+            "jp": "「万軍ばんぐんの主しゅはこう言いわれる、この民たみは、主しゅの家いえを再ふたたび建たてる時ときは、まだこないと言いっている」。",
+            "kr": "만군의 여호와가 이같이 말하여 이르노라 이 백성이 말하기를 여호와의 전을 건축할 시기가 이르지 아니하였다 하느니라"
+          }
+        },
+        {
+          "key": "3",
+          "text": {
+            "fr": "C’est pourquoi la parole de l’Éternel leur fut adressée par Aggée, le prophète, en ces mots :",
+            "en": "Then came the word of the Lord by Haggai the prophet, saying,",
+            "zh": "那時耶和華的話臨到先知哈該說、",
+            "jp": "そこで、主しゅの言葉ことばはまた預言者よげんしゃハガイに臨のぞんだ、",
+            "kr": "여호와의 말씀이 선지자 학개에게 임하여 이르시되"
+          }
+        },
+        {
+          "key": "4",
+          "text": {
+            "fr": "Est-ce le temps pour vous d’habiter vos demeures lambrissées Quand cette maison est détruite ?",
+            "en": "Is it time for you, O ye, to dwell in your ceiled houses, and this house lie waste?",
+            "zh": "這殿仍然荒涼、你們自己還住天花板的房屋麼．",
+            "jp": "「主しゅの家いえはこのように荒あれはてているのに、あなたがたは、みずから板いたで張はった家いえに住すんでいる時ときであろうか。",
+            "kr": "이 성전이 황폐하였거늘 너희가 이 때에 판벽한 집에 거주하는 것이 옳으냐"
+          }
+        },
+        {
+          "key": "5",
+          "text": {
+            "fr": "Ainsi parle maintenant l’Éternel des armées : Considérez attentivement votre conduite !",
+            "en": "Now therefore thus saith the Lord of hosts; Consider your ways.",
+            "zh": "現在萬軍之耶和華如此說、你們要省察自己的行為。",
+            "jp": "それで今いま、万軍ばんぐんの主しゅはこう言いわれる、あなたがたは自分じぶんのなすべきことをよく考かんがえるがよい。",
+            "kr": "그러므로 이제 만군의 여호와가 이같이 말하노니 너희는 너희의 행위를 살필지니라"
+          }
+        },
+        {
+          "key": "6",
+          "text": {
+            "fr": "Vous semez beaucoup et vous recueillez peu, Vous mangez et vous n’êtes pas rassasiés, Vous buvez et vous n’êtes pas désaltérés, Vous êtes vêtus et vous n’avez pas chaud ; Le salaire de celui qui travaille tombe dans un sac percé.",
+            "en": "Ye have sown much, and bring in little; ye eat, but ye have not enough; ye drink, but ye are not filled with drink; ye clothe you, but there is none warm; and he that earneth wages earneth wages to put it into a bag with holes.",
+            "zh": "你們撒的種多、收的卻少．你們喫、卻不得飽、喝、卻不得足、穿衣服、卻不得暖．得工錢的、將工錢裝在破漏的囊中。",
+            "jp": "あなたがたは多おおくまいても、取入とりいれは少すくなく、食たべても、飽あきることはない。飲のんでも、満みたされない。着きても、暖あたたまらない。賃銀ちんぎんを得えても、これを破やぶれた袋ふくろに入いれているようなものである。",
+            "kr": "너희가 많이 뿌릴지라도 수확이 적으며 먹을지라도 배부르지 못하며 마실지라도 흡족하지 못하며 입어도 따뜻하지 못하며 일꾼이 삯을 받아도 그것을 구멍 뚫어진 전대에 넣음이 되느니라"
+          }
+        },
+        {
+          "key": "7",
+          "text": {
+            "fr": "Ainsi parle l’Éternel des armées : Considérez attentivement votre conduite !",
+            "en": "¶ Thus saith the Lord of hosts; Consider your ways.",
+            "zh": "萬軍之耶和華如此說、你們要省察自己的行為。",
+            "jp": "万軍ばんぐんの主しゅはこう言いわれる、あなたがたは、自分じぶんのなすべきことを考かんがえるがよい。",
+            "kr": "만군의 여호와가 말하노니 너희는 자기의 행위를 살필지니라"
+          }
+        },
+        {
+          "key": "8",
+          "text": {
+            "fr": "Montez sur la montagne, apportez du bois Et bâtissez la maison : J’en aurai de la joie, et je serai glorifié, Dit l’Éternel.",
+            "en": "Go up to the mountain, and bring wood, and build the house; and I will take pleasure in it, and I will be glorified, saith the Lord.",
+            "zh": "你們要上山取木料、建造這殿．我就因此喜樂、且得榮耀．這是耶和華說的。",
+            "jp": "山やまに登のぼり、木きを持もってきて主しゅの家いえを建たてよ。そうすればわたしはこれを喜よろこび、かつ栄光えいこうのうちに現あらわれると主しゅは言いわれる。",
+            "kr": "너희는 산에 올라가서 나무를 가져다가 성전을 건축하라 그리하면 내가 그것으로 말미암아 기뻐하고 또 영광을 얻으리라 여호와가 말하였느니라"
+          }
+        },
+        {
+          "key": "9",
+          "text": {
+            "fr": "Vous comptiez sur beaucoup, et voici, vous avez eu peu ; Vous avez rentré vos récoltes, mais j’ai soufflé dessus. Pourquoi ? dit l’Éternel des armées. À cause de ma maison, qui est détruite, Tandis que vous vous empressez chacun pour votre maison.",
+            "en": "Ye looked for much, and, lo, it came to little; and when ye brought it home, I did blow upon it. Why? saith the Lord of hosts. Because of mine house that is waste, and ye run every man unto his own house.",
+            "zh": "你們盼望多得、所得的卻少．你們收到家中、我就吹去．這是為甚麼呢、因為我的殿荒涼、你們各人卻顧自己的房屋．〔顧原文作奔〕這是萬軍之耶和華說的。",
+            "jp": "あなたがたは多おおくを望のぞんだが、見みよ、それは少すくなかった。あなたがたが家いえに持もってきたとき、わたしはそれを吹ふき払はらった。これは何なにゆえであるかと、万軍ばんぐんの主しゅは言いわれる。これはわたしの家いえが荒あれはてているのに、あなたがたは、おのおの自分じぶんの家いえの事ことだけに、忙いそがしくしている。",
+            "kr": "너희가 많은 것을 바랐으나 도리어 적었고 너희가 그것을 집으로 가져갔으나 내가 불어 버렸느니라 나 만군의 여호와가 말하노라 이것이 무슨 까닭이냐 내 집은 황폐하였으되 너희는 각각 자기의 집을 짓기 위하여 빨랐음이라"
+          }
+        },
+        {
+          "key": "10",
+          "text": {
+            "fr": "C’est pourquoi les cieux vous ont refusé la rosée Et la terre a refusé ses produits.",
+            "en": "Therefore the heaven over you is stayed from dew, and the earth is stayed from her fruit.",
+            "zh": "所以為你們的緣故、天就不降甘露、地也不出土產。",
+            "jp": "それゆえ、あなたがたの上うえの天てんは露つゆをさし止とめ、地ちはその産物さんぶつをさし止とめた。",
+            "kr": "그러므로 너희로 말미암아 하늘은 이슬을 그쳤고 땅은 산물을 그쳤으며"
+          }
+        },
+        {
+          "key": "11",
+          "text": {
+            "fr": "J’ai appelé la sécheresse sur le pays, sur les montagnes, Sur le blé, sur le moût, sur l’huile, Sur ce que la terre peut rapporter, Sur les hommes et sur les bêtes Et sur tout le travail des mains.",
+            "en": "And I called for a drought upon the land, and upon the mountains, and upon the corn, and upon the new wine, and upon the oil, and upon that which the ground bringeth forth, and upon men, and upon cattle, and upon all the labour of the hands.",
+            "zh": "我命乾旱臨到地土、山岡、五榖、新酒、和油、並地上的出產、人民、牲畜、以及人手一切勞碌得來的。",
+            "jp": "また、わたしは地ちにも、山やまにも、穀物こくもつにも、新あたらしい酒さけにも、油あぶらにも、地ちに生しょうじるものにも、人間にんげんにも、家畜かちくにも、手てで作つくるすべての作物さくもつにも、ひでりを呼よび寄よせた」。",
+            "kr": "내가 이 땅과 산과 곡물과 새 포도주와 기름과 땅의 모든 소산과 사람과 가축과 손으로 수고하는 모든 일에 한재를 들게 하였느니라"
+          }
+        },
+        {
+          "key": "12",
+          "text": {
+            "fr": "Zorobabel, fils de Schealthiel, Josué, fils de Jotsadak, le grand prêtre, et tout le reste du peuple entendirent la voix de l’Éternel, leur Dieu, et les paroles d’Aggée, le prophète, selon la mission que lui avait donnée l’Éternel, leur Dieu. Et le peuple fut saisi de crainte devant l’Éternel.",
+            "en": "¶ Then Zerubbabel the son of Shealtiel, and Joshua the son of Josedech, the high priest, with all the remnant of the people, obeyed the voice of the Lord their God, and the words of Haggai the prophet, as the Lord their God had sent him, and the people did fear before the Lord.",
+            "zh": "那時、撒拉鐵的兒子所羅巴伯和約撒答的兒子大祭司約書亞、並剩下的百姓、都聽從耶和華他們　神的話和先知哈該奉耶和華他們　神差來所說的話．百姓也在耶和華面前存敬畏的心。",
+            "jp": "そこで、シャルテルの子こゼルバベルとヨザダクの子こ、大だい祭司さいしヨシュアおよび残のこりのすべての民たみは、その神かみ、主しゅの声こえと、その神かみ、主しゅのつかわされた預言者よげんしゃハガイの言葉ことばとに聞ききしたがい、そして民たみは、主しゅの前まえに恐おそれかしこんだ。",
+            "kr": "스알디엘의 아들 스룹바벨과 여호사닥의 아들 대제사장 여호수아와 남은 모든 백성이 그들의 하나님 여호와의 목소리와 선지자 학개의 말을 들었으니 이는 그들의 하나님 여호와께서 그를 보내셨음이라 백성이 다 여호와를 경외하매"
+          }
+        },
+        {
+          "key": "13",
+          "text": {
+            "fr": "Aggée, envoyé de l’Éternel, dit au peuple d’après l’ordre de l’Éternel : Je suis avec vous, dit l’Éternel.",
+            "en": "Then spake Haggai the Lord’s messenger in the Lord’s message unto the people, saying, I am with you, saith the Lord.",
+            "zh": "耶和華的使者哈該奉耶和華差遣對百姓說、耶和華說、我與你們同在。",
+            "jp": "時ときに、主しゅの使者ししゃハガイは主しゅの命令めいれいにより、民たみに告つげて言いった、「わたしはあなたがたと共ともにいると主しゅは言いわれる」。",
+            "kr": "그 때에 여호와의 사자 학개가 여호와의 위임을 받아 백성에게 말하여 이르되 여호와가 말하노니 내가 너희와 함께 하노라 하니라"
+          }
+        },
+        {
+          "key": "14",
+          "text": {
+            "fr": "L’Éternel réveilla l’esprit de Zorobabel, fils de Schealthiel, gouverneur de Juda, et l’esprit de Josué, fils de Jotsadak, le grand prêtre, et l’esprit de tout le reste du peuple. Ils vinrent, et ils se mirent à l’œuvre dans la maison de l’Éternel des armées, leur Dieu,",
+            "en": "And the Lord stirred up the spirit of Zerubbabel the son of Shealtiel, governor of Judah, and the spirit of Joshua the son of Josedech, the high priest, and the spirit of all the remnant of the people; and they came and did work in the house of the Lord of hosts, their God,",
+            "zh": "耶和華激動猶大省長撒拉鐵的兒子所羅巴伯、和約撒答的兒子大祭司約書亞、並剩下之百姓的心．他們就來為萬軍之耶和華他們　神的殿作工。",
+            "jp": "そして主しゅは、シャルテルの子こ、ユダの総督そうとくゼルバベルの心こころと、ヨザダクの子こ、大だい祭司さいしヨシュアの心こころ、および残のこりのすべての民たみの心こころを、振ふり動うごかされたので、彼かれらは来きて、その神かみ、万軍ばんぐんの主しゅの家いえの作業さぎょうにとりかかった。",
+            "kr": "여호와께서 스알디엘의 아들 유다 총독 스룹바벨의 마음과 여호사닥의 아들 대제사장 여호수아의 마음과 남은 모든 백성의 마음을 감동시키시매 그들이 와서 만군의 여호와 그들의 하나님의 전 공사를 하였으니"
+          }
+        },
+        {
+          "key": "15",
+          "text": {
+            "fr": "le vingt-quatrième jour du sixième mois, la seconde année du roi Darius.",
+            "en": "In the four and twentieth day of the sixth month, in the second year of Darius the king.",
+            "zh": "這是在大利烏王第二年、六月二十四日。",
+            "jp": "これは六月がつ二十四日かのことであった。",
+            "kr": "그 때는 다리오 왕 제이년 여섯째 달 이십사일이었더라"
+          }
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "introduction": {
+        "fr": "Aggée parle de façon messianique. L’Éternel donnera la paix dans son temple.",
+        "en": "Haggai speaks about the Messiah—The Desire of All Nations will come—The Lord will give peace in His temple.",
+        "zh": "Haggai speaks about the Messiah—The Desire of All Nations will come—The Lord will give peace in His temple.",
+        "jp": "Haggai speaks about the Messiah—The Desire of All Nations will come—The Lord will give peace in His temple.",
+        "kr": "Haggai speaks about the Messiah—The Desire of All Nations will come—The Lord will give peace in His temple."
+      },
+      "verses": [
+        {
+          "key": "1",
+          "text": {
+            "fr": "Le vingt et unième jour du septième mois, la parole de l’Éternel se révéla par Aggée, le prophète, en ces mots :",
+            "en": "In the seventh month, in the one and twentieth day of the month, came the word of the Lord by the prophet Haggai, saying,",
+            "zh": "七月二十一日、耶和華的話臨到先知哈該說、",
+            "jp": "ダリヨス王おうの二年ねんの七月がつ二十一日にちに、主しゅの言葉ことばが預言者よげんしゃハガイに臨のぞんだ、",
+            "kr": "일곱째 달 곧 그 달 이십일일에 여호와의 말씀이 선지자 학개에게 임하니라 이르시되"
+          }
+        },
+        {
+          "key": "2",
+          "text": {
+            "fr": "Parle à Zorobabel, fils de Schealthiel, gouverneur de Juda, à Josué, fils de Jotsadak, le grand prêtre, et au reste du peuple, et dis-leur :",
+            "en": "Speak now to Zerubbabel the son of Shealtiel, governor of Judah, and to Joshua the son of Josedech, the high priest, and to the residue of the people, saying,",
+            "zh": "你要曉諭猶大省長撒拉鐵的兒子所羅巴伯和約撒答的兒子大祭司約書亞、並剩下的百姓、說、",
+            "jp": "「シャルテルの子こ、ユダの総督そうとくゼルバベルと、ヨザダクの子こ、大だい祭司さいしヨシュア、および残のこりのすべての民たみに告つげて言いえ、",
+            "kr": "너는 스알디엘의 아들 유다 총독 스룹바벨과 여호사닥의 아들 대제사장 여호수아와 남은 백성에게 말하여 이르라"
+          }
+        },
+        {
+          "key": "3",
+          "text": {
+            "fr": "Quel est parmi vous le survivant ? Qui a vu cette maison dans sa gloire première ? Et comment la voyez-vous maintenant ? Telle qu’elle est, ne paraît-elle pas comme rien à vos yeux ?",
+            "en": "Who is left among you that saw this house in her first glory? and how do ye see it now? is it not in your eyes in comparison of it as nothing?",
+            "zh": "你們中間存留的、有誰見過這殿從前的榮耀呢．現在你們看著如何．豈不在眼中看如無有麼。",
+            "jp": "『あなたがた残のこりの者もののうち、以前いぜんの栄光えいこうに輝かがやく主しゅの家いえを見みた者ものはだれか。あなたがたは今いま、この状態じょうたいをどう思おもうか。これはあなたがたの目めには、無むにひとしいではないか。",
+            "kr": "너희 가운데에 남아 있는 자 중에서 이 성전의 이전 영광을 본 자가 누구냐 이제 이것이 너희에게 어떻게 보이느냐 이것이 너희 눈에 보잘것없지 아니하냐"
+          }
+        },
+        {
+          "key": "4",
+          "text": {
+            "fr": "Maintenant fortifie-toi, Zorobabel ! dit l’Éternel. Fortifie-toi, Josué, fils de Jotsadak, grand prêtre ! Fortifie-toi, peuple entier du pays ! dit l’Éternel. Et travaillez ! Car je suis avec vous, Dit l’Éternel des armées.",
+            "en": "Yet now be strong, O Zerubbabel, saith the Lord; and be strong, O Joshua, son of Josedech, the high priest; and be strong, all ye people of the land, saith the Lord, and work: for I am with you, saith the Lord of hosts:",
+            "zh": "耶和華說、所羅巴伯阿、雖然如此、你當剛強．約撒答的兒子大祭司約書亞阿、你也當剛強．這地的百姓、你們都當剛強作工、因為我與你們同在．這是萬軍之耶和華說的。",
+            "jp": "主しゅは言いわれる、ゼルバベルよ、勇気ゆうきを出だせ。ヨザダクの子こ、大だい祭司さいしヨシュアよ、勇気ゆうきを出だせ。主しゅは言いわれる。この地ちのすべての民たみよ、勇気ゆうきを出だせ。働はたらけ。わたしはあなたがたと共ともにいると、万軍ばんぐんの主しゅは言いわれる。",
+            "kr": "그러나 여호와가 이르노라 스룹바벨아 스스로 굳세게 할지어다 여호사닥의 아들 대제사장 여호수아야 스스로 굳세게 할지어다 여호와의 말이니라 이 땅 모든 백성아 스스로 굳세게 하여 일할지어다 내가 너희와 함께 하노라 만군의 여호와의 말이니라"
+          }
+        },
+        {
+          "key": "5",
+          "text": {
+            "fr": "Je reste fidèle à l’alliance que j’ai faite avec vous Quand vous êtes sortis d’Égypte, Et mon esprit est au milieu de vous ; Ne craignez pas !",
+            "en": "According to the word that I covenanted with you when ye came out of Egypt, so my spirit remaineth among you: fear ye not.",
+            "zh": "這是照著你們出埃及我與你們立約的話．那時、我的靈住在你們中間．你們不要懼怕。",
+            "jp": "これはあなたがたがエジプトから出でた時とき、わたしがあなたがたに、約束やくそくした言葉ことばである。わたしの霊れいが、あなたがたのうちに宿やどっている。恐おそれるな。",
+            "kr": "너희가 애굽에서 나올 때에 내가 너희와 언약한 말과 나의 영이 계속하여 너희 가운데에 머물러 있나니 너희는 두려워하지 말지어다"
+          }
+        },
+        {
+          "key": "6",
+          "text": {
+            "fr": "Car ainsi parle l’Éternel des armées : Encore un peu de temps, Et j’ébranlerai les cieux et la terre, La mer et le sec ;",
+            "en": "For thus saith the Lord of hosts; Yet once, it is a little while, and I will shake the heavens, and the earth, and the sea, and the dry land;",
+            "zh": "萬軍之耶和華如此說、過不多時我必再一次震動天地、滄海、與旱地．",
+            "jp": "万軍ばんぐんの主しゅはこう言いわれる、しばらくして、いま一度いちど、わたしは天てんと、地ちと、海うみと、かわいた地ちとを震ふるう。",
+            "kr": "만군의 여호와가 이같이 말하노라 조금 있으면 내가 하늘과 땅과 바다와 육지를 진동시킬 것이요"
+          }
+        },
+        {
+          "key": "7",
+          "text": {
+            "fr": "J’ébranlerai toutes les nations ; Les trésors de toutes les nations viendront, Et je remplirai de gloire cette maison, Dit l’Éternel des armées.",
+            "en": "And I will shake all nations, and the desire of all nations shall come: and I will fill this house with glory, saith the Lord of hosts.",
+            "zh": "我必震動萬國．萬國的珍寶、必都運來．〔或作萬國所羨慕的必來到〕我就使這殿滿了榮耀．這是萬軍之耶和華說的。",
+            "jp": "わたしはまた万国民ばんこくみんを震ふるう。万国民ばんこくみんの財宝ざいほうは、はいって来きて、わたしは栄光えいこうをこの家いえに満みたすと、万軍ばんぐんの主しゅは言いわれる。",
+            "kr": "또한 모든 나라를 진동시킬 것이며 모든 나라의 보배가 이르리니 내가 이 성전에 영광이 충만하게 하리라 만군의 여호와의 말이니라"
+          }
+        },
+        {
+          "key": "8",
+          "text": {
+            "fr": "L’argent est à moi, et l’or est à moi, Dit l’Éternel des armées.",
+            "en": "The silver is mine, and the gold is mine, saith the Lord of hosts.",
+            "zh": "萬軍之耶和華說、銀子是我的、金子也是我的。",
+            "jp": "銀ぎんはわたしのもの、金きんもわたしのものであると、万軍ばんぐんの主しゅは言いわれる。",
+            "kr": "은도 내 것이요 금도 내 것이니라 만군의 여호와의 말이니라"
+          }
+        },
+        {
+          "key": "9",
+          "text": {
+            "fr": "La gloire de cette dernière maison sera plus grande Que celle de la première, Dit l’Éternel des armées ; Et c’est dans ce lieu que je donnerai la paix, Dit l’Éternel des armées.",
+            "en": "The glory of this latter house shall be greater than of the former, saith the Lord of hosts: and in this place will I give peace, saith the Lord of hosts.",
+            "zh": "這殿後來的榮耀、必大過先前的榮耀．在這地方我必賜平安．這是萬軍之耶和華說的。",
+            "jp": "主しゅの家いえの後のちの栄光えいこうは、前まえの栄光えいこうよりも大おおきいと、万軍ばんぐんの主しゅは言いわれる。わたしはこの所ところに繁栄はんえいを与あたえると、万軍ばんぐんの主しゅは言いわれる』」。",
+            "kr": "이 성전의 나중 영광이 이전 영광보다 크리라 만군의 여호와의 말이니라 내가 이 곳에 평강을 주리라 만군의 여호와의 말이니라"
+          }
+        },
+        {
+          "key": "10",
+          "text": {
+            "fr": "le vingt-quatrième jour du neuvième mois, la seconde année de Darius, la parole de l’Éternel se révéla par Aggée, le prophète, en ces mots :",
+            "en": "¶ In the four and twentieth day of the ninth month, in the second year of Darius, came the word of the Lord by Haggai the prophet, saying,",
+            "zh": "大利烏王第二年、九月二十四日、耶和華的話臨到先知哈該說、",
+            "jp": "ダリヨスの二年ねんの九月がつ二十四日かに、主しゅの言葉ことばが預言者よげんしゃハガイに臨のぞんだ、",
+            "kr": "다리오 왕 제이년 아홉째 달 이십사일에 여호와의 말씀이 선지자 학개에게 임하니라 이르시되"
+          }
+        },
+        {
+          "key": "11",
+          "text": {
+            "fr": "Ainsi parle l’Éternel des armées : Propose aux prêtres cette question sur la loi :",
+            "en": "Thus saith the Lord of hosts; Ask now the priests concerning the law, saying,",
+            "zh": "萬軍之耶和華如此說、你要向祭司問律法、",
+            "jp": "「万軍ばんぐんの主しゅはこう言いわれる、律法りっぽうについて祭司さいしたちに尋たずねて言いえ、",
+            "kr": "만군의 여호와가 말하노니 너는 제사장에게 율법에 대하여 물어 이르기를"
+          }
+        },
+        {
+          "key": "12",
+          "text": {
+            "fr": "Si quelqu’un porte dans le pan de son vêtement de la chair consacrée, et qu’il touche avec son vêtement du pain, des mets, du vin, de l’huile, ou un aliment quelconque, ces choses seront-elles sanctifiées ? Les prêtres répondirent : Non !",
+            "en": "If one bear holy flesh in the skirt of his garment, and with his skirt do touch bread, or pottage, or wine, or oil, or any meat, shall it be holy? And the priests answered and said, No.",
+            "zh": "說、若有人用衣襟兜聖肉、這衣襟挨著餅、或湯、或酒、或油、或別的食物、便算為聖麼．祭司說、不算為聖。",
+            "jp": "『人ひとがその衣服いふくのすそで聖せいなる肉にくを運はこんで行いき、そのすそがもし、パンまたはあつもの、または酒さけ、または油あぶら、またはどんな食物しょくもつにでもさわったなら、それらは聖せいなるものとなるか』と」。祭司さいしたちは「ならない」と答こたえた。",
+            "kr": "사람이 옷자락에 거룩한 고기를 쌌는데 그 옷자락이 만일 떡에나 국에나 포도주에나 기름에나 다른 음식물에 닿았으면 그것이 성물이 되겠느냐 하라 학개가 물으매 제사장들이 대답하여 이르되 아니니라 하는지라"
+          }
+        },
+        {
+          "key": "13",
+          "text": {
+            "fr": "Et Aggée dit : Si quelqu’un souillé par le contact d’un cadavre touche toutes ces choses, seront-elles souillées ? Les prêtres répondirent : Elles seront souillées.",
+            "en": "Then said Haggai, If one that is unclean by a dead body touch any of these, shall it be unclean? And the priests answered and said, It shall be unclean.",
+            "zh": "哈該又說、若有人因摸死屍染了污穢、然後挨著這些物的那一樣、這物算污穢麼．祭司說、必算污穢。",
+            "jp": "ハガイはまた言いった、「もし、死体したいによって汚けがれた人ひとが、これらの一ひとつにさわったなら、それは汚けがれるか」。祭司さいしたちは「汚けがれる」と答こたえた。",
+            "kr": "학개가 이르되 시체를 만져서 부정하여진 자가 만일 그것들 가운데 하나를 만지면 그것이 부정하겠느냐 하니 제사장들이 대답하여 이르되 부정하리라 하더라"
+          }
+        },
+        {
+          "key": "14",
+          "text": {
+            "fr": "Alors Aggée, reprenant la parole, dit : Tel est ce peuple, telle est cette nation devant moi, dit l’Éternel, Telles sont toutes les œuvres de leurs mains ; Ce qu’ils m’offrent là est souillé.",
+            "en": "Then answered Haggai, and said, So is this people, and so is this nation before me, saith the Lord; and so is every work of their hands; and that which they offer there is unclean.",
+            "zh": "於是哈該說、耶和華說、這民這國、在我面前也是如此．他們手下的各樣工作、都是如此．他們在壇上所獻的也是如此。",
+            "jp": "そこで、ハガイは言いった、「主しゅは言いわれる、この民たみも、この国くにも、わたしの前まえでは、そのようである。またその手てのわざもそのようである。その所ところで彼かれらのささげるものは、汚けがれたものである。",
+            "kr": "이에 학개가 대답하여 이르되 여호와의 말씀에 내 앞에서 이 백성이 그러하고 이 나라가 그러하고 그들의 손의 모든 일도 그러하고 그들이 거기에서 드리는 것도 부정하니라"
+          }
+        },
+        {
+          "key": "15",
+          "text": {
+            "fr": "Considérez donc attentivement Ce qui va se passer à partir de ce jour. Avant qu’on ne pose pierre sur pierre au temple de l’Éternel,",
+            "en": "And now, I pray you, consider from this day and upward, from before a stone was laid upon a stone in the temple of the Lord:",
+            "zh": "現在你們要追想、此日以前、耶和華的殿、沒有一塊石頭壘在石頭上的光景．",
+            "jp": "今いま、あなたがたはこの日ひから、後のちの事ことを思おもうがよい。主しゅの宮みやで石いしの上うえに石いしが積つまれなかった前まえ、あなたがたは、どんなであったか。",
+            "kr": "이제 원하건대 너희는 오늘부터 이전 곧 여호와의 전에 돌이 돌 위에 놓이지 아니하였던 때를 기억하라"
+          }
+        },
+        {
+          "key": "16",
+          "text": {
+            "fr": "Quand on venait à un tas de vingt mesures, Il n’y en avait que dix ; Quand on venait à la cuve pour puiser cinquante mesures, Il n’y en avait que vingt.",
+            "en": "Since those days were, when one came to an heap of twenty measures, there were but ten: when one came to the pressfat for to draw out fifty vessels out of the press, there were but twenty.",
+            "zh": "在那一切日子、有人來到榖堆、想得二十斗、只得了十斗．有人來到酒池、想得五十桶、只得了二十桶。",
+            "jp": "あの時ときには、二十枡ますの麦むぎの積つまれる所ところに行いったが、わずかに十枡ますを得え、また五十桶おけをくもうとして、酒さかぶねに行いったが、二十桶おけを得えたのみであった。",
+            "kr": "그 때에는 이십 고르 곡식 더미에 이른즉 십 고르뿐이었고 포도즙 틀에 오십 고르를 길으러 이른즉 이십 고르뿐이었었느니라"
+          }
+        },
+        {
+          "key": "17",
+          "text": {
+            "fr": "Je vous ai frappés par la rouille et par la nielle, et par la grêle ; J’ai frappé tout le travail de vos mains. Malgré cela, vous n’êtes pas revenus à moi, dit l’Éternel.",
+            "en": "I smote you with blasting and with mildew and with hail in all the labours of your hands; yet ye turned not to me, saith the Lord.",
+            "zh": "在你們手下的各樣工作上、我以旱風、霉爛、冰雹、攻擊你們．你們仍不歸向我．這是耶和華說的。",
+            "jp": "わたしは立たち枯がれと、腐くさり穂ほと、ひょうをもってあなたがたと、あなたがたのすべての手てのわざを撃うった。しかし、あなたがたは、わたしに帰かえらなかったと主しゅは言いわれる。",
+            "kr": "만군의 여호와가 말하노라 내가 너희 손으로 지은 모든 일에 곡식을 마르게 하는 재앙과 깜부기 재앙과 우박으로 쳤으나 너희가 내게로 돌이키지 아니하였느니라"
+          }
+        },
+        {
+          "key": "18",
+          "text": {
+            "fr": "Considérez attentivement Ce qui va se passer à partir de ce jour, depuis le vingt-quatrième jour du neuvième mois, Depuis le jour de la fondation du temple de l’Éternel, Considérez-le attentivement !",
+            "en": "Consider now from this day and upward, from the four and twentieth day of the ninth month, even from the day that the foundation of the Lord’s temple was laid, consider it.",
+            "zh": "你們要追想此日以前、就是從這九月二十四日起、追想到立耶和華殿根基的日子。",
+            "jp": "あなたがたはこの日ひより後のち、すなわち、九月がつ二十四日かよりの事ことを思おもうがよい。また主しゅの宮みやの基もといをすえた日ひから後のちの事ことを心こころにとめるがよい。",
+            "kr": "너희는 오늘 이전을 기억하라 아홉째 달 이십사일 곧 여호와의 성전 지대를 쌓던 날부터 기억하여 보라"
+          }
+        },
+        {
+          "key": "19",
+          "text": {
+            "fr": "Y avait-il encore de la semence dans les greniers ? Même la vigne, le figuier, le grenadier et l’olivier, N’ont rien rapporté. Mais dès ce jour je répandrai ma bénédiction.",
+            "en": "Is the seed yet in the barn? yea, as yet the vine, and the fig tree, and the pomegranate, and the olive tree, hath not brought forth: from this day will I bless you.",
+            "zh": "倉裡有榖種麼．葡萄樹、無花果樹、石榴樹、橄欖樹、都沒有結果子．從今日起、我必賜福與你們。",
+            "jp": "種たねはなお、納屋なやにあるか。ぶどうの木き、いちじくの木き、ざくろの木き、オリブの木きもまだ実みを結むすばない。しかし、わたしはこの日ひから、あなたがたに恵めぐみを与あたえる」。",
+            "kr": "곡식 종자가 아직도 창고에 있느냐 포도나무, 무화과나무, 석류나무, 감람나무에 열매가 맺지 못하였느니라 그러나 오늘부터는 내가 너희에게 복을 주리라"
+          }
+        },
+        {
+          "key": "20",
+          "text": {
+            "fr": "La parole de l’Éternel fut adressée pour la seconde fois à Aggée, le vingt-quatrième jour du mois, en ces mots :",
+            "en": "¶ And again the word of the Lord came unto Haggai in the four and twentieth day of the month, saying,",
+            "zh": "這月二十四日、耶和華的話二次臨到哈該說、",
+            "jp": "この月つきの二十四日かに、主しゅの言葉ことばがふたたびハガイに臨のぞんだ、",
+            "kr": "그 달 이십사일에 여호와의 말씀이 다시 학개에게 임하니라 이르시되"
+          }
+        },
+        {
+          "key": "21",
+          "text": {
+            "fr": "Parle à Zorobabel, gouverneur de Juda, et dis : J’ébranlerai les cieux et la terre ;",
+            "en": "Speak to Zerubbabel, governor of Judah, saying, I will shake the heavens and the earth;",
+            "zh": "你要告訴猶大省長所羅巴伯說、我必震動天地．",
+            "jp": "「ユダの総督そうとくゼルバベルに告つげて言いえ、わたしは天てんと地ちを震ふるう。",
+            "kr": "너는 유다 총독 스룹바벨에게 말하여 이르라 내가 하늘과 땅을 진동시킬 것이요"
+          }
+        },
+        {
+          "key": "22",
+          "text": {
+            "fr": "Je renverserai le trône des royaumes, Je détruirai la force des royaumes des nations, Je renverserai les chars et ceux qui les montent ; Les chevaux et leurs cavaliers seront abattus, L’un par l’épée de l’autre.",
+            "en": "And I will overthrow the throne of kingdoms, and I will destroy the strength of the kingdoms of the heathen; and I will overthrow the chariots, and those that ride in them; and the horses and their riders shall come down, every one by the sword of his brother.",
+            "zh": "我必傾覆列國的寶座、除滅列邦的勢力、並傾覆戰車和坐在其上的．馬必跌倒、騎馬的敗落、各人被弟兄的刀所殺。",
+            "jp": "わたしは国々くにぐにの王位おういを倒たおし、異邦いほうの国々くにぐにの力ちからを滅ほろぼし、また戦車せんしゃ、およびこれに乗のる者ものを倒たおす。馬うまおよびこれに乗のる者ものは、たがいにその仲間なかまのつるぎによって倒たおれる。",
+            "kr": "여러 왕국들의 보좌를 엎을 것이요 여러 나라의 세력을 멸할 것이요 그 병거들과 그 탄 자를 엎드러뜨리리니 말과 그 탄 자가 각각 그의 동료의 칼에 엎드러지리라"
+          }
+        },
+        {
+          "key": "23",
+          "text": {
+            "fr": "En ce jour-là, dit l’Éternel des armées, Je te prendrai, Zorobabel, fils de Schealthiel, Mon serviteur, dit l’Éternel, Et je te garderai comme un sceau ; Car je t’ai choisi, dit l’Éternel des armées.",
+            "en": "In that day, saith the Lord of hosts, will I take thee, O Zerubbabel, my servant, the son of Shealtiel, saith the Lord, and will make thee as a signet: for I have chosen thee, saith the Lord of hosts.",
+            "zh": "萬軍之耶和華說、我僕人撒拉鐵的兒子所羅巴伯阿、到那日、我必以你為印、因我揀選了你．這是萬軍之耶和華說的。",
+            "jp": "万軍ばんぐんの主しゅは言いわれる、シャルテルの子こ、わがしもべゼルバベルよ、主しゅは言いわれる、その日ひ、わたしはあなたを立たて、あなたを印章いんしょうのようにする。わたしはあなたを選えらんだからであると、万軍ばんぐんの主しゅは言いわれる」。",
+            "kr": "만군의 여호와가 말하노라 스알디엘의 아들 내 종 스룹바벨아 여호와가 말하노라 그 날에 내가 너를 세우고 너를 인장으로 삼으리니 이는 내가 너를 택하였음이니라 만군의 여호와의 말이니라 하시니라"
+          }
+        }
+      ]
+    }
+  ]
+}

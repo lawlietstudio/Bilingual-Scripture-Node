@@ -1,0 +1,1291 @@
+{
+  "book": {
+    "fr": "CANTIQUE DES CANTIQUES",
+    "en": "THE",
+    "zh": "雅歌",
+    "jp": "雅歌がか",
+    "kr": "아가"
+  },
+  "theme": {
+    "fr": "Chapitre 1",
+    "en": "",
+    "zh": "第1章",
+    "jp": "第1章",
+    "kr": "제 1 장"
+  },
+  "introduction": {
+    "fr": "Le poète chante l’amour et le dévouement.",
+    "en": "Chapter 1",
+    "zh": "",
+    "jp": "Chapter 1",
+    "kr": "Chapter 1"
+  },
+  "chapters": [
+    {
+      "number": 1,
+      "introduction": {
+        "fr": "Le poète chante l’amour et le dévouement.",
+        "en": "The poet sings of love and devotion.",
+        "zh": "The poet sings of love and devotion.",
+        "jp": "The poet sings of love and devotion.",
+        "kr": "The poet sings of love and devotion."
+      },
+      "verses": [
+        {
+          "key": "1",
+          "text": {
+            "fr": "Cantique des cantiques, de Salomon.",
+            "en": "The song of songs, which is Solomon’s.",
+            "zh": "所羅門的歌、是歌中的雅歌。",
+            "jp": "ソロモンの雅歌がか",
+            "kr": "솔로몬의 아가라"
+          }
+        },
+        {
+          "key": "2",
+          "text": {
+            "fr": "Qu’il m’embrasse des baisers de sa bouche ! Car ton amour vaut mieux que le vin,",
+            "en": "Let him kiss me with the kisses of his mouth: for thy love is better than wine.",
+            "zh": "願他用口與我親嘴．因你的愛情比酒更美。",
+            "jp": "どうか、あなたの口くちの口くちづけをもって、わたしに口くちづけしてください。あなたの愛あいはぶどう酒しゅにまさり、",
+            "kr": "내게 입맞추기를 원하니 네 사랑이 포도주보다 나음이로구나"
+          }
+        },
+        {
+          "key": "3",
+          "text": {
+            "fr": "Tes parfums ont une odeur suave ; Ton nom est un parfum qui se répand ; C’est pourquoi les jeunes filles t’aiment.",
+            "en": "Because of the savour of thy good ointments thy name is as ointment poured forth, therefore do the virgins love thee.",
+            "zh": "你的膏油馨香．你的名如同倒出來的香膏．所以眾童女都愛你。",
+            "jp": "あなたのにおい油あぶらはかんばしく、あなたの名なは注そそがれたにおい油あぶらのようです。それゆえ、おとめたちはあなたを愛あいするのです。",
+            "kr": "네 기름이 향기로워 아름답고 네 이름이 쏟은 향기름 같으므로 처녀들이 너를 사랑하는구나"
+          }
+        },
+        {
+          "key": "4",
+          "text": {
+            "fr": "Entraîne-moi après toi ! Nous courrons ! Le roi m’introduit dans ses appartements … Nous nous égaierons, nous nous réjouirons à cause de toi ; Nous célébrerons ton amour plus que le vin. C’est avec raison que l’on t’aime.",
+            "en": "Draw me, we will run after thee: the king hath brought me into his chambers: we will be glad and rejoice in thee, we will remember thy love more than wine: the upright love thee.",
+            "zh": "願你吸引我、我們就快跑跟隨你．王帶我進了內室．我們必因你歡喜快樂．我們要稱讚你的愛情、勝似稱讚美酒．他們愛你是理所當然的。",
+            "jp": "あなたのあとについて、行いかせてください。わたしたちは急いそいでまいりましょう。王おうはわたしをそのへやに連つれて行いかれた。わたしたちは、あなたによって喜よろこび楽たのしみ、ぶどう酒しゅにまさって、あなたの愛あいをほめたたえます。おとめたちは真心まごころをもってあなたを愛あいします。",
+            "kr": "왕이 나를 그의 방으로 이끌어 들이시니 너는 나를 인도하라 우리가 너를 따라 달려가리라 우리가 너로 말미암아 기뻐하며 즐거워하니 네 사랑이 포도주보다 더 진함이라 처녀들이 너를 사랑함이 마땅하니라"
+          }
+        },
+        {
+          "key": "5",
+          "text": {
+            "fr": "Je suis noire mais je suis belle, filles de Jérusalem, Comme les tentes de Kédar, comme les pavillons de Salomon.",
+            "en": "I am black, but comely, O ye daughters of Jerusalem, as the tents of Kedar, as the curtains of Solomon.",
+            "zh": "耶路撒冷的眾女子阿、我雖然黑、卻是秀美、如同基達的帳棚、好像所羅門的幔子。",
+            "jp": "エルサレムの娘むすめたちよ、わたしは黒くろいけれども美うつくしい。ケダルの天幕てんまくのように、ソロモンのとばりのように。",
+            "kr": "예루살렘 딸들아 내가 비록 검으나 아름다우니 게달의 장막 같을지라도 솔로몬의 휘장과도 같구나"
+          }
+        },
+        {
+          "key": "6",
+          "text": {
+            "fr": "Ne prenez pas garde à mon teint noir : C’est le soleil qui m’a brûlée. Les fils de ma mère se sont irrités contre moi, Ils m’ont faite gardienne des vignes. Ma vigne, à moi, je ne l’ai pas gardée.",
+            "en": "Look not upon me, because I am black, because the sun hath looked upon me: my mother’s children were angry with me; they made me the keeper of the vineyards; but mine own vineyard have I not kept.",
+            "zh": "不要因日頭把我曬黑了、就輕看我。我同母的弟兄向我發怒．他們使我看守葡萄園、我自己的葡萄園、卻沒有看守。",
+            "jp": "わたしが日ひに焼やけているがために、日ひがわたしを焼やいたがために、わたしを見みつめてはならない。わが母ははの子こらは怒いかって、わたしにぶどう園えんを守まもらせた。しかし、わたしは自分じぶんのぶどう園えんを守まもらなかった。",
+            "kr": "내가 햇볕에 쬐어서 거무스름할지라도 흘겨보지 말 것은 내 어머니의 아들들이 나에게 노하여 포도원지기로 삼았음이라 나의 포도원을 내가 지키지 못하였구나"
+          }
+        },
+        {
+          "key": "7",
+          "text": {
+            "fr": "Dis-moi, ô toi que mon cœur aime, Où tu fais paître tes brebis, Où tu les fais reposer à midi ; Car pourquoi serais-je comme une égarée Près des troupeaux de tes compagnons ?",
+            "en": "Tell me, O thou whom my soul loveth, where thou feedest, where thou makest thy flock to rest at noon: for why should I be as one that turneth aside by the flocks of thy companions?",
+            "zh": "我心所愛的阿、求你告訴我你在何處牧羊、晌午在何處使羊歇臥．我何必在你同伴的羊群旁邊、好像蒙著臉的人呢。",
+            "jp": "わが魂たましいの愛あいする者ものよ、あなたはどこで、あなたの群むれを養やしない、昼ひるの時ときにどこで、それを休やすませるのか、わたしに告つげてください。どうして、わたしはさまよう者もののように、あなたの仲間なかまの群むれのかたわらに、いなければならないのですか。",
+            "kr": "내 마음으로 사랑하는 자야 네가 양 치는 곳과 정오에 쉬게 하는 곳을 내게 말하라 내가 네 친구의 양 떼 곁에서 어찌 얼굴을 가린 자 같이 되랴"
+          }
+        },
+        {
+          "key": "8",
+          "text": {
+            "fr": "Si tu ne le sais pas, ô la plus belle des femmes, Sors sur les traces des brebis, Et fais paître tes chevreaux Près des demeures des bergers.",
+            "en": "¶ If thou know not, O thou fairest among women, go thy way forth by the footsteps of the flock, and feed thy kids beside the shepherds’ tents.",
+            "zh": "你這女子中極美麗的、你若不知道、只管跟隨羊群的腳蹤去、把你的山羊羔、牧放在牧人帳棚的旁邊。",
+            "jp": "女おんなのうちの最もっとも美うつくしい者ものよ、あなたが知しらないなら、群むれの足跡あしあとに従したがっていって、羊飼ひつじかいたちの天幕てんまくのかたわらで、あなたの子こやぎを飼かいなさい。",
+            "kr": "여인 중에 어여쁜 자야 네가 알지 못하겠거든 양 떼의 발자취를 따라 목자들의 장막 곁에서 너의 염소 새끼를 먹일지니라"
+          }
+        },
+        {
+          "key": "9",
+          "text": {
+            "fr": "À ma jument qu’on attelle aux chars de Pharaon Je te compare, ô mon amie.",
+            "en": "I have compared thee, O my love, to a company of horses in Pharaoh’s chariots.",
+            "zh": "我的佳偶、我將你比法老車上套的駿馬。",
+            "jp": "わが愛あいする者ものよ、わたしはあなたをパロの車くるまの雌め馬うまになぞらえる。",
+            "kr": "내 사랑아 내가 너를 바로의 병거의 준마에 비하였구나"
+          }
+        },
+        {
+          "key": "10",
+          "text": {
+            "fr": "Tes joues sont belles au milieu des colliers, Ton cou est beau au milieu des rangées de perles.",
+            "en": "Thy cheeks are comely with rows of jewels, thy neck with chains of gold.",
+            "zh": "你的兩腮、因髮辮而秀美、你的頸項、因珠串而華麗。",
+            "jp": "あなたのほおは美うつくしく飾かざられ、あなたの首くびは宝石ほうせきをつらねた首くび飾かざりで美うつくしい。",
+            "kr": "네 두 뺨은 땋은 머리털로, 네 목은 구슬 꿰미로 아름답구나"
+          }
+        },
+        {
+          "key": "11",
+          "text": {
+            "fr": "Nous te ferons des colliers d’or, Avec des points d’argent.",
+            "en": "We will make thee borders of gold with studs of silver.",
+            "zh": "我們要為你編上金辮、鑲上銀釘。",
+            "jp": "われわれは銀ぎんを散ちらした金きんの飾かざり物ものを、あなたのために造つくろう。",
+            "kr": "우리가 너를 위하여 금 사슬에 은을 박아 만들리라"
+          }
+        },
+        {
+          "key": "12",
+          "text": {
+            "fr": "Tandis que le roi est dans son entourage, Mon nard exhale son parfum.",
+            "en": "¶ While the king sitteth at his table, my spikenard sendeth forth the smell thereof.",
+            "zh": "王正坐席的時候、我的哪噠香膏發出香味。",
+            "jp": "王おうがその席せきに着つかれたとき、わたしのナルドはそのかおりを放はなった。",
+            "kr": "왕이 침상에 앉았을 때에 나의 나도 기름이 향기를 뿜어냈구나"
+          }
+        },
+        {
+          "key": "13",
+          "text": {
+            "fr": "Mon bien-aimé est pour moi un bouquet de myrrhe, Qui repose sur ma poitrine.",
+            "en": "A bundle of myrrh is my wellbeloved unto me; he shall lie all night betwixt my breasts.",
+            "zh": "我以我的良人為一袋沒藥、常在我懷中。",
+            "jp": "わが愛あいする者ものは、わたしにとっては、わたしの乳ちぶさの間あいだにある没薬もつやくの袋ふくろのようです。",
+            "kr": "나의 사랑하는 자는 내 품 가운데 몰약 향주머니요"
+          }
+        },
+        {
+          "key": "14",
+          "text": {
+            "fr": "Mon bien-aimé est pour moi une grappe de troëne Des vignes d’En-Guédi.",
+            "en": "My beloved is unto me as a cluster of camphire in the vineyards of En-gedi.",
+            "zh": "我以我的良人為一棵鳳仙花、在隱基底葡萄園中。",
+            "jp": "わが愛あいする者ものは、わたしにとっては、エンゲデのぶどう園えんにあるヘンナ樹じゅの花はなぶさのようです。",
+            "kr": "나의 사랑하는 자는 내게 엔게디 포도원의 고벨화 송이로구나"
+          }
+        },
+        {
+          "key": "15",
+          "text": {
+            "fr": "Que tu es belle, mon amie, que tu es belle ! Tes yeux sont des colombes.",
+            "en": "Behold, thou art fair, my love; behold, thou art fair; thou hast doves’ eyes.",
+            "zh": "我的佳偶、你甚美麗、你甚美麗．你的眼好像鴿子眼。",
+            "jp": "わが愛あいする者ものよ、見みよ、あなたは美うつくしい、見みよ、あなたは美うつくしい、あなたの目めははとのようだ。",
+            "kr": "내 사랑아 너는 어여쁘고 어여쁘다 네 눈이 비둘기 같구나"
+          }
+        },
+        {
+          "key": "16",
+          "text": {
+            "fr": "Que tu es beau, mon bien-aimé, que tu es aimable ! Notre lit, c’est la verdure.",
+            "en": "Behold, thou art fair, my beloved, yea, pleasant: also our bed is green.",
+            "zh": "我的良人哪、你甚美麗可愛、我們以青草為床榻、",
+            "jp": "わが愛あいする者ものよ、見みよ、あなたは美うつくしく、まことにりっぱです。わたしたちの床とこは緑みどり、",
+            "kr": "나의 사랑하는 자야 너는 어여쁘고 화창하다 우리의 침상은 푸르고"
+          }
+        },
+        {
+          "key": "17",
+          "text": {
+            "fr": "Les solives de nos maisons sont des cèdres, Nos lambris sont des cyprès.",
+            "en": "The beams of our house are cedar, and our rafters of fir.",
+            "zh": "以香柏樹為房屋的棟梁、以松樹為椽子。",
+            "jp": "わたしたちの家いえの梁はりは香柏こうはく、そのたるきはいとすぎです。",
+            "kr": "우리 집은 백향목 들보, 잣나무 서까래로구나"
+          }
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "introduction": {
+        "fr": "Éloge et description des bien-aimés.",
+        "en": "Beloved ones are praised and described.",
+        "zh": "Beloved ones are praised and described.",
+        "jp": "Beloved ones are praised and described.",
+        "kr": "Beloved ones are praised and described."
+      },
+      "verses": [
+        {
+          "key": "1",
+          "text": {
+            "fr": "Je suis un narcisse de Saron, Un lis des vallées.",
+            "en": "I am the rose of Sharon, and the lily of the valleys.",
+            "zh": "我是沙崙的玫瑰花、〔或作水仙花〕是谷中的百合花。",
+            "jp": "わたしはシャロンのばら、谷たにのゆりです。",
+            "kr": "나는 사론의 수선화요 골짜기의 백합화로다"
+          }
+        },
+        {
+          "key": "2",
+          "text": {
+            "fr": "Comme un lis au milieu des épines, Telle est mon amie parmi les jeunes filles.",
+            "en": "As the lily among thorns, so is my love among the daughters.",
+            "zh": "我的佳偶在女子中、好像百合花在荊棘內。",
+            "jp": "おとめたちのうちにわが愛あいする者もののあるのは、いばらの中なかにゆりの花はながあるようだ。",
+            "kr": "여자들 중에 내 사랑은 가시나무 가운데 백합화 같도다"
+          }
+        },
+        {
+          "key": "3",
+          "text": {
+            "fr": "Comme un pommier au milieu des arbres de la forêt, Tel est mon bien-aimé parmi les jeunes hommes. J’ai désiré m’asseoir à son ombre, Et son fruit est doux à mon palais.",
+            "en": "As the apple tree among the trees of the wood, so is my beloved among the sons. I sat down under his shadow with great delight, and his fruit was sweet to my taste.",
+            "zh": "我的良人在男子中、如同蘋果樹在樹林中。我歡歡喜喜坐在他的蔭下、嘗他果子的滋味覺得甘甜。",
+            "jp": "わが愛あいする者ものの若人わこうどたちの中なかにあるのは、林はやしの木きの中なかにりんごの木きがあるようです。わたしは大おおきな喜よろこびをもって、彼かれの陰かげにすわった。彼かれの与あたえる実みはわたしの口くちに甘あまかった。",
+            "kr": "남자들 중에 나의 사랑하는 자는 수풀 가운데 사과나무 같구나 내가 그 그늘에 앉아서 심히 기뻐하였고 그 열매는 내 입에 달았도다"
+          }
+        },
+        {
+          "key": "4",
+          "text": {
+            "fr": "Il m’a fait entrer dans la maison du vin ; Et la bannière qu’il déploie sur moi, c’est l’amour.",
+            "en": "He brought me to the banqueting house, and his banner over me was love.",
+            "zh": "他帶我入筵宴所、以愛為旗在我以上。",
+            "jp": "彼かれはわたしを酒宴しゅえんの家いえに連つれて行いった。わたしの上うえにひるがえる彼かれの旗はたは愛あいであった。",
+            "kr": "그가 나를 인도하여 잔칫집에 들어갔으니 그 사랑은 내 위에 깃발이로구나"
+          }
+        },
+        {
+          "key": "5",
+          "text": {
+            "fr": "Soutenez-moi avec des gâteaux de raisins, Fortifiez-moi avec des pommes ; Car je suis malade d’amour.",
+            "en": "Stay me with flagons, comfort me with apples: for I am sick of love.",
+            "zh": "求你們給我葡萄乾增補我力、給我蘋果暢快我心．因我思愛成病。",
+            "jp": "干ほしぶどうをもって、わたしに力ちからをつけ、りんごをもって、わたしに元気げんきをつけてください。わたしは愛あいのために病やみわずらっているのです。",
+            "kr": "너희는 건포도로 내 힘을 돕고 사과로 나를 시원하게 하라 내가 사랑하므로 병이 생겼음이라"
+          }
+        },
+        {
+          "key": "6",
+          "text": {
+            "fr": "Que sa main gauche soit sous ma tête, Et que sa droite m’embrasse !",
+            "en": "His left hand is under my head, and his right hand doth embrace me.",
+            "zh": "他的左手在我頭下、他的右手將我抱住。",
+            "jp": "どうか、彼かれの左ひだりの手てがわたしの頭あたまの下したにあり、右みぎの手てがわたしを抱だいてくれるように。",
+            "kr": "그가 왼팔로 내 머리를 고이고 오른팔로 나를 안는구나"
+          }
+        },
+        {
+          "key": "7",
+          "text": {
+            "fr": "Je vous en conjure, filles de Jérusalem, Par les gazelles et les biches des champs, Ne réveillez pas, ne réveillez pas l’amour, Avant qu’elle le veuille.",
+            "en": "I charge you, O ye daughters of Jerusalem, by the roes, and by the hinds of the field, that ye stir not up, nor awake my love, till he please.",
+            "zh": "耶路撒冷的眾女子阿、我指著羚羊、或田野的母鹿、囑咐你們、不要驚動、不要叫醒我所親愛的、等他自己情願。〔不要叫醒云云或作不要激動愛情等他自發〕",
+            "jp": "エルサレムの娘むすめたちよ、わたしは、かもしかと野のの雌めじかをさして、あなたがたに誓ちかい、お願ねがいする、愛あいのおのずから起おこるときまでは、ことさらに呼よび起おこすことも、さますこともしないように。",
+            "kr": "예루살렘 딸들아 내가 노루와 들사슴을 두고 너희에게 부탁한다 내 사랑이 원하기 전에는 흔들지 말고 깨우지 말지니라"
+          }
+        },
+        {
+          "key": "8",
+          "text": {
+            "fr": "C’est la voix de mon bien-aimé ! Le voici, il vient, Sautant sur les montagnes, Bondissant sur les collines.",
+            "en": "¶ The voice of my beloved! behold, he cometh leaping upon the mountains, skipping upon the hills.",
+            "zh": "聽阿是我良人的聲音．看哪、他躥山越嶺而來。",
+            "jp": "わが愛あいする者ものの声こえが聞きこえる。見みよ、彼かれは山やまをとび、丘おかをおどり越こえて来くる。",
+            "kr": "내 사랑하는 자의 목소리로구나 보라 그가 산에서 달리고 작은 산을 빨리 넘어오는구나"
+          }
+        },
+        {
+          "key": "9",
+          "text": {
+            "fr": "Mon bien-aimé est semblable à la gazelle Ou au faon des biches. Le voici, il est derrière notre mur, Il regarde par la fenêtre, Il regarde par le treillis.",
+            "en": "My beloved is like a roe or a young hart: behold, he standeth behind our wall, he looketh forth at the windows, shewing himself through the lattice.",
+            "zh": "我的良人好像羚羊、或像小鹿．他站在我們牆壁後、從窗戶往裡觀看、從窗櫺往裡窺探。",
+            "jp": "わが愛あいする者ものはかもしかのごとく、若わかい雄おじかのようです。見みよ、彼かれはわたしたちの壁かべのうしろに立たち、窓まどからのぞき、格子こうしからうかがっている。",
+            "kr": "내 사랑하는 자는 노루와도 같고 어린 사슴과도 같아서 우리 벽 뒤에 서서 창으로 들여다보며 창살 틈으로 엿보는구나"
+          }
+        },
+        {
+          "key": "10",
+          "text": {
+            "fr": "Mon bien-aimé parle et me dit : Lève-toi, mon amie, ma belle, et viens !",
+            "en": "My beloved spake, and said unto me, Rise up, my love, my fair one, and come away.",
+            "zh": "我良人對我說、我的佳偶、我的美人、起來、與我同去。",
+            "jp": "わが愛あいする者ものはわたしに語かたって言いう、「わが愛あいする者ものよ、わが麗うるわしき者ものよ、立たって、出でてきなさい。",
+            "kr": "나의 사랑하는 자가 내게 말하여 이르기를 나의 사랑, 내 어여쁜 자야 일어나서 함께 가자"
+          }
+        },
+        {
+          "key": "11",
+          "text": {
+            "fr": "Car voici, l’hiver est passé ; La pluie a cessé, elle s’en est allée.",
+            "en": "For, lo, the winter is past, the rain is over and gone;",
+            "zh": "因為冬天已往．雨水止住過去了。",
+            "jp": "見みよ、冬ふゆは過すぎ、雨あめもやんで、すでに去さり、",
+            "kr": "겨울도 지나고 비도 그쳤고"
+          }
+        },
+        {
+          "key": "12",
+          "text": {
+            "fr": "Les fleurs paraissent sur la terre, Le temps de chanter est arrivé, Et la voix de la tourterelle se fait entendre dans nos campagnes.",
+            "en": "The flowers appear on the earth; the time of the singing of birds is come, and the voice of the turtle is heard in our land;",
+            "zh": "地上百花開放．百鳥鳴叫的時候〔或作修理葡萄樹的時候〕已經來到、斑鳩的聲音在我們境內也聽見了．",
+            "jp": "もろもろの花はなは地ちにあらわれ、鳥とりのさえずる時ときがきた。山やまばとの声こえがわれわれの地ちに聞きこえる。",
+            "kr": "지면에는 꽃이 피고 새가 노래할 때가 이르렀는데 비둘기의 소리가 우리 땅에 들리는구나"
+          }
+        },
+        {
+          "key": "13",
+          "text": {
+            "fr": "Le figuier embaume par ses fruits, Et les vignes en fleur exhalent leur parfum. Lève-toi, mon amie, ma belle, et viens !",
+            "en": "The fig tree putteth forth her green figs, and the vines with the tender grape give a good smell. Arise, my love, my fair one, and come away.",
+            "zh": "無花果樹的果子漸漸成熟、葡萄樹開花放香。我的佳偶、我的美人、起來、與我同去。",
+            "jp": "いちじくの木きはその実みを結むすび、ぶどうの木きは花はな咲さいて、かんばしいにおいを放はなつ。わが愛あいする者ものよ、わが麗うるわしき者ものよ、立たって、出でてきなさい。",
+            "kr": "무화과나무에는 푸른 열매가 익었고 포도나무는 꽃을 피워 향기를 토하는구나 나의 사랑, 나의 어여쁜 자야 일어나서 함께 가자"
+          }
+        },
+        {
+          "key": "14",
+          "text": {
+            "fr": "Ma colombe, qui te tiens dans les fentes du rocher, Qui te caches dans les parois escarpées, Fais-moi voir ta figure, Fais-moi entendre ta voix ; Car ta voix est douce et ta figure est agréable.",
+            "en": "¶ O my dove, that art in the clefts of the rock, in the secret places of the stairs, let me see thy countenance, let me hear thy voice; for sweet is thy voice, and thy countenance is comely.",
+            "zh": "我的鴿子阿、你在磐石穴中、在陡巖的隱密處．求你容我得見你的面貌、得聽你的聲音．因為你的聲音柔和、你的面貌秀美。",
+            "jp": "岩いわの裂さけ目め、がけの隠かくれ場ばにおるわがはとよ、あなたの顔かおを見みせなさい。あなたの声こえを聞きかせなさい。あなたの声こえは愛あいらしく、あなたの顔かおは美うつくしい。",
+            "kr": "바위 틈 낭떠러지 은밀한 곳에 있는 나의 비둘기야 내가 네 얼굴을 보게 하라 네 소리를 듣게 하라 네 소리는 부드럽고 네 얼굴은 아름답구나"
+          }
+        },
+        {
+          "key": "15",
+          "text": {
+            "fr": "Prenez-nous les renards, Les petits renards qui ravagent les vignes ; Car nos vignes sont en fleur.",
+            "en": "Take us the foxes, the little foxes, that spoil the vines: for our vines have tender grapes.",
+            "zh": "要給我們擒拿狐狸、就是毀壞葡萄園的小狐狸．因為我們的葡萄正在開花。",
+            "jp": "われわれのためにきつねを捕とらえよ、ぶどう園えんを荒あらす小こぎつねを捕とらえよ、われわれのぶどう園えんは花盛はなざかりだから」と。",
+            "kr": "우리를 위하여 여우 곧 포도원을 허는 작은 여우를 잡으라 우리의 포도원에 꽃이 피었음이라"
+          }
+        },
+        {
+          "key": "16",
+          "text": {
+            "fr": "Mon bien-aimé est à moi, et je suis à lui ; Il fait paître son troupeau parmi les lis.",
+            "en": "¶ My beloved is mine, and I am his: he feedeth among the lilies.",
+            "zh": "良人屬我、我也屬他．他在百合花中牧放群羊。",
+            "jp": "わが愛あいする者ものはわたしのもの、わたしは彼かれのもの。彼かれはゆりの花はなの中なかで、その群むれを養やしなっている。",
+            "kr": "내 사랑하는 자는 내게 속하였고 나는 그에게 속하였도다 그가 백합화 가운데에서 양 떼를 먹이는구나"
+          }
+        },
+        {
+          "key": "17",
+          "text": {
+            "fr": "Avant que le jour se rafraîchisse, Et que les ombres fuient, Reviens ! … sois semblable, mon bien-aimé, À la gazelle ou au faon des biches, Sur les montagnes qui nous séparent.",
+            "en": "Until the day break, and the shadows flee away, turn, my beloved, and be thou like a roe or a young hart upon the mountains of Bether.",
+            "zh": "我的良人哪、求你等到天起涼風、日影飛去的時候、你要轉回、好像羚羊、或像小鹿在比特山上。",
+            "jp": "わが愛あいする者ものよ、日ひの涼すずしくなるまで、影かげの消きえるまで、身みをかえして出でていって、険けわしい山々やまやまの上うえで、かもしかのように、若わかい雄おじかのようになってください。",
+            "kr": "내 사랑하는 자야 날이 저물고 그림자가 사라지기 전에 돌아와서 베데르 산의 노루와 어린 사슴 같을지라"
+          }
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "introduction": {
+        "fr": "Présentation d’un chant d’amour concernant Salomon.",
+        "en": "A love song concerning Solomon is presented.",
+        "zh": "A love song concerning Solomon is presented.",
+        "jp": "A love song concerning Solomon is presented.",
+        "kr": "A love song concerning Solomon is presented."
+      },
+      "verses": [
+        {
+          "key": "1",
+          "text": {
+            "fr": "Sur mon lit, pendant les nuits, J’ai cherché celui que mon cœur aime ; Je l’ai cherché et je ne l’ai pas trouvé. …",
+            "en": "By night on my bed I sought him whom my soul loveth: I sought him, but I found him not.",
+            "zh": "我夜間躺臥在床上、尋找我心所愛的．我尋找他、卻尋不見。",
+            "jp": "わたしは夜よる、床とこの上うえで、わが魂たましいの愛あいする者ものをたずねた。わたしは彼かれをたずねたが、見みつからなかった。わたしは彼かれを呼よんだが、答こたえがなかった。",
+            "kr": "내가 밤에 침상에서 마음으로 사랑하는 자를 찾았노라 찾아도 찾아내지 못하였노라"
+          }
+        },
+        {
+          "key": "2",
+          "text": {
+            "fr": "Je me lèverai et je ferai le tour de la ville, Dans les rues et sur les places ; Je chercherai celui que mon cœur aime. … Je l’ai cherché et je ne l’ai pas trouvé.",
+            "en": "I will rise now, and go about the city in the streets, and in the broad ways I will seek him whom my soul loveth: I sought him, but I found him not.",
+            "zh": "我說、我要起來、遊行城中．在街市上、在寬闊處、尋找我心所愛的．我尋找他、卻尋不見。",
+            "jp": "「わたしは今いま起おきて、町まちをまわり歩あるき、街路がいろや広場ひろばで、わが魂たましいの愛あいする者ものをたずねよう」と、彼かれをたずねたが、見みつからなかった。",
+            "kr": "이에 내가 일어나서 성 안을 돌아다니며 마음에 사랑하는 자를 거리에서나 큰 길에서나 찾으리라 하고 찾으나 만나지 못하였노라"
+          }
+        },
+        {
+          "key": "3",
+          "text": {
+            "fr": "Les gardes qui font la ronde dans la ville m’ont rencontrée : Avez-vous vu celui que mon cœur aime ?",
+            "en": "The watchmen that go about the city found me: to whom I said, Saw ye him whom my soul loveth?",
+            "zh": "城中巡邏看守的人遇見我．我問他們、你們看見我心所愛的沒有。",
+            "jp": "町まちをまわり歩あるく夜回よまわりたちに出会であったので、「あなたがたは、わが魂たましいの愛あいする者ものを見みましたか」と尋たずねた。",
+            "kr": "성 안을 순찰하는 자들을 만나서 묻기를 내 마음으로 사랑하는 자를 너희가 보았느냐 하고"
+          }
+        },
+        {
+          "key": "4",
+          "text": {
+            "fr": "À peine les avais-je passés, Que j’ai trouvé celui que mon cœur aime ; Je l’ai saisi et je ne l’ai pas lâché Jusqu’à ce que je l’aie amené dans la maison de ma mère, Dans la chambre de celle qui m’a conçue.",
+            "en": "It was but a little that I passed from them, but I found him whom my soul loveth: I held him, and would not let him go, until I had brought him into my mother’s house, and into the chamber of her that conceived me.",
+            "zh": "我剛離開他們、就遇見我心所愛的．我拉住他、不容他走、領他入我母家、到懷我者的內室。",
+            "jp": "わたしが彼かれらと別わかれて行いくとすぐ、わが魂たましいの愛あいする者ものに出会であった。わたしは彼かれを引ひき留とめて行いかせず、ついにわが母ははの家いえにつれて行いき、わたしを産うんだ者もののへやにはいった。",
+            "kr": "그들을 지나치자마자 마음에 사랑하는 자를 만나서 그를 붙잡고 내 어머니 집으로, 나를 잉태한 이의 방으로 가기까지 놓지 아니하였노라"
+          }
+        },
+        {
+          "key": "5",
+          "text": {
+            "fr": "Je vous en conjure, filles de Jérusalem, Par les gazelles et les biches des champs, Ne réveillez pas, ne réveillez pas l’amour, Avant qu’elle le veuille.",
+            "en": "I charge you, O ye daughters of Jerusalem, by the roes, and by the hinds of the field, that ye stir not up, nor awake my love, till he please.",
+            "zh": "耶路撒冷的眾女子阿、我指著羚羊、或田野的母鹿、囑咐你們、不要驚動、不要叫醒我所親愛的、等他自己情願。〔不要叫醒云云或作不要激動愛情等他自發〕",
+            "jp": "エルサレムの娘むすめたちよ、わたしは、かもしかと野のの雌めじかをさして、あなたがたに誓ちかい、お願ねがいする、愛あいのおのずから起おこるときまでは、ことさらに呼よび起おこすことも、さますこともしないように。",
+            "kr": "예루살렘 딸들아 내가 노루와 들사슴을 두고 너희에게 부탁한다 사랑하는 자가 원하기 전에는 흔들지 말고 깨우지 말지니라"
+          }
+        },
+        {
+          "key": "6",
+          "text": {
+            "fr": "Qui est celle qui monte du désert, Comme des colonnes de fumée, Au milieu des vapeurs de myrrhe et d’encens Et de tous les aromates des marchands ?",
+            "en": "¶ Who is this that cometh out of the wilderness like pillars of smoke, perfumed with myrrh and frankincense, with all powders of the merchant?",
+            "zh": "那從曠野上來、形狀如煙柱、以沒藥和乳香、並商人各樣香粉薰的、是誰呢。",
+            "jp": "没薬もつやく、乳香にゅうこうなど、商人しょうにんのもろもろの香料こうりょうをもって、かおりを放はなち、煙けむりの柱はしらのように、荒野あらのから上のぼって来くるものは何なにか。",
+            "kr": "몰약과 유향과 상인의 여러 가지 향품으로 향내 풍기며 연기 기둥처럼 거친 들에서 오는 자가 누구인가"
+          }
+        },
+        {
+          "key": "7",
+          "text": {
+            "fr": "Voici la litière de Salomon, Et autour d’elle soixante vaillants hommes, Des plus vaillants d’Israël.",
+            "en": "Behold his bed, which is Solomon’s; threescore valiant men are about it, of the valiant of Israel.",
+            "zh": "看哪、是所羅門的轎．四圍有六十個勇士、都是以色列中的勇士．",
+            "jp": "見みよ、あれはソロモンの乗物のりもので、六十人にんの勇士ゆうしがそのまわりにいる。イスラエルの勇士ゆうしで、",
+            "kr": "볼지어다 솔로몬의 가마라 이스라엘 용사 중 육십 명이 둘러쌌는데"
+          }
+        },
+        {
+          "key": "8",
+          "text": {
+            "fr": "Tous sont armés de l’épée, Sont exercés au combat ; Chacun porte l’épée sur sa hanche, En vue des alarmes nocturnes.",
+            "en": "They all hold swords, being expert in war: every man hath his sword upon his thigh because of fear in the night.",
+            "zh": "手都持刀、善於爭戰．腰間佩刀、防備夜間有驚慌。",
+            "jp": "皆みな、つるぎをとり、戦たたかいをよくし、おのおの腰こしに剣けんを帯おびて、夜よるの危険きけんに備そなえている。",
+            "kr": "다 칼을 잡고 싸움에 익숙한 사람들이라 밤의 두려움으로 말미암아 각기 허리에 칼을 찼느니라"
+          }
+        },
+        {
+          "key": "9",
+          "text": {
+            "fr": "Le roi Salomon s’est fait une litière En bois du Liban.",
+            "en": "King Solomon made himself a chariot of the wood of Lebanon.",
+            "zh": "所羅門王用利巴嫩木、為自己製造一乘華轎。",
+            "jp": "ソロモン王おうはレバノンの木きをもって、自分じぶんのために輿こしをつくった。",
+            "kr": "솔로몬 왕이 레바논 나무로 자기의 가마를 만들었는데"
+          }
+        },
+        {
+          "key": "10",
+          "text": {
+            "fr": "Il en a fait les colonnes en argent, Le dossier en or, Le siège en pourpre ; Au milieu est une broderie, œuvre d’amour Des filles de Jérusalem.",
+            "en": "He made the pillars thereof of silver, the bottom thereof of gold, the covering of it of purple, the midst thereof being paved with love, for the daughters of Jerusalem.",
+            "zh": "轎柱是用銀作的、轎底是用金作的、坐墊是紫色的、其中所鋪的乃耶路撒冷眾女子的愛情。",
+            "jp": "その柱はしらは銀ぎん、そのうしろは金きん、その座ざは紫むらさきの布ぬのでつくった。その内部ないぶにはエルサレムの娘むすめたちが、愛情あいじょうをこめてつくった物ものを張はりつけた。",
+            "kr": "그 기둥은 은이요 바닥은 금이요 자리는 자색 깔개라 그 안에는 예루살렘 딸들의 사랑이 엮어져 있구나"
+          }
+        },
+        {
+          "key": "11",
+          "text": {
+            "fr": "Sortez, filles de Sion, regardez Le roi Salomon, Avec la couronne dont sa mère l’a couronné Le jour de ses fiançailles, Le jour de la joie de son cœur. —",
+            "en": "Go forth, O ye daughters of Zion, and behold king Solomon with the crown wherewith his mother crowned him in the day of his espousals, and in the day of the gladness of his heart.",
+            "zh": "錫安的眾女子阿、你們出去、觀看所羅門王、頭戴冠冕、就是在他婚筵的日子、心中喜樂的時候、他母親給他戴上的。",
+            "jp": "シオンの娘むすめたちよ、出でてきてソロモン王おうを見みよ。彼かれは婚姻こんいんの日ひ、心こころの喜よろこびの日ひに、その母ははの彼かれにかぶらせた冠かんむりをいただいている。",
+            "kr": "시온의 딸들아 나와서 솔로몬 왕을 보라 혼인날 마음이 기쁠 때에 그의 어머니가 씌운 왕관이 그 머리에 있구나"
+          }
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "introduction": {
+        "fr": "Un chant décrit la beauté de la bien-aimée du poète.",
+        "en": "A song describes the beauty of the poet’s beloved.",
+        "zh": "A song describes the beauty of the poet’s beloved.",
+        "jp": "A song describes the beauty of the poet’s beloved.",
+        "kr": "A song describes the beauty of the poet’s beloved."
+      },
+      "verses": [
+        {
+          "key": "1",
+          "text": {
+            "fr": "Que tu es belle, mon amie, que tu es belle ! Tes yeux sont des colombes, Derrière ton voile. Tes cheveux sont comme un troupeau de chèvres, Suspendues aux flancs de la montagne de Galaad.",
+            "en": "Behold, thou art fair, my love; behold, thou art fair; thou hast doves’ eyes within thy locks: thy hair is as a flock of goats, that appear from mount Gilead.",
+            "zh": "我的佳偶、你甚美麗、你甚美麗．你的眼在帕子內好像鴿子眼。你的頭髮如同山羊群、臥在基列山旁。",
+            "jp": "わが愛あいする者ものよ、見みよ、あなたは美うつくしい、見みよ、あなたは美うつくしい。あなたの目めは、顔かおおおいのうしろにあって、はとのようだ。あなたの髪かみはギレアデの山やまを下くだるやぎの群むれのようだ。",
+            "kr": "내 사랑 너는 어여쁘고도 어여쁘다 너울 속에 있는 네 눈이 비둘기 같고 네 머리털은 길르앗 산 기슭에 누운 염소 떼 같구나"
+          }
+        },
+        {
+          "key": "2",
+          "text": {
+            "fr": "Tes dents sont comme un troupeau de brebis tondues, Qui remontent de l’abreuvoir ; Toutes portent des jumeaux, Aucune d’elles n’est stérile.",
+            "en": "Thy teeth are like a flock of sheep that are even shorn, which came up from the washing; whereof every one bear twins, and none is barren among them.",
+            "zh": "你的牙齒如新剪毛的一群母羊、洗淨上來、個個都有雙生、沒有一隻喪掉子的。",
+            "jp": "あなたの歯はは洗あらい場ばから上のぼってきた毛けを切きられた雌め羊ひつじの群むれのようだ。みな二子ふたごを産うんで、一匹ぴきも子このないものはない。",
+            "kr": "네 이는 목욕장에서 나오는 털 깎인 암양 곧 새끼 없는 것은 하나도 없이 각각 쌍태를 낳은 양 같구나"
+          }
+        },
+        {
+          "key": "3",
+          "text": {
+            "fr": "Tes lèvres sont comme un fil cramoisi, Et ta bouche est charmante ; Ta joue est comme une moitié de grenade, Derrière ton voile.",
+            "en": "Thy lips are like a thread of scarlet, and thy speech is comely: thy temples are like a piece of a pomegranate within thy locks.",
+            "zh": "你的唇好像一條朱紅線、你的嘴也秀美。你的兩太陽、在帕子內如同一塊石榴。",
+            "jp": "あなたのくちびるは紅くれないの糸いとのようで、その口くちは愛あいらしい。あなたのほおは顔かおおおいのうしろにあって、ざくろの片かたわれのようだ。",
+            "kr": "네 입술은 홍색 실 같고 네 입은 어여쁘고 너울 속의 네 뺨은 석류 한 쪽 같구나"
+          }
+        },
+        {
+          "key": "4",
+          "text": {
+            "fr": "Ton cou est comme la tour de David, Bâtie pour être un arsenal ; Mille boucliers y sont suspendus, Tous les boucliers des héros.",
+            "en": "Thy neck is like the tower of David builded for an armoury, whereon there hang a thousand bucklers, all shields of mighty men.",
+            "zh": "你的頸項好像大衛建造收藏軍器的高臺、其上懸掛一千盾牌、都是勇士的籐牌。",
+            "jp": "あなたの首くびは武器ぶき倉ぐらのために建たてたダビデのやぐらのようだ。その上うえには一千の盾たてを掛かけつらね、みな勇士ゆうしの大盾おおだてである。",
+            "kr": "네 목은 무기를 두려고 건축한 다윗의 망대 곧 방패 천 개, 용사의 모든 방패가 달린 망대 같고"
+          }
+        },
+        {
+          "key": "5",
+          "text": {
+            "fr": "Tes deux seins sont comme deux faons, Comme les jumeaux d’une gazelle, Qui paissent au milieu des lis.",
+            "en": "Thy two breasts are like two young roes that are twins, which feed among the lilies.",
+            "zh": "你的兩乳、好像百合花中喫草的一對小鹿、就是母鹿雙生的。",
+            "jp": "あなたの両りょう乳ちぶさは、かもしかの二子ふたごである二匹ひきの子こじかが、ゆりの花はなの中なかに草くさを食たべているようだ。",
+            "kr": "네 두 유방은 백합화 가운데서 꼴을 먹는 쌍태 어린 사슴 같구나"
+          }
+        },
+        {
+          "key": "6",
+          "text": {
+            "fr": "Avant que le jour rafraîchisse, Et que les ombres fuient, J’irai à la montagne de la myrrhe Et à la colline de l’encens.",
+            "en": "Until the day break, and the shadows flee away, I will get me to the mountain of myrrh, and to the hill of frankincense.",
+            "zh": "我要往沒藥山、和乳香岡去、直等到天起涼風、日影飛去的時候回來。",
+            "jp": "日ひの涼すずしくなるまで、影かげの消きえるまで、わたしは没薬もつやくの山やまおよび乳香にゅうこうの丘おかへ急いそぎ行ゆこう。",
+            "kr": "날이 저물고 그림자가 사라지기 전에 내가 몰약 산과 유향의 작은 산으로 가리라"
+          }
+        },
+        {
+          "key": "7",
+          "text": {
+            "fr": "Tu es toute belle, mon amie, Et il n’y a pas en toi de défaut.",
+            "en": "Thou art all fair, my love; there is no spot in thee.",
+            "zh": "我的佳偶、你全然美麗、毫無瑕疵。",
+            "jp": "わが愛あいする者ものよ、あなたはことごとく美うつくしく、少すこしのきずもない。",
+            "kr": "나의 사랑 너는 어여쁘고 아무 흠이 없구나"
+          }
+        },
+        {
+          "key": "8",
+          "text": {
+            "fr": "Viens avec moi du Liban, ma fiancée, Viens avec moi du Liban ! Regarde du sommet de l’Amana, Du sommet du Senir et de l’Hermon, Des tanières des lions, Des montagnes des léopards.",
+            "en": "¶ Come with me from Lebanon, my spouse, with me from Lebanon: look from the top of Amana, from the top of Shenir and Hermon, from the lions’ dens, from the mountains of the leopards.",
+            "zh": "我的新婦、求你與我一同離開利巴嫩、與我一同離開利巴嫩．從亞瑪拿頂、從示尼珥與黑門頂、從有獅子的洞、從有豹子的山、往下觀看。",
+            "jp": "わが花嫁はなよめよ、レバノンからわたしと一緒いっしょにきなさい、レバノンからわたしと一緒いっしょにきなさい。アマナの頂いただきを去さり、セニルおよびヘルモンの頂いただきを去さり、ししの穴あな、ひょうの山やまを去さりなさい。",
+            "kr": "내 신부야 너는 레바논에서부터 나와 함께 하고 레바논에서부터 나와 함께 가자 아마나와 스닐과 헤르몬 꼭대기에서 사자 굴과 표범 산에서 내려오너라"
+          }
+        },
+        {
+          "key": "9",
+          "text": {
+            "fr": "Tu me ravis le cœur, ma sœur, ma fiancée, Tu me ravis le cœur par l’un de tes regards, Par l’un des colliers de ton cou.",
+            "en": "Thou hast ravished my heart, my sister, my spouse; thou hast ravished my heart with one of thine eyes, with one chain of thy neck.",
+            "zh": "我妹子、我新婦、你奪了我的心．你用眼一看、用你項上的一條金鍊、奪了我的心。",
+            "jp": "わが妹いもうと、わが花嫁はなよめよ、あなたはわたしの心こころを奪うばった。あなたはただひと目めで、あなたの首くび飾かざりのひと玉たまで、わたしの心こころを奪うばった。",
+            "kr": "내 누이, 내 신부야 네가 내 마음을 빼앗았구나 네 눈으로 한 번 보는 것과 네 목의 구슬 한 꿰미로 내 마음을 빼앗았구나"
+          }
+        },
+        {
+          "key": "10",
+          "text": {
+            "fr": "Que de charmes dans ton amour, ma sœur, ma fiancée ! Comme ton amour vaut mieux que le vin, Et combien tes parfums sont plus suaves que tous les aromates !",
+            "en": "How fair is thy love, my sister, my spouse! how much better is thy love than wine! and the smell of thine ointments than all spices!",
+            "zh": "我妹子、我新婦、你的愛情何其美．你的愛情比酒更美．你膏油的香氣勝過一切香品。",
+            "jp": "わが妹いもうと、わが花嫁はなよめよ、あなたの愛あいは、なんと麗うるわしいことであろう。あなたの愛あいはぶどう酒しゅよりも、あなたの香油こうゆのかおりはすべての香料こうりょうよりも、いかにすぐれていることであろう。",
+            "kr": "내 누이, 내 신부야 네 사랑이 어찌 그리 아름다운지 네 사랑은 포도주보다 진하고 네 기름의 향기는 각양 향품보다 향기롭구나"
+          }
+        },
+        {
+          "key": "11",
+          "text": {
+            "fr": "Tes lèvres distillent le miel, ma fiancée ; Il y a sous ta langue du miel et du lait, Et l’odeur de tes vêtements est comme l’odeur du Liban.",
+            "en": "Thy lips, O my spouse, drop as the honeycomb: honey and milk are under thy tongue; and the smell of thy garments is like the smell of Lebanon.",
+            "zh": "我新婦、你的嘴唇滴蜜、好像蜂房滴蜜．你的舌下有蜜有奶．你衣服的香氣如利巴嫩的香氣。",
+            "jp": "わが花嫁はなよめよ、あなたのくちびるは甘露かんろをしたたらせ、あなたの舌したの下したには、蜜みつと乳ちちとがある。あなたの衣ころものかおりはレバノンのかおりのようだ。",
+            "kr": "내 신부야 네 입술에서는 꿀 방울이 떨어지고 네 혀 밑에는 꿀과 젖이 있고 네 의복의 향기는 레바논의 향기 같구나"
+          }
+        },
+        {
+          "key": "12",
+          "text": {
+            "fr": "Tu es un jardin fermé, ma sœur, ma fiancée, Une source fermée, une fontaine scellée.",
+            "en": "A garden inclosed is my sister, my spouse; a spring shut up, a fountain sealed.",
+            "zh": "我妹子、我新婦、乃是關鎖的園、禁閉的井、封閉的泉源。",
+            "jp": "わが妹いもうと、わが花嫁はなよめは閉とじた園その、閉とじた園その、封ふうじた泉いずみのようだ。",
+            "kr": "내 누이, 내 신부는 잠근 동산이요 덮은 우물이요 봉한 샘이로구나"
+          }
+        },
+        {
+          "key": "13",
+          "text": {
+            "fr": "Tes jets forment un jardin, où sont des grenadiers, Avec les fruits les plus excellents, Les troënes avec le nard ;",
+            "en": "Thy plants are an orchard of pomegranates, with pleasant fruits; camphire, with spikenard,",
+            "zh": "你園內所種的結了石榴、有佳美的果子、並鳳仙花、與哪噠樹。",
+            "jp": "あなたの産うみ出だす物ものは、もろもろの良よき実みをもつざくろの園その、ヘンナおよびナルド、",
+            "kr": "네게서 나는 것은 석류나무와 각종 아름다운 과수와 고벨화와 나도풀과"
+          }
+        },
+        {
+          "key": "14",
+          "text": {
+            "fr": "Le nard et le safran, le roseau aromatique et le cinnamome, Avec tous les arbres qui donnent l’encens ; La myrrhe et l’aloès, Avec tous les principaux aromates ;",
+            "en": "Spikenard and saffron; calamus and cinnamon, with all trees of frankincense; myrrh and aloes, with all the chief spices:",
+            "zh": "有哪噠和番紅花、菖蒲、和桂樹、並各樣乳香木、沒藥、沉香與一切上等的果品。",
+            "jp": "ナルド、さふらん、しょうぶ、肉桂にっけい、さまざまの乳香にゅうこうの木き、没薬もつやく、ろかい、およびすべての尊たっとい香料こうりょうである。",
+            "kr": "나도와 번홍화와 창포와 계수와 각종 유향목과 몰약과 침향과 모든 귀한 향품이요"
+          }
+        },
+        {
+          "key": "15",
+          "text": {
+            "fr": "Une fontaine des jardins, Une source d’eaux vives, Des ruisseaux du Liban.",
+            "en": "A fountain of gardens, a well of living waters, and streams from Lebanon.",
+            "zh": "你是園中的泉、活水的井、從利巴嫩流下來的溪水。",
+            "jp": "あなたは園そのの泉いずみ、生いける水みずの井い、またレバノンから流ながれ出でる川かわである。",
+            "kr": "너는 동산의 샘이요 생수의 우물이요 레바논에서부터 흐르는 시내로구나"
+          }
+        },
+        {
+          "key": "16",
+          "text": {
+            "fr": "Lève-toi, aquilon ! viens, autan ! Soufflez sur mon jardin, et que les parfums s’en exhalent ! Que mon bien-aimé entre dans son jardin, Et qu’il mange de ses fruits excellents !",
+            "en": "¶ Awake, O north wind; and come, thou south; blow upon my garden, that the spices thereof may flow out. Let my beloved come into his garden, and eat his pleasant fruits.",
+            "zh": "北風阿、興起．南風阿、吹來．吹在我的園內、使其中的香氣發出來。願我的良人進入自己園裡、喫他佳美的果子。",
+            "jp": "北風きたかぜよ、起おこれ、南風みなみかぜよ、きたれ。わが園そのを吹ふいて、そのかおりを広ひろく散ちらせ。わが愛あいする者ものがその園そのにはいってきて、その良よい実みを食たべるように。",
+            "kr": "북풍아 일어나라 남풍아 오라 나의 동산에 불어서 향기를 날리라 나의 사랑하는 자가 그 동산에 들어가서 그 아름다운 열매 먹기를 원하노라"
+          }
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "introduction": {
+        "fr": "Le chant d’amour et d’affection se poursuit.",
+        "en": "The song of love and affection continues.",
+        "zh": "The song of love and affection continues.",
+        "jp": "The song of love and affection continues.",
+        "kr": "The song of love and affection continues."
+      },
+      "verses": [
+        {
+          "key": "1",
+          "text": {
+            "fr": "J’entre dans mon jardin, ma sœur, ma fiancée ; Je cueille ma myrrhe avec mes aromates, Je mange mon rayon de miel avec mon miel, Je bois mon vin avec mon lait … Mangez, amis, buvez, enivrez-vous d’amour !",
+            "en": "I am come into my garden, my sister, my spouse: I have gathered my myrrh with my spice; I have eaten my honeycomb with my honey; I have drunk my wine with my milk: eat, O friends; drink, yea, drink abundantly, O beloved.",
+            "zh": "我妹子、我新婦、我進了我的園中、採了我的沒藥和香料、喫了我的蜜房和蜂蜜．喝了我的酒和奶．我的朋友們、請喫、我所親愛的、請喝、且多多的喝。",
+            "jp": "わが妹いもうと、わが花嫁はなよめよ、わたしはわが園そのにはいって、わが没薬もつやくと香料こうりょうとを集あつめ、わが蜜蜂みつばちの巣すと、蜜みつとを食たべ、わがぶどう酒しゅと乳ちちとを飲のむ。友ともらよ、食くらえ、飲のめ、愛あいする人々ひとびとよ、大おおいに飲のめ。",
+            "kr": "내 누이, 내 신부야 내가 내 동산에 들어와서 나의 몰약과 향 재료를 거두고 나의 꿀송이와 꿀을 먹고 내 포도주와 내 우유를 마셨으니 나의 친구들아 먹으라 나의 사랑하는 사람들아 많이 마시라"
+          }
+        },
+        {
+          "key": "2",
+          "text": {
+            "fr": "J’étais endormie mais mon cœur veillait. … C’est la voix de mon bien-aimé qui frappe : Ouvre-moi, ma sœur, mon amie, Ma colombe, ma parfaite ! Car ma tête est couverte de rosée, Mes boucles sont pleines des gouttes de la nuit.",
+            "en": "¶ I sleep, but my heart waketh: it is the voice of my beloved that knocketh, saying, Open to me, my sister, my love, my dove, my undefiled: for my head is filled with dew, and my locks with the drops of the night.",
+            "zh": "我身睡臥、我心卻醒．這是我良人的聲音．他敲門、說、我的妹子、我的佳偶、我的鴿子、我的完全人、求你給我開門、因我的頭滿了露水、我的頭髮被夜露滴濕。",
+            "jp": "わたしは眠ねむっていたが、心こころはさめていた。聞ききなさい、わが愛あいする者ものが戸とをたたいている。「わが妹いもうと、わが愛あいする者もの、わがはと、わが全まったき者ものよ、あけてください。わたしの頭あたまは露つゆでぬれ、わたしの髪かみの毛けは夜露よつゆでぬれている」と言いう。",
+            "kr": "내가 잘지라도 마음은 깨었는데 나의 사랑하는 자의 소리가 들리는구나 문을 두드려 이르기를 나의 누이, 나의 사랑, 나의 비둘기, 나의 완전한 자야 문을 열어 다오 내 머리에는 이슬이, 내 머리털에는 밤이슬이 가득하였다 하는구나"
+          }
+        },
+        {
+          "key": "3",
+          "text": {
+            "fr": "J’ai ôté ma tunique ; comment la remettrais-je ? J’ai lavé mes pieds ; comment les salirais-je ?",
+            "en": "I have put off my coat; how shall I put it on? I have washed my feet; how shall I defile them?",
+            "zh": "我回答說、我脫了衣裳、怎能再穿上呢．我洗了腳、怎能再玷污呢。",
+            "jp": "わたしはすでに着物きものを脱ぬいだ、どうしてまた着きられようか。すでに足あしを洗あらった、どうしてまた、よごせようか。",
+            "kr": "내가 옷을 벗었으니 어찌 다시 입겠으며 내가 발을 씻었으니 어찌 다시 더럽히랴마는"
+          }
+        },
+        {
+          "key": "4",
+          "text": {
+            "fr": "Mon bien-aimé a passé la main par la fenêtre, Et mes entrailles se sont émues pour lui.",
+            "en": "My beloved put in his hand by the hole of the door, and my bowels were moved for him.",
+            "zh": "我的良人從門孔裡伸進手來、我便因他動了心。",
+            "jp": "わが愛あいする者ものが掛かけがねに手てをかけたので、わが心こころは内うちにおどった。",
+            "kr": "내 사랑하는 자가 문틈으로 손을 들이밀매 내 마음이 움직여서"
+          }
+        },
+        {
+          "key": "5",
+          "text": {
+            "fr": "Je me suis levée pour ouvrir à mon bien-aimé ; Et de mes mains a dégoutté la myrrhe, De mes doigts, la myrrhe répandue Sur la poignée du verrou.",
+            "en": "I rose up to open to my beloved; and my hands dropped with myrrh, and my fingers with sweet smelling myrrh, upon the handles of the lock.",
+            "zh": "我起來、要給我良人開門．我的兩手滴下沒藥、我的指頭有沒藥汁滴在門閂上。",
+            "jp": "わたしが起おきて、わが愛あいする者もののためにあけようとしたとき、わたしの手てから没薬もつやくがしたたり、わたしの指ゆびから没薬もつやくの液えきが流ながれて、貫かんの木きの取手とっての上うえに落おちた。",
+            "kr": "일어나 내 사랑하는 자를 위하여 문을 열 때 몰약이 내 손에서, 몰약의 즙이 내 손가락에서 문빗장에 떨어지는구나"
+          }
+        },
+        {
+          "key": "6",
+          "text": {
+            "fr": "J’ai ouvert à mon bien-aimé ; Mais mon bien-aimé s’en était allé, il avait disparu. J’étais hors de moi quand il me parlait. Je l’ai cherché et je ne l’ai pas trouvé ; Je l’ai appelé et il ne m’a pas répondu.",
+            "en": "I opened to my beloved; but my beloved had withdrawn himself, and was gone: my soul failed when he spake: I sought him, but I could not find him; I called him, but he gave me no answer.",
+            "zh": "我給我的良人開了門．我的良人卻已轉身走了。他說話的時候、我神不守舍．我尋找他、竟尋不見．我呼叫他、他卻不回答。",
+            "jp": "わたしはわが愛あいする者もののために開ひらいたが、わが愛あいする者ものはすでに帰かえり去さった。彼かれが帰かえり去さったとき、わが心こころは力ちからを失うしなった。わたしは尋たずねたけれども見みつからず、呼よんだけれども答こたえがなかった。",
+            "kr": "내가 내 사랑하는 자를 위하여 문을 열었으나 그는 벌써 물러갔네 그가 말할 때에 내 혼이 나갔구나 내가 그를 찾아도 못 만났고 불러도 응답이 없었노라"
+          }
+        },
+        {
+          "key": "7",
+          "text": {
+            "fr": "Les gardes qui font la ronde dans la ville m’ont rencontrée ; Ils m’ont frappée, ils m’ont blessée ; Ils m’ont enlevé mon voile, les gardes des murs.",
+            "en": "The watchmen that went about the city found me, they smote me, they wounded me; the keepers of the walls took away my veil from me.",
+            "zh": "城中巡邏看守的人遇見我、打了我、傷了我．看守城牆的人奪去我的披肩。",
+            "jp": "町まちをまわり歩あるく夜回よまわりらはわたしを見みると、撃うって傷きずつけ、城壁じょうへきを守まもる者ものらは、わたしの上着うわぎをはぎ取とった。",
+            "kr": "성 안을 순찰하는 자들이 나를 만나매 나를 쳐서 상하게 하였고 성벽을 파수하는 자들이 나의 겉옷을 벗겨 가졌도다"
+          }
+        },
+        {
+          "key": "8",
+          "text": {
+            "fr": "Je vous en conjure, filles de Jérusalem, Si vous trouvez mon bien-aimé, Que lui direz-vous ? … Que je suis malade d’amour.",
+            "en": "I charge you, O daughters of Jerusalem, if ye find my beloved, that ye tell him, that I am sick of love.",
+            "zh": "耶路撒冷的眾女子阿、我囑咐你們、若遇見我的良人、要告訴他、我因思愛成病。",
+            "jp": "エルサレムの娘むすめたちよ、わたしはあなたがたに誓ちかって、お願ねがいする。もしわが愛あいする者ものを見みたなら、わたしが愛あいのために病やみわずらっていると、彼かれに告つげてください。",
+            "kr": "예루살렘 딸들아 너희에게 내가 부탁한다 너희가 내 사랑하는 자를 만나거든 내가 사랑하므로 병이 났다고 하려무나"
+          }
+        },
+        {
+          "key": "9",
+          "text": {
+            "fr": "Qu’a ton bien-aimé de plus qu’un autre, Ô la plus belle des femmes ? Qu’a ton bien-aimé de plus qu’un autre, Pour que tu nous conjures ainsi ?",
+            "en": "¶ What is thy beloved more than another beloved, O thou fairest among women? what is thy beloved more than another beloved, that thou dost so charge us?",
+            "zh": "你這女子中極美麗的、你的良人、比別人的良人有何強處．你的良人、比別人的良人有何強處、你就這樣囑咐我們。",
+            "jp": "女おんなのうちの最もっとも美うつくしい者ものよ、あなたの愛あいする者ものは、ほかの人ひとの愛あいする者ものに、なんのまさるところがあるか。あなたの愛あいする者ものは、ほかの人ひとの愛あいする者ものに、なんのまさるところがあって、そのように、わたしたちに誓ちかい、願ねがうのか。",
+            "kr": "여자들 가운데에 어여쁜 자야 너의 사랑하는 자가 남의 사랑하는 자보다 나은 것이 무엇인가 너의 사랑하는 자가 남의 사랑하는 자보다 나은 것이 무엇이기에 이같이 우리에게 부탁하는가"
+          }
+        },
+        {
+          "key": "10",
+          "text": {
+            "fr": "Mon bien-aimé est blanc et vermeil ; Il se distingue entre dix mille.",
+            "en": "My beloved is white and ruddy, the chiefest among ten thousand.",
+            "zh": "我的良人、白而且紅、超乎萬人之上。",
+            "jp": "わが愛あいする者ものは白しろく輝かがやき、かつ赤あかく、万ばん人にんにぬきんで、",
+            "kr": "내 사랑하는 자는 희고도 붉어 많은 사람 가운데에 뛰어나구나"
+          }
+        },
+        {
+          "key": "11",
+          "text": {
+            "fr": "Sa tête est de l’or pur ; Ses boucles sont flottantes, Noires comme le corbeau.",
+            "en": "His head is as the most fine gold, his locks are bushy, and black as a raven.",
+            "zh": "他的頭像至精的金子．他的頭髮厚密纍垂、黑如烏鴉。",
+            "jp": "その頭あたまは純金じゅんきんのように、その髪かみの毛けはうねっていて、からすのように黒くろい。",
+            "kr": "머리는 순금 같고 머리털은 고불고불하고 까마귀 같이 검구나"
+          }
+        },
+        {
+          "key": "12",
+          "text": {
+            "fr": "Ses yeux sont comme des colombes au bord des ruisseaux, Se baignant dans le lait, Reposant au sein de l’abondance.",
+            "en": "His eyes are as the eyes of doves by the rivers of waters, washed with milk, and fitly set.",
+            "zh": "他的眼如溪水旁的鴿子眼、用奶洗淨、安得合式。",
+            "jp": "その目めは泉いずみのほとりのはとのように、乳ちちで洗あらわれて、良よく落おち着ついている。",
+            "kr": "눈은 시냇가의 비둘기 같은데 우유로 씻은 듯하고 아름답게도 박혔구나"
+          }
+        },
+        {
+          "key": "13",
+          "text": {
+            "fr": "Ses joues sont comme un parterre d’aromates, Un massif de plantes odorantes ; Ses lèvres sont des lis, D’où coule la myrrhe.",
+            "en": "His cheeks are as a bed of spices, as sweet flowers: his lips like lilies, dropping sweet smelling myrrh.",
+            "zh": "他的兩腮如香花畦、如香草臺．他的嘴唇像百合花、且滴下沒藥汁。",
+            "jp": "そのほおは、かんばしい花はなの床とこのように、かおりを放はなち、そのくちびるは、ゆりの花はなのようで、没薬もつやくの液えきをしたたらす。",
+            "kr": "뺨은 향기로운 꽃밭 같고 향기로운 풀언덕과도 같고 입술은 백합화 같고 몰약의 즙이 뚝뚝 떨어지는구나"
+          }
+        },
+        {
+          "key": "14",
+          "text": {
+            "fr": "Ses mains sont des anneaux d’or, Garnis de chrysolithes ; Son corps est de l’ivoire poli, Couvert de saphirs ;",
+            "en": "His hands are as gold rings set with the beryl: his belly is as bright ivory overlaid with sapphires.",
+            "zh": "他的兩手好像金管、鑲嵌水蒼玉．他的身體如同雕刻的象牙、周圍鑲嵌藍寶石。",
+            "jp": "その手ては宝石ほうせきをはめた金きんの円筒えんとうのごとく、そのからだはサファイヤをもっておおった象牙ぞうげの細工さいくのごとく、",
+            "kr": "손은 황옥을 물린 황금 노리개 같고 몸은 아로새긴 상아에 청옥을 입힌 듯하구나"
+          }
+        },
+        {
+          "key": "15",
+          "text": {
+            "fr": "Ses jambes sont des colonnes de marbre blanc, Posées sur des bases d’or pur. Son aspect est comme le Liban, Distingué comme les cèdres.",
+            "en": "His legs are as pillars of marble, set upon sockets of fine gold: his countenance is as Lebanon, excellent as the cedars.",
+            "zh": "他的腿好像白玉石柱、安在精金座上．他的形狀如利巴嫩、且佳美如香柏樹。",
+            "jp": "その足あしのすねは金きんの台だいの上うえにすえた大理石だいりせきの柱はしらのごとく、その姿すがたはレバノンのごとく、香柏こうはくのようで、美うつくしい。",
+            "kr": "다리는 순금 받침에 세운 화반석 기둥 같고 생김새는 레바논 같으며 백향목처럼 보기 좋고"
+          }
+        },
+        {
+          "key": "16",
+          "text": {
+            "fr": "Son palais n’est que douceur, Et toute sa personne est pleine de charme. Tel est mon bien-aimé, tel est mon ami, Filles de Jérusalem !",
+            "en": "His mouth is most sweet: yea, he is altogether lovely. This is my beloved, and this is my friend, O daughters of Jerusalem.",
+            "zh": "他的口極其甘甜．他全然可愛。耶路撒冷的眾女子阿、這是我的良人、這是我的朋友。",
+            "jp": "その言葉ことばは、はなはだ美うつくしく、彼かれはことごとく麗うるわしい。エルサレムの娘むすめたちよ、これがわが愛あいする者もの、これがわが友ともなのです。",
+            "kr": "입은 심히 달콤하니 그 전체가 사랑스럽구나 예루살렘 딸들아 이는 내 사랑하는 자요 나의 친구로다"
+          }
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "introduction": {
+        "fr": "Le chant d’amour se poursuit.",
+        "en": "The song of love continues.",
+        "zh": "The song of love continues.",
+        "jp": "The song of love continues.",
+        "kr": "The song of love continues."
+      },
+      "verses": [
+        {
+          "key": "1",
+          "text": {
+            "fr": "Où est allé ton bien-aimé, Ô la plus belle des femmes ? De quel côté ton bien-aimé s’est-il dirigé ? Nous le chercherons avec toi.",
+            "en": "Whither is thy beloved gone, O thou fairest among women? whither is thy beloved turned aside? that we may seek him with thee.",
+            "zh": "你這女子中極美麗的、你的良人往何處去了．你的良人轉向何處去了、我們好與你同去尋找他。",
+            "jp": "女おんなのうちの最もっとも美うつくしい者ものよ、あなたの愛あいする者ものはどこへ行いったか。あなたの愛あいする者ものはどこへおもむいたか。わたしたちはあなたと一緒いっしょにたずねよう。",
+            "kr": "여자들 가운데에서 어여쁜 자야 네 사랑하는 자가 어디로 갔는가 네 사랑하는 자가 어디로 돌아갔는가 우리가 너와 함께 찾으리라"
+          }
+        },
+        {
+          "key": "2",
+          "text": {
+            "fr": "Mon bien-aimé est descendu dans son jardin, Au parterre d’aromates, Pour faire paître son troupeau dans les jardins, Et pour cueillir des lis.",
+            "en": "My beloved is gone down into his garden, to the beds of spices, to feed in the gardens, and to gather lilies.",
+            "zh": "我的良人下入自己園中、到香花畦、在園內牧放群羊、採百合花。",
+            "jp": "わが愛あいする者ものは園そのの中なかで、群むれを飼かい、またゆりの花はなを取とるために自分じぶんの園そのに下くだり、かんばしい花はなの床とこへ行いきました。",
+            "kr": "내 사랑하는 자가 자기 동산으로 내려가 향기로운 꽃밭에 이르러서 동산 가운데에서 양 떼를 먹이며 백합화를 꺾는구나"
+          }
+        },
+        {
+          "key": "3",
+          "text": {
+            "fr": "Je suis à mon bien-aimé et mon bien-aimé est à moi ; Il fait paître son troupeau parmi les lis.",
+            "en": "I am my beloved’s, and my beloved is mine: he feedeth among the lilies.",
+            "zh": "我屬我的良人、我的良人也屬我．他在百合花中牧放群羊。",
+            "jp": "わたしはわが愛あいする人ひとのもの、わが愛あいする者ものはわたしのものです。彼かれはゆりの花はなの中なかで、その群むれを飼かっています。",
+            "kr": "나는 내 사랑하는 자에게 속하였고 내 사랑하는 자는 내게 속하였으며 그가 백합화 가운데에서 그 양 떼를 먹이는도다"
+          }
+        },
+        {
+          "key": "4",
+          "text": {
+            "fr": "Tu es belle, mon amie, comme Thirtsa, Agréable comme Jérusalem, Mais terrible comme des troupes sous leurs bannières.",
+            "en": "¶ Thou art beautiful, O my love, as Tirzah, comely as Jerusalem, terrible as an army with banners.",
+            "zh": "我的佳偶阿、你美麗如得撒、秀美如耶路撒冷、威武如展開旌旗的軍隊。",
+            "jp": "わが愛あいする者ものよ、あなたは美うつくしいことテルザのごとく、麗うるわしいことエルサレムのごとく、恐おそるべきこと旗はたを立たてた軍勢ぐんぜいのようだ。",
+            "kr": "내 사랑아 너는 디르사 같이 어여쁘고, 예루살렘 같이 곱고, 깃발을 세운 군대 같이 당당하구나"
+          }
+        },
+        {
+          "key": "5",
+          "text": {
+            "fr": "Détourne de moi tes yeux, car ils me troublent. Tes cheveux sont comme un troupeau de chèvres, Suspendues aux flancs de Galaad.",
+            "en": "Turn away thine eyes from me, for they have overcome me: thy hair is as a flock of goats that appear from Gilead.",
+            "zh": "求你掉轉眼目不看我、因你的眼目使我驚亂。你的頭髮如同山羊群、臥在基列山旁。",
+            "jp": "あなたの目めはわたしを恐おそれさせるゆえ、わたしからそむけてください。あなたの髪かみはギレアデの山やまを下くだるやぎの群むれのようだ。",
+            "kr": "네 눈이 나를 놀라게 하니 돌이켜 나를 보지 말라 네 머리털은 길르앗 산 기슭에 누운 염소 떼 같고"
+          }
+        },
+        {
+          "key": "6",
+          "text": {
+            "fr": "Tes dents sont comme un troupeau de brebis, Qui remontent de l’abreuvoir ; Toutes portent des jumeaux, Aucune d’elles n’est stérile.",
+            "en": "Thy teeth are as a flock of sheep which go up from the washing, whereof every one beareth twins, and there is not one barren among them.",
+            "zh": "你的牙齒如一群母羊、洗淨上來．個個都有雙生、沒有一隻喪掉子的。",
+            "jp": "あなたの歯はは洗あらい場ばから上のぼってきた雌め羊ひつじの群むれのようだ。みな二子ふたごを産うんで、一匹いっぴきも子このないものはない。",
+            "kr": "네 이는 목욕하고 나오는 암양 떼 같으니 쌍태를 가졌으며 새끼 없는 것은 하나도 없구나"
+          }
+        },
+        {
+          "key": "7",
+          "text": {
+            "fr": "Ta joue est comme une moitié de grenade, Derrière ton voile …",
+            "en": "As a piece of a pomegranate are thy temples within thy locks.",
+            "zh": "你的兩太陽在帕子內如同一塊石榴。",
+            "jp": "あなたのほおは顔かおおおいのうしろにあって、ざくろの片かたわれのようだ。",
+            "kr": "너울 속의 네 뺨은 석류 한 쪽 같구나"
+          }
+        },
+        {
+          "key": "8",
+          "text": {
+            "fr": "Il y a soixante reines, quatre-vingts concubines, Et des jeunes filles sans nombre.",
+            "en": "There are threescore queens, and fourscore concubines, and virgins without number.",
+            "zh": "有六十王后八十妃嬪、並有無數的童女。",
+            "jp": "王妃おうひは六十人にん、そばめは八十人にん、また数かずしれぬおとめがいる。",
+            "kr": "왕비가 육십 명이요 후궁이 팔십 명이요 시녀가 무수하되"
+          }
+        },
+        {
+          "key": "9",
+          "text": {
+            "fr": "Une seule est ma colombe, ma parfaite ; Elle est l’unique de sa mère, La préférée de celle qui lui donna le jour. Les jeunes filles la voient et la disent heureuse ; Les reines et les concubines aussi, et elles la louent. —",
+            "en": "My dove, my undefiled is but one; she is the only one of her mother, she is the choice one of her that bare her. The daughters saw her, and blessed her; yea, the queens and the concubines, and they praised her.",
+            "zh": "我的鴿子、我的完全人、只有這一個、是他母親獨生的．是生養他者所寶愛的。眾女子見了、就稱他有福．王后妃嬪見了、也讚美他。",
+            "jp": "わがはと、わが全まったき者ものはただひとり、彼女かのじょは母ははのひとり子ご、彼女かのじょを産うんだ者ものの最愛さいあいの者ものだ。おとめたちは彼女かのじょを見みて、さいわいな者ものととなえ、王妃おうひたち、そばめたちもまた、彼女かのじょを見みて、ほめた。",
+            "kr": "내 비둘기, 내 완전한 자는 하나뿐이로구나 그는 그의 어머니의 외딸이요 그 낳은 자가 귀중하게 여기는 자로구나 여자들이 그를 보고 복된 자라 하고 왕비와 후궁들도 그를 칭찬하는구나"
+          }
+        },
+        {
+          "key": "10",
+          "text": {
+            "fr": "Qui est celle qui apparaît comme l’aurore, Belle comme la lune, pure comme le soleil, Mais terrible comme des troupes sous leurs bannières ?",
+            "en": "¶ Who is she that looketh forth as the morning, fair as the moon, clear as the sun, and terrible as an army with banners?",
+            "zh": "那向外觀看如晨光發現、美麗如月亮、皎潔如日頭、威武如展開旌旗軍隊的是誰呢。",
+            "jp": "「このしののめのように見みえ、月つきのように美うつくしく、太陽たいようのように輝かがやき、恐おそるべき事こと、旗はたを立たてた軍勢ぐんぜいのような者ものはだれか」。",
+            "kr": "아침 빛 같이 뚜렷하고 달 같이 아름답고 해 같이 맑고 깃발을 세운 군대 같이 당당한 여자가 누구인가"
+          }
+        },
+        {
+          "key": "11",
+          "text": {
+            "fr": "Je suis descendue au jardin des noyers, Pour voir la verdure de la vallée, Pour voir si la vigne pousse, Si les grenadiers fleurissent.",
+            "en": "I went down into the garden of nuts to see the fruits of the valley, and to see whether the vine flourished, and the pomegranates budded.",
+            "zh": "我下入核桃園、要看谷中青綠的植物、要看葡萄發芽沒有、石榴開花沒有．",
+            "jp": "わたしは谷たにの花はなを見み、ぶどうが芽めざしたか、ざくろの花はなが咲さいたかを見みようと、くるみの園そのへ下くだっていった。",
+            "kr": "골짜기의 푸른 초목을 보려고 포도나무가 순이 났는가 석류나무가 꽃이 피었는가 알려고 내가 호도 동산으로 내려갔을 때에"
+          }
+        },
+        {
+          "key": "12",
+          "text": {
+            "fr": "Je ne sais, mais mon désir m’a rendue semblable Aux chars de mon noble peuple.",
+            "en": "Or ever I was aware, my soul made me like the chariots of Amminadib.",
+            "zh": "不知不覺、我的心將我安置在我尊長的車中。",
+            "jp": "わたしの知しらないうちに、わたしの思おもいは、わたしを車くるまの中なかのわが君きみのかたわらにおらせた。",
+            "kr": "부지중에 내 마음이 나를 내 귀한 백성의 수레 가운데에 이르게 하였구나"
+          }
+        },
+        {
+          "key": "13",
+          "text": {
+            "fr": "",
+            "en": "Return, return, O Shulamite; return, return, that we may look upon thee. What will ye see in the Shulamite? As it were the company of two armies.",
+            "zh": "回來、回來．書拉密女、你回來、你回來、使我們得觀看你。你們為何要觀看書拉密女、像觀看瑪哈念跳舞的呢。",
+            "jp": "帰かえれ、帰かえれ、シュラムの女おんなよ、帰かえれ、帰かえれ、わたしたちはあなたを見みたいものだ。あなたがたはどうしてマハナイムの踊おどりを見みるようにシュラムの女おんなを見みたいのか。",
+            "kr": "돌아오고 돌아오라 술람미 여자야 돌아오고 돌아오라 우리가 너를 보게 하라 너희가 어찌하여 마하나임에서 춤추는 것을 보는 것처럼 술람미 여자를 보려느냐"
+          }
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "introduction": {
+        "fr": "Le chant d’amour se poursuit.",
+        "en": "The song of love continues.",
+        "zh": "The song of love continues.",
+        "jp": "The song of love continues.",
+        "kr": "The song of love continues."
+      },
+      "verses": [
+        {
+          "key": "1",
+          "text": {
+            "fr": "Reviens, reviens, Sulamithe ! Reviens, reviens, afin que nous te regardions. Qu’avez-vous à regarder la Sulamithe Comme une danse de deux chœurs ?",
+            "en": "How beautiful are thy feet with shoes, O prince’s daughter! the joints of thy thighs are like jewels, the work of the hands of a cunning workman.",
+            "zh": "王女阿、你的腳在鞋中何其美好．你的大腿圓潤好像美玉、是巧匠的手作成的。",
+            "jp": "女王じょおうのような娘むすめよ、あなたの足あしは、くつの中なかにあって、なんと麗うるわしいことであろう。あなたのももは、まろやかで、玉たまのごとく、名人めいじんの手てのわざのようだ。",
+            "kr": "귀한 자의 딸아 신을 신은 네 발이 어찌 그리 아름다운가 네 넓적다리는 둥글어서 숙련공의 손이 만든 구슬 꿰미 같구나"
+          }
+        },
+        {
+          "key": "2",
+          "text": {
+            "fr": "Que tes pieds sont beaux dans ta chaussure, fille de prince ! Les contours de ta hanche sont comme des colliers, Œuvre des mains d’un artiste.",
+            "en": "Thy navel is like a round goblet, which wanteth not liquor: thy belly is like an heap of wheat set about with lilies.",
+            "zh": "你的肚臍如圓杯不缺調和的酒．你的腰如一堆麥子、周圍有百合花。",
+            "jp": "あなたのほぞは、混まぜたぶどう酒しゅを欠かくことのない丸まるい杯さかずきのごとく、あなたの腹はらは、ゆりの花はなで囲かこまれた山盛やまもりの麦むぎのようだ。",
+            "kr": "배꼽은 섞은 포도주를 가득히 부은 둥근 잔 같고 허리는 백합화로 두른 밀단 같구나"
+          }
+        },
+        {
+          "key": "3",
+          "text": {
+            "fr": "Ton ventre est une coupe arrondie, Où le vin parfumé ne manque pas ; Ton corps est un tas de froment, Entouré de lis.",
+            "en": "Thy two breasts are like two young roes that are twins.",
+            "zh": "你的兩乳好像一對小鹿、就是母鹿雙生的。",
+            "jp": "あなたの両りょう乳ちぶさは、かもしかの二子ふたごである二匹ひきの子こじかのようだ。",
+            "kr": "두 유방은 암사슴의 쌍태 새끼 같고"
+          }
+        },
+        {
+          "key": "4",
+          "text": {
+            "fr": "Tes deux seins sont comme deux faons, Comme les jumeaux d’une gazelle.",
+            "en": "Thy neck is as a tower of ivory; thine eyes like the fishpools in Heshbon, by the gate of Bath-rabbim: thy nose is as the tower of Lebanon which looketh toward Damascus.",
+            "zh": "你的頸項如象牙臺．你的眼目像希實本巴特拉併門旁的水池．你的鼻子彷彿朝大馬色的利巴嫩塔。",
+            "jp": "あなたの首くびは象牙ぞうげのやぐらのごとく、あなたの目めは、バテラビムの門もんのほとりにあるヘシボンの池いけのごとく、あなたの鼻はなは、ダマスコを見みおろすレバノンのやぐらのようだ。",
+            "kr": "목은 상아 망대 같구나 눈은 헤스본 바드랍빔 문 곁에 있는 연못 같고 코는 다메섹을 향한 레바논 망대 같구나"
+          }
+        },
+        {
+          "key": "5",
+          "text": {
+            "fr": "Ton cou est comme une tour d’ivoire ; Tes yeux sont comme les étangs de Hesbon, Près de la porte de Bath-Rabbim ; Ton nez est comme la tour du Liban, Qui regarde du côté de Damas.",
+            "en": "Thine head upon thee is like Carmel, and the hair of thine head like purple; the king is held in the galleries.",
+            "zh": "你的頭在你身上好像迦密山．你頭上的髮是紫黑色．王的心因這下垂的髮綹繫住了。",
+            "jp": "あなたの頭あたまは、カルメルのようにあなたを飾かざり、髪かみの毛けは紫色むらさきいろのようで、王おうはそのたれ髪かみに捕とらわれた。",
+            "kr": "머리는 갈멜 산 같고 드리운 머리털은 자주 빛이 있으니 왕이 그 머리카락에 매이었구나"
+          }
+        },
+        {
+          "key": "6",
+          "text": {
+            "fr": "Ta tête est élevée comme le Carmel, Et les cheveux de ta tête sont comme la pourpre ; Un roi est enchaîné par des boucles ! …",
+            "en": "How fair and how pleasant art thou, O love, for delights!",
+            "zh": "我所愛的、你何其美好．何其可悅。使人歡暢喜樂．",
+            "jp": "愛あいする者ものよ、快活かいかつなおとめよ、あなたはなんと美うつくしく愛あいすべき者ものであろう。",
+            "kr": "사랑아 네가 어찌 그리 아름다운지, 어찌 그리 화창한지 즐겁게 하는구나"
+          }
+        },
+        {
+          "key": "7",
+          "text": {
+            "fr": "Que tu es belle, que tu es agréable, Ô mon amour, au milieu des délices !",
+            "en": "This thy stature is like to a palm tree, and thy breasts to clusters of grapes.",
+            "zh": "你的身量、好像棕樹．你的兩乳如同其上的果子、纍纍下垂。",
+            "jp": "あなたはなつめやしの木きのように威厳いげんがあり、あなたの乳ちぶさはそのふさのようだ。",
+            "kr": "네 키는 종려나무 같고 네 유방은 그 열매송이 같구나"
+          }
+        },
+        {
+          "key": "8",
+          "text": {
+            "fr": "Ta taille ressemble au palmier, Et tes seins à des grappes.",
+            "en": "I said, I will go up to the palm tree, I will take hold of the boughs thereof: now also thy breasts shall be as clusters of the vine, and the smell of thy nose like apples;",
+            "zh": "我說我要上這棕樹、抓住枝子．願你的兩乳、好像葡萄纍纍下垂、你鼻子的氣味香如蘋果、",
+            "jp": "わたしは言いう、「このなつめやしの木きにのぼり、その枝えだに取とりつこう。どうか、あなたの乳ちぶさが、ぶどうのふさのごとく、あなたの息いきのにおいがりんごのごとく、",
+            "kr": "내가 말하기를 종려나무에 올라가서 그 가지를 잡으리라 하였나니 네 유방은 포도송이 같고 네 콧김은 사과 냄새 같고"
+          }
+        },
+        {
+          "key": "9",
+          "text": {
+            "fr": "Je me dis : Je monterai sur le palmier, J’en saisirai les rameaux ! Que tes seins soient comme les grappes de la vigne, Le parfum de ton souffle comme celui des pommes,",
+            "en": "And the roof of thy mouth like the best wine for my beloved, that goeth down sweetly, causing the lips of those that are asleep to speak.",
+            "zh": "你的口如上好的酒、女子說、為我的良人下咽舒暢、流入睡覺人的嘴中。",
+            "jp": "あなたの口くちづけが、なめらかに流ながれ下くだる良よきぶどう酒しゅのごとく、くちびると歯はの上うえをすべるように」と。",
+            "kr": "네 입은 좋은 포도주 같을 것이니라 이 포도주는 내 사랑하는 자를 위하여 미끄럽게 흘러내려서 자는 자의 입을 움직이게 하느니라"
+          }
+        },
+        {
+          "key": "10",
+          "text": {
+            "fr": "Et ta bouche comme un vin excellent, … Qui coule aisément pour mon bien-aimé, Et glisse sur les lèvres de ceux qui s’endorment !",
+            "en": "¶ I am my beloved’s, and his desire is toward me.",
+            "zh": "我屬我的良人．他也戀慕我。",
+            "jp": "わたしはわが愛あいする人ひとのもの、彼かれはわたしを恋こいい慕したう。",
+            "kr": "나는 내 사랑하는 자에게 속하였도다 그가 나를 사모하는구나"
+          }
+        },
+        {
+          "key": "11",
+          "text": {
+            "fr": "Je suis à mon bien-aimé, Et ses désirs se portent vers moi.",
+            "en": "Come, my beloved, let us go forth into the field; let us lodge in the villages.",
+            "zh": "我的良人、來罷、你我可以往田間去．你我可以在村莊住宿。",
+            "jp": "わが愛あいする者ものよ、さあ、わたしたちはいなかへ出でていって、村里むらざとに宿やどりましょう。",
+            "kr": "내 사랑하는 자야 우리가 함께 들로 가서 동네에서 유숙하자"
+          }
+        },
+        {
+          "key": "12",
+          "text": {
+            "fr": "Viens, mon bien-aimé, sortons dans les champs, Demeurons dans les villages !",
+            "en": "Let us get up early to the vineyards; let us see if the vine flourish, whether the tender grape appear, and the pomegranates bud forth: there will I give thee my loves.",
+            "zh": "我們早晨起來往葡萄園去看看葡萄發芽開花沒有、石榴放蕊沒有．我在那裡要將我的愛情給你。",
+            "jp": "わたしたちは早はやく起おき、ぶどう園えんへ行いって、ぶどうの木きが芽めざしたか、ぶどうの花はなが咲さいたか、ざくろが花はな咲さいたかを見みましょう。その所ところで、わたしはわが愛あいをあなたに与あたえます。",
+            "kr": "우리가 일찍이 일어나서 포도원으로 가서 포도 움이 돋았는지, 꽃술이 퍼졌는지, 석류 꽃이 피었는지 보자 거기에서 내가 내 사랑을 네게 주리라"
+          }
+        },
+        {
+          "key": "13",
+          "text": {
+            "fr": "Dès le matin nous irons aux vignes, Nous verrons si la vigne pousse, si la fleur s’ouvre, Si les grenadiers fleurissent. Là je te donnerai mon amour.",
+            "en": "The mandrakes give a smell, and at our gates are all manner of pleasant fruits, new and old, which I have laid up for thee, O my beloved.",
+            "zh": "風茄放香．在我們的門內有各樣新陳佳美的果子．我的良人、這都是我為你存留的。",
+            "jp": "恋こいなすは、かおりを放はなち、もろもろの良よきくだものは、新あたらしいのも古ふるいのも共ともにわたしたちの戸との上うえにある。わが愛あいする者ものよ、わたしはこれをあなたのためにたくわえました。",
+            "kr": "합환채가 향기를 뿜어내고 우리의 문 앞에는 여러 가지 귀한 열매가 새 것, 묵은 것으로 마련되었구나 내가 내 사랑하는 자 너를 위하여 쌓아 둔 것이로다"
+          }
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "introduction": {
+        "fr": "Les grandes eaux ne peuvent éteindre l’amour.",
+        "en": "Many waters cannot quench love.",
+        "zh": "Many waters cannot quench love.",
+        "jp": "Many waters cannot quench love.",
+        "kr": "Many waters cannot quench love."
+      },
+      "verses": [
+        {
+          "key": "1",
+          "text": {
+            "fr": "Oh ! Que n’es-tu mon frère, Allaité par ma mère ! Je te rencontrerais dehors, je t’embrasserais, Et l’on ne me mépriserait pas.",
+            "en": "O that thou wert as my brother, that sucked the breasts of my mother! when I should find thee without, I would kiss thee; yea, I should not be despised.",
+            "zh": "巴不得你像我的兄弟、像喫我母親奶的兄弟．我在外頭遇見你、就與你親嘴．誰也不輕看我。",
+            "jp": "どうか、あなたは、わが母ははの乳ちぶさを吸すったわが兄弟きょうだいのようになってください。わたしがそとであなたに会あうとき、あなたに口くちづけしても、だれもわたしをいやしめないでしょう。",
+            "kr": "네가 내 어머니의 젖을 먹은 오라비 같았더라면 내가 밖에서 너를 만날 때에 입을 맞추어도 나를 업신여길 자가 없었을 것이라"
+          }
+        },
+        {
+          "key": "2",
+          "text": {
+            "fr": "Je veux te conduire, t’amener à la maison de ma mère ; Tu me donneras tes instructions, Et je te ferai boire du vin parfumé, Du moût de mes grenades.",
+            "en": "I would lead thee, and bring thee into my mother’s house, who would instruct me: I would cause thee to drink of spiced wine of the juice of my pomegranate.",
+            "zh": "我必引導你、領你進我母親的家、我可以領受教訓、也就使你喝石榴汁釀的香酒。",
+            "jp": "わたしはあなたを導みちびいて、わが母ははの家いえに行いき、わたしを産うんだ者もののへやにはいり、香料こうりょうのはいったぶどう酒しゅ、ざくろの液えきを、あなたに飲のませましょう。",
+            "kr": "내가 너를 이끌어 내 어머니 집에 들이고 네게서 교훈을 받았으리라 나는 향기로운 술 곧 석류즙으로 네게 마시게 하겠고"
+          }
+        },
+        {
+          "key": "3",
+          "text": {
+            "fr": "Que sa main gauche soit sous ma tête, Et que sa droite m’embrasse !",
+            "en": "His left hand should be under my head, and his right hand should embrace me.",
+            "zh": "他的左手必在我頭下、他的右手必將我抱住。",
+            "jp": "どうか、彼かれの左ひだりの手てがわたしの頭あたまの下したにあり、右みぎの手てがわたしを抱だいてくれるように。",
+            "kr": "너는 왼팔로는 내 머리를 고이고 오른손으로는 나를 안았으리라"
+          }
+        },
+        {
+          "key": "4",
+          "text": {
+            "fr": "Je vous en conjure, filles de Jérusalem, Ne réveillez pas, ne réveillez pas l’amour, Avant qu’elle le veuille.",
+            "en": "I charge you, O daughters of Jerusalem, that ye stir not up, nor awake my love, until he please.",
+            "zh": "耶路撒冷的眾女子阿、我囑咐你們、不要驚動、不要叫醒我所親愛的、等他自己情願。〔不要叫醒云云或作不要激動愛情等他自發〕",
+            "jp": "エルサレムの娘むすめたちよ、わたしはあなたがたに誓ちかい、お願ねがいする、愛あいのおのずから起おこるときまでは、ことさらに呼よび起おこすことも、さますこともしないように。",
+            "kr": "예루살렘 딸들아 내가 너희에게 부탁한다 내 사랑하는 자가 원하기 전에는 흔들지 말며 깨우지 말지니라"
+          }
+        },
+        {
+          "key": "5",
+          "text": {
+            "fr": "Qui est celle qui monte du désert, Appuyée sur son bien-aimé ? Je t’ai réveillée sous le pommier ; Là ta mère t’a enfantée, C’est là qu’elle t’a enfantée, qu’elle t’a donné le jour.",
+            "en": "Who is this that cometh up from the wilderness, leaning upon her beloved? I raised thee up under the apple tree: there thy mother brought thee forth: there she brought thee forth that bare thee.",
+            "zh": "那靠著良人從曠野上來的、是誰呢。我在蘋果樹下叫醒你．你母親在那裡為你劬勞、生養你的在那裡為你劬勞。",
+            "jp": "自分じぶんの愛あいする者ものによりかかって、荒野あらのから上のぼって来くる者ものはだれですか。りんごの木きの下したで、わたしはあなたを呼よびさました。あなたの母上ははうえは、かしこで、あなたのために産うみの苦くるしみをなし、あなたの産うんだ者ものが、かしこで産うみの苦くるしみをした。",
+            "kr": "그의 사랑하는 자를 의지하고 거친 들에서 올라오는 여자가 누구인가 너로 말미암아 네 어머니가 고생한 곳 너를 낳은 자가 애쓴 그 곳 사과나무 아래에서 내가 너를 깨웠노라"
+          }
+        },
+        {
+          "key": "6",
+          "text": {
+            "fr": "Mets-moi comme un sceau sur ton cœur, Comme un sceau sur ton bras ; Car l’amour est fort comme la mort, La jalousie est inflexible comme le séjour des morts ; Ses ardeurs sont des ardeurs de feu, Une flamme de l’Éternel.",
+            "en": "¶ Set me as a seal upon thine heart, as a seal upon thine arm: for love is strong as death; jealousy is cruel as the grave: the coals thereof are coals of fire, which hath a most vehement flame.",
+            "zh": "求你將我放在你心上如印記、帶在你臂上如戳記．因為愛情如死之堅強．嫉恨如陰間之殘忍．所發的電光、是火焰的電光、是耶和華的烈焰。",
+            "jp": "わたしをあなたの心こころに置おいて印いんのようにし、あなたの腕うでに置おいて印いんのようにしてください。愛あいは死しのように強つよく、ねたみは墓はかのように残酷ざんこくだからです。そのきらめきは火ひのきらめき、最もっともはげしい炎ほのおです。",
+            "kr": "너는 나를 도장 같이 마음에 품고 도장 같이 팔에 두라 사랑은 죽음 같이 강하고 질투는 스올 같이 잔인하며 불길 같이 일어나니 그 기세가 여호와의 불과 같으니라"
+          }
+        },
+        {
+          "key": "7",
+          "text": {
+            "fr": "Les grandes eaux ne peuvent éteindre l’amour, Et les fleuves ne le submergeraient pas ; Quand un homme offrirait tous les biens de sa maison contre l’amour, Il ne s’attirerait que le mépris.",
+            "en": "Many waters cannot quench love, neither can the floods drown it: if a man would give all the substance of his house for love, it would utterly be contemned.",
+            "zh": "愛情、眾水不能息滅、大水也不能淹沒．若有人拿家中所有的財寶要換愛情、就全被藐視。",
+            "jp": "愛あいは大水おおみずも消けすことができない、洪水こうずいもおぼれさせることができない。もし人ひとがその家いえの財産ざいさんをことごとく与あたえて、愛あいに換かえようとするならば、いたくいやしめられるでしょう。",
+            "kr": "많은 물도 이 사랑을 끄지 못하겠고 홍수라도 삼키지 못하나니 사람이 그의 온 가산을 다 주고 사랑과 바꾸려 할지라도 오히려 멸시를 받으리라"
+          }
+        },
+        {
+          "key": "8",
+          "text": {
+            "fr": "Nous avons une petite sœur, Qui n’a pas encore de poitrine ; Que ferons-nous de notre sœur, Le jour où l’on s’intéressera à elle ?",
+            "en": "¶ We have a little sister, and she hath no breasts: what shall we do for our sister in the day when she shall be spoken for?",
+            "zh": "我們有一小妹、他的兩乳尚未長成．人來提親的日子、我們當為他怎樣辦理。",
+            "jp": "わたしたちに小ちいさい妹いもうとがある、まだ乳ちぶさがない。わたしたちの妹いもうとに縁談えんだんのある日ひには、彼女かのじょのために何なにをしてやろうか。",
+            "kr": "우리에게 있는 작은 누이는 아직도 유방이 없구나 그가 청혼을 받는 날에는 우리가 그를 위하여 무엇을 할까"
+          }
+        },
+        {
+          "key": "9",
+          "text": {
+            "fr": "Si elle est un mur, Nous bâtirons sur elle des créneaux d’argent ; Si elle est une porte, Nous la fermerons avec une planche de cèdre.",
+            "en": "If she be a wall, we will build upon her a palace of silver: and if she be a door, we will inclose her with boards of cedar.",
+            "zh": "他若是牆、我們要在其上建造銀塔．他若是門、我們要用香柏木板圍護他。",
+            "jp": "彼女かのじょが城壁じょうへきであるなら、その上うえに銀ぎんの塔とうを建たてよう。彼女かのじょが戸とであるなら、香柏こうはくの板いたでそれを囲かこもう。",
+            "kr": "그가 성벽이라면 우리는 은 망대를 그 위에 세울 것이요 그가 문이라면 우리는 백향목 판자로 두르리라"
+          }
+        },
+        {
+          "key": "10",
+          "text": {
+            "fr": "Je suis un mur, Et mes seins sont comme des tours ; J’ai été à ses yeux comme celle qui trouve la paix.",
+            "en": "I am a wall, and my breasts like towers: then was I in his eyes as one that found favour.",
+            "zh": "我是牆、我兩乳像其上的樓．那時我在他眼中像得平安的人。",
+            "jp": "わたしは城壁じょうへき、わたしの乳ちぶさは、やぐらのようでありました。それでわたしは彼かれの目めには、平和へいわをもたらす者もののようでありました。",
+            "kr": "나는 성벽이요 내 유방은 망대 같으니 그러므로 나는 그가 보기에 화평을 얻은 자 같구나"
+          }
+        },
+        {
+          "key": "11",
+          "text": {
+            "fr": "Salomon avait une vigne à Baal-Hamon ; Il remit la vigne à des gardiens ; Chacun apportait pour son fruit mille sicles d’argent.",
+            "en": "Solomon had a vineyard at Baal-hamon; he let out the vineyard unto keepers; every one for the fruit thereof was to bring a thousand pieces of silver.",
+            "zh": "所羅門在巴力哈們有一葡萄園．他將這葡萄園交給看守的人、為其中的果子必交一千舍客勒銀子。",
+            "jp": "ソロモンはバアルハモンにぶどう園えんをもっていた。彼かれはぶどう園えんを、守まもる者ものどもにあずけて、おのおのその実みのために銀ぎん一千を納おさめさせた。",
+            "kr": "솔로몬이 바알하몬에 포도원이 있어 지키는 자들에게 맡겨 두고 그들로 각기 그 열매로 말미암아 은 천을 바치게 하였구나"
+          }
+        },
+        {
+          "key": "12",
+          "text": {
+            "fr": "Ma vigne, qui est à moi, je la garde. À toi, Salomon, les mille sicles, Et deux cents à ceux qui gardent le fruit !",
+            "en": "My vineyard, which is mine, is before me: thou, O Solomon, must have a thousand, and those that keep the fruit thereof two hundred.",
+            "zh": "我自己的葡萄園在我面前．所羅門哪、一千舍客勒歸你、二百舍客勒歸看守果子的人。",
+            "jp": "わたしのものであるぶどう園えんは、わたしの前まえにある。ソロモンよ、あなたは一千を獲えるでしょう、その実みを守まもる者ものどもは二百を獲えるでしょう。",
+            "kr": "솔로몬 너는 천을 얻겠고 열매를 지키는 자도 이백을 얻으려니와 내게 속한 내 포도원은 내 앞에 있구나"
+          }
+        },
+        {
+          "key": "13",
+          "text": {
+            "fr": "Habitante des jardins ! Des amis prêtent l’oreille à ta voix. Daigne me la faire entendre !",
+            "en": "Thou that dwellest in the gardens, the companions hearken to thy voice: cause me to hear it.",
+            "zh": "你這住在園中的、同伴都要聽你的聲音．求你使我也得聽見。",
+            "jp": "園そのの中なかに住すむ者ものよ、わたしの友ともだちはあなたの声こえに耳みみを傾かたむけます、どうぞ、それをわたしに聞きかせてください。",
+            "kr": "너 동산에 거주하는 자야 친구들이 네 소리에 귀를 기울이니 내가 듣게 하려무나"
+          }
+        },
+        {
+          "key": "14",
+          "text": {
+            "fr": "Fuis, mon bien-aimé ! Sois semblable à la gazelle ou au faon des biches, Sur les montagnes des aromates !",
+            "en": "¶ Make haste, my beloved, and be thou like to a roe or to a young hart upon the mountains of spices.",
+            "zh": "我的良人哪、求你快來、如羚羊或小鹿在香草山上。",
+            "jp": "わが愛あいする者ものよ、急いそいでください。かんばしい山々やまやまの上うえで、かもしかのように、また若わかい雄おじかのようになってください。",
+            "kr": "내 사랑하는 자야 너는 빨리 달리라 향기로운 산 위에 있는 노루와도 같고 어린 사슴과도 같아라"
+          }
+        }
+      ]
+    }
+  ]
+}

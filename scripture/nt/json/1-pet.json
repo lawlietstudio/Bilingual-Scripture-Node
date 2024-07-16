@@ -1,0 +1,1135 @@
+{
+  "book": {
+    "fr": "1 PIERRE",
+    "en": "THE FIRST EPISTLE GENERAL OF",
+    "zh": "彼得前書",
+    "jp": "ペテロの第だい一の手紙てがみ",
+    "kr": "베드로전서"
+  },
+  "theme": {
+    "fr": "Chapitre 1",
+    "en": "",
+    "zh": "第1章",
+    "jp": "第1章",
+    "kr": "제 1 장"
+  },
+  "introduction": {
+    "fr": "",
+    "en": "Chapter 1",
+    "zh": "",
+    "jp": "Chapter 1",
+    "kr": "Chapter 1"
+  },
+  "chapters": [
+    {
+      "number": 1,
+      "introduction": {
+        "fr": "The trial of our faith precedes salvation—Christ was foreordained to be the Redeemer.",
+        "en": "The trial of our faith precedes salvation—Christ was foreordained to be the Redeemer.",
+        "zh": "The trial of our faith precedes salvation—Christ was foreordained to be the Redeemer.",
+        "jp": "The trial of our faith precedes salvation—Christ was foreordained to be the Redeemer.",
+        "kr": "The trial of our faith precedes salvation—Christ was foreordained to be the Redeemer."
+      },
+      "verses": [
+        {
+          "key": "1",
+          "text": {
+            "fr": "Pierre, apôtre de Jésus Christ, à ceux qui sont étrangers et dispersés dans le Pont, la Galatie, la Cappadoce, l’Asie et la Bithynie,",
+            "en": "Peter, an apostle of Jesus Christ, to the strangers scattered throughout Pontus, Galatia, Cappadocia, Asia, and Bithynia,",
+            "zh": "耶穌基督的使徒彼得、寫信給那分散在本都、加拉太、加帕多家、亞西亞、庇推尼寄居的．",
+            "jp": "イエス・キリストの使徒しとペテロから、ポント、ガラテヤ、カパドキヤ、アジヤおよびビテニヤに離散りさんし寄留きりゅうしている人ひとたち、",
+            "kr": "예수 그리스도의 사도 베드로는 본도, 갈라디아, 갑바도기아, 아시아와 비두니아에 흩어진 나그네"
+          }
+        },
+        {
+          "key": "2",
+          "text": {
+            "fr": "et qui sont élus selon la prescience de Dieu le Père, par la sanctification de l’Esprit, afin qu’ils deviennent obéissants, et qu’ils participent à l’aspersion du sang de Jésus Christ : que la grâce et la paix vous soient multipliées !",
+            "en": "Elect according to the foreknowledge of God the Father, through sanctification of the Spirit, unto obedience and sprinkling of the blood of Jesus Christ: Grace unto you, and peace, be multiplied.",
+            "zh": "就是照父　神的先見被揀選、藉著聖靈得成聖潔、以致順服耶穌基督、又蒙他血所灑的人．願恩惠平安、多多的加給你們。",
+            "jp": "すなわち、イエス・キリストに従したがい、かつ、その血ちのそそぎを受うけるために、父ちちなる神かみの予知よちされたところによって選えらばれ、御霊みたまのきよめにあずかっている人ひとたちへ。恵めぐみと平安へいあんとが、あなたがたに豊ゆたかに加くわわるように。",
+            "kr": "곧 하나님 아버지의 미리 아심을 따라 성령이 거룩하게 하심으로 순종함과 예수 그리스도의 피 뿌림을 얻기 위하여 택하심을 받은 자들에게 편지하노니 은혜와 평강이 너희에게 더욱 많을지어다"
+          }
+        },
+        {
+          "key": "3",
+          "text": {
+            "fr": "Béni soit Dieu, le Père de notre Seigneur Jésus Christ, qui, selon sa grande miséricorde, nous a régénérés, pour une espérance vivante, par la résurrection de Jésus Christ d’entre les morts,",
+            "en": "Blessed be the God and Father of our Lord Jesus Christ, which according to his abundant mercy hath begotten us again unto a lively hope by the resurrection of Jesus Christ from the dead,",
+            "zh": "願頌讚歸與我們主耶穌基督的父　神、他曾照自己的大憐憫、藉耶穌基督從死裡復活、重生了我們、叫我們有活潑的盼望、",
+            "jp": "ほむべきかな、わたしたちの主しゅイエス・キリストの父ちちなる神かみ。神かみは、その豊ゆたかなあわれみにより、イエス・キリストを死人しにんの中なかからよみがえらせ、それにより、わたしたちを新あらたに生うまれさせて生いける望のぞみをいだかせ、",
+            "kr": "우리 주 예수 그리스도의 아버지 하나님을 찬송하리로다 그의 많으신 긍휼대로 예수 그리스도를 죽은 자 가운데서 부활하게 하심으로 말미암아 우리를 거듭나게 하사 산 소망이 있게 하시며"
+          }
+        },
+        {
+          "key": "4",
+          "text": {
+            "fr": "pour un héritage qui ne se peut ni corrompre, ni souiller, ni flétrir, lequel vous est réservé dans les cieux,",
+            "en": "To an inheritance incorruptible, and undefiled, and that fadeth not away, reserved in heaven for you,",
+            "zh": "可以得著不能朽壞、不能玷污、不能衰殘、為你們存留在天上的基業。",
+            "jp": "あなたがたのために天てんにたくわえてある、朽くちず汚けがれず、しぼむことのない資産しさんを受うけ継つぐ者ものとして下くださったのである。",
+            "kr": "썩지 않고 더럽지 않고 쇠하지 아니하는 유업을 잇게 하시나니 곧 너희를 위하여 하늘에 간직하신 것이라"
+          }
+        },
+        {
+          "key": "5",
+          "text": {
+            "fr": "à vous qui, par la puissance de Dieu, êtes gardés par la foi pour le salut prêt à être révélé dans les derniers temps !",
+            "en": "Who are kept by the power of God through faith unto salvation ready to be revealed in the last time.",
+            "zh": "你們這因信蒙　神能力保守的人、必能得著所預備、到末世要顯現的救恩。",
+            "jp": "あなたがたは、終おわりの時ときに啓示けいじさるべき救すくいにあずかるために、信仰しんこうにより神かみの御み力ちからに守まもられているのである。",
+            "kr": "너희는 말세에 나타내기로 예비하신 구원을 얻기 위하여 믿음으로 말미암아 하나님의 능력으로 보호하심을 받았느니라"
+          }
+        },
+        {
+          "key": "6",
+          "text": {
+            "fr": "C’est là ce qui fait votre joie, quoique maintenant, puisqu’il le faut, vous soyez attristés pour un peu de temps par divers épreuves,",
+            "en": "Wherein ye greatly rejoice, though now for a season, if need be, ye are in heaviness through manifold temptations:",
+            "zh": "因此、你們是大有喜樂、但如今、在百般的試煉中暫時憂愁．",
+            "jp": "そのことを思おもって、今いましばらくのあいだは、さまざまな試錬しれんで悩なやまねばならないかも知しれないが、あなたがたは大おおいに喜よろこんでいる。",
+            "kr": "그러므로 너희가 이제 여러 가지 시험으로 말미암아 잠깐 근심하게 되지 않을 수 없으나 오히려 크게 기뻐하는도다"
+          }
+        },
+        {
+          "key": "7",
+          "text": {
+            "fr": "afin que l’épreuve de votre foi, plus précieuse que l’or périssable (qui cependant est éprouvé par le feu), ait pour résultat la louange, la gloire et l’honneur, lorsque Jésus Christ apparaîtra,—",
+            "en": "That the trial of your faith, being much more precious than of gold that perisheth, though it be tried with fire, might be found unto praise and honour and glory at the appearing of Jesus Christ:",
+            "zh": "叫你們的信心既被試驗、就比那被火試驗、仍然能壞的金子、更顯寶貴．可以在耶穌基督顯現的時候、得著稱讚、榮耀、尊貴。",
+            "jp": "こうして、あなたがたの信仰しんこうはためされて、火ひで精錬せいれんされても朽くちる外ほかはない金きんよりもはるかに尊たっといことが明あきらかにされ、イエス・キリストの現あらわれるとき、さんびと栄光えいこうとほまれとに変かわるであろう。",
+            "kr": "너희 믿음의 확실함은 불로 연단하여도 없어질 금보다 더 귀하여 예수 그리스도께서 나타나실 때에 칭찬과 영광과 존귀를 얻게 할 것이니라"
+          }
+        },
+        {
+          "key": "8",
+          "text": {
+            "fr": "lui que vous aimez sans l’avoir vu, en qui vous croyez sans le voir encore, vous réjouissant d’une joie ineffable et glorieuse,",
+            "en": "Whom having not seen, ye love; in whom, though now ye see him not, yet believing, ye rejoice with joy unspeakable and full of glory:",
+            "zh": "你們雖然沒有見過他、卻是愛他．如今雖不得看見、卻因信他就有說不出來、滿有榮光的大喜樂．",
+            "jp": "あなたがたは、イエス・キリストを見みたことはないが、彼かれを愛あいしている。現在げんざい、見みてはいないけれども、信しんじて、言葉ことばにつくせない、輝かがやきにみちた喜よろこびにあふれている。",
+            "kr": "예수를 너희가 보지 못하였으나 사랑하는도다 이제도 보지 못하나 믿고 말할 수 없는 영광스러운 즐거움으로 기뻐하니"
+          }
+        },
+        {
+          "key": "9",
+          "text": {
+            "fr": "parce que vous obtiendrez le salut de vos âmes pour prix de votre foi.",
+            "en": "Receiving the end of your faith, even the salvation of your souls.",
+            "zh": "並且得著你們信心的果效、就是靈魂的救恩。",
+            "jp": "それは、信仰しんこうの結果けっかなるたましいの救すくいを得えているからである。",
+            "kr": "믿음의 결국 곧 영혼의 구원을 받음이라"
+          }
+        },
+        {
+          "key": "10",
+          "text": {
+            "fr": "Les prophètes, qui ont prophétisé touchant la grâce qui vous était réservée, ont fait de ce salut l’objet de leurs recherches et de leurs investigations,",
+            "en": "Of which salvation the prophets have inquired and searched diligently, who prophesied of the grace that should come unto you:",
+            "zh": "論到這救恩、那預先說你們要得恩典的眾先知、早已詳細的尋求考察．",
+            "jp": "この救すくいについては、あなたがたに対たいする恵めぐみのことを預言よげんした預言者よげんしゃたちも、たずね求もとめ、かつ、つぶさに調しらべた。",
+            "kr": "이 구원에 대하여는 너희에게 임할 은혜를 예언하던 선지자들이 연구하고 부지런히 살펴서"
+          }
+        },
+        {
+          "key": "11",
+          "text": {
+            "fr": "voulant sonder l’époque et les circonstances marquées par l’Esprit de Christ qui était en eux, et qui attestait d’avance les souffrances de Christ et la gloire dont elles seraient suivies.",
+            "en": "Searching what, or what manner of time the Spirit of Christ which was in them did signify, when it testified beforehand the sufferings of Christ, and the glory that should follow.",
+            "zh": "就是考察在他們心裡基督的靈、預先證明基督受苦難、後來得榮耀、是指著甚麼時候、並怎樣的時候。",
+            "jp": "彼かれらは、自分じぶんたちのうちにいますキリストの霊れいが、キリストの苦難くなんとそれに続つづく栄光えいこうとを、あらかじめあかしした時とき、それは、いつの時とき、どんな場合ばあいをさしたのかを、調しらべたのである。",
+            "kr": "자기 속에 계신 그리스도의 영이 그 받으실 고난과 후에 받으실 영광을 미리 증언하여 누구를 또는 어떠한 때를 지시하시는지 상고하니라"
+          }
+        },
+        {
+          "key": "12",
+          "text": {
+            "fr": "Il leur fut révélé que ce n’était pas pour eux-mêmes, mais pour vous, qu’ils étaient les dispensateurs de ces choses, que vous ont annoncées maintenant ceux qui vous ont prêché l’Évangile par le Saint Esprit envoyé du ciel, et dans lesquelles les anges désirent plonger leurs regards.",
+            "en": "Unto whom it was revealed, that not unto themselves, but unto us they did minister the things, which are now reported unto you by them that have preached the gospel unto you with the Holy Ghost sent down from heaven; which things the angels desire to look into.",
+            "zh": "他們得了啟示、知道他們所傳講的一切事、〔傳講原文作服事〕不是為自己、乃是為你們．那靠著從天上差來的聖靈、傳福音給你們的人、現在將這些事報給你們．天使也願意詳細察看這些事。",
+            "jp": "そして、それらについて調しらべたのは、自分じぶんたちのためではなくて、あなたがたのための奉仕ほうしであることを示しめされた。それらの事ことは、天てんからつかわされた聖霊せいれいに感かんじて福音ふくいんをあなたがたに宣のべ伝つたえた人々ひとびとによって、今いまや、あなたがたに告つげ知しらされたのであるが、これは、御使みつかいたちも、うかがい見みたいと願ねがっている事ことである。",
+            "kr": "이 섬긴 바가 자기를 위한 것이 아니요 너희를 위한 것임이 계시로 알게 되었으니 이것은 하늘로부터 보내신 성령을 힘입어 복음을 전하는 자들로 이제 너희에게 알린 것이요 천사들도 살펴 보기를 원하는 것이니라"
+          }
+        },
+        {
+          "key": "13",
+          "text": {
+            "fr": "C’est pourquoi, ceignez les reins de votre entendement, soyez sobres, et ayez une entière espérance dans la grâce qui vous sera apportée, lorsque Jésus Christ apparaîtra.",
+            "en": "Wherefore gird up the loins of your mind, be sober, and hope to the end for the grace that is to be brought unto you at the revelation of Jesus Christ;",
+            "zh": "所以要約束你們的心、〔原文作束上你們心中的腰〕謹慎自守、專心盼望耶穌基督顯現的時候所帶來給你們的恩。",
+            "jp": "それだから、心こころの腰こしに帯おびを締しめ、身みを慎つつしみ、イエス・キリストの現あらわれる時ときに与あたえられる恵めぐみを、いささかも疑うたがわずに待まち望のぞんでいなさい。",
+            "kr": "그러므로 너희 마음의 허리를 동이고 근신하여 예수 그리스도께서 나타나실 때에 너희에게 가져다 주실 은혜를 온전히 바랄지어다"
+          }
+        },
+        {
+          "key": "14",
+          "text": {
+            "fr": "Comme des enfants obéissants, ne vous conformez pas aux convoitises que vous aviez autrefois, quand vous étiez dans l’ignorance.",
+            "en": "As obedient children, not fashioning yourselves according to the former lusts in your ignorance:",
+            "zh": "你們既作順命的兒女、就不要效法從前蒙昧無知的時候、那放縱私慾的樣子。",
+            "jp": "従順じゅうじゅんな子供こどもとして、無知むちであった時代じだいの欲情よくじょうに従したがわず、",
+            "kr": "너희가 순종하는 자식처럼 전에 알지 못할 때에 따르던 너희 사욕을 본받지 말고"
+          }
+        },
+        {
+          "key": "15",
+          "text": {
+            "fr": "Mais, puisque celui qui vous a appelés est saint, vous aussi soyez saints dans toute votre conduite, selon qu’il est écrit :",
+            "en": "But as he which hath called you is holy, so be ye holy in all manner of conversation;",
+            "zh": "那召你們的既是聖潔、你們在一切所行的事上也要聖潔．",
+            "jp": "むしろ、あなたがたを召めして下くださった聖せいなるかたにならって、あなたがた自身じしんも、あらゆる行おこないにおいて聖せいなる者ものとなりなさい。",
+            "kr": "오직 너희를 부르신 거룩한 이처럼 너희도 모든 행실에 거룩한 자가 되라"
+          }
+        },
+        {
+          "key": "16",
+          "text": {
+            "fr": "Vous serez saints, car je suis saint.",
+            "en": "Because it is written, Be ye holy; for I am holy.",
+            "zh": "因為經上記著說、『你們要聖潔、因為我是聖潔的。』",
+            "jp": "聖書せいしょに、「わたしが聖せいなる者ものであるから、あなたがたも聖せいなる者ものになるべきである」と書かいてあるからである。",
+            "kr": "기록되었으되 내가 거룩하니 너희도 거룩할지어다 하셨느니라"
+          }
+        },
+        {
+          "key": "17",
+          "text": {
+            "fr": "Et si vous invoquez comme Père celui qui juge selon l’oeuvre de chacun, sans acception de personnes, conduisez-vous avec crainte pendant le temps de votre pèlerinage,",
+            "en": "And if ye call on the Father, who without respect of persons judgeth according to every man’s work, pass the time of your sojourning here in fear:",
+            "zh": "你們既稱那不偏待人、按各人行為審判人的主為父、就當存敬畏的心、度你們在世寄居的日子．",
+            "jp": "あなたがたは、人ひとをそれぞれのしわざに応おうじて、公平こうへいにさばくかたを、父ちちと呼よんでいるからには、地上ちじょうに宿やどっている間あいだを、おそれの心こころをもって過すごすべきである。",
+            "kr": "외모로 보시지 않고 각 사람의 행위대로 심판하시는 이를 너희가 아버지라 부른즉 너희가 나그네로 있을 때를 두려움으로 지내라"
+          }
+        },
+        {
+          "key": "18",
+          "text": {
+            "fr": "sachant que ce n’est pas par des choses périssables, par de l’argent ou de l’or, que vous avez été rachetés de la vaine manière de vivre que vous avez héritée de vos pères,",
+            "en": "Forasmuch as ye know that ye were not redeemed with corruptible things, as silver and gold, from your vain conversation received by tradition from your fathers;",
+            "zh": "知道你們得贖、脫去你們祖宗所傳流虛妄的行為、不是憑著能壞的金銀等物．",
+            "jp": "あなたがたのよく知しっているとおり、あなたがたが先祖せんぞ伝来でんらいの空疎くうそな生活せいかつからあがない出だされたのは、銀ぎんや金きんのような朽くちる物ものによったのではなく、",
+            "kr": "너희가 알거니와 너희 조상이 물려 준 헛된 행실에서 대속함을 받은 것은 은이나 금 같이 없어질 것으로 된 것이 아니요"
+          }
+        },
+        {
+          "key": "19",
+          "text": {
+            "fr": "mais par le sang précieux de Christ, comme d’un agneau sans défaut et sans tache,",
+            "en": "But with the precious blood of Christ, as of a lamb without blemish and without spot:",
+            "zh": "乃是憑著基督的寶血、如同無瑕疵無玷污的羔羊之血．",
+            "jp": "きずも、しみもない小羊こひつじのようなキリストの尊たっとい血ちによったのである。",
+            "kr": "오직 흠 없고 점 없는 어린 양 같은 그리스도의 보배로운 피로 된 것이니라"
+          }
+        },
+        {
+          "key": "20",
+          "text": {
+            "fr": "prédestiné avant la fondation du monde, et manifesté à la fin des temps, à cause de vous,",
+            "en": "Who verily was foreordained before the foundation of the world, but was manifest in these last times for you,",
+            "zh": "基督在創世以前、是預先被　神知道的、卻在這末世、纔為你們顯現．",
+            "jp": "キリストは、天地てんちが造つくられる前まえから、あらかじめ知しられていたのであるが、この終おわりの時ときに至いたって、あなたがたのために現あらわれたのである。",
+            "kr": "그는 창세 전부터 미리 알린 바 되신 이나 이 말세에 너희를 위하여 나타내신 바 되었으니"
+          }
+        },
+        {
+          "key": "21",
+          "text": {
+            "fr": "qui par lui croyez en Dieu, lequel l’a ressuscité des morts et lui a donné la gloire, en sorte que votre foi et votre espérance reposent sur Dieu.",
+            "en": "Who by him do believe in God, that raised him up from the dead, and gave him glory; that your faith and hope might be in God.",
+            "zh": "你們也因著他、信那叫他從死裡復活、又給他榮耀的　神、叫你們的信心、和盼望、都在於　神。",
+            "jp": "あなたがたは、このキリストによって、彼かれを死人しにんの中なかからよみがえらせて、栄光えいこうをお与あたえになった神かみを信しんじる者ものとなったのであり、したがって、あなたがたの信仰しんこうと望のぞみとは、神かみにかかっているのである。",
+            "kr": "너희는 그를 죽은 자 가운데서 살리시고 영광을 주신 하나님을 그리스도로 말미암아 믿는 자니 너희 믿음과 소망이 하나님께 있게 하셨느니라"
+          }
+        },
+        {
+          "key": "22",
+          "text": {
+            "fr": "Ayant purifié vos âmes en obéissant à la vérité pour avoir un amour fraternel sincère, aimez-vous ardemment les uns les autres, de tout votre coeur,",
+            "en": "Seeing ye have purified your souls in obeying the truth through the Spirit unto unfeigned love of the brethren, see that ye love one another with a pure heart fervently:",
+            "zh": "你們既因順從真理、潔淨了自己的心、以致愛弟兄沒有虛假、就當從心裡彼此切實相愛．〔從心裡有古卷作從清潔的心〕",
+            "jp": "あなたがたは、真理しんりに従したがうことによって、たましいをきよめ、偽いつわりのない兄弟きょうだい愛あいをいだくに至いたったのであるから、互たがいに心こころから熱あつく愛あいし合あいなさい。",
+            "kr": "너희가 진리를 순종함으로 너희 영혼을 깨끗하게 하여 거짓이 없이 형제를 사랑하기에 이르렀으니 마음으로 뜨겁게 서로 사랑하라"
+          }
+        },
+        {
+          "key": "23",
+          "text": {
+            "fr": "puisque vous avez été régénérés, non par une semence corruptible, mais par une semence incorruptible, par la parole vivante et permanente de Dieu.",
+            "en": "Being born again, not of corruptible seed, but of incorruptible, by the word of God, which liveth and abideth for ever.",
+            "zh": "你們蒙了重生、不是由於能壞的種子、乃是由於不能壞的種子、是藉著　神活潑常存的道。",
+            "jp": "あなたがたが新あらたに生うまれたのは、朽くちる種たねからではなく、朽くちない種たねから、すなわち、神かみの変かわることのない生いける御言みことばによったのである。",
+            "kr": "너희가 거듭난 것은 썩어질 씨로 된 것이 아니요 썩지 아니할 씨로 된 것이니 살아 있고 항상 있는 하나님의 말씀으로 되었느니라"
+          }
+        },
+        {
+          "key": "24",
+          "text": {
+            "fr": "Car Toute chair est comme l’herbe, Et toute sa gloire comme la fleur de l’herbe. L’herbe sèche, et la fleur tombe ;",
+            "en": "For all flesh is as grass, and all the glory of man as the flower of grass. The grass withereth, and the flower thereof falleth away:",
+            "zh": "因為『凡有血氣的、盡都如草、他的美榮、都像草上的花．草必枯乾、花必凋謝．",
+            "jp": "「人ひとはみな草くさのごとく、その栄華えいがはみな草くさの花はなに似にている。草くさは枯かれ、花はなは散る。しかし、主しゅの言葉ことばは、とこしえに残のこる」。",
+            "kr": "그러므로 모든 육체는 풀과 같고 그 모든 영광은 풀의 꽃과 같으니 풀은 마르고 꽃은 떨어지되"
+          }
+        },
+        {
+          "key": "25",
+          "text": {
+            "fr": "Mais la parole du Seigneur demeure éternellement. Et cette parole est celle qui vous a été annoncée par l’Évangile.",
+            "en": "But the word of the Lord endureth for ever. And this is the word which by the gospel is preached unto you.",
+            "zh": "惟有主的道是永存的。』所傳給你們的福音就是這道。",
+            "jp": "これが、あなたがたに宣のべ伝つたえられた御言葉みことばである。",
+            "kr": "오직 주의 말씀은 세세토록 있도다 하였으니 너희에게 전한 복음이 곧 이 말씀이니라"
+          }
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "introduction": {
+        "fr": "Converts are newborn babes in Christ—He is the chief cornerstone—Saints hold a royal priesthood and are a peculiar people—Saints are in subjection to the laws of man.",
+        "en": "Converts are newborn babes in Christ—He is the chief cornerstone—Saints hold a royal priesthood and are a peculiar people—Saints are in subjection to the laws of man.",
+        "zh": "Converts are newborn babes in Christ—He is the chief cornerstone—Saints hold a royal priesthood and are a peculiar people—Saints are in subjection to the laws of man.",
+        "jp": "Converts are newborn babes in Christ—He is the chief cornerstone—Saints hold a royal priesthood and are a peculiar people—Saints are in subjection to the laws of man.",
+        "kr": "Converts are newborn babes in Christ—He is the chief cornerstone—Saints hold a royal priesthood and are a peculiar people—Saints are in subjection to the laws of man."
+      },
+      "verses": [
+        {
+          "key": "1",
+          "text": {
+            "fr": "Rejetant donc toute malice et toute ruse, la dissimulation, l’envie, et toute médisance,",
+            "en": "Wherefore laying aside all malice, and all guile, and hypocrisies, and envies, and all evil speakings,",
+            "zh": "所以你們既除去一切的惡毒、〔或作陰毒〕詭詐、並假善、嫉妒、和一切毀謗的話、",
+            "jp": "だから、あらゆる悪意あくい、あらゆる偽いつわり、偽善ぎぜん、そねみ、いっさいの悪口あっこうを捨すてて、",
+            "kr": "그러므로 모든 악독과 모든 기만과 외식과 시기와 모든 비방하는 말을 버리고"
+          }
+        },
+        {
+          "key": "2",
+          "text": {
+            "fr": "désirez, comme des enfants nouveau-nés, le lait spirituel et pur, afin que par lui vous croissiez pour le salut,",
+            "en": "As newborn babes, desire the sincere milk of the word, that ye may grow thereby:",
+            "zh": "就要愛慕那純淨的靈奶、像纔生的嬰孩愛慕奶一樣、叫你們因此漸長、以致得救．",
+            "jp": "今いま生うまれたばかりの乳飲ちのみ子ごのように、混まじりけのない霊れいの乳ちちを慕したい求もとめなさい。それによっておい育そだち、救すくいに入はいるようになるためである。",
+            "kr": "갓난 아기들 같이 순전하고 신령한 젖을 사모하라 이는 그로 말미암아 너희로 구원에 이르도록 자라게 하려 함이라"
+          }
+        },
+        {
+          "key": "3",
+          "text": {
+            "fr": "si vous avez goûté que le Seigneur est bon.",
+            "en": "If so be ye have tasted that the Lord is gracious.",
+            "zh": "你們若嘗過主恩的滋味、就必如此。",
+            "jp": "あなたがたは、主しゅが恵めぐみ深ぶかいかたであることを、すでに味あじわい知しったはずである。",
+            "kr": "너희가 주의 인자하심을 맛보았으면 그리하라"
+          }
+        },
+        {
+          "key": "4",
+          "text": {
+            "fr": "Approchez-vous de lui, pierre vivante, rejetée par les hommes, mais choisie et précieuse devant Dieu ;",
+            "en": "To whom coming, as unto a living stone, disallowed indeed of men, but chosen of God, and precious,",
+            "zh": "主乃活石．固然是被人所棄的、卻是被　神所揀選所寶貴的．",
+            "jp": "主しゅは、人ひとには捨すてられたが、神かみにとっては選えらばれた尊たっとい生いける石いしである。",
+            "kr": "사람에게는 버린 바가 되었으나 하나님께는 택하심을 입은 보배로운 산 돌이신 예수께 나아가"
+          }
+        },
+        {
+          "key": "5",
+          "text": {
+            "fr": "et vous-mêmes, comme des pierres vivantes, édifiez-vous pour former une maison spirituelle, un saint sacerdoce, afin d’offrir des victimes spirituelles, agréables à Dieu par Jésus Christ.",
+            "en": "Ye also, as lively stones, are built up a spiritual house, an holy priesthood, to offer up spiritual sacrifices, acceptable to God by Jesus Christ.",
+            "zh": "你們來到主面前、也就像活石、被建造成為靈宮、作聖潔的祭司、藉著耶穌基督奉獻　神所悅納的靈祭。",
+            "jp": "この主しゅのみもとにきて、あなたがたも、それぞれ生いける石いしとなって、霊れいの家いえに築きずき上あげられ、聖せいなる祭司さいしとなって、イエス・キリストにより、神かみによろこばれる霊れいのいけにえを、ささげなさい。",
+            "kr": "너희도 산 돌 같이 신령한 집으로 세워지고 예수 그리스도로 말미암아 하나님이 기쁘게 받으실 신령한 제사를 드릴 거룩한 제사장이 될지니라"
+          }
+        },
+        {
+          "key": "6",
+          "text": {
+            "fr": "Car il est dit dans l’Écriture : Voici, je mets en Sion une pierre Angulaire, choisie, précieuse ; Et celui qui croit en elle ne sera point confus.",
+            "en": "Wherefore also it is contained in the scripture, Behold, I lay in Sion a chief corner stone, elect, precious: and he that believeth on him shall not be confounded.",
+            "zh": "因為經上說、『看哪、我把所揀選所寶貴的房角石、安放在錫安．信靠他的人、必不至於羞愧。』",
+            "jp": "聖書せいしょにこう書かいてある、「見みよ、わたしはシオンに、選えらばれた尊たっとい石いし、隅すみのかしら石いしを置おく。それにより頼たのむ者ものは、決けっして、失望しつぼうに終おわることがない」。",
+            "kr": "성경에 기록되었으되 보라 내가 택한 보배로운 모퉁잇돌을 시온에 두노니 그를 믿는 자는 부끄러움을 당하지 아니하리라 하였으니"
+          }
+        },
+        {
+          "key": "7",
+          "text": {
+            "fr": "L’honneur est donc pour vous, qui croyez. Mais, pour les incrédules, La pierre qu’ont rejetée ceux qui bâtissaient Est devenue la principale de l’angle, Et une pierre d’achoppement Et un rocher de scandale ;",
+            "en": "Unto you therefore which believe he is precious: but unto them which be disobedient, the stone which the builders disallowed, the same is made the head of the corner,",
+            "zh": "所以他在你們信的人就為寶貴、在那不信的人有話說、『匠人所棄的石頭、已作了房角的頭塊石頭。』",
+            "jp": "この石いしは、より頼たのんでいるあなたがたには尊たっといものであるが、不ふ信仰しんこうな人々ひとびとには「家いえ造つくりらの捨すてた石いしで、隅すみのかしら石いしとなったもの」、",
+            "kr": "그러므로 믿는 너희에게는 보배이나 믿지 아니하는 자에게는 건축자들이 버린 그 돌이 모퉁이의 머릿돌이 되고"
+          }
+        },
+        {
+          "key": "8",
+          "text": {
+            "fr": "ils s’y heurtent pour n’avoir pas cru à la parole, et c’est à cela qu’ils sont destinés.",
+            "en": "And a stone of stumbling, and a rock of offence, even to them which stumble at the word, being disobedient: whereunto also they were appointed.",
+            "zh": "又說、『作了絆腳的石頭、跌人的磐石。』他們既不順從、就在道理上絆跌．〔或作他們絆跌都因不順從道理〕他們這樣絆跌也是預定的。",
+            "jp": "また「つまずきの石いし、妨さまたげの岩いわ」である。しかし、彼かれらがつまずくのは、御言みことばに従したがわないからであって、彼かれらは、実じつは、そうなるように定さだめられていたのである。",
+            "kr": "또한 부딪치는 돌과 걸려 넘어지게 하는 바위가 되었다 하였느니라 그들이 말씀을 순종하지 아니하므로 넘어지나니 이는 그들을 이렇게 정하신 것이라"
+          }
+        },
+        {
+          "key": "9",
+          "text": {
+            "fr": "Vous, au contraire, vous êtes une race élue, un sacerdoce royal, une nation sainte, un peuple acquis, afin que vous annonciez les vertus de celui qui vous a appelés des ténèbres à son admirable lumière,",
+            "en": "But ye are a chosen generation, a royal priesthood, an holy nation, a peculiar people; that ye should shew forth the praises of him who hath called you out of darkness into his marvellous light:",
+            "zh": "惟有你們是被揀選的族類、是有君尊的祭司、是聖潔的國度、是屬　神的子民、要叫你們宣揚那召你們出黑暗入奇妙光明者的美德。",
+            "jp": "しかし、あなたがたは、選えらばれた種族しゅぞく、祭司さいしの国くに、聖せいなる国民こくみん、神かみにつける民たみである。それによって、暗くらやみから驚おどろくべきみ光ひかりに招まねき入いれて下くださったかたのみわざを、あなたがたが語かたり伝つたえるためである。",
+            "kr": "그러나 너희는 택하신 족속이요 왕 같은 제사장들이요 거룩한 나라요 그의 소유가 된 백성이니 이는 너희를 어두운 데서 불러 내어 그의 기이한 빛에 들어가게 하신 이의 아름다운 덕을 선포하게 하려 하심이라"
+          }
+        },
+        {
+          "key": "10",
+          "text": {
+            "fr": "vous qui autrefois n’étiez pas un peuple, et qui maintenant êtes le peuple de Dieu, vous qui n’aviez pas obtenu miséricorde, et qui maintenant avez obtenu miséricorde.",
+            "en": "Which in time past were not a people, but are now the people of God: which had not obtained mercy, but now have obtained mercy.",
+            "zh": "你們從前算不得子民、現在卻作了　神的子民．從前未曾蒙憐恤、現在卻蒙了憐恤。",
+            "jp": "あなたがたは、以前いぜんは神かみの民たみでなかったが、いまは神かみの民たみであり、以前いぜんは、あわれみを受うけたことのない者ものであったが、いまは、あわれみを受うけた者ものとなっている。",
+            "kr": "너희가 전에는 백성이 아니더니 이제는 하나님의 백성이요 전에는 긍휼을 얻지 못하였더니 이제는 긍휼을 얻은 자니라"
+          }
+        },
+        {
+          "key": "11",
+          "text": {
+            "fr": "Bien-aimés, je vous exhorte, comme étrangers et voyageurs sur la terre, à vous abstenir des convoitises charnelles qui font la guerre à l’âme.",
+            "en": "Dearly beloved, I beseech you as strangers and pilgrims, abstain from fleshly lusts, which war against the soul;",
+            "zh": "親愛的弟兄阿、你們是客旅、是寄居的．我勸你們要禁戒肉體的私慾．這私慾是與靈魂爭戰的。",
+            "jp": "愛あいする者ものたちよ。あなたがたに勧すすめる。あなたがたは、この世よの旅人たびびとであり寄留者きりゅうしゃであるから、たましいに戦たたかいをいどむ肉にくの欲よくを避さけなさい。",
+            "kr": "사랑하는 자들아 거류민과 나그네 같은 너희를 권하노니 영혼을 거슬러 싸우는 육체의 정욕을 제어하라"
+          }
+        },
+        {
+          "key": "12",
+          "text": {
+            "fr": "Ayez au milieu des païens une bonne conduite, afin que, là même où ils vous calomnient comme si vous étiez des malfaiteurs, ils remarquent vos bonnes oeuvres, et glorifient Dieu, au jour où il les visitera.",
+            "en": "Having your conversation honest among the Gentiles: that, whereas they speak against you as evildoers, they may by your good works, which they shall behold, glorify God in the day of visitation.",
+            "zh": "你們在外邦人中、應當品行端正、叫那些毀謗你們是作惡的、因看見你們的好行為、便在鑒察的日子、〔鑒察或作眷顧〕歸榮耀給　神。",
+            "jp": "異邦人いほうじんの中なかにあって、りっぱな行おこないをしなさい。そうすれば、彼かれらは、あなたがたを悪人あくにん呼よばわりしていても、あなたがたのりっぱなわざを見みて、かえって、おとずれの日ひに神かみをあがめるようになろう。",
+            "kr": "너희가 이방인 중에서 행실을 선하게 가져 너희를 악행한다고 비방하는 자들로 하여금 너희 선한 일을 보고 오시는 날에 하나님께 영광을 돌리게 하려 함이라"
+          }
+        },
+        {
+          "key": "13",
+          "text": {
+            "fr": "Soyez soumis, à cause du Seigneur, à toute autorité établie parmi les hommes, soit au roi comme souverain,",
+            "en": "Submit yourselves to every ordinance of man for the Lord’s sake: whether it be to the king, as supreme;",
+            "zh": "你們為主的緣故、要順服人的一切制度、或是在上的君王、",
+            "jp": "あなたがたは、すべて人ひとの立たてた制せい度どに、主しゅのゆえに従したがいなさい。主権者しゅけんしゃとしての王おうであろうと、",
+            "kr": "인간의 모든 제도를 주를 위하여 순종하되 혹은 위에 있는 왕이나"
+          }
+        },
+        {
+          "key": "14",
+          "text": {
+            "fr": "soit aux gouverneurs comme envoyés par lui pour punir les malfaiteurs et pour approuver les gens de bien.",
+            "en": "Or unto governors, as unto them that are sent by him for the punishment of evildoers, and for the praise of them that do well.",
+            "zh": "或是君王所派罰惡賞善的臣宰。",
+            "jp": "あるいは、悪あくを行おこなう者ものを罰ばっし善ぜんを行おこなう者ものを賞しょうするために、王おうからつかわされた長官ちょうかんであろうと、これに従したがいなさい。",
+            "kr": "혹은 그가 악행하는 자를 징벌하고 선행하는 자를 포상하기 위하여 보낸 총독에게 하라"
+          }
+        },
+        {
+          "key": "15",
+          "text": {
+            "fr": "Car c’est la volonté de Dieu qu’en pratiquant le bien vous réduisiez au silence les hommes ignorants et insensés,",
+            "en": "For so is the will of God, that with well doing ye may put to silence the ignorance of foolish men:",
+            "zh": "因為　神的旨意原是要你們行善、可以堵住那糊塗無知人的口。",
+            "jp": "善ぜんを行おこなうことによって、愚おろかな人々ひとびとの無知むちな発言はつげんを封ふうじるのは、神かみの御旨みむねなのである。",
+            "kr": "곧 선행으로 어리석은 사람들의 무식한 말을 막으시는 것이라"
+          }
+        },
+        {
+          "key": "16",
+          "text": {
+            "fr": "étant libres, sans faire de la liberté un voile qui couvre la méchanceté, mais agissant comme des serviteurs de Dieu.",
+            "en": "As free, and not using your liberty for a cloak of maliciousness, but as the servants of God.",
+            "zh": "你們雖是自由的、卻不可藉著自由遮蓋惡毒、〔或作陰毒〕總要作　神的僕人。",
+            "jp": "自由人じゆうじんにふさわしく行動こうどうしなさい。ただし、自由じゆうをば悪あくを行おこなう口実こうじつとして用もちいず、神かみの僕しもべにふさわしく行動こうどうしなさい。",
+            "kr": "너희는 자유가 있으나 그 자유로 악을 가리는 데 쓰지 말고 오직 하나님의 종과 같이 하라"
+          }
+        },
+        {
+          "key": "17",
+          "text": {
+            "fr": "Honorez tout le monde ; aimez les frères ; craignez Dieu ; honorez le roi.",
+            "en": "Honour all men. Love the brotherhood. Fear God. Honour the king.",
+            "zh": "務要尊敬眾人．親愛教中的弟兄．敬畏　神．尊敬君王。",
+            "jp": "すべての人ひとをうやまい、兄弟きょうだいたちを愛あいし、神かみをおそれ、王おうを尊たっとびなさい。",
+            "kr": "뭇 사람을 공경하며 형제를 사랑하며 하나님을 두려워하며 왕을 존대하라"
+          }
+        },
+        {
+          "key": "18",
+          "text": {
+            "fr": "Serviteurs, soyez soumis en toute crainte à vos maîtres, non seulement à ceux qui sont bons et doux, mais aussi à ceux qui sont d’un caractère difficile.",
+            "en": "Servants, be subject to your masters with all fear; not only to the good and gentle, but also to the froward.",
+            "zh": "你們作僕人的、凡事要存敬畏的心順服主人．不但順服那善良溫和的、就是那乖僻的也要順服。",
+            "jp": "僕しもべたる者ものよ。心こころからのおそれをもって、主人しゅじんに仕つかえなさい。善良ぜんりょうで寛容かんような主人しゅじんだけにでなく、気きむずかしい主人しゅじんにも、そうしなさい。",
+            "kr": "사환들아 범사에 두려워함으로 주인들에게 순종하되 선하고 관용하는 자들에게만 아니라 또한 까다로운 자들에게도 그리하라"
+          }
+        },
+        {
+          "key": "19",
+          "text": {
+            "fr": "Car c’est une grâce que de supporter des afflictions par motif de conscience envers Dieu, quand on souffre injustement.",
+            "en": "For this is thankworthy, if a man for conscience toward God endure grief, suffering wrongfully.",
+            "zh": "倘若人為叫良心對得住　神、就忍受冤屈的苦楚、這是可喜愛的。",
+            "jp": "もしだれかが、不当ふとうな苦くるしみを受うけても、神かみを仰あおいでその苦痛くつうを耐たえ忍しのぶなら、それはよみせられることである。",
+            "kr": "부당하게 고난을 받아도 하나님을 생각함으로 슬픔을 참으면 이는 아름다우나"
+          }
+        },
+        {
+          "key": "20",
+          "text": {
+            "fr": "En effet, quelle gloire y a-t-il à supporter de mauvais traitements pour avoir commis des fautes ? Mais si vous supportez la souffrance lorsque vous faites ce qui est bien, c’est une grâce devant Dieu.",
+            "en": "For what glory is it, if, when ye be buffeted for your faults, ye shall take it patiently? but if, when ye do well, and suffer for it, ye take it patiently, this is acceptable with God.",
+            "zh": "你們若因犯罪受責打、能忍耐、有甚麼可誇的呢．但你們若因行善受苦、能忍耐、這在　神看是可喜愛的。",
+            "jp": "悪わるいことをして打うちたたかれ、それを忍しのんだとしても、なんの手柄てがらになるのか。しかし善ぜんを行おこなって苦くるしみを受うけ、しかもそれを耐たえ忍しのんでいるとすれば、これこそ神かみによみせられることである。",
+            "kr": "죄가 있어 매를 맞고 참으면 무슨 칭찬이 있으리요 그러나 선을 행함으로 고난을 받고 참으면 이는 하나님 앞에 아름다우니라"
+          }
+        },
+        {
+          "key": "21",
+          "text": {
+            "fr": "Et c’est à cela que vous avez été appelés, parce que Christ aussi a souffert pour vous, vous laissant un exemple, afin que vous suiviez ses traces,",
+            "en": "For even hereunto were ye called: because Christ also suffered for us, leaving us an example, that ye should follow his steps:",
+            "zh": "你們蒙召原是為此．因基督也為你們受過苦、給你們留下榜樣、叫你們跟隨他的腳蹤行．",
+            "jp": "あなたがたは、実じつに、そうするようにと召めされたのである。キリストも、あなたがたのために苦くるしみを受うけ、御足みあしの跡あとを踏ふみ従したがうようにと、模範もはんを残のこされたのである。",
+            "kr": "이를 위하여 너희가 부르심을 받았으니 그리스도도 너희를 위하여 고난을 받으사 너희에게 본을 끼쳐 그 자취를 따라오게 하려 하셨느니라"
+          }
+        },
+        {
+          "key": "22",
+          "text": {
+            "fr": "Lui qui n’a point commis de péché, Et dans la bouche duquel il ne s’est point trouvé de fraude ;",
+            "en": "Who did no sin, neither was guile found in his mouth:",
+            "zh": "他並沒有犯罪、口裡也沒有詭詐．",
+            "jp": "キリストは罪つみを犯おかさず、その口くちには偽いつわりがなかった。",
+            "kr": "그는 죄를 범하지 아니하시고 그 입에 거짓도 없으시며"
+          }
+        },
+        {
+          "key": "23",
+          "text": {
+            "fr": "lui qui, injurié, ne rendait point d’injures, maltraité, ne faisait point de menaces, mais s’en remettait à celui qui juge justement ;",
+            "en": "Who, when he was reviled, reviled not again; when he suffered, he threatened not; but committed himself to him that judgeth righteously:",
+            "zh": "他被罵不還口．受害不說威嚇的話．只將自己交託那按公義審判人的主．",
+            "jp": "ののしられても、ののしりかえさず、苦くるしめられても、おびやかすことをせず、正ただしいさばきをするかたに、いっさいをゆだねておられた。",
+            "kr": "욕을 당하시되 맞대어 욕하지 아니하시고 고난을 당하시되 위협하지 아니하시고 오직 공의로 심판하시는 이에게 부탁하시며"
+          }
+        },
+        {
+          "key": "24",
+          "text": {
+            "fr": "lui qui a porté lui-même nos péchés en son corps sur le bois, afin que morts aux péchés nous vivions pour la justice ; lui par les meurtrissures duquel vous avez été guéris.",
+            "en": "Who his own self bare our sins in his own body on the tree, that we, being dead to sins, should live unto righteousness: by whose stripes ye were healed.",
+            "zh": "他被掛在木頭上親身擔當了我們的罪、使我們既然在罪上死、就得以在義上活．因他受的鞭傷、你們便得了醫治。",
+            "jp": "さらに、わたしたちが罪つみに死しに、義ぎに生いきるために、十字架じゅうじかにかかって、わたしたちの罪つみをご自分じぶんの身みに負おわれた。その傷きずによって、あなたがたは、いやされたのである。",
+            "kr": "친히 나무에 달려 그 몸으로 우리 죄를 담당하셨으니 이는 우리로 죄에 대하여 죽고 의에 대하여 살게 하려 하심이라 그가 채찍에 맞음으로 너희는 나음을 얻었나니"
+          }
+        },
+        {
+          "key": "25",
+          "text": {
+            "fr": "Car vous étiez comme des brebis errantes. Mais maintenant vous êtes retournés vers le pasteur et le gardien de vos âmes.",
+            "en": "For ye were as sheep going astray; but are now returned unto the Shepherd and Bishop of your souls.",
+            "zh": "你們從前好像迷路的羊．如今卻歸到你們靈魂的牧人監督了。",
+            "jp": "あなたがたは、羊ひつじのようにさ迷まよっていたが、今いまは、たましいの牧者ぼくしゃであり監督かんとくであるかたのもとに、たち帰かえったのである。",
+            "kr": "너희가 전에는 양과 같이 길을 잃었더니 이제는 너희 영혼의 목자와 감독 되신 이에게 돌아왔느니라"
+          }
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "introduction": {
+        "fr": "Husbands and wives should honor each other—Saints should live by gospel standards—Christ preached to the spirits in prison.",
+        "en": "Husbands and wives should honor each other—Saints should live by gospel standards—Christ preached to the spirits in prison.",
+        "zh": "Husbands and wives should honor each other—Saints should live by gospel standards—Christ preached to the spirits in prison.",
+        "jp": "Husbands and wives should honor each other—Saints should live by gospel standards—Christ preached to the spirits in prison.",
+        "kr": "Husbands and wives should honor each other—Saints should live by gospel standards—Christ preached to the spirits in prison."
+      },
+      "verses": [
+        {
+          "key": "1",
+          "text": {
+            "fr": "Femmes, soyez de mêmes soumises à vos maris, afin que, si quelques-uns n’obéissent point à la parole, ils soient gagnés sans parole par la conduite de leurs femmes,",
+            "en": "Likewise, ye wives, be in subjection to your own husbands; that, if any obey not the word, they also may without the word be won by the conversation of the wives;",
+            "zh": "你們作妻子的、要順服自己的丈夫．這樣、若有不信從道理的丈夫、他們雖然不聽道、也可以因妻子的品行被感化過來．",
+            "jp": "同おなじように、妻つまたる者ものよ。夫おっとに仕つかえなさい。そうすれば、たとい御言みことばに従したがわない夫おっとであっても、",
+            "kr": "아내들아 이와 같이 자기 남편에게 순종하라 이는 혹 말씀을 순종하지 않는 자라도 말로 말미암지 않고 그 아내의 행실로 말미암아 구원을 받게 하려 함이니"
+          }
+        },
+        {
+          "key": "2",
+          "text": {
+            "fr": "en voyant votre manière de vivre chaste et réservée.",
+            "en": "While they behold your chaste conversation coupled with fear.",
+            "zh": "這正是因看見你們有貞潔的品行、和敬畏的心．",
+            "jp": "あなたがたのうやうやしく清きよい行おこないを見みて、その妻つまの無言むごんの行おこないによって、救すくいに入いれられるようになるであろう。",
+            "kr": "너희의 두려워하며 정결한 행실을 봄이라"
+          }
+        },
+        {
+          "key": "3",
+          "text": {
+            "fr": "Ayez, non cette parure extérieure qui consiste dans les cheveux tressés, les ornements d’or, ou les habits qu’on revêt,",
+            "en": "Whose adorning let it not be that outward adorning of plaiting the hair, and of wearing of gold, or of putting on of apparel;",
+            "zh": "你們不要以外面的辮頭髮、戴金飾、穿美衣、為妝飾、",
+            "jp": "あなたがたは、髪かみを編あみ、金きんの飾かざりをつけ、服装ふくそうをととのえるような外がい面めんの飾かざりではなく、",
+            "kr": "너희의 단장은 머리를 꾸미고 금을 차고 아름다운 옷을 입는 외모로 하지 말고"
+          }
+        },
+        {
+          "key": "4",
+          "text": {
+            "fr": "mais la parure intérieure et cachée dans le coeur, la pureté incorruptible d’un esprit doux et paisible, qui est d’un grand prix devant Dieu.",
+            "en": "But let it be the hidden man of the heart, in that which is not corruptible, even the ornament of a meek and quiet spirit, which is in the sight of God of great price.",
+            "zh": "只要以裡面存著長久溫柔安靜的心為妝飾．這在　神面前是極寶貴的。",
+            "jp": "かくれた内うちなる人ひと、柔和にゅうわで、しとやかな霊れいという朽くちることのない飾かざりを、身みにつけるべきである。これこそ、神かみのみまえに、きわめて尊たっといものである。",
+            "kr": "오직 마음에 숨은 사람을 온유하고 안정한 심령의 썩지 아니할 것으로 하라 이는 하나님 앞에 값진 것이니라"
+          }
+        },
+        {
+          "key": "5",
+          "text": {
+            "fr": "Ainsi se paraient autrefois les saintes femmes qui espéraient en Dieu, soumises à leurs maris,",
+            "en": "For after this manner in the old time the holy women also, who trusted in God, adorned themselves, being in subjection unto their own husbands:",
+            "zh": "因為古時仰賴　神的聖潔婦人、正是以此為妝飾、順服自己的丈夫．",
+            "jp": "むかし、神かみを仰あおぎ望のぞんでいた聖せいなる女おんなたちも、このように身みを飾かざって、その夫おっとに仕つかえたのである。",
+            "kr": "전에 하나님께 소망을 두었던 거룩한 부녀들도 이와 같이 자기 남편에게 순종함으로 자기를 단장하였나니"
+          }
+        },
+        {
+          "key": "6",
+          "text": {
+            "fr": "comme Sara, qui obéissait à Abraham et l’appelait son seigneur. C’est d’elle que vous êtes devenues les filles, en faisant ce qui est bien, sans vous laisser troubler par aucune crainte.",
+            "en": "Even as Sara obeyed Abraham, calling him lord: whose daughters ye are, as long as ye do well, and are not afraid with any amazement.",
+            "zh": "就如撒拉聽從亞伯拉罕、稱他為主．你們若行善、不因恐嚇而害怕、便是撒拉的女兒了。",
+            "jp": "たとえば、サラはアブラハムに仕つかえて、彼かれを主しゅと呼よんだ。あなたがたも、何事なにごとにもおびえ臆おくすることなく善ぜんを行おこなえば、サラの娘むすめたちとなるのである。",
+            "kr": "사라가 아브라함을 주라 칭하여 순종한 것 같이 너희는 선을 행하고 아무 두려운 일에도 놀라지 아니하면 그의 딸이 된 것이니라"
+          }
+        },
+        {
+          "key": "7",
+          "text": {
+            "fr": "Maris, montrer à votre tour de la sagesse dans vos rapports avec vos femmes, comme avec un sexe plus faible ; honorez-les, comme devant aussi hériter avec vous de la grâce de la vie. Qu’il en soit ainsi, afin que rien ne vienne faire obstacle à vos prières.",
+            "en": "Likewise, ye husbands, dwell with them according to knowledge, giving honour unto the wife, as unto the weaker vessel, and as being heirs together of the grace of life; that your prayers be not hindered.",
+            "zh": "你們作丈夫的、也要按情理和妻子同住．〔情理原文作知識〕因他比你軟弱、〔比你軟弱原文作是軟弱的器皿〕與你一同承受生命之恩的、所以要敬重他．這樣便叫你們的禱告沒有阻礙。",
+            "jp": "夫おっとたる者ものよ。あなたがたも同おなじように、女おんなは自分じぶんよりも弱よわい器うつわであることを認みとめて、知識ちしきに従したがって妻つまと共ともに住すみ、いのちの恵めぐみを共ともどもに受うけ継つぐ者ものとして、尊たっとびなさい。それは、あなたがたの祈いのりが妨さまたげられないためである。",
+            "kr": "남편들아 이와 같이 지식을 따라 너희 아내와 동거하고 그를 더 연약한 그릇이요 또 생명의 은혜를 함께 이어받을 자로 알아 귀히 여기라 이는 너희 기도가 막히지 아니하게 하려 함이라"
+          }
+        },
+        {
+          "key": "8",
+          "text": {
+            "fr": "Enfin, soyez tous animés des mêmes pensées et des mêmes sentiments, pleins d’amour fraternel, de compassion, d’humilité.",
+            "en": "Finally, be ye all of one mind, having compassion one of another, love as brethren, be pitiful, be courteous:",
+            "zh": "總而言之、你們都要同心、彼此體恤、相愛如弟兄、存慈憐謙卑的心．",
+            "jp": "最後さいごに言いう。あなたがたは皆みな、心こころをひとつにし、同情どうじょうし合あい、兄弟きょうだい愛あいをもち、あわれみ深ぶかくあり、謙虚けんきょでありなさい。",
+            "kr": "마지막으로 말하노니 너희가 다 마음을 같이하여 동정하며 형제를 사랑하며 불쌍히 여기며 겸손하며"
+          }
+        },
+        {
+          "key": "9",
+          "text": {
+            "fr": "Ne rendez point mal pour mal, ou injure pour injure ; bénissez, au contraire, car c’est à cela que vous avez été appelés, afin d’hériter la bénédiction.",
+            "en": "Not rendering evil for evil, or railing for railing: but contrariwise blessing; knowing that ye are thereunto called, that ye should inherit a blessing.",
+            "zh": "不以惡報惡、以辱罵還辱罵、倒要祝福．因你們是為此蒙召、好叫你們承受福氣。",
+            "jp": "悪あくをもって悪あくに報むくいず、悪口あっこうをもって悪口あっこうに報むくいず、かえって、祝福しゅくふくをもって報むくいなさい。あなたがたが召めされたのは、祝福しゅくふくを受うけ継つぐためなのである。",
+            "kr": "악을 악으로, 욕을 욕으로 갚지 말고 도리어 복을 빌라 이를 위하여 너희가 부르심을 받았으니 이는 복을 이어받게 하려 하심이라"
+          }
+        },
+        {
+          "key": "10",
+          "text": {
+            "fr": "Si quelqu’un, en effet, veut aimer la vie Et voir des jours heureux, Qu’il préserve sa langue du mal Et ses lèvres des paroles trompeuses,",
+            "en": "For he that will love life, and see good days, let him refrain his tongue from evil, and his lips that they speak no guile:",
+            "zh": "因為經上說、『人若愛生命、願享美福、須要禁止舌頭不出惡言、嘴唇不說詭詐的話．",
+            "jp": "「いのちを愛あいし、さいわいな日々ひびを過すごそうと願ねがう人ひとは、舌したを制せいして悪あくを言いわず、くちびるを閉とじて偽いつわりを語かたらず、",
+            "kr": "그러므로 생명을 사랑하고 좋은 날 보기를 원하는 자는 혀를 금하여 악한 말을 그치며 그 입술로 거짓을 말하지 말고"
+          }
+        },
+        {
+          "key": "11",
+          "text": {
+            "fr": "Qu’il s’éloigne du mal et fasse le bien, Qu’il recherche la paix et la poursuive ;",
+            "en": "Let him eschew evil, and do good; let him seek peace, and ensue it.",
+            "zh": "也要離惡行善．尋求和睦、一心追趕。",
+            "jp": "悪あくを避さけて善ぜんを行おこない、平和へいわを求もとめて、これを追おえ。",
+            "kr": "악에서 떠나 선을 행하고 화평을 구하며 그것을 따르라"
+          }
+        },
+        {
+          "key": "12",
+          "text": {
+            "fr": "Car les yeux du Seigneur sont sur les justes Et ses oreilles sont attentives à leur prière, Mais la face du Seigneur est contre ceux qui font le mal.",
+            "en": "For the eyes of the Lord are over the righteous, and his ears are open unto their prayers: but the face of the Lord is against them that do evil.",
+            "zh": "因為主的眼看顧義人、主的耳聽他們的祈禱．惟有行惡的人、主向他們變臉。』",
+            "jp": "主しゅの目めは義人ぎじんたちに注そそがれ、主しゅの耳みみは彼かれらの祈いのりにかたむく。しかし主しゅの御顔みかおは、悪あくを行おこなう者ものに対たいして向むかう」。",
+            "kr": "주의 눈은 의인을 향하시고 그의 귀는 의인의 간구에 기울이시되 주의 얼굴은 악행하는 자들을 대하시느니라 하였느니라"
+          }
+        },
+        {
+          "key": "13",
+          "text": {
+            "fr": "Et qui vous maltraitera, si vous êtes zélés pour le bien ?",
+            "en": "And who is he that will harm you, if ye be followers of that which is good?",
+            "zh": "你們若是熱心行善、有誰害你們呢。",
+            "jp": "そこで、もしあなたがたが善ぜんに熱心ねっしんであれば、だれが、あなたがたに危害きがいを加くわえようか。",
+            "kr": "또 너희가 열심으로 선을 행하면 누가 너희를 해하리요"
+          }
+        },
+        {
+          "key": "14",
+          "text": {
+            "fr": "D’ailleurs, quand vous souffririez pour la justice, vous seriez heureux. N’ayez d’eux aucune crainte, et ne soyez pas troublés ;",
+            "en": "But and if ye suffer for righteousness’ sake, happy are ye: and be not afraid of their terror, neither be troubled;",
+            "zh": "你們就是為義受苦、也是有福的．不要怕人的威嚇、也不要驚慌．〔的威嚇或作所怕的〕",
+            "jp": "しかし、万一まんいち義ぎのために苦くるしむようなことがあっても、あなたがたはさいわいである。彼かれらを恐おそれたり、心こころを乱みだしたりしてはならない。",
+            "kr": "그러나 의를 위하여 고난을 받으면 복 있는 자니 그들이 두려워하는 것을 두려워하지 말며 근심하지 말고"
+          }
+        },
+        {
+          "key": "15",
+          "text": {
+            "fr": "Mais sanctifiez dans vos coeurs Christ le Seigneur, étant toujours prêts à vous défendre, avec douceur et respect, devant quiconque vous demande raison de l’espérance qui est en vous,",
+            "en": "But sanctify the Lord God in your hearts: and be ready always to give an answer to every man that asketh you a reason of the hope that is in you with meekness and fear:",
+            "zh": "只要心裡尊主基督為聖．有人問你們心中盼望的緣由、就要常作準備、以溫柔敬畏的心回答各人．",
+            "jp": "ただ、心こころの中なかでキリストを主しゅとあがめなさい。また、あなたがたのうちにある望のぞみについて説明せつめいを求もとめる人ひとには、いつでも弁明べんめいのできる用意よういをしていなさい。",
+            "kr": "너희 마음에 그리스도를 주로 삼아 거룩하게 하고 너희 속에 있는 소망에 관한 이유를 묻는 자에게는 대답할 것을 항상 준비하되 온유와 두려움으로 하고"
+          }
+        },
+        {
+          "key": "16",
+          "text": {
+            "fr": "et ayant une bonne conscience, afin que, là même où ils vous calomnient comme si vous étiez des malfaiteurs, ceux qui décrient votre bonne conduite en Christ soient couverts de confusion.",
+            "en": "Having a good conscience; that, whereas they speak evil of you, as of evildoers, they may be ashamed that falsely accuse your good conversation in Christ.",
+            "zh": "存著無虧的良心、叫你們在何事上被毀謗、就在何事上、可以叫那誣賴你們在基督裡有好品行的人、自覺羞愧。",
+            "jp": "しかし、やさしく、慎つつしみ深ぶかく、明あきらかな良心りょうしんをもって、弁明べんめいしなさい。そうすれば、あなたがたがキリストにあって営いとなんでいる良よい生活せいかつをそしる人々ひとびとも、そのようにののしったことを恥はじいるであろう。",
+            "kr": "선한 양심을 가지라 이는 그리스도 안에 있는 너희의 선행을 욕하는 자들로 그 비방하는 일에 부끄러움을 당하게 하려 함이라"
+          }
+        },
+        {
+          "key": "17",
+          "text": {
+            "fr": "Car il vaut mieux souffrir, si telle est la volonté de Dieu, en faisant le bien qu’en faisant le mal.",
+            "en": "For it is better, if the will of God be so, that ye suffer for well doing, than for evil doing.",
+            "zh": "神的旨意若是叫你們因行善受苦、總強如因行惡受苦。",
+            "jp": "善ぜんをおこなって苦くるしむことは——それが神かみの御旨みむねであれば——悪あくをおこなって苦くるしむよりも、まさっている。",
+            "kr": "선을 행함으로 고난 받는 것이 하나님의 뜻일진대 악을 행함으로 고난 받는 것보다 나으니라"
+          }
+        },
+        {
+          "key": "18",
+          "text": {
+            "fr": "Christ aussi a souffert une fois pour les péchés, lui juste pour des injustes, afin de nous amener à Dieu, ayant été mis à mort quant à la chair, mais ayant été rendu vivant quant à l’Esprit,",
+            "en": "For Christ also hath once suffered for sins, the just for the unjust, that he might bring us to God, being put to death in the flesh, but quickened by the Spirit:",
+            "zh": "因基督也曾一次為罪受苦、〔受苦有古卷作受死〕就是義的代替不義的、為要引我們到　神面前．按著肉體說他被治死．按著靈性說他復活了。",
+            "jp": "キリストも、あなたがたを神かみに近づけようとして、自みずからは義ぎなるかたであるのに、不義ふぎなる人々ひとびとのために、ひとたび罪つみのゆえに死しなれた。ただし、肉にくにおいては殺ころされたが、霊れいにおいては生いかされたのである。",
+            "kr": "그리스도께서도 단번에 죄를 위하여 죽으사 의인으로서 불의한 자를 대신하셨으니 이는 우리를 하나님 앞으로 인도하려 하심이라 육체로는 죽임을 당하시고 영으로는 살리심을 받으셨으니"
+          }
+        },
+        {
+          "key": "19",
+          "text": {
+            "fr": "dans lequel aussi il est allé prêcher aux esprits en prison,",
+            "en": "By which also he went and preached unto the spirits in prison;",
+            "zh": "他藉這靈、曾去傳道給那些在監獄裡的靈聽、",
+            "jp": "こうして、彼かれは獄ごくに捕とらわれている霊れいどものところに下くだって行いき、宣のべ伝つたえることをされた。",
+            "kr": "그가 또한 영으로 가서 옥에 있는 영들에게 선포하시니라"
+          }
+        },
+        {
+          "key": "20",
+          "text": {
+            "fr": "qui autrefois avaient été incrédules, lorsque la patience de Dieu se prolongeait, aux jours de Noé, pendant la construction de l’arche, dans laquelle un petit nombre de personnes, c’est-à-dire huit, furent sauvées à travers l’eau.",
+            "en": "Which sometime were disobedient, when once the longsuffering of God waited in the days of Noah, while the ark was a preparing, wherein few, that is, eight souls were saved by water.",
+            "zh": "就是那從前在挪亞預備方舟、　神容忍等待的時候、不信從的人．當時進入方舟、藉著水得救的不多、只有八個人．",
+            "jp": "これらの霊れいというのは、むかしノアの箱舟はこぶねが造つくられていた間あいだ、神かみが寛容かんようをもって待まっておられたのに従したがわなかった者ものどものことである。その箱舟はこぶねに乗のり込こみ、水みずを経へて救すくわれたのは、わずかに八名めいだけであった。",
+            "kr": "그들은 전에 노아의 날 방주를 준비할 동안 하나님이 오래 참고 기다리실 때에 복종하지 아니하던 자들이라 방주에서 물로 말미암아 구원을 얻은 자가 몇 명뿐이니 겨우 여덟 명이라"
+          }
+        },
+        {
+          "key": "21",
+          "text": {
+            "fr": "Cette eau était une figure du baptême, qui n’est pas la purification des souillures du corps, mais l’engagement d’une bonne conscience envers Dieu, et qui maintenant vous sauve, vous aussi, par la résurrection de Jésus Christ,",
+            "en": "The like figure whereunto even baptism doth also now save us (not the putting away of the filth of the flesh, but the answer of a good conscience toward God,) by the resurrection of Jesus Christ:",
+            "zh": "這水所表明的洗禮、現在藉著耶穌基督復活．也拯救你們．這洗禮本不在乎除掉肉體的污穢、只求在　神面前有無虧的良心。",
+            "jp": "この水みずはバプテスマを象徴しょうちょうするものであって、今いまやあなたがたをも救すくうのである。それは、イエス・キリストの復活ふっかつによるのであって、からだの汚けがれを除のぞくことではなく、明あきらかな良心りょうしんを神かみに願ねがい求もとめることである。",
+            "kr": "물은 예수 그리스도께서 부활하심으로 말미암아 이제 너희를 구원하는 표니 곧 침례라 이는 육체의 더러운 것을 제하여 버림이 아니요 하나님을 향한 선한 양심의 간구니라"
+          }
+        },
+        {
+          "key": "22",
+          "text": {
+            "fr": "qui est à la droite de Dieu, depuis qu’il est allé au ciel, et que les anges, les autorités et les puissances, lui ont été soumis.",
+            "en": "Who is gone into heaven, and is on the right hand of God; angels and authorities and powers being made subject unto him.",
+            "zh": "耶穌已經進入天堂、在　神的右邊．眾天使和有權柄的、並有能力的、都服從了他。",
+            "jp": "キリストは天てんに上のぼって神かみの右みぎに座ざし、天使てんしたちともろもろの権威けんい、権力けんりょくを従したがえておられるのである。",
+            "kr": "그는 하늘에 오르사 하나님 우편에 계시니 천사들과 권세들과 능력들이 그에게 복종하느니라"
+          }
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "introduction": {
+        "fr": "Peter explains why the gospel is preached to the dead—Saints should speak as the oracles of God—The righteous will be tried and tested in all things.",
+        "en": "Peter explains why the gospel is preached to the dead—Saints should speak as the oracles of God—The righteous will be tried and tested in all things.",
+        "zh": "Peter explains why the gospel is preached to the dead—Saints should speak as the oracles of God—The righteous will be tried and tested in all things.",
+        "jp": "Peter explains why the gospel is preached to the dead—Saints should speak as the oracles of God—The righteous will be tried and tested in all things.",
+        "kr": "Peter explains why the gospel is preached to the dead—Saints should speak as the oracles of God—The righteous will be tried and tested in all things."
+      },
+      "verses": [
+        {
+          "key": "1",
+          "text": {
+            "fr": "Ainsi donc, Christ ayant souffert dans la chair, vous aussi armez-vous de la même pensée. Car celui qui a souffert dans la chair en a fini avec le péché,",
+            "en": "Forasmuch then as Christ hath suffered for us in the flesh, arm yourselves likewise with the same mind: for he that hath suffered in the flesh hath ceased from sin;",
+            "zh": "基督既在肉身受苦、你們也當將這樣的心志作為兵器．因為在肉身受過苦的、就已經與罪斷絕了．",
+            "jp": "このように、キリストは肉にくにおいて苦くるしまれたのであるから、あなたがたも同おなじ覚悟かくごで心こころの武装ぶそうをしなさい。肉にくにおいて苦くるしんだ人ひとは、それによって罪つみからのがれたのである。",
+            "kr": "그리스도께서 이미 육체의 고난을 받으셨으니 너희도 같은 마음으로 갑옷을 삼으라 이는 육체의 고난을 받은 자는 죄를 그쳤음이니"
+          }
+        },
+        {
+          "key": "2",
+          "text": {
+            "fr": "afin de vivre, non plus selon les convoitises des hommes, mais selon la volonté de Dieu, pendant le temps qui lui reste à vivre dans la chair.",
+            "en": "That he no longer should live the rest of his time in the flesh to the lusts of men, but to the will of God.",
+            "zh": "你們存這樣的心、從今以後、就可以不從人的情慾、只從　神的旨意、在世度餘下的光陰。",
+            "jp": "それは、肉にくにおける残のこりの生涯しょうがいを、もはや人間にんげんの欲情よくじょうによらず、神かみの御旨みむねによって過すごすためである。",
+            "kr": "그 후로는 다시 사람의 정욕을 따르지 않고 하나님의 뜻을 따라 육체의 남은 때를 살게 하려 함이라"
+          }
+        },
+        {
+          "key": "3",
+          "text": {
+            "fr": "C’est assez, en effet, d’avoir dans le temps passé accompli la volonté des païens, en marchant dans la dissolution, les convoitises, l’ivrognerie, les excès du manger et du boire, et les idolâtries criminelles.",
+            "en": "For the time past of our life may suffice us to have wrought the will of the Gentiles, when we walked in lasciviousness, lusts, excess of wine, revellings, banquetings, and abominable idolatries:",
+            "zh": "因為往日隨從外邦人的心意、行邪淫、惡慾、醉酒、荒宴、群飲、並可惡拜偶像的事、時候已經夠了．",
+            "jp": "過すぎ去さった時代じだいには、あなたがたは、異邦人いほうじんの好このみにまかせて、好色こうしょく、欲情よくじょう、酔酒すいしゅ、宴楽えんらく、暴飲ぼういん、気きままな偶像ぐうぞう礼拝れいはいなどにふけってきたが、もうそれで十分じゅうぶんであろう。",
+            "kr": "너희가 음란과 정욕과 술취함과 방탕과 향락과 무법한 우상 숭배를 하여 이방인의 뜻을 따라 행한 것은 지나간 때로 족하도다"
+          }
+        },
+        {
+          "key": "4",
+          "text": {
+            "fr": "Aussi trouvent-ils étrange que vous ne vous précipitiez pas avec eux dans le même débordement de débauche, et ils vous calomnient.",
+            "en": "Wherein they think it strange that ye run not with them to the same excess of riot, speaking evil of you:",
+            "zh": "他們在這些事上、見你們不與他們同奔那放蕩無度的路、就以為怪、毀謗你們．",
+            "jp": "今いまはあなたがたが、そうした度どを過すごした乱行らんぎょうに加くわわらないので、彼かれらは驚おどろきあやしみ、かつ、ののしっている。",
+            "kr": "이러므로 너희가 그들과 함께 그런 극한 방탕에 달음질하지 아니하는 것을 그들이 이상히 여겨 비방하나"
+          }
+        },
+        {
+          "key": "5",
+          "text": {
+            "fr": "Ils rendront compte à celui qui est prêt à juger les vivants et les morts.",
+            "en": "Who shall give account to him that is ready to judge the quick and the dead.",
+            "zh": "他們必在那將要審判活人死人的主面前交賬。",
+            "jp": "彼かれらは、やがて生いける者ものと死しねる者ものとをさばくかたに、申もうし開ひらきをしなくてはならない。",
+            "kr": "그들이 산 자와 죽은 자를 심판하기로 예비하신 이에게 사실대로 고하리라"
+          }
+        },
+        {
+          "key": "6",
+          "text": {
+            "fr": "Car l’Évangile a été aussi annoncé aux morts, afin que, après avoir été jugés comme les hommes quant à la chair, ils vivent selon Dieu quant à l’Esprit.",
+            "en": "For for this cause was the gospel preached also to them that are dead, that they might be judged according to men in the flesh, but live according to God in the spirit.",
+            "zh": "為此、就是死人也曾有福音傳給他們、要叫他們的肉體按著人受審判、他們的靈性卻靠　神活著。",
+            "jp": "死人しにんにさえ福音ふくいんが宣のべ伝つたえられたのは、彼かれらは肉にくにおいては人間にんげんとしてさばきを受うけるが、霊れいにおいては神かみに従したがって生いきるようになるためである。",
+            "kr": "이를 위하여 죽은 자들에게도 복음이 전파되었으니 이는 육체로는 사람으로 심판을 받으나 영으로는 하나님을 따라 살게 하려 함이라"
+          }
+        },
+        {
+          "key": "7",
+          "text": {
+            "fr": "La fin de toutes choses est proche. Soyez donc sages et sobres, pour vaquer à la prière.",
+            "en": "But the end of all things is at hand: be ye therefore sober, and watch unto prayer.",
+            "zh": "萬物的結局近了．所以你們要謹慎自守、儆醒禱告。",
+            "jp": "万物ばんぶつの終おわりが近ちかづいている。だから、心こころを確たしかにし、身みを慎つつしんで、努つとめて祈いのりなさい。",
+            "kr": "만물의 마지막이 가까이 왔으니 그러므로 너희는 정신을 차리고 근신하여 기도하라"
+          }
+        },
+        {
+          "key": "8",
+          "text": {
+            "fr": "Avant tout, ayez les uns pour les autres une ardente charité, car La charité couvre une multitude de péchés.",
+            "en": "And above all things have fervent charity among yourselves: for charity shall cover the multitude of sins.",
+            "zh": "最要緊的是彼此切實相愛．因為愛能遮掩許多的罪。",
+            "jp": "何なによりもまず、互たがいの愛あいを熱あつく保たもちなさい。愛あいは多おおくの罪つみをおおうものである。",
+            "kr": "무엇보다도 뜨겁게 서로 사랑할지니 사랑은 허다한 죄를 덮느니라"
+          }
+        },
+        {
+          "key": "9",
+          "text": {
+            "fr": "Exercez l’hospitalité les uns envers les autres, sans murmures.",
+            "en": "Use hospitality one to another without grudging.",
+            "zh": "你們要互相款待、不發怨言．",
+            "jp": "不平ふへいを言いわずに、互たがいにもてなし合あいなさい。",
+            "kr": "서로 대접하기를 원망 없이 하고"
+          }
+        },
+        {
+          "key": "10",
+          "text": {
+            "fr": "Comme de bons dispensateurs des diverses grâces de Dieu, que chacun de vous mette au service des autres le don qu’il a reçu.",
+            "en": "As every man hath received the gift, even so minister the same one to another, as good stewards of the manifold grace of God.",
+            "zh": "各人要照所得的恩賜彼此服事、作　神百般恩賜的好管家．",
+            "jp": "あなたがたは、それぞれ賜物たまものをいただいているのだから、神かみのさまざまな恵めぐみの良よき管理人かんりにんとして、それをお互たがいのために役やく立たてるべきである。",
+            "kr": "각각 은사를 받은 대로 하나님의 여러 가지 은혜를 맡은 선한 청지기 같이 서로 봉사하라"
+          }
+        },
+        {
+          "key": "11",
+          "text": {
+            "fr": "Si quelqu’un parle, que ce soit comme annonçant les oracles de Dieu ; si quelqu’un remplit un ministère, qu’il le remplisse selon la force que Dieu communique, afin qu’en toutes choses Dieu soit glorifié par Jésus Christ, à qui appartiennent la gloire et la puissance, aux siècles des siècles. Amen !",
+            "en": "If any man speak, let him speak as the oracles of God; if any man minister, let him do it as of the ability which God giveth: that God in all things may be glorified through Jesus Christ, to whom be praise and dominion for ever and ever. Amen.",
+            "zh": "若有講道的、要按著　神的聖言講．若有服事人的、要按著　神所賜的力量服事．叫　神在凡事上因耶穌基督得榮耀．原來榮耀權能都是他的、直到永永遠遠。阿們。",
+            "jp": "語かたる者ものは、神かみの御言みことばを語かたる者ものにふさわしく語かたり、奉仕ほうしする者ものは、神かみから賜たまわる力ちからによる者ものにふさわしく奉仕ほうしすべきである。それは、すべてのことにおいてイエス・キリストによって、神かみがあがめられるためである。栄光えいこうと力ちからとが世々よよ限かぎりなく、彼かれにあるように、アァメン。",
+            "kr": "만일 누가 말하려면 하나님의 말씀을 하는 것 같이 하고 누가 봉사하려면 하나님이 공급하시는 힘으로 하는 것 같이 하라 이는 범사에 예수 그리스도로 말미암아 하나님이 영광을 받으시게 하려 함이니 그에게 영광과 권능이 세세에 무궁하도록 있느니라 아멘"
+          }
+        },
+        {
+          "key": "12",
+          "text": {
+            "fr": "Bien-aimés, ne soyez pas surpris, comme d’une chose étrange qui vous arrive, de la fournaise qui est au milieu de vous pour vous éprouver.",
+            "en": "Beloved, think it not strange concerning the fiery trial which is to try you, as though some strange thing happened unto you:",
+            "zh": "親愛的弟兄阿、有火煉的試驗臨到你們、不要以為奇怪、（似乎是遭遇非常的事）",
+            "jp": "愛あいする者ものたちよ。あなたがたを試こころみるために降ふりかかって来くる火ひのような試錬しれんを、何なにか思おもいがけないことが起おこったかのように驚おどろきあやしむことなく、",
+            "kr": "사랑하는 자들아 너희를 연단하려고 오는 불 시험을 이상한 일 당하는 것 같이 이상히 여기지 말고"
+          }
+        },
+        {
+          "key": "13",
+          "text": {
+            "fr": "Réjouissez-vous, au contraire, de la part que vous avez aux souffrances de Christ, afin que vous soyez aussi dans la joie et dans l’allégresse lorsque sa gloire apparaîtra.",
+            "en": "But rejoice, inasmuch as ye are partakers of Christ’s sufferings; that, when his glory shall be revealed, ye may be glad also with exceeding joy.",
+            "zh": "倒要歡喜．因為你們是與基督一同受苦、使你們在他榮耀顯現的時候、也可以歡喜快樂。",
+            "jp": "むしろ、キリストの苦くるしみにあずかればあずかるほど、喜よろこぶがよい。それは、キリストの栄光えいこうが現あらわれる際さいに、よろこびにあふれるためである。",
+            "kr": "오히려 너희가 그리스도의 고난에 참여하는 것으로 즐거워하라 이는 그의 영광을 나타내실 때에 너희로 즐거워하고 기뻐하게 하려 함이라"
+          }
+        },
+        {
+          "key": "14",
+          "text": {
+            "fr": "Si vous êtes outragés pour le nom de Christ, vous êtes heureux, parce que l’Esprit de gloire, l’Esprit de Dieu, repose sur vous.",
+            "en": "If ye be reproached for the name of Christ, happy are ye; for the spirit of glory and of God resteth upon you: on their part he is evil spoken of, but on your part he is glorified.",
+            "zh": "你們若為基督的名受辱罵、便是有福的．因為　神榮耀的靈、常住在你們身上。",
+            "jp": "キリストの名なのためにそしられるなら、あなたがたはさいわいである。その時ときには、栄光えいこうの霊れい、神かみの霊れいが、あなたがたに宿やどるからである。",
+            "kr": "너희가 그리스도의 이름으로 치욕을 당하면 복 있는 자로다 영광의 영 곧 하나님의 영이 너희 위에 계심이라"
+          }
+        },
+        {
+          "key": "15",
+          "text": {
+            "fr": "Que nul de vous, en effet, ne souffre comme meurtrier, ou voleur, ou malfaiteur, ou comme s’ingérant dans les affaires d’autrui.",
+            "en": "But let none of you suffer as a murderer, or as a thief, or as an evildoer, or as a busybody in other men’s matters.",
+            "zh": "你們中間卻不可有人、因為殺人、偷竊、作惡、好管閒事而受苦．",
+            "jp": "あなたがたのうち、だれも、人殺ひとごろし、盗人ぬすびと、悪あくを行おこなう者もの、あるいは、他人たにんに干渉かんしょうする者ものとして苦くるしみに会あうことのないようにしなさい。",
+            "kr": "너희 중에 누구든지 살인이나 도둑질이나 악행이나 남의 일을 간섭하는 자로 고난을 받지 말려니와"
+          }
+        },
+        {
+          "key": "16",
+          "text": {
+            "fr": "Mais si quelqu’un souffre comme chrétien, qu’il n’en ait point honte, et que plutôt il glorifie Dieu à cause de ce nom.",
+            "en": "Yet if any man suffer as a Christian, let him not be ashamed; but let him glorify God on this behalf.",
+            "zh": "若為作基督徒受苦、卻不要羞恥．倒要因這名歸榮耀給　神。",
+            "jp": "しかし、クリスチャンとして苦くるしみを受うけるのであれば、恥はじることはない。かえって、この名なによって神かみをあがめなさい。",
+            "kr": "만일 그리스도인으로 고난을 받으면 부끄러워하지 말고 도리어 그 이름으로 하나님께 영광을 돌리라"
+          }
+        },
+        {
+          "key": "17",
+          "text": {
+            "fr": "Car c’est le moment où le jugement va commencer par la maison de Dieu. Or, si c’est par nous qu’il commence, quelle sera la fin de ceux qui n’obéissent pas à l’Évangile de Dieu ?",
+            "en": "For the time is come that judgment must begin at the house of God: and if it first begin at us, what shall the end be of them that obey not the gospel of God?",
+            "zh": "因為時候到了、審判要從　神的家起首．若是先從我們起首、那不信從　神福音的人、將有何等的結局呢。",
+            "jp": "さばきが神かみの家いえから始はじめられる時ときがきた。それが、わたしたちからまず始はじめられるとしたら、神かみの福音ふくいんに従したがわない人々ひとびとの行ゆく末すえは、どんなであろうか。",
+            "kr": "하나님의 집에서 심판을 시작할 때가 되었나니 만일 우리에게 먼저 하면 하나님의 복음을 순종하지 아니하는 자들의 그 마지막은 어떠하며"
+          }
+        },
+        {
+          "key": "18",
+          "text": {
+            "fr": "Et si le juste se sauve avec peine, que deviendront l’impie et le pécheur ?",
+            "en": "And if the righteous scarcely be saved, where shall the ungodly and the sinner appear?",
+            "zh": "若是義人僅僅得救、那不虔敬和犯罪的人、將有何地可站呢。",
+            "jp": "また義人ぎじんでさえ、かろうじて救すくわれるのだとすれば、不信ふしんなる者ものや罪人つみびとは、どうなるであろうか。",
+            "kr": "또 의인이 겨우 구원을 받으면 경건하지 아니한 자와 죄인은 어디에 서리요"
+          }
+        },
+        {
+          "key": "19",
+          "text": {
+            "fr": "Ainsi, que ceux qui souffrent selon la volonté de Dieu remettent leurs âmes au fidèle Créateur, en faisant ce qui est bien.",
+            "en": "Wherefore let them that suffer according to the will of God commit the keeping of their souls to him in well doing, as unto a faithful Creator.",
+            "zh": "所以那照　神旨意受苦的人、要一心為善、將自己靈魂交與那信實的造化之主。",
+            "jp": "だから、神かみの御旨みむねに従したがって苦くるしみを受うける人々ひとびとは、善ぜんをおこない、そして、真実しんじつであられる創造者そうぞうしゃに、自分じぶんのたましいをゆだねるがよい。",
+            "kr": "그러므로 하나님의 뜻대로 고난을 받는 자들은 또한 선을 행하는 가운데에 그 영혼을 미쁘신 창조주께 의탁할지어다"
+          }
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "introduction": {
+        "fr": "The elders are to feed the flock of God—Humility and godly graces lead to perfection.",
+        "en": "The elders are to feed the flock of God—Humility and godly graces lead to perfection.",
+        "zh": "The elders are to feed the flock of God—Humility and godly graces lead to perfection.",
+        "jp": "The elders are to feed the flock of God—Humility and godly graces lead to perfection.",
+        "kr": "The elders are to feed the flock of God—Humility and godly graces lead to perfection."
+      },
+      "verses": [
+        {
+          "key": "1",
+          "text": {
+            "fr": "Voici les exhortations que j’adresse aux anciens qui sont parmi vous, moi ancien comme eux, témoin des souffrances de Christ, et participant de la gloire qui doit être manifestée :",
+            "en": "The elders which are among you I exhort, who am also an elder, and a witness of the sufferings of Christ, and also a partaker of the glory that shall be revealed:",
+            "zh": "我這作長老、作基督受苦的見證、同享後來所要顯現之榮耀的、勸你們中間與我同作長老的人。",
+            "jp": "そこで、あなたがたのうちの長老ちょうろうたちに勧すすめる。わたしも、長老ちょうろうのひとりで、キリストの苦難くなんについての証人しょうにんであり、また、やがて現あらわれようとする栄光えいこうにあずかる者ものである。",
+            "kr": "너희 중 장로들에게 권하노니 나는 함께 장로 된 자요 그리스도의 고난의 증인이요 나타날 영광에 참여할 자니라"
+          }
+        },
+        {
+          "key": "2",
+          "text": {
+            "fr": "Paissez le troupeau de Dieu qui est sous votre garde, non par contrainte, mais volontairement, selon Dieu ; non pour un gain sordide, mais avec dévouement ;",
+            "en": "Feed the flock of God which is among you, taking the oversight thereof, not by constraint, but willingly; not for filthy lucre, but of a ready mind;",
+            "zh": "務要牧養在你們中間　神的群羊、按著　神旨意照管他們．不是出於勉強、乃是出於甘心．也不是因為貪財、乃是出於樂意。",
+            "jp": "あなたがたにゆだねられている神かみの羊ひつじの群むれを牧ぼくしなさい。しいられてするのではなく、神かみに従したがって自みずから進すすんでなし、恥はずべき利得りとくのためではなく、本心ほんしんから、それをしなさい。",
+            "kr": "너희 중에 있는 하나님의 양 무리를 치되 억지로 하지 말고 하나님의 뜻을 따라 자원함으로 하며 더러운 이득을 위하여 하지 말고 기꺼이 하며"
+          }
+        },
+        {
+          "key": "3",
+          "text": {
+            "fr": "non comme dominant sur ceux qui vous sont échus en partage, mais en étant les modèles du troupeau.",
+            "en": "Neither as being lords over God’s heritage, but being ensamples to the flock.",
+            "zh": "也不是轄制所託付你們的、乃是作群羊的榜樣。",
+            "jp": "また、ゆだねられた者ものたちの上うえに権力けんりょくをふるうことをしないで、むしろ、群むれの模範もはんとなるべきである。",
+            "kr": "맡은 자들에게 주장하는 자세를 하지 말고 양 무리의 본이 되라"
+          }
+        },
+        {
+          "key": "4",
+          "text": {
+            "fr": "Et lorsque le souverain pasteur paraîtra, vous obtiendrez la couronne incorruptible de la gloire.",
+            "en": "And when the chief Shepherd shall appear, ye shall receive a crown of glory that fadeth not away.",
+            "zh": "到了牧長顯現的時候、你們必得那永不衰殘的榮耀冠冕。",
+            "jp": "そうすれば、大牧者だいぼくしゃが現あらわれる時ときには、しぼむことのない栄光えいこうの冠かんむりを受うけるであろう。",
+            "kr": "그리하면 목자장이 나타나실 때에 시들지 아니하는 영광의 관을 얻으리라"
+          }
+        },
+        {
+          "key": "5",
+          "text": {
+            "fr": "De mêmes, vous qui êtes jeunes, soyez soumis aux anciens. Et tous, dans vos rapports mutuels, revêtez-vous d’humilité ; car Dieu résiste aux orgueilleux, Mais il fait grâce aux humbles.",
+            "en": "Likewise, ye younger, submit yourselves unto the elder. Yea, all of you be subject one to another, and be clothed with humility: for God resisteth the proud, and giveth grace to the humble.",
+            "zh": "你們年幼的、也要順服年長的。就是你們眾人、也都要以謙卑束腰、彼此順服．因為　神阻擋驕傲的人、賜恩給謙卑的人。",
+            "jp": "同おなじように、若わかい人ひとたちよ。長老ちょうろうたちに従したがいなさい。また、みな互たがいに謙遜けんそんを身みにつけなさい。神かみは高たかぶる者ものをしりぞけ、へりくだる者ものに恵めぐみを賜たまうからである。",
+            "kr": "젊은 자들아 이와 같이 장로들에게 순종하고 다 서로 겸손으로 허리를 동이라 하나님은 교만한 자를 대적하시되 겸손한 자들에게는 은혜를 주시느니라"
+          }
+        },
+        {
+          "key": "6",
+          "text": {
+            "fr": "Humiliez-vous donc sous la puissante main de Dieu, afin qu’il vous élève au temps convenable ;",
+            "en": "Humble yourselves therefore under the mighty hand of God, that he may exalt you in due time:",
+            "zh": "所以你們要自卑、服在　神大能的手下、到了時候他必叫你們升高。",
+            "jp": "だから、あなたがたは、神かみの力強ちからづよい御み手ての下もとに、自みずからを低ひくくしなさい。時ときが来くれば神かみはあなたがたを高たかくして下くださるであろう。",
+            "kr": "그러므로 하나님의 능하신 손 아래에서 겸손하라 때가 되면 너희를 높이시리라"
+          }
+        },
+        {
+          "key": "7",
+          "text": {
+            "fr": "et déchargez-vous sur lui de tous vos soucis, car lui-même prend soin de vous.",
+            "en": "Casting all your care upon him; for he careth for you.",
+            "zh": "你們要將一切的憂慮卸給　神、因為他顧念你們。",
+            "jp": "神かみはあなたがたをかえりみていて下くださるのであるから、自分じぶんの思おもいわずらいを、いっさい神かみにゆだねるがよい。",
+            "kr": "너희 염려를 다 주께 맡기라 이는 그가 너희를 돌보심이라"
+          }
+        },
+        {
+          "key": "8",
+          "text": {
+            "fr": "Soyez sobres, veillez. Votre adversaire, le diable, rôde comme un lion rugissant, cherchant qui il dévorera.",
+            "en": "Be sober, be vigilant; because your adversary the devil, as a roaring lion, walketh about, seeking whom he may devour:",
+            "zh": "務要謹守、儆醒．因為你們的仇敵魔鬼、如同吼叫的獅子、遍地游行、尋找可吞喫的人．",
+            "jp": "身みを慎つつしみ、目めをさましていなさい。あなたがたの敵てきである悪魔あくまが、ほえたけるししのように、食くいつくすべきものを求もとめて歩あるき回まわっている。",
+            "kr": "근신하라 깨어라 너희 대적 마귀가 우는 사자 같이 두루 다니며 삼킬 자를 찾나니"
+          }
+        },
+        {
+          "key": "9",
+          "text": {
+            "fr": "Résistez-lui avec une foi ferme, sachant que les mêmes souffrances sont imposées à vos frères dans le monde.",
+            "en": "Whom resist steadfast in the faith, knowing that the same afflictions are accomplished in your brethren that are in the world.",
+            "zh": "你們要用堅固的信心抵擋他、因為知道你們在世上的眾弟兄、也是經歷這樣的苦難。",
+            "jp": "この悪魔あくまにむかい、信仰しんこうにかたく立たって、抵抗ていこうしなさい。あなたがたのよく知しっているとおり、全ぜん世界せかいにいるあなたがたの兄弟きょうだいたちも、同おなじような苦くるしみの数々かずかずに会あっているのである。",
+            "kr": "너희는 믿음을 굳건하게 하여 그를 대적하라 이는 세상에 있는 너희 형제들도 동일한 고난을 당하는 줄을 앎이라"
+          }
+        },
+        {
+          "key": "10",
+          "text": {
+            "fr": "Le Dieu de toute grâce, qui vous a appelés en Jésus Christ à sa gloire éternelle, après que vous aurez souffert un peu de temps, vous perfectionnera lui-même, vous affermira, vous fortifiera, vous rendra inébranlables.",
+            "en": "But the God of all grace, who hath called us unto his eternal glory by Christ Jesus, after that ye have suffered a while, make you perfect, stablish, strengthen, settle you.",
+            "zh": "那賜諸般恩典的　神、曾在基督裡召你們、得享他永遠的榮耀、等你們暫受苦難之後、必要親自成全你們、堅固你們、賜力量給你們。",
+            "jp": "あなたがたをキリストにある永遠えいえんの栄光えいこうに招まねき入いれて下くださったあふるる恵めぐみの神かみは、しばらくの苦くるしみの後のち、あなたがたをいやし、強つよめ、力ちからづけ、不動ふどうのものとして下くださるであろう。",
+            "kr": "모든 은혜의 하나님 곧 그리스도 안에서 너희를 부르사 자기의 영원한 영광에 들어가게 하신 이가 잠깐 고난을 당한 너희를 친히 온전하게 하시며 굳건하게 하시며 강하게 하시며 터를 견고하게 하시리라"
+          }
+        },
+        {
+          "key": "11",
+          "text": {
+            "fr": "A lui soit la puissance aux siècles des siècles ! Amen !",
+            "en": "To him be glory and dominion for ever and ever. Amen.",
+            "zh": "願權能歸給他、直到永永遠遠。阿們。",
+            "jp": "どうか、力ちからが世々よよ限かぎりなく、神かみにあるように、アァメン。",
+            "kr": "권능이 세세무궁하도록 그에게 있을지어다 아멘"
+          }
+        },
+        {
+          "key": "12",
+          "text": {
+            "fr": "C’est par Silvain, qui est à mes yeux un frère fidèle, que je vous écris ce peu de mots, pour vous exhorter et pour vous attester que la grâce de Dieu à laquelle vous êtes attachés est la véritable.",
+            "en": "By Silvanus, a faithful brother unto you, as I suppose, I have written briefly, exhorting, and testifying that this is the true grace of God wherein ye stand.",
+            "zh": "我略略的寫了這信、託我所看為忠心的兄弟西拉轉交你們、勸勉你們、又證明這恩是　神的真恩．你們務要在這恩上站立得住。",
+            "jp": "わたしは、忠実ちゅうじつな兄弟きょうだいとして信頼しんらいしているシルワノの手てによって、この短みじかい手紙てがみをあなたがたにおくり、勧すすめをし、また、これが神かみのまことの恵めぐみであることをあかしした。この恵めぐみのうちに、かたく立たっていなさい。",
+            "kr": "내가 신실한 형제로 아는 실루아노로 말미암아 너희에게 간단히 써서 권하고 이것이 하나님의 참된 은혜임을 증언하노니 너희는 이 은혜에 굳게 서라"
+          }
+        },
+        {
+          "key": "13",
+          "text": {
+            "fr": "L’Église des élus qui est à Babylone vous salue, ainsi que Marc, mon fils.",
+            "en": "The church that is at Babylon, elected together with you, saluteth you; and so doth Marcus my son.",
+            "zh": "在巴比倫與你們同蒙揀選的教會問你們安．我兒子馬可也問你們安。",
+            "jp": "あなたがたと共ともに選えらばれてバビロンにある教会きょうかい、ならびに、わたしの子こマルコから、あなたがたによろしく。",
+            "kr": "택하심을 함께 받은 바벨론에 있는 교회가 너희에게 문안하고 내 아들 마가도 그리하느니라"
+          }
+        },
+        {
+          "key": "14",
+          "text": {
+            "fr": "Saluez-vous les uns les autres par un baiser d’affection. Que la paix soit avec vous tous qui êtes en Christ !",
+            "en": "Greet ye one another with a kiss of charity. Peace be with you all that are in Christ Jesus. Amen.",
+            "zh": "你們要用愛心彼此親嘴問安。願平安歸與你們凡在基督裡的人。",
+            "jp": "愛あいの接吻せっぷんをもって互たがいにあいさつをかわしなさい。キリストにあるあなたがた一同いちどうに、平安へいあんがあるように。",
+            "kr": "너희는 사랑의 입맞춤으로 서로 문안하라 그리스도 안에 있는 너희 모든 이에게 평강이 있을지어다"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,623 @@
+{
+  "book": {
+    "fr": "MALACHIE",
+    "en": "MALACHI",
+    "zh": "瑪拉基書",
+    "jp": "マラキ書しょ",
+    "kr": "말라기"
+  },
+  "theme": {
+    "fr": "Chapitre 1",
+    "en": "Chapter 1",
+    "zh": "第1章",
+    "jp": "第1章",
+    "kr": "제 1 장"
+  },
+  "introduction": {
+    "fr": "Les Juifs méprisent l’Éternel en offrant des aliments impurs sur l’autel et en sacrifiant des animaux imparfaits. Le nom de l’Éternel sera grand parmi les nations.",
+    "en": "The Jews despise the Lord by offering polluted bread upon the altar and by sacrificing animals with blemishes—The Lord’s name will be great among the Gentiles.",
+    "zh": "",
+    "jp": "The Jews despise the Lord by offering polluted bread upon the altar and by sacrificing animals with blemishes—The Lord’s name will be great among the Gentiles.",
+    "kr": "The Jews despise the Lord by offering polluted bread upon the altar and by sacrificing animals with blemishes—The Lord’s name will be great among the Gentiles."
+  },
+  "chapters": [
+    {
+      "number": 1,
+      "introduction": {
+        "fr": "Les Juifs méprisent l’Éternel en offrant des aliments impurs sur l’autel et en sacrifiant des animaux imparfaits. Le nom de l’Éternel sera grand parmi les nations.",
+        "en": "The Jews despise the Lord by offering polluted bread upon the altar and by sacrificing animals with blemishes—The Lord’s name will be great among the Gentiles.",
+        "zh": "The Jews despise the Lord by offering polluted bread upon the altar and by sacrificing animals with blemishes—The Lord’s name will be great among the Gentiles.",
+        "jp": "The Jews despise the Lord by offering polluted bread upon the altar and by sacrificing animals with blemishes—The Lord’s name will be great among the Gentiles.",
+        "kr": "The Jews despise the Lord by offering polluted bread upon the altar and by sacrificing animals with blemishes—The Lord’s name will be great among the Gentiles."
+      },
+      "verses": [
+        {
+          "key": "1",
+          "text": {
+            "fr": "Oracle, parole de l’Éternel à Israël par Malachie.",
+            "en": "The burden of the word of the Lord to Israel by Malachi.",
+            "zh": "耶和華藉瑪拉基傳給以色列的默示。",
+            "jp": "マラキによってイスラエルに臨のぞんだ主しゅの言葉ことばの託宣たくせん。",
+            "kr": "여호와께서 말라기를 통하여 이스라엘에게 말씀하신 경고라"
+          }
+        },
+        {
+          "key": "2",
+          "text": {
+            "fr": "Je vous ai aimés, dit l’Éternel. Et vous dites : En quoi nous as-tu aimés ? Ésaü n’est-il pas frère de Jacob ? dit l’Éternel. Cependant j’ai aimé Jacob,",
+            "en": "I have loved you, saith the Lord. Yet ye say, Wherein hast thou loved us? Was not Esau Jacob’s brother? saith the Lord: yet I loved Jacob,",
+            "zh": "耶和華說、我曾愛你們．你們卻說、你在何事上愛我們呢．耶和華說、以掃不是雅各的哥哥麼．我卻愛雅各、",
+            "jp": "主しゅは言いわれる、「わたしはあなたがたを愛あいした」と。ところがあなたがたは言いう、「あなたはどんなふうに、われわれを愛あいされたか」。主しゅは言いわれる、「エサウはヤコブの兄あにではないか。しかしわたしはヤコブを愛あいし、",
+            "kr": "여호와께서 이르시되 내가 너희를 사랑하였노라 하나 너희는 이르기를 주께서 어떻게 우리를 사랑하셨나이까 하는도다 나 여호와가 말하노라 에서는 야곱의 형이 아니냐 그러나 내가 야곱을 사랑하였고"
+          }
+        },
+        {
+          "key": "3",
+          "text": {
+            "fr": "Et j’ai eu de la haine pour Ésaü, J’ai fait de ses montagnes une solitude, J’ai livré son héritage aux chacals du désert.",
+            "en": "And I hated Esau, and laid his mountains and his heritage waste for the dragons of the wilderness.",
+            "zh": "惡以掃、使他的山嶺荒涼、把他的地業交給曠野的野狗。",
+            "jp": "エサウを憎にくんだ。かつ、わたしは彼かれの山地やまちを荒あらし、その嗣し業ぎょうを荒野あらのの山犬やまいぬに与あたえた」。",
+            "kr": "에서는 미워하였으며 그의 산들을 황폐하게 하였고 그의 산업을 광야의 이리들에게 넘겼느니라"
+          }
+        },
+        {
+          "key": "4",
+          "text": {
+            "fr": "Si Édom dit : Nous sommes détruits, Nous relèverons les ruines ! Ainsi parle l’Éternel des armées : Qu’ils bâtissent, je renverserai, Et on les appellera pays de la méchanceté, Peuple contre lequel l’Éternel est irrité pour toujours.",
+            "en": "Whereas Edom saith, We are impoverished, but we will return and build the desolate places; thus saith the Lord of hosts, They shall build, but I will throw down; and they shall call them, The border of wickedness, and, The people against whom the Lord hath indignation for ever.",
+            "zh": "以東人說、我們現在雖被毀壞、卻要重建荒廢之處．萬軍之耶和華如此說、任他們建造、我必拆毀．人必稱他們的地、為罪惡之境、稱他們的民、為耶和華永遠惱怒之民。",
+            "jp": "もしエドムが「われわれは滅ほろぼされたけれども、荒あれた所ところを再ふたたび建たてる」と言いうならば、万軍ばんぐんの主しゅは「彼かれらは建たてるかもしれない。しかしわたしはそれを倒たおす。人々ひとびとは、彼かれらを悪あしき国くにととなえ、とこしえに主しゅの怒いかりをうける民たみととなえる」と言いわれる。",
+            "kr": "에돔은 말하기를 우리가 무너뜨림을 당하였으나 황폐된 곳을 다시 쌓으리라 하거니와 나 만군의 여호와는 이르노라 그들은 쌓을지라도 나는 헐리라 사람들이 그들을 일컬어 악한 지역이라 할 것이요 여호와의 영원한 진노를 받은 백성이라 할 것이며"
+          }
+        },
+        {
+          "key": "5",
+          "text": {
+            "fr": "Vos yeux le verront, Et vous direz : Grand est l’Éternel Par delà les frontières d’Israël !",
+            "en": "And your eyes shall see, and ye shall say, The Lord will be magnified from the border of Israel.",
+            "zh": "你們必親眼看見、也必說、願耶和華在以色列境界之外、被尊為大。",
+            "jp": "あなたがたの目めはこれを見みて、「主しゅはイスラエルの境さかいを越こえて大おおいなる神かみである」と言いうであろう。",
+            "kr": "너희는 눈으로 보고 이르기를 여호와께서는 이스라엘 지역 밖에서도 크시다 하리라"
+          }
+        },
+        {
+          "key": "6",
+          "text": {
+            "fr": "Un fils honore son père et un serviteur son maître. Si je suis père, où est l’honneur qui m’est dû ? Si je suis maître, où est la crainte qu’on a de moi ? Dit l’Éternel des armées à vous, prêtres, Qui méprisez mon nom, Et qui dites : En quoi avons-nous méprisé ton nom ?",
+            "en": "¶ A son honoureth his father, and a servant his master: if then I be a father, where is mine honour? and if I be a master, where is my fear? saith the Lord of hosts unto you, O priests, that despise my name. And ye say, Wherein have we despised thy name?",
+            "zh": "藐視我名的祭司阿、萬軍之耶和華對你們說、兒子尊敬父親、僕人敬畏主人．我既為父親、尊敬我的在哪裡呢．我既為主人、敬畏我的在哪裡呢。你們卻說、我們在何事上藐視你的名呢。",
+            "jp": "「子こはその父ちちを敬うやまい、しもべはその主人しゅじんを敬うやまう。それでわたしがもし父ちちであるならば、あなたがたのわたしを敬うやまう事実じじつが、どこにあるか。わたしがもし主人しゅじんであるならば、わたしを恐おそれる事実じじつが、どこにあるか。わたしの名なを侮あなどる祭司さいしたちよ、と万軍ばんぐんの主しゅはあなたがたに言いわれる。ところがあなたがたは『われわれはどんなふうにあなたの名なを侮あなどったか』と言いい、",
+            "kr": "내 이름을 멸시하는 제사장들아 나 만군의 여호와가 너희에게 이르기를 아들은 그 아버지를, 종은 그 주인을 공경하나니 내가 아버지일진대 나를 공경함이 어디 있느냐 내가 주인일진대 나를 두려워함이 어디 있느냐 하나 너희는 이르기를 우리가 어떻게 주의 이름을 멸시하였나이까 하는도다"
+          }
+        },
+        {
+          "key": "7",
+          "text": {
+            "fr": "Vous offrez sur mon autel des aliments impurs Et vous dites : En quoi t’avons-nous profané ? C’est en disant : La table de l’Éternel est méprisable !",
+            "en": "Ye offer polluted bread upon mine altar; and ye say, Wherein have we polluted thee? In that ye say, The table of the Lord is contemptible.",
+            "zh": "你們將污穢的食物獻在我的壇上、且說、我們在何事上污穢你呢．因你們說、耶和華的桌子、是可藐視的。",
+            "jp": "汚けがれた食物しょくもつをわたしの祭壇さいだんの上うえにささげる。またあなたがたは、主しゅの台だいは卑いやしむべき物ものであると考かんがえて、『われわれはどんなふうに、それを汚けがしたか』と言いう。",
+            "kr": "너희가 더러운 떡을 나의 제단에 드리고도 말하기를 우리가 어떻게 주를 더럽게 하였나이까 하는도다 이는 너희가 여호와의 식탁은 경멸히 여길 것이라 말하기 때문이라"
+          }
+        },
+        {
+          "key": "8",
+          "text": {
+            "fr": "Quand vous offrez en sacrifice une bête aveugle, n’est-ce pas mal ? Quand vous en offrez une boiteuse ou infirme, n’est-ce pas mal ? Offre-la donc à ton gouverneur ! Te recevra-t-il bien, te fera-t-il bon accueil ? Dit l’Éternel des armées.",
+            "en": "And if ye offer the blind for sacrifice, is it not evil? and if ye offer the lame and sick, is it not evil? offer it now unto thy governor; will he be pleased with thee, or accept thy person? saith the Lord of hosts.",
+            "zh": "你們將瞎眼的獻為祭物、這不為惡麼．將瘸腿的有病的獻上、這不為惡麼．你獻給你的省長、他豈喜悅你、豈能看你的情面麼．這是萬軍之耶和華說的。",
+            "jp": "あなたがたが盲目もうもくの獣けものを、犠牲ぎせいにささげるのは悪わるい事ことではないか。また足あしのなえたもの、病やめるものをささげるのは悪わるい事ことではないか。今いまこれをあなたのつかさにささげてみよ。彼かれはあなたを喜よろこび、あなたを受うけいれるであろうかと、万軍ばんぐんの主しゅは言いわれる。",
+            "kr": "만군의 여호와가 이르노라 너희가 눈 먼 희생제물을 바치는 것이 어찌 악하지 아니하며 저는 것, 병든 것을 드리는 것이 어찌 악하지 아니하냐 이제 그것을 너희 총독에게 드려 보라 그가 너를 기뻐하겠으며 너를 받아 주겠느냐"
+          }
+        },
+        {
+          "key": "9",
+          "text": {
+            "fr": "Priez Dieu maintenant pour qu’il ait pitié de nous ! C’est de vous que cela vient : Vous recevra-t-il favorablement ? Dit l’Éternel des armées.",
+            "en": "And now, I pray you, beseech God that he will be gracious unto us: this hath been by your means: will he regard your persons? saith the Lord of hosts.",
+            "zh": "現在我勸你們懇求　神、他好施恩與我們。這妄獻的事、既由你們經手、他豈能看你們的情面麼。這是萬軍之耶和華說的。",
+            "jp": "あなたがたは、神かみがわれわれをあわれまれるように、神かみの恵めぐみを求もとめてみよ。このようなあなたがたの手てのささげ物ものをもって、彼かれはあなたがたを受うけいれられるであろうかと、万軍ばんぐんの主しゅは言いわれる。",
+            "kr": "만군의 여호와가 이르노라 너희는 나 하나님께 은혜를 구하면서 우리를 불쌍히 여기소서 하여 보라 너희가 이같이 행하였으니 내가 너희 중 하나인들 받겠느냐"
+          }
+        },
+        {
+          "key": "10",
+          "text": {
+            "fr": "Lequel de vous fermera les portes, Pour que vous n’allumiez pas en vain le feu sur mon autel ? Je ne prends aucun plaisir en vous, dit l’Éternel des armées, Et les offrandes de votre main ne me sont pas agréables.",
+            "en": "Who is there even among you that would shut the doors for nought? neither do ye kindle fire on mine altar for nought. I have no pleasure in you, saith the Lord of hosts, neither will I accept an offering at your hand.",
+            "zh": "甚願你們中間有一人關上殿門、免得你們徒然在我壇上燒火。萬軍之耶和華說、我不喜悅你們、也不從你們手中收納供物。",
+            "jp": "あなたがたがわが祭壇さいだんの上うえにいたずらに、火ひをたくことのないように戸とを閉とじる者ものがあなたがたのうちに、ひとりあったらいいのだが。わたしはあなたがたを喜よろこばない、またあなたがたの手てからささげ物ものを受うけないと、万軍ばんぐんの主しゅは言いわれる。",
+            "kr": "만군의 여호와가 이르노라 너희가 내 제단 위에 헛되이 불사르지 못하게 하기 위하여 너희 중에 성전 문을 닫을 자가 있었으면 좋겠도다 내가 너희를 기뻐하지 아니하며 너희가 손으로 드리는 것을 받지도 아니하리라"
+          }
+        },
+        {
+          "key": "11",
+          "text": {
+            "fr": "Car depuis le lever du soleil jusqu’à son coucher, Mon nom est grand parmi les nations Et en tout lieu on brûle de l’encens en l’honneur de mon nom Et l’on présente des offrandes pures ; Car grand est mon nom parmi les nations, Dit l’Éternel des armées.",
+            "en": "For from the rising of the sun even unto the going down of the same my name shall be great among the Gentiles; and in every place incense shall be offered unto my name, and a pure offering: for my name shall be great among the heathen, saith the Lord of hosts.",
+            "zh": "萬軍之耶和華說、從日出之地到日落之處、我的名在外邦中必尊為大．在各處、人必奉我的名燒香、獻潔淨的供物．因為我的名在外邦中必尊為大。",
+            "jp": "日ひの出でる所ところから没ぼっする所ところまで、国々くにぐにのうちにわが名なはあがめられている。また、どこでも香こうと清きよいささげ物ものが、わが名なのためにささげられる。これはわが名なが国々くにぐにのうちにあがめられているからであると、万軍ばんぐんの主しゅは言いわれる。",
+            "kr": "만군의 여호와가 이르노라 해 뜨는 곳에서부터 해 지는 곳까지의 이방 민족 중에서 내 이름이 크게 될 것이라 각처에서 내 이름을 위하여 분향하며 깨끗한 제물을 드리리니 이는 내 이름이 이방 민족 중에서 크게 될 것임이니라"
+          }
+        },
+        {
+          "key": "12",
+          "text": {
+            "fr": "Mais vous, vous le profanez En disant : La table de l’Éternel est souillée Et ce qu’elle rapporte est un aliment méprisable.",
+            "en": "¶ But ye have profaned it, in that ye say, The table of the Lord is polluted; and the fruit thereof, even his meat, is contemptible.",
+            "zh": "你們卻褻瀆我的名、說、耶和華的桌子是污穢的、其上的食物是可藐視的。",
+            "jp": "ところがあなたがたは、主しゅの台だいは汚けがれている、またこの食物しょくもつは卑いやしむべき物ものであると言いって、これを汚けがした。",
+            "kr": "그러나 너희는 말하기를 여호와의 식탁은 더러워졌고 그 위에 있는 과일 곧 먹을 것은 경멸히 여길 것이라 하여 내 이름을 더럽히는도다"
+          }
+        },
+        {
+          "key": "13",
+          "text": {
+            "fr": "Vous dites : Quelle fatigue ! et vous le dédaignez, Dit l’Éternel des armées ; Et cependant vous amenez ce qui est dérobé, boiteux ou infirme, Et ce sont les offrandes que vous faites ! Puis-je les accepter de vos mains ? dit l’Éternel.",
+            "en": "Ye said also, Behold, what a weariness is it! and ye have snuffed at it, saith the Lord of hosts; and ye brought that which was torn, and the lame, and the sick; thus ye brought an offering: should I accept this of your hand? saith the Lord.",
+            "zh": "你們又說、這些事何等煩瑣．並嗤之以鼻．這是萬軍之耶和華說的。你們把搶奪的、瘸腿的、有病的、拿來獻上為祭．我豈能從你們手中收納呢．這是耶和華說的。",
+            "jp": "あなたがたはまた『これはなんと煩わずらわしい事ことか』と言いって、わたしを鼻はなであしらうと、万軍ばんぐんの主しゅは言いわれる。あなたがたはまた奪うばった物もの、足あしなえのもの、病やめるものを、ささげ物ものとして携たずさえて来くる。わたしはそれを、あなたがたの手てから、受うけるであろうかと主しゅは言いわれる。",
+            "kr": "만군의 여호와가 이르노라 너희가 또 말하기를 이 일이 얼마나 번거로운고 하며 코웃음치고 훔친 물건과 저는 것, 병든 것을 가져왔느니라 너희가 이같이 봉헌물을 가져오니 내가 그것을 너희 손에서 받겠느냐 이는 여호와의 말이니라"
+          }
+        },
+        {
+          "key": "14",
+          "text": {
+            "fr": "Maudit soit le trompeur qui a dans son troupeau un mâle Et qui offre et sacrifie au Seigneur une bête chétive ! Car je suis un grand roi, dit l’Éternel des armées, Et mon nom est redoutable parmi les nations.",
+            "en": "But cursed be the deceiver, which hath in his flock a male, and voweth, and sacrificeth unto the Lord a corrupt thing: for I am a great King, saith the Lord of hosts, and my name is dreadful among the heathen.",
+            "zh": "行詭詐的在群中有公羊、他許願卻用有殘疾的獻給主、這人是可咒詛的．因為我是大君王、我的名在外邦中是可畏的．這是萬軍之耶和華說的。",
+            "jp": "群むれのうちに雄おすの獣けものがあり、それをささげると誓ちかいを立たてているのに、傷きずのあるものを、主しゅにささげる偽いつわり者ものはのろわれる。わたしは大おおいなる王おうで、わが名なは国々くにぐにのうちに恐おそれられるべきであると、万軍ばんぐんの主しゅは言いわれる。",
+            "kr": "짐승 떼 가운데에 수컷이 있거늘 그 서원하는 일에 흠 있는 것으로 속여 내게 드리는 자는 저주를 받으리니 나는 큰 임금이요 내 이름은 이방 민족 중에서 두려워하는 것이 됨이니라 만군의 여호와의 말이니라"
+          }
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "introduction": {
+        "fr": "Il est reproché aux prêtres de ne pas respecter leurs alliances et de ne pas instruire le peuple. Les Juifs sont condamnés pour leur infidélité les uns envers les autres et envers leurs épouses.",
+        "en": "The priests are reproved for not keeping their covenants and not teaching the people—The Jews are condemned for dealing treacherously with one another and with their wives.",
+        "zh": "The priests are reproved for not keeping their covenants and not teaching the people—The Jews are condemned for dealing treacherously with one another and with their wives.",
+        "jp": "The priests are reproved for not keeping their covenants and not teaching the people—The Jews are condemned for dealing treacherously with one another and with their wives.",
+        "kr": "The priests are reproved for not keeping their covenants and not teaching the people—The Jews are condemned for dealing treacherously with one another and with their wives."
+      },
+      "verses": [
+        {
+          "key": "1",
+          "text": {
+            "fr": "Maintenant, à vous cet ordre, prêtres !",
+            "en": "And now, O ye priests, this commandment is for you.",
+            "zh": "眾祭司阿、這誡命是傳給你們的。",
+            "jp": "祭司さいしたちよ、今いまこの命令めいれいがあなたがたに与あたえられる。",
+            "kr": "너희 제사장들아 이제 너희에게 이같이 명령하노라"
+          }
+        },
+        {
+          "key": "2",
+          "text": {
+            "fr": "Si vous n’écoutez pas, si vous ne prenez pas à cœur De donner gloire à mon nom, dit l’Éternel des armées, J’enverrai parmi vous la malédiction, et je maudirai vos bénédictions ; Oui, je les maudirai, parce que vous ne l’avez pas à cœur.",
+            "en": "If ye will not hear, and if ye will not lay it to heart, to give glory unto my name, saith the Lord of hosts, I will even send a curse upon you, and I will curse your blessings: yea, I have cursed them already, because ye do not lay it to heart.",
+            "zh": "萬軍之耶和華說、你們若不聽從、也不放在心上、將榮耀歸與我的名、我就使咒詛臨到你們、使你們的福分變為咒詛．因你們不把誡命放在心上、我已經咒詛你們了。",
+            "jp": "万軍ばんぐんの主しゅは言いわれる、あなたがたがもし聞きき従したがわず、またこれを心こころに留とめず、わが名なに栄光えいこうを帰きさないならば、わたしはあなたがたの上うえに、のろいを送おくり、またあなたがたの祝福しゅくふくをのろいに変かえる。あなたがたは、これを心こころに留とめないので、わたしはすでにこれをのろった。",
+            "kr": "만군의 여호와가 이르노라 너희가 만일 듣지 아니하며 마음에 두지 아니하여 내 이름을 영화롭게 하지 아니하면 내가 너희에게 저주를 내려 너희의 복을 저주하리라 내가 이미 저주하였나니 이는 너희가 그것을 마음에 두지 아니하였음이라"
+          }
+        },
+        {
+          "key": "3",
+          "text": {
+            "fr": "Voici, je détruirai vos semences, Et je vous jetterai des excréments au visage, Les excréments des victimes que vous sacrifiez, Et on vous emportera avec eux.",
+            "en": "Behold, I will corrupt your seed, and spread dung upon your faces, even the dung of your solemn feasts; and one shall take you away with it.",
+            "zh": "我必斥責你們的種子、又把你們犧牲的糞、抹在你們的臉上．你們要與糞一同除掉。",
+            "jp": "見みよ、わたしはあなたがたの子孫しそんを責せめる。またあなたがたの犠牲ぎせいの糞ふんを、あなたがたの顔かおの上うえにまき散ちらし、あなたがたをわたしの前まえから退しりぞける。",
+            "kr": "보라 내가 너희의 자손을 꾸짖을 것이요 똥 곧 너희 절기의 희생의 똥을 너희 얼굴에 바를 것이라 너희가 그것과 함께 제하여 버림을 당하리라"
+          }
+        },
+        {
+          "key": "4",
+          "text": {
+            "fr": "Vous saurez alors que je vous ai adressé cet ordre, Afin que mon alliance avec Lévi subsiste, Dit l’Éternel des armées.",
+            "en": "And ye shall know that I have sent this commandment unto you, that my covenant might be with Levi, saith the Lord of hosts.",
+            "zh": "你們就知道我傳這誡命給你們、使我與利未〔或作利未人〕所立的約、可以常存．這是萬軍之耶和華說的。",
+            "jp": "こうしてわたしが、この命令めいれいをあなたがたに与あたえたのは、レビと結むすんだわが契約けいやくが、保たもたれるためであることを、あなたがたが知しるためであると、万軍ばんぐんの主しゅは言いわれる。",
+            "kr": "만군의 여호와가 이르노라 내가 이 명령을 너희에게 내린 것은 레위와 세운 나의 언약이 항상 있게 하려 함인 줄을 너희가 알리라"
+          }
+        },
+        {
+          "key": "5",
+          "text": {
+            "fr": "Mon alliance avec lui était une alliance de vie et de paix, Ce que je lui ai accordé pour qu’il me craigne ; Et il a eu pour moi de la crainte, Il a tremblé devant mon nom.",
+            "en": "My covenant was with him of life and peace; and I gave them to him for the fear wherewith he feared me, and was afraid before my name.",
+            "zh": "我曾與他立生命和平安的約．我將這兩樣賜給他、使他存敬畏的心、他就敬畏我、懼怕我的名。",
+            "jp": "彼かれと結むすんだわが契約けいやくは、生命せいめいと平安へいあんとの契約けいやくであって、わたしがこれを彼かれに与あたえたのは、彼かれにわたしを恐おそれさせるためである。彼かれはすでにわたしを恐おそれ、わが名なの前まえにおののいた。",
+            "kr": "레위와 세운 나의 언약은 생명과 평강의 언약이라 내가 이것을 그에게 준 것은 그로 경외하게 하려 함이라 그가 나를 경외하고 내 이름을 두려워하였으며"
+          }
+        },
+        {
+          "key": "6",
+          "text": {
+            "fr": "La loi de la vérité était dans sa bouche, Et l’iniquité ne s’est point trouvée sur ses lèvres ; Il a marché avec moi dans la paix et dans la droiture, Et il a détourné du mal beaucoup d’hommes.",
+            "en": "The law of truth was in his mouth, and iniquity was not found in his lips: he walked with me in peace and equity, and did turn many away from iniquity.",
+            "zh": "真實的律法在他口中、他嘴裡沒有不義的話．他以平安和正直與我同行、使多人回頭離開罪孽。",
+            "jp": "彼かれの口くちには、まことの律法りっぽうがあり、そのくちびるには、不義ふぎが見みられなかった。彼かれは平安へいあんと公義こうぎとをもって、わたしと共ともに歩あゆみ、また多おおくの人ひとを不義ふぎから立たち返かえらせた。",
+            "kr": "그의 입에는 진리의 법이 있었고 그의 입술에는 불의함이 없었으며 그가 화평함과 정직함으로 나와 동행하며 많은 사람을 돌이켜 죄악에서 떠나게 하였느니라"
+          }
+        },
+        {
+          "key": "7",
+          "text": {
+            "fr": "Car les lèvres du prêtre doivent garder la connaissance, Et c’est à sa bouche qu’on demande la loi, Parce qu’il est un envoyé de l’Éternel des armées.",
+            "en": "For the priest’s lips should keep knowledge, and they should seek the law at his mouth: for he is the messenger of the Lord of hosts.",
+            "zh": "祭司的嘴裡當存知識、人也當由他口中尋求律法、因為他是萬軍之耶和華的使者。",
+            "jp": "祭司さいしのくちびるは知識ちしきを保たもち、人々ひとびとが彼かれの口くちから律法りっぽうを尋たずねるのが当然とうぜんである。彼かれは万軍ばんぐんの主しゅの使者ししゃだからだ。",
+            "kr": "제사장의 입술은 지식을 지켜야 하겠고 사람들은 그의 입에서 율법을 구하게 되어야 할 것이니 제사장은 만군의 여호와의 사자가 됨이거늘"
+          }
+        },
+        {
+          "key": "8",
+          "text": {
+            "fr": "Mais vous, vous vous êtes écartés de la voie, Vous avez fait de la loi une occasion de chute pour plusieurs, Vous avez violé l’alliance de Lévi, Dit l’Éternel des armées.",
+            "en": "But ye are departed out of the way; ye have caused many to stumble at the law; ye have corrupted the covenant of Levi, saith the Lord of hosts.",
+            "zh": "你們卻偏離正道、使許多人在律法上跌倒．你們廢棄我與利未所立的約．這是萬軍之耶和華說的。",
+            "jp": "ところが、あなたがたは道みちを離はなれ、多おおくの人ひとを教おしえてつまずかせ、レビの契約けいやくを破やぶったと、万軍ばんぐんの主しゅは言いわれる。",
+            "kr": "너희는 옳은 길에서 떠나 많은 사람을 율법에 거스르게 하는도다 나 만군의 여호와가 이르노니 너희가 레위의 언약을 깨뜨렸느니라"
+          }
+        },
+        {
+          "key": "9",
+          "text": {
+            "fr": "Et moi, je vous rendrai méprisables et vils Aux yeux de tout le peuple, Parce que vous n’avez pas gardé mes voies, Et que vous prêtez attention à l’apparence des personnes Quand vous interprétez la loi.",
+            "en": "Therefore have I also made you contemptible and base before all the people, according as ye have not kept my ways, but have been partial in the law.",
+            "zh": "所以我使你們被眾人藐視、看為下賤、因你們不守我的道、竟在律法上瞻徇情面。",
+            "jp": "あなたがたはわたしの道みちを守まもらず、律法りっぽうを教おしえるに当あたって、人ひとにかたよったがために、あなたがたをすべての民たみの前まえに侮あなどられ、卑いやしめられるようにする」。",
+            "kr": "너희가 내 길을 지키지 아니하고 율법을 행할 때에 사람에게 치우치게 하였으므로 나도 너희로 하여금 모든 백성 앞에서 멸시와 천대를 당하게 하였느니라 하시니라"
+          }
+        },
+        {
+          "key": "10",
+          "text": {
+            "fr": "N’avons-nous pas tous un seul père ? N’est-ce pas un seul Dieu qui nous a créés ? Pourquoi donc sommes-nous infidèles l’un envers l’autre, En profanant l’alliance de nos pères ?",
+            "en": "Have we not all one father? hath not one God created us? why do we deal treacherously every man against his brother, by profaning the covenant of our fathers?",
+            "zh": "我們豈不都是一位父麼．豈不是一位　神所造的麼．我們各人怎麼以詭詐待弟兄、背棄了　神與我們列祖所立的約呢。",
+            "jp": "われわれの父ちちは皆みな一つではないか。われわれを造つくった神かみは一つではないか。なにゆえ、われわれは先祖せんぞたちの契約けいやくを破やぶって、おのおのその兄弟きょうだいに偽いつわりを行おこなうのか。",
+            "kr": "우리는 한 아버지를 가지지 아니하였느냐 한 하나님께서 지으신 바가 아니냐 어찌하여 우리 각 사람이 자기 형제에게 거짓을 행하여 우리 조상들의 언약을 욕되게 하느냐"
+          }
+        },
+        {
+          "key": "11",
+          "text": {
+            "fr": "Juda s’est montré infidèle, Et une abomination a été commise en Israël et à Jérusalem ; Car Juda a profané ce qui est consacré à l’Éternel, ce qu’aime l’Éternel, Il s’est uni à la fille d’un dieu étranger.",
+            "en": "¶ Judah hath dealt treacherously, and an abomination is committed in Israel and in Jerusalem; for Judah hath profaned the holiness of the Lord which he loved, and hath married the daughter of a strange god.",
+            "zh": "猶大人行事詭詐、並且在以色列和耶路撒冷中、行一件可憎的事．因為猶大人褻瀆耶和華所喜愛的聖潔、〔或作聖地〕娶事奉外邦神的女子為妻。",
+            "jp": "ユダは偽いつわりを行おこない、イスラエルおよびエルサレムの中なかには憎にくむべき事ことが行おこなわれた。すなわちユダは主しゅが愛あいしておられる聖所せいじょを汚けがして、他たの神かみに仕つかえる女おんなをめとった。",
+            "kr": "유다는 거짓을 행하였고 이스라엘과 예루살렘 중에서는 가증한 일을 행하였으며 유다는 여호와께서 사랑하시는 그 성결을 욕되게 하여 이방 신의 딸과 결혼하였으니"
+          }
+        },
+        {
+          "key": "12",
+          "text": {
+            "fr": "L’Éternel retranchera l’homme qui fait cela, celui qui veille et qui répond, Il le retranchera des tentes de Jacob, Et il retranchera celui qui présente une offrande À l’Éternel des armées.",
+            "en": "The Lord will cut off the man that doeth this, the master and the scholar, out of the tabernacles of Jacob, and him that offereth an offering unto the Lord of hosts.",
+            "zh": "凡行這事的、無論何人、〔何人原文作叫醒的答應的〕、就是獻供物給萬軍之耶和華、耶和華也必從雅各的帳棚中剪除他。",
+            "jp": "どうか、主しゅがこうした事ことを行おこなう人ひとをば、証言しょうげんする者ものも、答弁とうべんする者ものも、また万軍ばんぐんの主しゅにささげ物ものをする者ものをも、ヤコブの幕屋まくやから断たたれるように。",
+            "kr": "이 일을 행하는 사람에게 속한 자는 깨는 자나 응답하는 자는 물론이요 만군의 여호와께 제사를 드리는 자도 여호와께서 야곱의 장막 가운데에서 끊어 버리시리라"
+          }
+        },
+        {
+          "key": "13",
+          "text": {
+            "fr": "Voici encore ce que vous faites Vous couvrez de larmes l’autel de l’Éternel, De pleurs et de gémissements, En sorte qu’il ne prête plus attention aux offrandes Et qu’il ne peut rien accepter de vos mains.",
+            "en": "And this have ye done again, covering the altar of the Lord with tears, with weeping, and with crying out, insomuch that he regardeth not the offering any more, or receiveth it with good will at your hand.",
+            "zh": "你們又行了一件這樣的事、使前妻歎息哭泣的眼淚、遮蓋耶和華的壇、以致耶和華不再看顧那供物、也不樂意從你們手中收納。",
+            "jp": "あなたがたはまたこのような事ことをする。すなわち神かみがもはやささげ物ものをかえりみず、またこれをあなたがたの手てから、喜よろこんで受うけられないために、あなたがたは涙なみだと、泣なくことと、嘆なげきとをもって、主しゅの祭壇さいだんをおおい、",
+            "kr": "너희가 이런 일도 행하나니 곧 눈물과 울음과 탄식으로 여호와의 제단을 가리게 하는도다 그러므로 여호와께서 다시는 너희의 봉헌물을 돌아보지도 아니하시며 그것을 너희 손에서 기꺼이 받지도 아니하시거늘"
+          }
+        },
+        {
+          "key": "14",
+          "text": {
+            "fr": "Et vous dites : Pourquoi ? … Parce que l’Éternel a été témoin entre toi et la femme de ta jeunesse, À laquelle tu es infidèle, Bien qu’elle soit ta compagne et la femme de ton alliance.",
+            "en": "¶ Yet ye say, Wherefore? Because the Lord hath been witness between thee and the wife of thy youth, against whom thou hast dealt treacherously: yet is she thy companion, and the wife of thy covenant.",
+            "zh": "你們還說、這是為甚麼呢．因耶和華在你和你幼年所娶的妻中間作見證．他雖是你的配偶、又是你盟約的妻、你卻以詭詐待他。",
+            "jp": "「なぜ神かみは受うけられないのか」と尋たずねる。これは主しゅがあなたと、あなたの若わかい時ときの妻つまとの間あいだの、契約けいやくの証人しょうにんだったからである。彼女かのじょは、あなたの連つれ合あい、契約けいやくによるあなたの妻つまであるのに、あなたは彼女かのじょを裏切うらぎった。",
+            "kr": "너희는 이르기를 어찌 됨이니이까 하는도다 이는 너와 네가 어려서 맞이한 아내 사이에 여호와께서 증인이 되시기 때문이라 그는 네 짝이요 너와 서약한 아내로되 네가 그에게 거짓을 행하였도다"
+          }
+        },
+        {
+          "key": "15",
+          "text": {
+            "fr": "Nul n’a fait cela, avec un reste de bon sens. Un seul l’a fait, et pourquoi ? Parce qu’il cherchait la postérité que Dieu lui avait promise. Prenez donc garde en votre esprit, Et qu’aucun ne soit infidèle à la femme de sa jeunesse !",
+            "en": "And did not he make one? Yet had he the residue of the spirit. And wherefore one? That he might seek a godly seed. Therefore take heed to your spirit, and let none deal treacherously against the wife of his youth.",
+            "zh": "雖然　神有靈的餘力能造多人、他不是單造一人麼．為何只造一人呢．乃是他願人得虔誠的後裔。所以當謹守你們的心、誰也不可以詭詐待幼年所娶的妻。",
+            "jp": "一つ神かみは、われわれのために命いのちの霊れいを造つくり、これをささえられたではないか。彼かれは何なにを望のぞまれるか。神かみを敬うやまう子孫しそんであるゆえ、あなたがたはみずから慎つつしんで、その若わかい時ときの妻つまを裏切うらぎってはならない。",
+            "kr": "그에게는 영이 충만하였으나 오직 하나를 만들지 아니하셨느냐 어찌하여 하나만 만드셨느냐 이는 경건한 자손을 얻고자 하심이라 그러므로 네 심령을 삼가 지켜 어려서 맞이한 아내에게 거짓을 행하지 말지니라"
+          }
+        },
+        {
+          "key": "16",
+          "text": {
+            "fr": "Car je hais la répudiation, Dit l’Éternel, le Dieu d’Israël, Et celui qui couvre de violence son vêtement, Dit l’Éternel des armées. Prenez donc garde en votre esprit, Et ne soyez pas infidèles !",
+            "en": "For the Lord, the God of Israel, saith that he hateth putting away: for one covereth violence with his garment, saith the Lord of hosts: therefore take heed to your spirit, that ye deal not treacherously.",
+            "zh": "耶和華以色列的　神說、休妻的事、和以強暴待妻的人、都是我所恨惡的．所以當謹守你們的心、不可行詭詐．這是萬軍之耶和華說的。",
+            "jp": "イスラエルの神かみ、主しゅは言いわれる、「わたしは離縁りえんする者ものを憎にくみ、また、しえたげをもってその衣ころもをおおう人ひとを憎にくむと、万軍ばんぐんの主しゅは言いわれる。ゆえにみずから慎つつしんで、裏切うらぎることをしてはならない」。",
+            "kr": "이스라엘의 하나님 여호와가 이르노니 나는 이혼하는 것과 옷으로 학대를 가리는 자를 미워하노라 만군의 여호와의 말이니라 그러므로 너희 심령을 삼가 지켜 거짓을 행하지 말지니라"
+          }
+        },
+        {
+          "key": "17",
+          "text": {
+            "fr": "Vous fatiguez l’Éternel par vos paroles, Et vous dites : En quoi l’avons-nous fatigué ? C’est en disant : Quiconque fait le mal est bon aux yeux de l’Éternel, Et c’est en lui qu’il prend plaisir ! Ou bien : Où est le Dieu de la justice ?",
+            "en": "¶ Ye have wearied the Lord with your words. Yet ye say, Wherein have we wearied him? When ye say, Every one that doeth evil is good in the sight of the Lord, and he delighteth in them; or, Where is the God of judgment?",
+            "zh": "你們用言語煩瑣耶和華．你們還說、我們在何事上煩瑣他呢．因為你們說、凡行惡的、耶和華眼看為善、並且他喜悅他們．或說、公義的　神在哪裡呢。",
+            "jp": "あなたがたは言葉ことばをもって主しゅを煩わずらわした。しかしあなたがたは言いう、「われわれはどんなふうに、彼かれを煩わずらわしたか」。それはあなたがたが「すべて悪あくを行おこなう者ものは主しゅの目めに良よく見みえ、かつ彼かれに喜よろこばれる」と言いい、また「さばきを行おこなう神かみはどこにあるか」と言いうからである。",
+            "kr": "너희가 말로 여호와를 괴롭게 하고도 이르기를 우리가 어떻게 여호와를 괴롭혀 드렸나이까 하는도다 이는 너희가 말하기를 모든 악을 행하는 자는 여호와의 눈에 좋게 보이며 그에게 기쁨이 된다 하며 또 말하기를 정의의 하나님이 어디 계시냐 함이니라"
+          }
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "introduction": {
+        "fr": "Le messager de l’Éternel préparera le chemin pour la Seconde Venue. L’Éternel siégera en justice. Le peuple d’Israël reçoit le commandement de payer la dîme et les offrandes. Il tient un livre de souvenir.",
+        "en": "The Lord’s messenger will prepare the way for the Second Coming—The Lord will sit in judgment—The people of Israel are commanded to pay tithes and offerings—They keep a book of remembrance.",
+        "zh": "The Lord’s messenger will prepare the way for the Second Coming—The Lord will sit in judgment—The people of Israel are commanded to pay tithes and offerings—They keep a book of remembrance.",
+        "jp": "The Lord’s messenger will prepare the way for the Second Coming—The Lord will sit in judgment—The people of Israel are commanded to pay tithes and offerings—They keep a book of remembrance.",
+        "kr": "The Lord’s messenger will prepare the way for the Second Coming—The Lord will sit in judgment—The people of Israel are commanded to pay tithes and offerings—They keep a book of remembrance."
+      },
+      "verses": [
+        {
+          "key": "1",
+          "text": {
+            "fr": "Voici, j’enverrai mon messager ; Il préparera le chemin devant moi. Et soudain entrera dans son temple le Seigneur que vous cherchez ; Et le messager de l’alliance que vous désirez, voici, il vient, Dit l’Éternel des armées.",
+            "en": "Behold, I will send my messenger, and he shall prepare the way before me: and the Lord, whom ye seek, shall suddenly come to his temple, even the messenger of the covenant, whom ye delight in: behold, he shall come, saith the Lord of hosts.",
+            "zh": "萬軍之耶和華說、我要差遣我的使者、在我前面預備道路．你們所尋求的主、必忽然進入他的殿．立約的使者、就是你們所仰慕的、快要來到。",
+            "jp": "「見みよ、わたしはわが使者ししゃをつかわす。彼かれはわたしの前まえに道みちを備そなえる。またあなたがたが求もとめる所ところの主しゅは、たちまちその宮みやに来くる。見みよ、あなたがたの喜よろこぶ契約けいやくの使者ししゃが来くると、万軍ばんぐんの主しゅが言いわれる。",
+            "kr": "만군의 여호와가 이르노라 보라 내가 내 사자를 보내리니 그가 내 앞에서 길을 준비할 것이요 또 너희가 구하는 바 주가 갑자기 그의 성전에 임하시리니 곧 너희가 사모하는 바 언약의 사자가 임하실 것이라"
+          }
+        },
+        {
+          "key": "2",
+          "text": {
+            "fr": "Qui pourra supporter le jour de sa venue ? Qui restera debout quand il paraîtra ? Car il sera comme le feu du fondeur, Comme le savon de potasse des foulons.",
+            "en": "But who may abide the day of his coming? and who shall stand when he appeareth? for he is like a refiner’s fire, and like fullers’ soap:",
+            "zh": "他來的日子、誰能當得起呢．他顯現的時候、誰能立得住呢．因為他如煉金之人的火、如漂布之人的鹼。",
+            "jp": "その来くる日ひには、だれが耐たえ得えよう。そのあらわれる時ときには、だれが立たち得えよう。彼かれは金きんをふきわける者ものの火ひのようであり、布ぬのさらしの灰汁あくのようである。",
+            "kr": "그가 임하시는 날을 누가 능히 당하며 그가 나타나는 때에 누가 능히 서리요 그는 금을 연단하는 자의 불과 표백하는 자의 잿물과 같을 것이라"
+          }
+        },
+        {
+          "key": "3",
+          "text": {
+            "fr": "Il s’assiéra, fondra et purifiera l’argent ; Il purifiera les fils de Lévi, Il les rendra purs comme on rend pur l’or et l’argent, Et ils présenteront à l’Éternel des offrandes avec justice.",
+            "en": "And he shall sit as a refiner and purifier of silver: and he shall purify the sons of Levi, and purge them as gold and silver, that they may offer unto the Lord an offering in righteousness.",
+            "zh": "他必坐下如煉淨銀子的、必潔淨利未人、熬煉他們像金銀一樣、他們就憑公義獻供物給耶和華。",
+            "jp": "彼かれは銀ぎんをふきわけて清きよめる者もののように座ざして、レビの子孫しそんを清きよめ、金銀きんぎんのように彼かれらを清きよめる。そして彼かれらは義ぎをもって、ささげ物ものを主しゅにささげる。",
+            "kr": "그가 은을 연단하여 깨끗하게 하는 자 같이 앉아서 레위 자손을 깨끗하게 하되 금, 은 같이 그들을 연단하리니 그들이 공의로운 제물을 나 여호와께 바칠 것이라"
+          }
+        },
+        {
+          "key": "4",
+          "text": {
+            "fr": "Alors l’offrande de Juda et de Jérusalem sera agréable à l’Éternel, Comme aux anciens jours, comme aux années d’autrefois.",
+            "en": "Then shall the offering of Judah and Jerusalem be pleasant unto the Lord, as in the days of old, and as in former years.",
+            "zh": "那時、猶大和耶路撒冷所獻的供物、必蒙耶和華悅納、彷彿古時之日、上古之年。",
+            "jp": "その時ときユダとエルサレムとのささげ物ものは、昔むかしの日ひのように、また先さきの年としのように主しゅに喜よろこばれる。",
+            "kr": "그 때에 유다와 예루살렘의 봉헌물이 옛날과 고대와 같이 나 여호와께 기쁨이 되려니와"
+          }
+        },
+        {
+          "key": "5",
+          "text": {
+            "fr": "Je m’approcherai de vous pour le jugement, Et je me hâterai de témoigner contre les enchanteurs et les adultères, Contre ceux qui jurent faussement, Contre ceux qui retiennent le salaire de l’ouvrier, Qui oppriment la veuve et l’orphelin, Qui font tort à l’étranger et ne me craignent pas, Dit l’Éternel des armées.",
+            "en": "And I will come near to you to judgment; and I will be a swift witness against the sorcerers, and against the adulterers, and against false swearers, and against those that oppress the hireling in his wages, the widow, and the fatherless, and that turn aside the stranger from his right, and fear not me, saith the Lord of hosts.",
+            "zh": "萬軍之耶和華說、我必臨近你們、施行審判．我必速速作見證、警戒行邪術的、犯姦淫的、起假誓的、虧負人之工價的、欺壓寡婦孤兒的、屈枉寄居的、和不敬畏我的。",
+            "jp": "そしてわたしはあなたがたに近ちかづいて、さばきをなし、占うらない者もの、姦淫かんいんを行おこなう者もの、偽いつわりの誓ちかいをなす者ものにむかい、雇人やといにんの賃銀ちんぎんをかすめ、やもめと、みなしごとをしえたげ、寄留きりゅうの他国たこく人じんを押おしのけ、わたしを恐おそれない者ものどもにむかって、すみやかにあかしを立たてると、万軍ばんぐんの主しゅは言いわれる。",
+            "kr": "내가 심판하러 너희에게 임할 것이라 점치는 자에게와 간음하는 자에게와 거짓 맹세하는 자에게와 품꾼의 삯에 대하여 억울하게 하며 과부와 고아를 압제하며 나그네를 억울하게 하며 나를 경외하지 아니하는 자들에게 속히 증언하리라 만군의 여호와가 말하였느니라"
+          }
+        },
+        {
+          "key": "6",
+          "text": {
+            "fr": "Car je suis l’Éternel, je ne change pas ; Et vous, enfants de Jacob, vous n’avez pas été consumés.",
+            "en": "For I am the Lord, I change not; therefore ye sons of Jacob are not consumed.",
+            "zh": "因我耶和華是不改變的、所以你們雅各之子沒有滅亡。",
+            "jp": "主しゅなるわたしは変かわることがない。それゆえ、ヤコブの子こらよ、あなたがたは滅ほろぼされない。",
+            "kr": "나 여호와는 변하지 아니하나니 그러므로 야곱의 자손들아 너희가 소멸되지 아니하느니라"
+          }
+        },
+        {
+          "key": "7",
+          "text": {
+            "fr": "Depuis le temps de vos pères, vous vous êtes écartés de mes ordonnances, Vous ne les avez pas observées. Revenez à moi, et je reviendrai à vous, dit l’Éternel des armées. Et vous dites : En quoi devons-nous revenir ?",
+            "en": "¶ Even from the days of your fathers ye are gone away from mine ordinances, and have not kept them. Return unto me, and I will return unto you, saith the Lord of hosts. But ye said, Wherein shall we return?",
+            "zh": "萬軍之耶和華說、從你們列祖的日子以來、你們常常偏離我的典章、而不遵守。現在你們要轉向我、我就轉向你們．你們卻問說、我們如何纔是轉向呢。",
+            "jp": "あなたがたは、その先祖せんぞの日ひから、わが定さだめを離はなれて、これを守まもらなかった。わたしに帰かえれ、わたしはあなたがたに帰かえろうと、万軍ばんぐんの主しゅは言いわれる。ところが、あなたがたは『われわれはどうして帰かえろうか』と尋たずねる。",
+            "kr": "만군의 여호와가 이르노라 너희 조상들의 날로부터 너희가 나의 규례를 떠나 지키지 아니하였도다 그런즉 내게로 돌아오라 그리하면 나도 너희에게로 돌아가리라 하였더니 너희가 이르기를 우리가 어떻게 하여야 돌아가리이까 하는도다"
+          }
+        },
+        {
+          "key": "8",
+          "text": {
+            "fr": "Un homme trompe-t-il Dieu ? Car vous me trompez, Et vous dites : En quoi t’avons-nous trompé ? Dans les dîmes et les offrandes.",
+            "en": "¶ Will a man rob God? Yet ye have robbed me. But ye say, Wherein have we robbed thee? In tithes and offerings.",
+            "zh": "人豈可奪取　神之物呢．你們竟奪取我的供物、你們卻說、我們在何事上奪取你的供物呢．就是你們在當納的十分之一、和當獻的供物上。",
+            "jp": "人ひとは神かみの物ものを盗ぬすむことをするだろうか。しかしあなたがたは、わたしの物ものを盗ぬすんでいる。あなたがたはまた『どうしてわれわれは、あなたの物ものを盗ぬすんでいるのか』と言いう。十分ぶんの一と、ささげ物ものをもってである。",
+            "kr": "사람이 어찌 하나님의 것을 도둑질하겠느냐 그러나 너희는 나의 것을 도둑질하고도 말하기를 우리가 어떻게 주의 것을 도둑질하였나이까 하는도다 이는 곧 십일조와 봉헌물이라"
+          }
+        },
+        {
+          "key": "9",
+          "text": {
+            "fr": "Vous êtes frappés par la malédiction, Et vous me trompez, La nation tout entière !",
+            "en": "Ye are cursed with a curse: for ye have robbed me, even this whole nation.",
+            "zh": "因你們通國的人、都奪取我的供物、咒詛就臨到你們身上。",
+            "jp": "あなたがたは、のろいをもって、のろわれる。あなたがたすべての国民こくみんは、わたしの物ものを盗ぬすんでいるからである。",
+            "kr": "너희 곧 온 나라가 나의 것을 도둑질하였으므로 너희가 저주를 받았느니라"
+          }
+        },
+        {
+          "key": "10",
+          "text": {
+            "fr": "Apportez à la maison du trésor toutes les dîmes, Afin qu’il y ait de la nourriture dans ma maison ; Mettez-moi de la sorte à l’épreuve, Dit l’Éternel des armées. Et vous verrez si je n’ouvre pas pour vous les écluses des cieux, Si je ne répands pas sur vous la bénédiction en abondance.",
+            "en": "Bring ye all the tithes into the storehouse, that there may be meat in mine house, and prove me now herewith, saith the Lord of hosts, if I will not open you the windows of heaven, and pour you out a blessing, that there shall not be room enough to receive it.",
+            "zh": "萬軍之耶和華說、你們要將當納的十分之一、全然送入倉庫、使我家有糧、以此試試我、是否為你們敞開天上的窗戶、傾福與你們、甚至無處可容。",
+            "jp": "わたしの宮みやに食物しょくもつのあるように、十分ぶんの一全部ぜんぶをわたしの倉くらに携たずさえてきなさい。これをもってわたしを試こころみ、わたしが天てんの窓まどを開ひらいて、あふるる恵めぐみを、あなたがたに注そそぐか否いなかを見みなさいと、万軍ばんぐんの主しゅは言いわれる。",
+            "kr": "만군의 여호와가 이르노라 너희의 온전한 십일조를 창고에 들여 나의 집에 양식이 있게 하고 그것으로 나를 시험하여 내가 하늘 문을 열고 너희에게 복을 쌓을 곳이 없도록 붓지 아니하나 보라"
+          }
+        },
+        {
+          "key": "11",
+          "text": {
+            "fr": "Pour vous je menacerai celui qui dévore, Et il ne vous détruira pas les fruits de la terre, Et la vigne ne sera pas stérile dans vos campagnes, Dit l’Éternel des armées.",
+            "en": "And I will rebuke the devourer for your sakes, and he shall not destroy the fruits of your ground; neither shall your vine cast her fruit before the time in the field, saith the Lord of hosts.",
+            "zh": "萬軍之耶和華說、我必為你們斥責蝗蟲〔蝗蟲原文作吞噬者〕不容他毀壞你們的土產．你們田間的葡萄樹在未熟之先、也不掉果子。",
+            "jp": "わたしは食くい滅ほろぼす者ものを、あなたがたのためにおさえて、あなたがたの地ちの産物さんぶつを、滅ほろぼさないようにしよう。また、あなたがたのぶどうの木きが、その熟じゅくする前まえに、その実みを畑はたけに落おとすことのないようにしようと、万軍ばんぐんの主しゅは言いわれる。",
+            "kr": "만군의 여호와가 이르노라 내가 너희를 위하여 메뚜기를 금하여 너희 토지 소산을 먹어 없애지 못하게 하며 너희 밭의 포도나무 열매가 기한 전에 떨어지지 않게 하리니"
+          }
+        },
+        {
+          "key": "12",
+          "text": {
+            "fr": "Toutes les nations vous diront heureux, Car vous serez un pays de délices, Dit l’Éternel des armées.",
+            "en": "And all nations shall call you blessed: for ye shall be a delightsome land, saith the Lord of hosts.",
+            "zh": "萬軍之耶和華說、萬國必稱你們為有福的、因你們的地必成為喜樂之地。",
+            "jp": "こうして万国ばんこくの人ひとは、あなたがたを祝福しゅくふくされた者ものととなえるであろう。あなたがたは楽たのしい地ちとなるからであると、万軍ばんぐんの主しゅは言いわれる。",
+            "kr": "너희 땅이 아름다워지므로 모든 이방인들이 너희를 복되다 하리라 만군의 여호와의 말이니라"
+          }
+        },
+        {
+          "key": "13",
+          "text": {
+            "fr": "Vos paroles sont rudes contre moi, dit l’Éternel. Et vous dites : Qu’avons-nous dit contre toi ?",
+            "en": "¶ Your words have been stout against me, saith the Lord. Yet ye say, What have we spoken so much against thee?",
+            "zh": "耶和華說、你們用話頂撞我．你們還說、我們用甚麼話頂撞了你呢。",
+            "jp": "主しゅは言いわれる、あなたがたは言葉ことばを激はげしくして、わたしに逆さからった。しかもあなたがたは『われわれはあなたに逆さからって、どんな事ことを言いったか』と言いう。",
+            "kr": "여호와가 이르노라 너희가 완악한 말로 나를 대적하고도 이르기를 우리가 무슨 말로 주를 대적하였나이까 하는도다"
+          }
+        },
+        {
+          "key": "14",
+          "text": {
+            "fr": "Vous avez dit : C’est en vain que l’on sert Dieu ; Qu’avons-nous gagné à observer ses préceptes, Et à marcher avec tristesse À cause de l’Éternel des armées ?",
+            "en": "Ye have said, It is vain to serve God: and what profit is it that we have kept his ordinance, and that we have walked mournfully before the Lord of hosts?",
+            "zh": "你們說、事奉　神是徒然的．遵守　神所吩咐的、在萬軍之耶和華面前苦苦齋戒、有甚麼益處呢。",
+            "jp": "あなたがたは言いった、『神かみに仕つかえる事ことはつまらない。われわれがその命令めいれいを守まもり、かつ万軍ばんぐんの主しゅの前まえに、悲かなしんで歩あるいたからといって、なんの益えきがあるか。",
+            "kr": "이는 너희가 말하기를 하나님을 섬기는 것이 헛되니 만군의 여호와 앞에서 그 명령을 지키며 슬프게 행하는 것이 무엇이 유익하리요"
+          }
+        },
+        {
+          "key": "15",
+          "text": {
+            "fr": "Maintenant nous estimons heureux les hautains ; Oui, les méchants prospèrent ; Oui, ils tentent Dieu, et ils en réchappent !",
+            "en": "And now we call the proud happy; yea, they that work wickedness are set up; yea, they that tempt God are even delivered.",
+            "zh": "如今我們稱狂傲的人為有福．並且行惡的人得建立．他們雖然試探　神、卻得脫離災難。",
+            "jp": "今いまわれわれは高たかぶる者ものを、祝福しゅくふくされた者ものと思おもう。悪あくを行おこなう者ものは栄さかえるばかりでなく、神かみを試こころみても罰ばっせられない』」。",
+            "kr": "지금 우리는 교만한 자가 복되다 하며 악을 행하는 자가 번성하며 하나님을 시험하는 자가 화를 면한다 하노라 함이라"
+          }
+        },
+        {
+          "key": "16",
+          "text": {
+            "fr": "Alors ceux qui craignent l’Éternel se parlèrent l’un à l’autre ; L’Éternel fut attentif, et il écouta ; Et un livre de souvenir fut écrit devant lui Pour ceux qui craignent l’Éternel Et qui honorent son nom.",
+            "en": "¶ Then they that feared the Lord spake often one to another: and the Lord hearkened, and heard it, and a book of remembrance was written before him for them that feared the Lord, and that thought upon his name.",
+            "zh": "那時、敬畏耶和華的彼此談論．耶和華側耳而聽、且有紀念冊在他面前、記錄那敬畏耶和華思念他名的人。",
+            "jp": "そのとき、主しゅを恐おそれる者ものは互たがいに語かたった。主しゅは耳みみを傾かたむけてこれを聞きかれた。そして主しゅを恐おそれる者もの、およびその名なを心こころに留とめている者もののために、主しゅの前まえに一つの覚おぼえ書がきがしるされた。",
+            "kr": "그 때에 여호와를 경외하는 자들이 피차에 말하매 여호와께서 그것을 분명히 들으시고 여호와를 경외하는 자와 그 이름을 존중히 여기는 자를 위하여 여호와 앞에 있는 기념책에 기록하셨느니라"
+          }
+        },
+        {
+          "key": "17",
+          "text": {
+            "fr": "Ils seront à moi, dit l’Éternel des armées, Ils m’appartiendront, au jour que je prépare ; J’aurai compassion d’eux Comme un homme a compassion de son fils qui le sert.",
+            "en": "And they shall be mine, saith the Lord of hosts, in that day when I make up my jewels; and I will spare them, as a man spareth his own son that serveth him.",
+            "zh": "萬軍之耶和華說、在我所定的日子、他們必屬我、特特歸我．我必憐恤他們、如同人憐恤服事自己的兒子。",
+            "jp": "「万軍ばんぐんの主しゅは言いわれる、彼かれらはわたしが手てを下くだして事ことを行おこなう日ひに、わたしの者ものとなり、わたしの宝たからとなる。また人ひとが自分じぶんに仕つかえる子こをあわれむように、わたしは彼かれらをあわれむ。",
+            "kr": "만군의 여호와가 이르노라 나는 내가 정한 날에 그들을 나의 특별한 소유로 삼을 것이요 또 사람이 자기를 섬기는 아들을 아낌 같이 내가 그들을 아끼리니"
+          }
+        },
+        {
+          "key": "18",
+          "text": {
+            "fr": "Et vous verrez de nouveau la différence Entre le juste et le méchant, Entre celui qui sert Dieu Et celui qui ne le sert pas.",
+            "en": "Then shall ye return, and discern between the righteous and the wicked, between him that serveth God and him that serveth him not.",
+            "zh": "那時你們必歸回、將善人和惡人、事奉　神的和不事奉　神的、分別出來。",
+            "jp": "その時ときあなたがたは、再ふたたび義人ぎじんと悪人あくにん、神かみに仕つかえる者ものと、仕つかえない者ものとの区別くべつを知しるようになる。",
+            "kr": "그 때에 너희가 돌아와서 의인과 악인을 분별하고 하나님을 섬기는 자와 섬기지 아니하는 자를 분별하리라"
+          }
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "introduction": {
+        "fr": "Lors de la Seconde Venue, les hautains et les méchants seront embrasés comme du chaume. Elie reviendra avant le jour grand et redoutable.",
+        "en": "At the Second Coming, the proud and wicked will be burned as stubble—Elijah will return before that great and dreadful day.",
+        "zh": "At the Second Coming, the proud and wicked will be burned as stubble—Elijah will return before that great and dreadful day.",
+        "jp": "At the Second Coming, the proud and wicked will be burned as stubble—Elijah will return before that great and dreadful day.",
+        "kr": "At the Second Coming, the proud and wicked will be burned as stubble—Elijah will return before that great and dreadful day."
+      },
+      "verses": [
+        {
+          "key": "1",
+          "text": {
+            "fr": "Car voici, le jour vient, Ardent comme une fournaise. Tous les hautains et tous les méchants seront comme du chaume ; Le jour qui vient les embrasera, Dit l’Éternel des armées, Il ne leur laissera ni racine ni rameau.",
+            "en": "For, behold, the day cometh, that shall burn as an oven; and all the proud, yea, and all that do wickedly, shall be stubble: and the day that cometh shall burn them up, saith the Lord of hosts, that it shall leave them neither root nor branch.",
+            "zh": "萬軍之耶和華說、那日臨近、勢如燒著的火爐．凡狂傲的和行惡的、必如碎秸．在那日必被燒盡、根本枝條一無存留。",
+            "jp": "万軍ばんぐんの主しゅは言いわれる、見みよ、炉ろのように燃もえる日ひが来くる。その時ときすべて高たかぶる者ものと、悪あくを行おこなう者ものとは、わらのようになる。その来くる日ひは、彼かれらを焼やき尽つくして、根ねも枝えだも残のこさない。",
+            "kr": "만군의 여호와가 이르노라 보라 용광로 불 같은 날이 이르리니 교만한 자와 악을 행하는 자는 다 지푸라기 같을 것이라 그 이르는 날에 그들을 살라 그 뿌리와 가지를 남기지 아니할 것이로되"
+          }
+        },
+        {
+          "key": "2",
+          "text": {
+            "fr": "Mais pour vous qui craignez mon nom, se lèvera Le soleil de la justice, Et la guérison sera sous ses ailes ; Vous sortirez, et vous sauterez comme les veaux d’une étable,",
+            "en": "¶ But unto you that fear my name shall the Sun of righteousness arise with healing in his wings; and ye shall go forth, and grow up as calves of the stall.",
+            "zh": "但向你們敬畏我名的人、必有公義的日頭出現、其光線有醫治之能。〔光線原文作翅膀〕你們必出來跳躍如圈裡的肥犢。",
+            "jp": "しかしわが名なを恐おそれるあなたがたには、義ぎの太陽たいようがのぼり、その翼つばさには、いやす力ちからを備そなえている。あなたがたは牛舎ぎゅうしゃから出でる子こ牛うしのように外そとに出でて、とびはねる。",
+            "kr": "내 이름을 경외하는 너희에게는 공의로운 해가 떠올라서 치료하는 광선을 비추리니 너희가 나가서 외양간에서 나온 송아지 같이 뛰리라"
+          }
+        },
+        {
+          "key": "3",
+          "text": {
+            "fr": "Et vous piétinerez les méchants, Car ils seront comme de la cendre Sous la plante de vos pieds, Au jour que je prépare, Dit l’Éternel des armées.",
+            "en": "And ye shall tread down the wicked; for they shall be ashes under the soles of your feet in the day that I shall do this, saith the Lord of hosts.",
+            "zh": "你們必踐踏惡人．在我所定的日子、他們必如灰塵在你們腳掌之下．這是萬軍之耶和華說的。",
+            "jp": "また、あなたがたは悪人あくにんを踏ふみつけ、わたしが事ことを行おこなう日ひに、彼かれらはあなたがたの足あしの裏うらの下したにあって、灰はいのようになると、万軍ばんぐんの主しゅは言いわれる。",
+            "kr": "또 너희가 악인을 밟을 것이니 그들이 내가 정한 날에 너희 발바닥 밑에 재와 같으리라 만군의 여호와의 말이니라"
+          }
+        },
+        {
+          "key": "4",
+          "text": {
+            "fr": "Souvenez-vous de la loi de Moïse, mon serviteur, Auquel j’ai prescrit en Horeb, pour tout Israël, Des préceptes et des ordonnances.",
+            "en": "¶ Remember ye the law of Moses my servant, which I commanded unto him in Horeb for all Israel, with the statutes and judgments.",
+            "zh": "你們當記念我僕人摩西的律法、就是我在何烈山為以色列眾人所吩咐他的律例典章。",
+            "jp": "あなたがたは、わがしもべモーセの律法りっぽう、すなわちわたしがホレブで、イスラエル全体ぜんたいのために、彼かれに命めいじた定さだめとおきてとを覚おぼえよ。",
+            "kr": "너희는 내가 호렙에서 온 이스라엘을 위하여 내 종 모세에게 명령한 법 곧 율례와 법도를 기억하라"
+          }
+        },
+        {
+          "key": "5",
+          "text": {
+            "fr": "Voici, je vous enverrai Élie, le prophète, Avant que le jour de l’Éternel arrive, Ce jour grand et redoutable.",
+            "en": "¶ Behold, I will send you Elijah the prophet before the coming of the great and dreadful day of the Lord:",
+            "zh": "看哪、耶和華大而可畏之日未到以前、我必差遣先知以利亞到你們那裡去。",
+            "jp": "見みよ、主しゅの大おおいなる恐おそるべき日ひが来くる前まえに、わたしは預言者よげんしゃエリヤをあなたがたにつかわす。",
+            "kr": "보라 여호와의 크고 두려운 날이 이르기 전에 내가 선지자 엘리야를 너희에게 보내리니"
+          }
+        },
+        {
+          "key": "6",
+          "text": {
+            "fr": "Il ramènera le cœur des pères à leurs enfants, Et le cœur des enfants à leurs pères, De peur que je ne vienne frapper le pays de malédiction.",
+            "en": "And he shall turn the heart of the fathers to the children, and the heart of the children to their fathers, lest I come and smite the earth with a curse.",
+            "zh": "他必使父親的心轉向兒女、兒女的心轉向父親、免得我來咒詛遍地。",
+            "jp": "彼かれは父ちちの心こころをその子こ供ともたちに向むけさせ、子供こどもたちの心こころをその父ちちに向むけさせる。これはわたしが来きて、のろいをもってこの国くにを撃うつことのないようにするためである」。",
+            "kr": "그가 아버지의 마음을 자녀에게로 돌이키게 하고 자녀들의 마음을 그들의 아버지에게로 돌이키게 하리라 돌이키지 아니하면 두렵건대 내가 와서 저주로 그 땅을 칠까 하노라 하시니라"
+          }
+        }
+      ]
+    }
+  ]
+}

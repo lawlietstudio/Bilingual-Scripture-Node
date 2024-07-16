@@ -1,0 +1,521 @@
+{
+  "book": {
+    "fr": "TITE",
+    "en": "THE EPISTLE OF PAUL TO",
+    "zh": "提多書",
+    "jp": "テトスヘの手紙てがみ",
+    "kr": "디도서"
+  },
+  "theme": {
+    "fr": "Chapitre 1",
+    "en": "",
+    "zh": "第1章",
+    "jp": "第1章",
+    "kr": "제 1 장"
+  },
+  "introduction": {
+    "fr": "",
+    "en": "Chapter 1",
+    "zh": "",
+    "jp": "Chapter 1",
+    "kr": "Chapter 1"
+  },
+  "chapters": [
+    {
+      "number": 1,
+      "introduction": {
+        "fr": "Eternal life was promised before the world began—The qualifications of bishops are given—Unto the pure, all things are pure.",
+        "en": "Eternal life was promised before the world began—The qualifications of bishops are given—Unto the pure, all things are pure.",
+        "zh": "Eternal life was promised before the world began—The qualifications of bishops are given—Unto the pure, all things are pure.",
+        "jp": "Eternal life was promised before the world began—The qualifications of bishops are given—Unto the pure, all things are pure.",
+        "kr": "Eternal life was promised before the world began—The qualifications of bishops are given—Unto the pure, all things are pure."
+      },
+      "verses": [
+        {
+          "key": "1",
+          "text": {
+            "fr": "Paul, serviteur de Dieu, et apôtre de Jésus Christ pour la foi des élus de Dieu et la connaissance de la vérité qui est selon la piété,—",
+            "en": "Paul, a servant of God, and an apostle of Jesus Christ, according to the faith of God’s elect, and the acknowledging of the truth which is after godliness;",
+            "zh": "神的僕人、耶穌基督的使徒保羅、憑著　神選民的信心、與敬虔真理的知識、",
+            "jp": "神かみの僕しもべ、イエス・キリストの使徒しとパウロから——わたしが使徒しととされたのは、神かみに選えらばれた者ものたちの信仰しんこうを強つよめ、また、信心しんじんにかなう真理しんりの知識ちしきを彼かれらに得えさせるためであり、",
+            "kr": "하나님의 종이요 예수 그리스도의 사도인 나 바울이 사도 된 것은 하나님이 택하신 자들의 믿음과 경건함에 속한 진리의 지식과"
+          }
+        },
+        {
+          "key": "2",
+          "text": {
+            "fr": "lesquelles reposent sur l’espérance de la vie éternelle, promise dès les plus anciens temps par le Dieu qui ne ment point,",
+            "en": "In hope of eternal life, which God, that cannot lie, promised before the world began;",
+            "zh": "盼望那無謊言的　神、在萬古之先所應許的永生、",
+            "jp": "偽いつわりのない神かみが永遠えいえんの昔むかしに約束やくそくされた永遠えいえんのいのちの望のぞみに基もとづくのである。",
+            "kr": "영생의 소망을 위함이라 이 영생은 거짓이 없으신 하나님이 영원 전부터 약속하신 것인데"
+          }
+        },
+        {
+          "key": "3",
+          "text": {
+            "fr": "et qui a manifesté sa parole en son temps par la prédication qui m’a été confiée d’après l’ordre de Dieu notre Sauveur,—",
+            "en": "But hath in due times manifested his word through preaching, which is committed unto me according to the commandment of God our Saviour;",
+            "zh": "到了日期、藉著傳揚的工夫、把他的道顯明了．這傳揚的責任、是按著　神我們救主的命令交託了我。",
+            "jp": "神かみは、定さだめられた時ときに及およんで、御言みことばを宣教せんきょうによって明あきらかにされたが、わたしは、わたしたちの救主すくいぬしなる神かみの任命にんめいによって、この宣教せんきょうをゆだねられたのである——",
+            "kr": "자기 때에 자기의 말씀을 전도로 나타내셨으니 이 전도는 우리 구주 하나님이 명하신 대로 내게 맡기신 것이라"
+          }
+        },
+        {
+          "key": "4",
+          "text": {
+            "fr": "à Tite, mon enfant légitime en notre commune foi : que la grâce et la paix te soient données de la part de Dieu le Père et de Jésus Christ notre Sauveur !",
+            "en": "To Titus, mine own son after the common faith: Grace, mercy, and peace, from God the Father and the Lord Jesus Christ our Saviour.",
+            "zh": "現在寫信給提多、就是照著我們共信之道作我真兒子的．願恩惠平安、從父　神和我們的救主基督耶穌歸與你。",
+            "jp": "信仰しんこうを同おなじうするわたしの真実しんじつの子こテトスへ。父ちちなる神かみとわたしたちの救主すくいぬしキリスト・イエスから、恵めぐみと平安へいあんとが、あなたにあるように。",
+            "kr": "같은 믿음을 따라 나의 참 아들 된 디도에게 편지하노니 하나님 아버지와 그리스도 예수 우리 구주로부터 은혜와 평강이 네게 있을지어다"
+          }
+        },
+        {
+          "key": "5",
+          "text": {
+            "fr": "Je t’ai laissé en Crète, afin que tu mettes en ordre ce qui reste à régler, et que, selon mes instructions, tu établisses des anciens dans chaque ville,",
+            "en": "For this cause left I thee in Crete, that thou shouldest set in order the things that are wanting, and ordain elders in every city, as I had appointed thee:",
+            "zh": "我從前留你在革哩底、是要你將那沒有辦完的事都辦整齊了、又照我所吩咐你的、在各城設立長老．",
+            "jp": "あなたをクレテにおいてきたのは、わたしがあなたに命めいじておいたように、そこにし残のこしてあることを整理せいりしてもらい、また、町々まちまちに長老ちょうろうを立たててもらうためにほかならない。",
+            "kr": "내가 너를 그레데에 남겨 둔 이유는 남은 일을 정리하고 내가 명한 대로 각 성에 장로들을 세우게 하려 함이니"
+          }
+        },
+        {
+          "key": "6",
+          "text": {
+            "fr": "s’il s’y trouve quelque homme irréprochable, mari d’une seul femme, ayant des enfants fidèles, qui ne soient ni accusés de débauche ni rebelles.",
+            "en": "If any be blameless, the husband of one wife, having faithful children not accused of riot or unruly.",
+            "zh": "若有無可指責的人、只作一個婦人的丈夫、兒女也是信主的、沒有人告他們是放蕩不服約束的、就可以設立。",
+            "jp": "長老ちょうろうは、責せめられる点てんがなく、ひとりの妻つまの夫おっとであって、その子こたちも不品行ふひんこうのうわさをたてられず、親不孝おやふこうをしない信者しんじゃでなくてはならない。",
+            "kr": "책망할 것이 없고 한 아내의 남편이며 방탕하다는 비난을 받거나 불순종하는 일이 없는 믿는 자녀를 둔 자라야 할지라"
+          }
+        },
+        {
+          "key": "7",
+          "text": {
+            "fr": "Car il faut que l’évêque soit irréprochable, comme économe de Dieu ; qu’il ne soit ni arrogant, ni colère, ni adonné au vin, ni violent, ni porté à un gain déshonnête ;",
+            "en": "For a bishop must be blameless, as the steward of God; not selfwilled, not soon angry, not given to wine, no striker, not given to filthy lucre;",
+            "zh": "監督既是　神的管家、必須無可指責、不任性、不暴躁、不因酒滋事、不打人、不貪無義之財、",
+            "jp": "監督かんとくたる者ものは、神かみに仕つかえる者ものとして、責せめられる点てんがなく、わがままでなく、軽々かるがるしく怒いからず、酒さけを好このまず、乱暴らんぼうでなく、利りをむさぼらず、",
+            "kr": "감독은 하나님의 청지기로서 책망할 것이 없고 제 고집대로 하지 아니하며 급히 분내지 아니하며 술을 즐기지 아니하며 구타하지 아니하며 더러운 이득을 탐하지 아니하며"
+          }
+        },
+        {
+          "key": "8",
+          "text": {
+            "fr": "mais qu’il soit hospitalier, ami des gens de bien, modéré, juste, saint, tempérant,",
+            "en": "But a lover of hospitality, a lover of good men, sober, just, holy, temperate;",
+            "zh": "樂意接待遠人、好善、莊重、公平、聖潔、自持．",
+            "jp": "かえって、旅人たびびとをもてなし、善ぜんを愛あいし、慎つつしみ深ふかく、正ただしく、信仰しんこう深ぶかく、自じ制せいする者ものであり、",
+            "kr": "오직 나그네를 대접하며 선행을 좋아하며 신중하며 의로우며 거룩하며 절제하며"
+          }
+        },
+        {
+          "key": "9",
+          "text": {
+            "fr": "attaché à la vraie parole telle qu’elle a été enseignée, afin d’être capable d’exhorter selon la saine doctrine et de réfuter les contradicteurs.",
+            "en": "Holding fast the faithful word as he hath been taught, that he may be able by sound doctrine both to exhort and to convince the gainsayers.",
+            "zh": "堅守所教真實的道理、就能將純正的教訓勸化人．又能把爭辯的人駁倒了。",
+            "jp": "教おしえにかなった信頼しんらいすべき言葉ことばを守まもる人ひとでなければならない。それは、彼かれが健全けんぜんな教おしえによって人ひとをさとし、また、反対者はんたいしゃの誤あやまりを指摘してきすることができるためである。",
+            "kr": "미쁜 말씀의 가르침을 그대로 지켜야 하리니 이는 능히 바른 교훈으로 권면하고 거슬러 말하는 자들을 책망하게 하려 함이라"
+          }
+        },
+        {
+          "key": "10",
+          "text": {
+            "fr": "Il y a, en effet, surtout parmi les circoncis, beaucoup de gens rebelles, de vains discoureurs et de séducteurs,",
+            "en": "For there are many unruly and vain talkers and deceivers, specially they of the circumcision:",
+            "zh": "因為有許多人不服約束、說虛空話、欺哄人．那奉割禮的、更是這樣。",
+            "jp": "実じつは、法ほうに服ふくさない者もの、空論くうろんに走はしる者もの、人ひとの心こころを惑まどわす者ものが多おおくおり、とくに、割礼かつれいのある者ものの中なかに多おおい。",
+            "kr": "불순종하고 헛된 말을 하며 속이는 자가 많은 중 할례파 가운데 특히 그러하니"
+          }
+        },
+        {
+          "key": "11",
+          "text": {
+            "fr": "auxquels il faut fermer la bouche. Ils bouleversent des familles entières, enseignant pour un gain honteux ce qu’on ne doit pas enseigner.",
+            "en": "Whose mouths must be stopped, who subvert whole houses, teaching things which they ought not, for filthy lucre’s sake.",
+            "zh": "這些人的口總要堵住．他們因貪不義之財、將不該教導的教導人、敗壞人的全家。",
+            "jp": "彼かれらの口くちを封ふうずべきである。彼かれらは恥はずべき利りのために、教おしえてはならないことを教おしえて、数々かずかずの家庭かていを破壊はかいしてしまっている。",
+            "kr": "그들의 입을 막을 것이라 이런 자들이 더러운 이득을 취하려고 마땅하지 아니한 것을 가르쳐 가정들을 온통 무너뜨리는도다"
+          }
+        },
+        {
+          "key": "12",
+          "text": {
+            "fr": "L’un d’entre eux, leur propre prophète, a dit : Crétois toujours menteurs, méchantes bêtes, ventres paresseux.",
+            "en": "One of themselves, even a prophet of their own, said, The Cretians are alway liars, evil beasts, slow bellies.",
+            "zh": "有革哩底人中的一個本地先知說、『革哩底人常說謊話、乃是惡獸、又饞又懶．』",
+            "jp": "クレテ人びとのうちのある預言者よげんしゃが「クレテ人びとは、いつもうそつき、たちの悪わるいけもの、なまけ者ものの食くいしんぼう」と言いっているが、",
+            "kr": "그레데인 중의 어떤 선지자가 말하되 그레데인들은 항상 거짓말쟁이며 악한 짐승이며 배만 위하는 게으름뱅이라 하니"
+          }
+        },
+        {
+          "key": "13",
+          "text": {
+            "fr": "Ce témoignage est vrai. C’est pourquoi reprends-les sévèrement, afin qu’ils aient une foi saine,",
+            "en": "This witness is true. Wherefore rebuke them sharply, that they may be sound in the faith;",
+            "zh": "這個見證是真的。所以你要嚴嚴的責備他們、使他們在真道上純全無疵．",
+            "jp": "この非難ひなんはあたっている。だから、彼かれらをきびしく責せめて、その信仰しんこうを健全けんぜんなものにし、",
+            "kr": "이 증언이 참되도다 그러므로 네가 그들을 엄히 꾸짖으라 이는 그들로 하여금 믿음을 온전하게 하고"
+          }
+        },
+        {
+          "key": "14",
+          "text": {
+            "fr": "et qu’ils ne s’attachent pas à des fables judaïques et à des commandements d’hommes qui se détournent de la vérité.",
+            "en": "Not giving heed to Jewish fables, and commandments of men, that turn from the truth.",
+            "zh": "不聽猶太人荒渺的言語、和離棄真道之人的誡命。",
+            "jp": "ユダヤ人じんの作つくり話ばなしや、真理しんりからそれていった人々ひとびとの定さだめなどに、気きをとられることがないようにさせなさい。",
+            "kr": "유대인의 허탄한 이야기와 진리를 배반하는 사람들의 명령을 따르지 않게 하려 함이라"
+          }
+        },
+        {
+          "key": "15",
+          "text": {
+            "fr": "Tout est pur pour ceux qui sont purs ; mais rien n’est pur pour ceux qui sont souillées et incrédules, leur intelligence et leur conscience sont souillés.",
+            "en": "Unto the pure all things are pure: but unto them that are defiled and unbelieving is nothing pure; but even their mind and conscience is defiled.",
+            "zh": "在潔淨的人、凡物都潔淨．在污穢不信的人、甚麼都不潔淨．連心地和天良、也都污穢了。",
+            "jp": "きよい人ひとには、すべてのものがきよい。しかし、汚けがれている不ふ信仰しんこうな人ひとには、きよいものは一つもなく、その知性ちせいも良心りょうしんも汚けがれてしまっている。",
+            "kr": "깨끗한 자들에게는 모든 것이 깨끗하나 더럽고 믿지 아니하는 자들에게는 아무 것도 깨끗한 것이 없고 오직 그들의 마음과 양심이 더러운지라"
+          }
+        },
+        {
+          "key": "16",
+          "text": {
+            "fr": "Ils font profession de connaître Dieu, mais ils le renient par leurs oeuvres, étant abominables, rebelles, et incapables d’aucune bonne oeuvre.",
+            "en": "They profess that they know God; but in works they deny him, being abominable, and disobedient, and unto every good work reprobate.",
+            "zh": "他們說是認識　神、行事卻和他相背．本是可憎惡的、是悖逆的、在各樣善事上是可廢棄的。",
+            "jp": "彼かれらは神かみを知しっていると、口くちでは言いうが、行おこないではそれを否定ひていしている。彼かれらは忌いまわしい者もの、また不ふ従順じゅうじゅんな者ものであって、いっさいの良よいわざに関かんしては、失格者しっかくしゃである。",
+            "kr": "그들이 하나님을 시인하나 행위로는 부인하니 가증한 자요 복종하지 아니하는 자요 모든 선한 일을 버리는 자니라"
+          }
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "introduction": {
+        "fr": "Saints should live righteously, deny ungodliness, and seek the Lord.",
+        "en": "Saints should live righteously, deny ungodliness, and seek the Lord.",
+        "zh": "Saints should live righteously, deny ungodliness, and seek the Lord.",
+        "jp": "Saints should live righteously, deny ungodliness, and seek the Lord.",
+        "kr": "Saints should live righteously, deny ungodliness, and seek the Lord."
+      },
+      "verses": [
+        {
+          "key": "1",
+          "text": {
+            "fr": "Pour toi, dis les choses qui sont conformes à la saine doctrine.",
+            "en": "But speak thou the things which become sound doctrine:",
+            "zh": "但你所講的、總要合乎那純正的道理．",
+            "jp": "しかし、あなたは、健全けんぜんな教おしえにかなうことを語かたりなさい。",
+            "kr": "오직 너는 바른 교훈에 합당한 것을 말하여"
+          }
+        },
+        {
+          "key": "2",
+          "text": {
+            "fr": "Dis que les vieillards doivent être sobres, honnêtes, modérés, sains dans la foi, dans la charité, dans la patience.",
+            "en": "That the aged men be sober, grave, temperate, sound in faith, in charity, in patience.",
+            "zh": "勸老年人、要有節制、端莊、自守、在信心愛心忍耐上、都要純全無疵。",
+            "jp": "老人ろうじんたちには自みずからを制せいし、謹厳きんげんで、慎つつしみ深ふかくし、また、信仰しんこうと愛あいと忍耐にんたいとにおいて健全けんぜんであるように勧すすめ、",
+            "kr": "늙은 남자로는 절제하며 경건하며 신중하며 믿음과 사랑과 인내함에 온전하게 하고"
+          }
+        },
+        {
+          "key": "3",
+          "text": {
+            "fr": "Dis que les femmes âgées doivent aussi avoir l’extérieur qui convient à la sainteté, n’être ni médisantes, ni adonnées aux excès du vin ; qu’elles doivent donner de bonnes instructions,",
+            "en": "The aged women likewise, that they be in behaviour as becometh holiness, not false accusers, not given to much wine, teachers of good things;",
+            "zh": "又勸老年婦人、舉止行動要恭敬、不說讒言、不給酒作奴僕、用善道教訓人．",
+            "jp": "年老としおいた女おんなたちにも、同おなじように、たち居いふるまいをうやうやしくし、人ひとをそしったり大酒たいしゅの奴隷どれいになったりせず、良よいことを教おしえる者ものとなるように、勧すすめなさい。",
+            "kr": "늙은 여자로는 이와 같이 행실이 거룩하며 모함하지 말며 많은 술의 종이 되지 아니하며 선한 것을 가르치는 자들이 되고"
+          }
+        },
+        {
+          "key": "4",
+          "text": {
+            "fr": "dans le but d’apprendre aux jeunes femmes à aimer leurs maris et leurs enfants,",
+            "en": "That they may teach the young women to be sober, to love their husbands, to love their children,",
+            "zh": "好指教少年婦人、愛丈夫、愛兒女、",
+            "jp": "そうすれば、彼女かのじょたちは、若わかい女おんなたちに、夫おっとを愛あいし、子供こどもを愛あいし、",
+            "kr": "그들로 젊은 여자들을 교훈하되 그 남편과 자녀를 사랑하며"
+          }
+        },
+        {
+          "key": "5",
+          "text": {
+            "fr": "à être retenues, chastes, occupées aux soins domestiques, bonnes, soumises à leurs maris, afin que la parole de Dieu ne soit pas blasphémée.",
+            "en": "To be discreet, chaste, keepers at home, good, obedient to their own husbands, that the word of God be not blasphemed.",
+            "zh": "謹守、貞潔、料理家務、待人有恩、順服自己的丈夫、免得　神的道理被毀謗。",
+            "jp": "慎つつしみ深ふかく、純潔じゅんけつで、家事かじに努つとめ、善良ぜんりょうで、自分じぶんの夫おっとに従順じゅうじゅんであるように教おしえることになり、したがって、神かみの言ことばがそしりを受うけないようになるであろう。",
+            "kr": "신중하며 순전하며 집안 일을 하며 선하며 자기 남편에게 복종하게 하라 이는 하나님의 말씀이 비방을 받지 않게 하려 함이라"
+          }
+        },
+        {
+          "key": "6",
+          "text": {
+            "fr": "Exhorte de même les jeunes gens à être modérés,",
+            "en": "Young men likewise exhort to be sober minded.",
+            "zh": "又勸少年人要謹守．",
+            "jp": "若わかい男おとこにも、同おなじく、万事ばんじにつけ慎つつしみ深ぶかくあるように、勧すすめなさい。",
+            "kr": "너는 이와 같이 젊은 남자들을 신중하도록 권면하되"
+          }
+        },
+        {
+          "key": "7",
+          "text": {
+            "fr": "te montrant toi-même à tous égards un modèle de bonnes oeuvres, et donnant un enseignement pur, digne,",
+            "en": "In all things shewing thyself a pattern of good works: in doctrine shewing uncorruptness, gravity, sincerity,",
+            "zh": "你自己凡事要顯出善行的榜樣、在教訓上要正直、端莊、",
+            "jp": "あなた自身じしんを良よいわざの模範もはんとして示しめし、人ひとを教おしえる場合ばあいには、清廉せいれんと謹厳きんげんとをもってし、",
+            "kr": "범사에 네 자신이 선한 일의 본을 보이며 교훈에 부패하지 아니함과 단정함과"
+          }
+        },
+        {
+          "key": "8",
+          "text": {
+            "fr": "une parole saine, irréprochable, afin que l’adversaire soit confus, n’ayant aucun mal à dire de nous.",
+            "en": "Sound speech, that cannot be condemned; that he that is of the contrary part may be ashamed, having no evil thing to say of you.",
+            "zh": "言語純全、無可指責、叫那反對的人、既無處可說我們的不是、便自覺羞愧。",
+            "jp": "非難ひなんのない健全けんぜんな言葉ことばを用もちいなさい。そうすれば、反対者はんたいしゃも、わたしたちについてなんの悪口あっこうも言いえなくなり、自みずから恥はじいるであろう。",
+            "kr": "책망할 것이 없는 바른 말을 하게 하라 이는 대적하는 자로 하여금 부끄러워 우리를 악하다 할 것이 없게 하려 함이라"
+          }
+        },
+        {
+          "key": "9",
+          "text": {
+            "fr": "Exhorte les serviteurs à être soumis à leurs maîtres, à leur plaire en toutes choses, à n’être point contredisants,",
+            "en": "Exhort servants to be obedient unto their own masters, and to please them well in all things; not answering again;",
+            "zh": "勸僕人要順服自己的主人、凡事討他的喜歡．不可頂撞他．",
+            "jp": "奴隷どれいには、万事ばんじにつけその主人しゅじんに服従ふくじゅうして、喜よろこばれるようになり、反抗はんこうをせず、",
+            "kr": "종들은 자기 상전들에게 범사에 순종하여 기쁘게 하고 거슬러 말하지 말며"
+          }
+        },
+        {
+          "key": "10",
+          "text": {
+            "fr": "à ne rien dérober, mais à montrer toujours une parfaite fidélité, afin de faire honorer en tout la doctrine de Dieu notre Sauveur.",
+            "en": "Not purloining, but shewing all good fidelity; that they may adorn the doctrine of God our Saviour in all things.",
+            "zh": "不可私拿東西．要顯為忠誠、以致凡事尊榮我們救主　神的道．",
+            "jp": "盗ぬすみをせず、どこまでも心こころをこめた真実しんじつを示しめすようにと、勧すすめなさい。そうすれば、彼かれらは万事ばんじにつけ、わたしたちの救主すくいぬしなる神かみの教おしえを飾かざることになろう。",
+            "kr": "훔치지 말고 오히려 모든 참된 신실성을 나타내게 하라 이는 범사에 우리 구주 하나님의 교훈을 빛나게 하려 함이라"
+          }
+        },
+        {
+          "key": "11",
+          "text": {
+            "fr": "Car la grâce de Dieu, source de salut pour tous les hommes, a été manifestée.",
+            "en": "For the grace of God that bringeth salvation hath appeared to all men,",
+            "zh": "因為　神救眾人的恩典、已經顯明出來、",
+            "jp": "すべての人ひとを救すくう神かみの恵めぐみが現あらわれた。",
+            "kr": "모든 사람에게 구원을 주시는 하나님의 은혜가 나타나"
+          }
+        },
+        {
+          "key": "12",
+          "text": {
+            "fr": "Elle nous enseigne à renoncer à l’impiété et aux convoitises mondaines, et à vivre dans le siècle présent selon la sagesse, la justice et la piété,",
+            "en": "Teaching us that, denying ungodliness and worldly lusts, we should live soberly, righteously, and godly, in this present world;",
+            "zh": "教訓我們除去不敬虔的心、和世俗的情慾、在今世自守、公義、敬虔度日．",
+            "jp": "そして、わたしたちを導みちびき、不信心ふしんじんとこの世よの情欲じょうよくとを捨すてて、慎つつしみ深ぶかく、正ただしく、信心しんじん深ぶかくこの世よで生活せいかつし、",
+            "kr": "우리를 양육하시되 경건하지 않은 것과 이 세상 정욕을 다 버리고 신중함과 의로움과 경건함으로 이 세상에 살고"
+          }
+        },
+        {
+          "key": "13",
+          "text": {
+            "fr": "en attendant la bienheureuse espérance, et la manifestation de la gloire du grand Dieu et de notre Sauveur Jésus Christ,",
+            "en": "Looking for that blessed hope, and the glorious appearing of the great God and our Saviour Jesus Christ;",
+            "zh": "等候所盼望的福、並等候至大的　神、和〔或作無和字〕我們救主耶穌基督的榮耀顯現。",
+            "jp": "祝福しゅくふくに満みちた望のぞみ、すなわち、大おおいなる神かみ、わたしたちの救主すくいぬしキリスト・イエスの栄光えいこうの出現しゅつげんを待まち望のぞむようにと、教おしえている。",
+            "kr": "복스러운 소망과 우리의 크신 하나님 구주 예수 그리스도의 영광이 나타나심을 기다리게 하셨으니"
+          }
+        },
+        {
+          "key": "14",
+          "text": {
+            "fr": "qui s’est donné lui-même pour nous, afin de nous racheter de toute iniquité, et de se faire un peuple qui lui appartienne, purifié par lui et zélé pour les bonnes oeuvres.",
+            "en": "Who gave himself for us, that he might redeem us from all iniquity, and purify unto himself a peculiar people, zealous of good works.",
+            "zh": "他為我們捨了自己、要贖我們脫離一切罪惡、又潔淨我們、特作自己的子民、熱心為善。",
+            "jp": "このキリストが、わたしたちのためにご自身じしんをささげられたのは、わたしたちをすべての不法ふほうからあがない出だして、良よいわざに熱心ねっしんな選えらびの民たみを、ご自身じしんのものとして聖せい別べつするためにほかならない。",
+            "kr": "그가 우리를 대신하여 자신을 주심은 모든 불법에서 우리를 속량하시고 우리를 깨끗하게 하사 선한 일을 열심히 하는 자기 백성이 되게 하려 하심이라"
+          }
+        },
+        {
+          "key": "15",
+          "text": {
+            "fr": "Dis ces choses, exhorte, et reprends, avec une pleine autorité. Que personne ne te méprise.",
+            "en": "These things speak, and exhort, and rebuke with all authority. Let no man despise thee.",
+            "zh": "這些事你要講明、勸戒人、用各等權柄責備人。不可叫人輕看你。",
+            "jp": "あなたは、権威けんいをもってこれらのことを語かたり、勧すすめ、また責せめなさい。だれにも軽かろんじられてはならない。",
+            "kr": "너는 이것을 말하고 권면하며 모든 권위로 책망하여 누구에게서든지 업신여김을 받지 말라"
+          }
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "introduction": {
+        "fr": "Saints must live righteously after baptism.",
+        "en": "Saints must live righteously after baptism.",
+        "zh": "Saints must live righteously after baptism.",
+        "jp": "Saints must live righteously after baptism.",
+        "kr": "Saints must live righteously after baptism."
+      },
+      "verses": [
+        {
+          "key": "1",
+          "text": {
+            "fr": "Rappelle-leur d’être soumis aux magistrats et aux autorités, d’obéir, d’être prêts à toute bonne oeuvre,",
+            "en": "Put them in mind to be subject to principalities and powers, to obey magistrates, to be ready to every good work,",
+            "zh": "你要提醒眾人、叫他們順服作官的、掌權的、遵他的命、預備行各樣的善事．",
+            "jp": "あなたは彼かれらに勧すすめて、支配者しはいしゃ、権威けんいある者ものに服ふくし、これに従したがい、いつでも良よいわざをする用意よういがあり、",
+            "kr": "너는 그들로 하여금 통치자들과 권세 잡은 자들에게 복종하며 순종하며 모든 선한 일 행하기를 준비하게 하며"
+          }
+        },
+        {
+          "key": "2",
+          "text": {
+            "fr": "de ne médire de personne, d’être pacifiques, modérés, pleins de douceur envers tous les hommes.",
+            "en": "To speak evil of no man, to be no brawlers, but gentle, shewing all meekness unto all men.",
+            "zh": "不要毀謗、不要爭競、總要和平、向眾人大顯溫柔。",
+            "jp": "だれをもそしらず、争あらそわず、寛容かんようであって、すべての人ひとに対たいしてどこまでも柔和にゅうわな態度たいどを示しめすべきことを、思おもい出ださせなさい。",
+            "kr": "아무도 비방하지 말며 다투지 말며 관용하며 범사에 온유함을 모든 사람에게 나타낼 것을 기억하게 하라"
+          }
+        },
+        {
+          "key": "3",
+          "text": {
+            "fr": "Car nous aussi, nous étions autrefois insensés, désobéissants, égarés, asservis à toute espèce de convoitises et de voluptés, vivant dans la méchanceté et dans l’envie, dignes d’être haïs, et nous haïssant les uns les autres.",
+            "en": "For we ourselves also were sometimes foolish, disobedient, deceived, serving divers lusts and pleasures, living in malice and envy, hateful, and hating one another.",
+            "zh": "我們從前也是無知、悖逆、受迷惑、服事各樣私慾和宴樂、常存惡毒〔或作陰毒〕嫉妒的心、是可恨的、又是彼此相恨。",
+            "jp": "わたしたちも以前いぜんには、無分別むふんべつで、不ふ従順じゅうじゅんな、迷まよっていた者ものであって、さまざまの情欲じょうよくと快楽かいらくとの奴隷どれいになり、悪意あくいとねたみとで日ひを過すごし、人ひとに憎にくまれ、互たがいに憎にくみ合あっていた。",
+            "kr": "우리도 전에는 어리석은 자요 순종하지 아니한 자요 속은 자요 여러 가지 정욕과 행락에 종 노릇 한 자요 악독과 투기를 일삼은 자요 가증스러운 자요 피차 미워한 자였으나"
+          }
+        },
+        {
+          "key": "4",
+          "text": {
+            "fr": "Mais, lorsque la bonté de Dieu notre Sauveur et son amour pour les hommes ont été manifestés,",
+            "en": "But after that the kindness and love of God our Saviour toward man appeared,",
+            "zh": "但到了　神我們救主的恩慈、和他向人所施的慈愛顯明的時候、",
+            "jp": "ところが、わたしたちの救主すくいぬしなる神かみの慈悲じひと博愛はくあいとが現あらわれたとき、",
+            "kr": "우리 구주 하나님의 자비와 사람 사랑하심이 나타날 때에"
+          }
+        },
+        {
+          "key": "5",
+          "text": {
+            "fr": "il nous a sauvés, non à cause des oeuvres de justice que nous aurions faites, mais selon sa miséricorde, par le baptême de la régénération et le renouvellement du Saint Esprit,",
+            "en": "Not by works of righteousness which we have done, but according to his mercy he saved us, by the washing of regeneration, and renewing of the Holy Ghost;",
+            "zh": "他便救了我們、並不是因我們自己所行的義、乃是照他的憐憫、藉著重生的洗、和聖靈的更新。",
+            "jp": "わたしたちの行おこなった義ぎのわざによってではなく、ただ神かみのあわれみによって、再生さいせいの洗あらいを受うけ、聖霊せいれいにより新あらたにされて、わたしたちは救すくわれたのである。",
+            "kr": "우리를 구원하시되 우리가 행한 바 의로운 행위로 말미암지 아니하고 오직 그의 긍휼하심을 따라 중생의 씻음과 성령의 새롭게 하심으로 하셨나니"
+          }
+        },
+        {
+          "key": "6",
+          "text": {
+            "fr": "qu’il a répandu sur nous avec abondance par Jésus Christ notre Sauveur,",
+            "en": "Which he shed on us abundantly through Jesus Christ our Saviour;",
+            "zh": "聖靈就是　神藉著耶穌基督我們救主、厚厚澆灌在我們身上的．",
+            "jp": "この聖霊せいれいは、わたしたちの救主すくいぬしイエス・キリストをとおして、わたしたちの上うえに豊ゆたかに注そそがれた。",
+            "kr": "우리 구주 예수 그리스도로 말미암아 우리에게 그 성령을 풍성히 부어 주사"
+          }
+        },
+        {
+          "key": "7",
+          "text": {
+            "fr": "afin que, justifiés par sa grâce, nous devenions, en espérance, héritiers de la vie éternelle.",
+            "en": "That being justified by his grace, we should be made heirs according to the hope of eternal life.",
+            "zh": "好叫我們因他的恩得稱為義、可以憑著永生的盼望成為後嗣。〔或作可以憑著盼望承受永生〕",
+            "jp": "これは、わたしたちが、キリストの恵めぐみによって義ぎとされ、永遠えいえんのいのちを望のぞむことによって、御国みくにをつぐ者ものとなるためである。",
+            "kr": "우리로 그의 은혜를 힘입어 의롭다 하심을 얻어 영생의 소망을 따라 상속자가 되게 하려 하심이라"
+          }
+        },
+        {
+          "key": "8",
+          "text": {
+            "fr": "Cette parole est certaine, et je veux que tu affirmes ces choses, afin que ceux qui ont cru en Dieu s’appliquent à pratiquer de bonnes oeuvres.",
+            "en": "This is a faithful saying, and these things I will that thou affirm constantly, that they which have believed in God might be careful to maintain good works. These things are good and profitable unto men.",
+            "zh": "這話是可信的、我也願你把這些事、切切實實的講明、使那些已信　神的人、留心作正經事業。〔或作留心行善〕這都是美事、並且與人有益。",
+            "jp": "この言葉ことばは確実かくじつである。わたしは、あなたがそれらのことを主張しゅちょうするのを願ねがっている。それは、神かみを信しんじている者ものたちが、努つとめて良よいわざを励はげむことを心こころがけるようになるためである。これは良よいことであって、人々ひとびとの益えきとなる。",
+            "kr": "이 말이 미쁘도다 원하건대 너는 이 여러 것에 대하여 굳세게 말하라 이는 하나님을 믿는 자들로 하여금 조심하여 선한 일을 힘쓰게 하려 함이라 이것은 아름다우며 사람들에게 유익하니라"
+          }
+        },
+        {
+          "key": "9",
+          "text": {
+            "fr": "Voilà ce qui est bon et utile aux hommes. Mais évite les discussions folles, les généalogies, les querelles, les disputes relatives à la loi ; car elles sont inutiles et vaines.",
+            "en": "But avoid foolish questions, and genealogies, and contentions, and strivings about the law; for they are unprofitable and vain.",
+            "zh": "要遠避無知的辯論、和家譜的空談、以及分爭、並因律法而起的爭競．因為這都是虛妄無益的。",
+            "jp": "しかし、愚おろかな議論ぎろんと、系図けいずと、争あらそいと、律法りっぽうについての論争ろんそうとを、避さけなさい。それらは無益むえきかつ空虚くうきょなことである。",
+            "kr": "그러나 어리석은 변론과 족보 이야기와 분쟁과 율법에 대한 다툼은 피하라 이것은 무익한 것이요 헛된 것이니라"
+          }
+        },
+        {
+          "key": "10",
+          "text": {
+            "fr": "Éloigne de toi, après un premier et un second avertissement, celui qui provoque des divisions,",
+            "en": "A man that is an heretick after the first and second admonition reject;",
+            "zh": "分門結黨的人、警戒過一兩次、就要棄絕他．",
+            "jp": "異端者いたんしゃは、一、二度ど、訓戒くんかいを加くわえた上うえで退しりぞけなさい。",
+            "kr": "이단에 속한 사람을 한두 번 훈계한 후에 멀리하라"
+          }
+        },
+        {
+          "key": "11",
+          "text": {
+            "fr": "sachant qu’un homme de cette espèce est perverti, et qu’il pèche, en se condamnant lui-même.",
+            "en": "Knowing that he that is such is subverted, and sinneth, being condemned of himself.",
+            "zh": "因為知道這等人已經背道、犯了罪、自己明知不是、還是去作。",
+            "jp": "たしかに、こういう人ひとたちは、邪道じゃどうに陥おちいり、自みずから悪あくと知しりつつも、罪つみを犯おかしているからである。",
+            "kr": "이러한 사람은 네가 아는 바와 같이 부패하여 스스로 정죄한 자로서 죄를 짓느니라"
+          }
+        },
+        {
+          "key": "12",
+          "text": {
+            "fr": "Lorsque je t’enverrai Artémas ou Tychique, hâte-toi de venir me rejoindre à Nicopolis ; car c’est là que j’ai résolu de passer l’hiver.",
+            "en": "When I shall send Artemas unto thee, or Tychicus, be diligent to come unto me to Nicopolis: for I have determined there to winter.",
+            "zh": "我打發亞提馬、或是推基古、到你那裡去的時候、你要趕緊往尼哥波立去見我．因為我已經定意在那裡過冬。",
+            "jp": "わたしがアルテマスかテキコかをあなたのところに送おくったなら、急いそいでニコポリにいるわたしの所ところにきなさい。わたしは、そこで冬ふゆを過すごすことにした。",
+            "kr": "내가 아데마나 두기고를 네게 보내리니 그 때에 네가 급히 니고볼리로 내게 오라 내가 거기서 겨울을 지내기로 작정하였노라"
+          }
+        },
+        {
+          "key": "13",
+          "text": {
+            "fr": "Aie soin de pourvoir au voyage de Zénas, le docteur de la loi, et d’Apollos, en sorte que rien ne leur manque.",
+            "en": "Bring Zenas the lawyer and Apollos on their journey diligently, that nothing be wanting unto them.",
+            "zh": "你要趕緊給律師西納、和亞波羅送行、叫他們沒有缺乏。",
+            "jp": "法学者ほうがくしゃゼナスと、アポロとを、急いそいで旅たびにつかせ、不自由ふじゆうのないようにしてあげなさい。",
+            "kr": "율법교사 세나와 및 아볼로를 급히 먼저 보내어 그들로 부족함이 없게 하고"
+          }
+        },
+        {
+          "key": "14",
+          "text": {
+            "fr": "Il faut que les nôtres aussi apprennent à pratiquer de bonnes oeuvres pour subvenir aux besoins pressants, afin qu’ils ne soient pas sans produire des fruits.",
+            "en": "And let ours also learn to maintain good works for necessary uses, that they be not unfruitful.",
+            "zh": "並且我們的人要學習正經事業、〔或作要學習行善〕預備所需用的、免得不結果子。",
+            "jp": "わたしたちの仲間なかまも、さし迫せまった必要ひつように備そなえて、努つとめて良よいわざを励はげみ、実みを結むすばぬ者ものとならないように、心こころがけるべきである。",
+            "kr": "또 우리 사람들도 열매 없는 자가 되지 않게 하기 위하여 필요한 것을 준비하는 좋은 일에 힘 쓰기를 배우게 하라"
+          }
+        },
+        {
+          "key": "15",
+          "text": {
+            "fr": "Tous ceux qui sont avec moi te saluent. Salue ceux qui nous aiment dans la foi. Que la grâce soit avec vous tous !",
+            "en": "All that are with me salute thee. Greet them that love us in the faith. Grace be with you all. Amen.",
+            "zh": "同我在一處的人都問你安。請代問那些因有信心愛我們的人安。願恩惠常與你們眾人同在。",
+            "jp": "わたしと共ともにいる一同いちどうの者ものから、あなたによろしく。わたしたちを愛あいしている信徒しんとたちに、よろしく。恵めぐみが、あなたがた一同いちどうと共ともにあるように。",
+            "kr": "나와 함께 있는 자가 다 네게 문안하니 믿음 안에서 우리를 사랑하는 자들에게 너도 문안하라 은혜가 너희 무리에게 있을지어다"
+          }
+        }
+      ]
+    }
+  ]
+}

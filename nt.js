@@ -9,7 +9,7 @@ const newTestamentBooks = [
     {"name": "2-cor", "chapters": 13},
     {"name": "gal", "chapters": 6},
     {"name": "eph", "chapters": 6},
-    {"name": "phil", "chapters": 4},
+    {"name": "philip", "chapters": 4},
     {"name": "col", "chapters": 4},
     {"name": "1-thes", "chapters": 5},
     {"name": "2-thes", "chapters": 3},
@@ -21,9 +21,9 @@ const newTestamentBooks = [
     {"name": "james", "chapters": 5},
     {"name": "1-pet", "chapters": 5},
     {"name": "2-pet", "chapters": 3},
-    {"name": "1-john", "chapters": 5},
-    {"name": "2-john", "chapters": 1},
-    {"name": "3-john", "chapters": 1},
+    {"name": "1-jn", "chapters": 5},
+    {"name": "2-jn", "chapters": 1},
+    {"name": "3-jn", "chapters": 1},
     {"name": "jude", "chapters": 1},
     {"name": "rev", "chapters": 22}
 ];

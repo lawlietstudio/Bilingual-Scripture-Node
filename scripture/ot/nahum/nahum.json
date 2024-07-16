@@ -1,0 +1,531 @@
+{
+  "book": {
+    "fr": "NAHUM",
+    "en": "NAHUM",
+    "zh": "那鴻書",
+    "jp": "ナホム書しょ",
+    "kr": "나훔"
+  },
+  "theme": {
+    "fr": "Chapitre 1",
+    "en": "Chapter 1",
+    "zh": "第1章",
+    "jp": "第1章",
+    "kr": "제 1 장"
+  },
+  "introduction": {
+    "fr": "Nahum parle de l’ébranlement de la terre à la Seconde Venue ainsi que de la miséricorde et de la puissance de l’Éternel.",
+    "en": "Nahum speaks of the burning of the earth at the Second Coming and of the mercy and power of the Lord.",
+    "zh": "",
+    "jp": "Nahum speaks of the burning of the earth at the Second Coming and of the mercy and power of the Lord.",
+    "kr": "Nahum speaks of the burning of the earth at the Second Coming and of the mercy and power of the Lord."
+  },
+  "chapters": [
+    {
+      "number": 1,
+      "introduction": {
+        "fr": "Nahum parle de l’ébranlement de la terre à la Seconde Venue ainsi que de la miséricorde et de la puissance de l’Éternel.",
+        "en": "Nahum speaks of the burning of the earth at the Second Coming and of the mercy and power of the Lord.",
+        "zh": "Nahum speaks of the burning of the earth at the Second Coming and of the mercy and power of the Lord.",
+        "jp": "Nahum speaks of the burning of the earth at the Second Coming and of the mercy and power of the Lord.",
+        "kr": "Nahum speaks of the burning of the earth at the Second Coming and of the mercy and power of the Lord."
+      },
+      "verses": [
+        {
+          "key": "1",
+          "text": {
+            "fr": "Oracle sur Ninive. Livre de la prophétie de Nahum, d’Elkosch.",
+            "en": "The burden of Nineveh. The book of the vision of Nahum the Elkoshite.",
+            "zh": "論尼尼微的默示、就是伊勒歌斯人那鴻所得的默示。",
+            "jp": "ニネベについての託宣たくせん。エルコシびとナホムの幻まぼろしの書しょ。",
+            "kr": "니느웨에 대한 경고 곧 엘고스 사람 나훔의 묵시의 글이라"
+          }
+        },
+        {
+          "key": "2",
+          "text": {
+            "fr": "L’Éternel est un Dieu jaloux, il se venge ; L’Éternel se venge, il est plein de fureur ; L’Éternel se venge de ses adversaires, Il garde rancune à ses ennemis.",
+            "en": "God is jealous, and the Lord revengeth; the Lord revengeth, and is furious; the Lord will take vengeance on his adversaries, and he reserveth wrath for his enemies.",
+            "zh": "耶和華是忌邪施報的　神．耶和華施報大有忿怒．向他的敵人施報、向他的仇敵懷怒。",
+            "jp": "主しゅはねたみ、かつあだを報むくいる神かみ、主しゅはあだを報むくいる者もの、また憤いきどおる者もの、主しゅはおのがあだに報復ほうふくし、おのが敵てきに対たいして憤いきどおりをいだく。",
+            "kr": "여호와는 질투하시며 보복하시는 하나님이시니라 여호와는 보복하시며 진노하시되 자기를 거스르는 자에게 여호와는 보복하시며 자기를 대적하는 자에게 진노를 품으시며"
+          }
+        },
+        {
+          "key": "3",
+          "text": {
+            "fr": "L’Éternel est lent à la colère, il est grand par sa force ; Il ne laisse pas impuni. L’Éternel marche dans la tempête, dans le tourbillon ; Les nuées sont la poussière de ses pieds.",
+            "en": "The Lord is slow to anger, and great in power, and will not at all acquit the wicked: the Lord hath his way in the whirlwind and in the storm, and the clouds are the dust of his feet.",
+            "zh": "耶和華不輕易發怒、大有能力、萬不以有罪的為無罪．他乘旋風和暴風而來、雲彩為他腳下的塵土．",
+            "jp": "主しゅは怒いかることおそく、力強ちからづよき者もの、主しゅは罰ばつすべき者ものを決けっしてゆるされない者もの、主しゅの道みちはつむじ風かぜと大風おおかぜの中なかにあり、雲くもはその足あしのちりである。",
+            "kr": "여호와는 노하기를 더디하시며 권능이 크시며 벌 받을 자를 결코 내버려두지 아니하시느니라 여호와의 길은 회오리바람과 광풍에 있고 구름은 그의 발의 티끌이로다"
+          }
+        },
+        {
+          "key": "4",
+          "text": {
+            "fr": "Il menace la mer et l’assèche, Il fait tarir tous les fleuves ; Le Basan et le Carmel languissent, La fleur du Liban se flétrit.",
+            "en": "He rebuketh the sea, and maketh it dry, and drieth up all the rivers: Bashan languisheth, and Carmel, and the flower of Lebanon languisheth.",
+            "zh": "他斥責海、使海乾了、使一切江河乾涸．巴珊和迦密的樹林衰殘。利巴嫩的花草也衰殘了．",
+            "jp": "彼かれは海うみを戒いましめて、これをかわかし、すべての川かわをかれさせる。バシャンとカルメルはしおれ、レバノンの花はなはしぼむ。",
+            "kr": "그는 바다를 꾸짖어 그것을 말리시며 모든 강을 말리시나니 바산과 갈멜이 쇠하며 레바논의 꽃이 시드는도다"
+          }
+        },
+        {
+          "key": "5",
+          "text": {
+            "fr": "Les montagnes s’ébranlent devant lui, Et les collines s’effondrent ; La terre se soulève devant sa face, Le monde et tous ses habitants.",
+            "en": "The mountains quake at him, and the hills melt, and the earth is burned at his presence, yea, the world, and all that dwell therein.",
+            "zh": "大山因他震動、小山也都消化．大地在他面前突起、世界和住在其間的也都如此。",
+            "jp": "もろもろの山やまは彼かれの前まえに震ふるい、もろもろの丘おかは溶とけ、地ちは彼かれの前まえにむなしくなり、世界せかいとその中なかに住すむ者ものも皆みな、むなしくなる。",
+            "kr": "그로 말미암아 산들이 진동하며 작은 산들이 녹고 그 앞에서는 땅 곧 세계와 그 가운데에 있는 모든 것들이 솟아오르는도다"
+          }
+        },
+        {
+          "key": "6",
+          "text": {
+            "fr": "Qui résistera devant sa fureur ? Qui tiendra contre son ardente colère ? Sa fureur se répand comme le feu, Et les rochers se brisent devant lui.",
+            "en": "Who can stand before his indignation? and who can abide in the fierceness of his anger? his fury is poured out like fire, and the rocks are thrown down by him.",
+            "zh": "他發忿恨、誰能立得住呢．他發烈怒、誰能當得起呢．他的忿怒如火傾倒、磐石因他崩裂。",
+            "jp": "だれが彼かれの憤いきどおりの前まえに立たつことができよう。だれが彼かれの燃もえる怒いかりに耐たえることができよう。その憤いきどおりは火ひのように注そそがれ、岩いわも彼かれによって裂さかれる。",
+            "kr": "누가 능히 그의 분노 앞에 서며 누가 능히 그의 진노를 감당하랴 그의 진노가 불처럼 쏟아지니 그로 말미암아 바위들이 깨지는도다"
+          }
+        },
+        {
+          "key": "7",
+          "text": {
+            "fr": "L’Éternel est bon, Il est un refuge au jour de la détresse ; Il connaît ceux qui ont confiance en lui.",
+            "en": "The Lord is good, a strong hold in the day of trouble; and he knoweth them that trust in him.",
+            "zh": "耶和華本為善、在患難的日子為人的保障．並且認得那些投靠他的人。",
+            "jp": "主しゅは恵めぐみ深ふかく、なやみの日ひの要害ようがいである。彼かれはご自分じぶんを避さけ所どころとする者ものを知しっておられる。",
+            "kr": "여호와는 선하시며 환난 날에 산성이시라 그는 자기에게 피하는 자들을 아시느니라"
+          }
+        },
+        {
+          "key": "8",
+          "text": {
+            "fr": "Mais avec des flots qui déborderont Il détruira la ville Et il poursuivra ses ennemis jusque dans les ténèbres.",
+            "en": "But with an overrunning flood he will make an utter end of the place thereof, and darkness shall pursue his enemies.",
+            "zh": "但他必以漲溢的洪水淹沒尼尼微、又驅逐仇敵進入黑暗。",
+            "jp": "しかし、彼かれはみなぎる洪水こうずいであだを全まったく滅ほろぼし、おのが敵てきを暗くらやみに追おいやられる。",
+            "kr": "그가 범람하는 물로 그 곳을 진멸하시고 자기 대적들을 흑암으로 쫓아내시리라"
+          }
+        },
+        {
+          "key": "9",
+          "text": {
+            "fr": "Que méditez-vous contre l’Éternel ? C’est lui qui détruit. La détresse ne se lèvera pas deux fois.",
+            "en": "What do ye imagine against the Lord? he will make an utter end: affliction shall not rise up the second time.",
+            "zh": "尼尼微人哪、設何謀攻擊耶和華呢．他必將你們滅絕淨盡．災難不再興起．",
+            "jp": "あなたがたは主しゅに対たいして何なにを計はかるか。彼かれはその敵てきに二度どとしかえしをする必要ひつようがないように敵てきを全まったく滅ほろぼされる。",
+            "kr": "너희는 여호와께 대하여 무엇을 꾀하느냐 그가 온전히 멸하시리니 재난이 다시 일어나지 아니하리라"
+          }
+        },
+        {
+          "key": "10",
+          "text": {
+            "fr": "Car entrelacés comme des épines Et comme ivres de leur vin, Ils seront consumés Comme la paille sèche, entièrement.",
+            "en": "For while they be folden together as thorns, and while they are drunken as drunkards, they shall be devoured as stubble fully dry.",
+            "zh": "你們像叢雜的荊棘、像喝醉了的人、又如枯乾的碎衪全然燒滅。",
+            "jp": "彼かれらは結むすびからまったいばらのように、かわいた刈かり株かぶのように、焼やき尽つくされる。",
+            "kr": "가시덤불 같이 엉크러졌고 술을 마신 것 같이 취한 그들은 마른 지푸라기 같이 모두 탈 것이거늘"
+          }
+        },
+        {
+          "key": "11",
+          "text": {
+            "fr": "De toi est sorti Celui qui méditait le mal contre l’Éternel, Celui qui avait de mauvais desseins.",
+            "en": "There is one come out of thee, that imagineth evil against the Lord, a wicked counsellor.",
+            "zh": "有一人從你那裡出來、圖謀邪惡、設惡計攻擊耶和華。",
+            "jp": "主しゅに対たいして悪事あくじを計はかり、よこしまな事ことを勧すすめる者ものがあなたのうちから出でたではないか。",
+            "kr": "여호와께 악을 꾀하는 한 사람이 너희 중에서 나와서 사악한 것을 권하는도다"
+          }
+        },
+        {
+          "key": "12",
+          "text": {
+            "fr": "Ainsi parle l’Éternel : Quoique intacts et nombreux, Ils seront moissonnés et disparaîtront. Je t’ai humilié Pour ne plus avoir à t’humilier …",
+            "en": "Thus saith the Lord; Though they be quiet, and likewise many, yet thus shall they be cut down, when he shall pass through. Though I have afflicted thee, I will afflict thee no more.",
+            "zh": "耶和華如此說、尼尼微雖然勢力充足、人數繁多、也被剪除、歸於無有。猶大阿、我雖然使你受苦、卻不再使你受苦．",
+            "jp": "主しゅはこう言いわれる、「たとい彼かれらは強つよく、かつ多おおくあっても、切きり倒たおされて絶たえはてる。わたしはあなたを苦くるしめたが、重かさねてあなたを苦くるしめない。",
+            "kr": "여호와께서 이같이 말씀하시기를 그들이 비록 강하고 많을지라도 반드시 멸절을 당하리니 그가 없어지리라 내가 전에는 너를 괴롭혔으나 다시는 너를 괴롭히지 아니할 것이라"
+          }
+        },
+        {
+          "key": "13",
+          "text": {
+            "fr": "Je briserai maintenant son joug placé sur toi, Et je romprai tes liens …",
+            "en": "For now will I break his yoke from off thee, and will burst thy bonds in sunder.",
+            "zh": "現在我必從你頸項上折斷他的軛、扭開他的繩索。",
+            "jp": "今いまわたしは彼かれのくびきを砕くだいて、あなたからとり除のぞき、あなたのなわめを切きりはなす」。",
+            "kr": "이제 네게 지운 그의 멍에를 내가 깨뜨리고 네 결박을 끊으리라"
+          }
+        },
+        {
+          "key": "14",
+          "text": {
+            "fr": "Voici ce qu’a ordonné sur toi l’Éternel : Tu n’auras plus de descendants qui portent ton nom ; J’enlèverai de la maison de ton dieu les images taillées ou celles en métal fondu ; Je préparerai ton tombeau car tu es trop léger.",
+            "en": "And the Lord hath given a commandment concerning thee, that no more of thy name be sown: out of the house of thy gods will I cut off the graven image and the molten image: I will make thy grave; for thou art vile.",
+            "zh": "耶和華已經出令、指著尼尼微說、你名下的人必不留後．我必從你神的廟中、除滅雕刻的偶像、和鑄造的偶像．我必因你鄙陋使你歸於墳墓。",
+            "jp": "主しゅはあなたについてお命めいじになった、「あなたの名なは長ながく続つづかない。わたしはあなたの神々かみがみの家いえから、彫像ちょうぞうおよび鋳造ちゅうぞうを除のぞき去さる。あなたは罪深つみぶかい者ものだから、わたしはあなたの墓はかを設もうける」。",
+            "kr": "나 여호와가 네게 대하여 명령하였나니 네 이름이 다시는 전파되지 않을 것이라 내가 네 신들의 집에서 새긴 우상과 부은 우상을 멸절하며 네 무덤을 준비하리니 이는 네가 쓸모 없게 되었음이라"
+          }
+        },
+        {
+          "key": "15",
+          "text": {
+            "fr": "",
+            "en": "Behold upon the mountains the feet of him that bringeth good tidings, that publisheth peace! O Judah, keep thy solemn feasts, perform thy vows: for the wicked shall no more pass through thee; he is utterly cut off.",
+            "zh": "看哪、有報好信傳平安之人的腳登山、說、猶大阿、可以守你的節期、還你所許的願罷．因為那惡人不再從你中間經過他已滅絕淨盡了。",
+            "jp": "見みよ、良よきおとずれを伝つたえる者ものの足あしは山やまの上うえにある。彼かれは平安へいあんを宣のべている。ユダよ、あなたの祭まつりを行おこない、あなたの誓願せいがんをはたせ。よこしまな者ものは重かさねて、あなたに向むかって攻せめてこないからである。彼かれは全まったく断たたれる。",
+            "kr": "볼지어다 아름다운 소식을 알리고 화평을 전하는 자의 발이 산 위에 있도다 유다야 네 절기를 지키고 네 서원을 갚을지어다 악인이 진멸되었으니 그가 다시는 네 가운데로 통행하지 아니하리로다 하시니라"
+          }
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "introduction": {
+        "fr": "Ninive sera détruite, ce qui est un symbole de ce qui arrivera dans les derniers jours.",
+        "en": "Nineveh will be destroyed, which is a symbol of what will be in the latter days.",
+        "zh": "Nineveh will be destroyed, which is a symbol of what will be in the latter days.",
+        "jp": "Nineveh will be destroyed, which is a symbol of what will be in the latter days.",
+        "kr": "Nineveh will be destroyed, which is a symbol of what will be in the latter days."
+      },
+      "verses": [
+        {
+          "key": "1",
+          "text": {
+            "fr": "Voici sur les montagnes Les pieds du messager qui annonce la paix ! Célèbre tes fêtes, Juda, accomplis tes vœux ! Car le méchant ne passera plus au milieu de toi, Il est entièrement exterminé !",
+            "en": "He that dasheth in pieces is come up before thy face: keep the munition, watch the way, make thy loins strong, fortify thy power mightily.",
+            "zh": "尼尼微阿、那打碎邦國的上來攻擊你．你要看守保障、謹防道路、使腰強壯、大大勉力。",
+            "jp": "撃うち破やぶる者ものがあなたに向むかって上のぼって来くる。城しろを守まもれ、道みちをうかがえ。腰こしに帯おびせよ、大おおいに力ちからを強つよくせよ。",
+            "kr": "파괴하는 자가 너를 치러 올라왔나니 너는 산성을 지키며 길을 파수하며 네 허리를 견고히 묶고 네 힘을 크게 굳게 할지어다"
+          }
+        },
+        {
+          "key": "2",
+          "text": {
+            "fr": "Le destructeur marche contre toi. Garde la forteresse ! Veille sur la route ! affermis tes reins ! Recueille toute ta force !",
+            "en": "For the Lord hath turned away the excellency of Jacob, as the excellency of Israel: for the emptiers have emptied them out, and marred their vine branches.",
+            "zh": "耶和華復興雅各的榮華、好像以色列的榮華一樣．因為使地空虛的、已經使雅各和以色列空虛、將他們的葡萄枝毀壞了。",
+            "jp": "主しゅはヤコブの栄さかえを回復かいふくして、イスラエルの栄さかえのようにされる。かすめる者ものが彼かれらをかすめ、そのぶどうづるを、そこなったからである。",
+            "kr": "여호와께서 야곱의 영광을 회복하시되 이스라엘의 영광 같게 하시나니 이는 약탈자들이 약탈하였고 또 그들의 포도나무 가지를 없이 하였음이라"
+          }
+        },
+        {
+          "key": "3",
+          "text": {
+            "fr": "Car l’Éternel rétablit la gloire de Jacob Et la gloire d’Israël, Parce que les pillards les ont pillés Et ont détruit leurs ceps.",
+            "en": "The shield of his mighty men is made red, the valiant men are in scarlet: the chariots shall be with flaming torches in the day of his preparation, and the fir trees shall be terribly shaken.",
+            "zh": "他勇士的盾牌是紅的、精兵都穿朱紅衣服．在他預備爭戰的日子、戰車上的鋼鐵閃爍如火、柏木把的槍、也掄起來了．",
+            "jp": "その勇士ゆうしの盾たては赤あかくいろどられ、その兵士へいしは紅くれないに身みをよろう。戦車せんしゃはその備そなえの日ひに、火ひのように輝かがやき、軍馬ぐんばはおどる。",
+            "kr": "그의 용사들의 방패는 붉고 그의 무사들의 옷도 붉으며 그 항오를 벌이는 날에 병거의 쇠가 번쩍이고 노송나무 창이 요동하는도다"
+          }
+        },
+        {
+          "key": "4",
+          "text": {
+            "fr": "Les boucliers de ses héros sont rouges, Les guerriers sont vêtus de pourpre ; Dans l’acier qui étincelle apparaissent les chars, Au jour qu’il a fixé pour la bataille, Et les lances sont agitées.",
+            "en": "The chariots shall rage in the streets, they shall justle one against another in the broad ways: they shall seem like torches, they shall run like the lightnings.",
+            "zh": "車輛在街上〔或作城外〕急行、在寬闊處奔來奔去、形狀如火把、飛跑如閃電。",
+            "jp": "戦車せんしゃはちまたに狂くるい走はしり、大路おおじに飛とびかける。彼かれらはたいまつのように輝かがやき、いなずまのように飛とびかける。",
+            "kr": "그 병거는 미친 듯이 거리를 달리며 대로에서 이리저리 빨리 달리니 그 모양이 횃불 같고 빠르기가 번개 같도다"
+          }
+        },
+        {
+          "key": "5",
+          "text": {
+            "fr": "Les chars s’élancent dans la campagne, Se précipitent sur les places ; À les voir, on dirait des flambeaux, Ils courent comme des éclairs.",
+            "en": "He shall recount his worthies: they shall stumble in their walk; they shall make haste to the wall thereof, and the defence shall be prepared.",
+            "zh": "尼尼微王招聚他的貴冑．他們步行絆跌、速上城牆、預備擋牌。",
+            "jp": "将士しょうしらは召集しょうしゅうされ、彼かれらはその道みちでつまずき倒たおれ、城壁じょうへきに向むかって急いそいで行いって大盾おおだてを備そなえる。",
+            "kr": "그가 그의 존귀한 자들을 생각해 내니 그들이 엎드러질 듯이 달려서 급히 성에 이르러 막을 것을 준비하도다"
+          }
+        },
+        {
+          "key": "6",
+          "text": {
+            "fr": "Il se souvient de ses vaillants hommes, Mais ils chancellent dans leur marche ; On se hâte vers les murs, Et l’on se prépare à la défense.",
+            "en": "The gates of the rivers shall be opened, and the palace shall be dissolved.",
+            "zh": "河閘開放、宮殿沖沒。",
+            "jp": "川々かわがわの門もんは開ひらけ、宮殿きゅうでんはあわてふためく。",
+            "kr": "강들의 수문이 열리고 왕궁이 소멸되며"
+          }
+        },
+        {
+          "key": "7",
+          "text": {
+            "fr": "Les portes des fleuves sont ouvertes, Et le palais s’écroule !",
+            "en": "And Huzzab shall be led away captive, she shall be brought up, and her maids shall lead her as with the voice of doves, tabering upon their breasts.",
+            "zh": "王后蒙羞、被人擄去．宮女捶胸、哀鳴如鴿．此乃命定之事。",
+            "jp": "その王妃おうひは裸はだかにされて、捕とらわれゆき、その侍女じじょたちは悲かなしみ、胸むねを打うって、はとのようにうめく。",
+            "kr": "정한 대로 왕후가 벌거벗은 몸으로 끌려가니 그 모든 시녀들이 가슴을 치며 비둘기 같이 슬피 우는도다"
+          }
+        },
+        {
+          "key": "8",
+          "text": {
+            "fr": "C’en est fait : elle est mise à nu, elle est emmenée ; Ses servantes gémissent comme des colombes, Et se frappent la poitrine.",
+            "en": "But Nineveh is of old like a pool of water: yet they shall flee away. Stand, stand, shall they cry; but none shall look back.",
+            "zh": "尼尼微自古以來充滿人民、如同聚水的池子．現在居民卻都逃跑．雖有人呼喊說、站住、站住、卻無人回顧。",
+            "jp": "ニネベは池いけのようであったが、その水みずは注そそぎ出だされた。「立たち止どまれ、立たち止どまれ」と呼よんでも、ふりかえるものもない。",
+            "kr": "니느웨는 예로부터 물이 모인 못 같더니 이제 모두 도망하니 서라 서라 하나 돌아보는 자가 없도다"
+          }
+        },
+        {
+          "key": "9",
+          "text": {
+            "fr": "Ninive était jadis comme un réservoir plein d’eau. Les voilà qui fuient. Arrêtez ! arrêtez ! Mais nul ne se retourne.",
+            "en": "Take ye the spoil of silver, take the spoil of gold: for there is none end of the store and glory out of all the pleasant furniture.",
+            "zh": "你們搶掠金銀罷。因為所積蓄的無窮、華美的寶器無數。",
+            "jp": "銀ぎんを奪うばえ、金きんを奪うばえ。その宝たからは限かぎりなく、もろもろの尊たっとい物ものはおびただしい。",
+            "kr": "은을 노략하라 금을 노략하라 그 저축한 것이 무한하고 아름다운 기구가 풍부함이니라"
+          }
+        },
+        {
+          "key": "10",
+          "text": {
+            "fr": "Pillez l’argent ! pillez l’or ! Il y a des trésors sans fin, Des richesses en objets précieux de toutes espèce.",
+            "en": "She is empty, and void, and waste: and the heart melteth, and the knees smite together, and much pain is in all loins, and the faces of them all gather blackness.",
+            "zh": "尼尼微現在空虛荒涼、人心消化、雙膝相碰、腰都疼痛、臉都變色。",
+            "jp": "消きえうせ、むなしくなり、荒あれはてた。心こころは消きえ、ひざは震ふるえ、すべての腰こしには痛いたみがあり、すべての顔かおは色いろを失うしなった。",
+            "kr": "니느웨가 공허하였고 황폐하였도다 주민이 낙담하여 그 무릎이 서로 부딪히며 모든 허리가 아프게 되며 모든 낯이 빛을 잃도다"
+          }
+        },
+        {
+          "key": "11",
+          "text": {
+            "fr": "On pille, on dévaste, on ravage ! Et les cœurs sont abattus, Les genoux chancellent, Tous les reins souffrent, Tous les visages pâlissent.",
+            "en": "Where is the dwelling of the lions, and the feedingplace of the young lions, where the lion, even the old lion, walked, and the lion’s whelp, and none made them afraid?",
+            "zh": "獅子的洞和少壯獅子餵養之處在哪裡呢、公獅母獅小獅遊行無人驚嚇之地在哪裡呢。",
+            "jp": "ししのすみかはどこであるか。若わかいししの穴あなはどこであるか。そこに雄おじしはその獲物えものを携たずさえ行いき、その子こじしと共ともにいても、これを恐おそれさせる者ものはない。",
+            "kr": "이제 사자의 굴이 어디냐 젊은 사자가 먹을 곳이 어디냐 전에는 수사자 암사자가 그 새끼 사자와 함께 거기서 다니되 그것들을 두렵게 할 자가 없었으며"
+          }
+        },
+        {
+          "key": "12",
+          "text": {
+            "fr": "Qu’est devenu ce repaire de lions, Ce pâturage des lionceaux, Où se retiraient le lion, la lionne, le petit du lion, Sans que personne ne les trouble ?",
+            "en": "The lion did tear in pieces enough for his whelps, and strangled for his lionesses, and filled his holes with prey, and his dens with ravin.",
+            "zh": "公獅為小獅撕碎許多食物、為母獅掐死活物、把撕碎的掐死的充滿牠的洞穴。",
+            "jp": "雄おじしはその子こじしのために引ひき裂さき、雌めじしのために獲物えものを絞しめ殺ころし、獲物えものをもってその穴あなを満みたし、引ひき裂さいた肉にくをもってそのすみかを満みたした。",
+            "kr": "수사자가 그 새끼를 위하여 먹이를 충분히 찢고 그의 암사자들을 위하여 움켜 사냥한 것으로 그 굴을 채웠고 찢은 것으로 그 구멍을 채웠었도다"
+          }
+        },
+        {
+          "key": "13",
+          "text": {
+            "fr": "Le lion déchirait pour ses petits, Étranglait pour ses lionnes ; Il remplissait de proies ses tanières, De dépouilles ses repaires.",
+            "en": "Behold, I am against thee, saith the Lord of hosts, and I will burn her chariots in the smoke, and the sword shall devour thy young lions: and I will cut off thy prey from the earth, and the voice of thy messengers shall no more be heard.",
+            "zh": "萬軍之耶和華說、我與你為敵、必將你的車輛焚燒成煙、刀劍也必吞滅你的少壯獅子。我必從地上除滅你所撕碎的、你使者的聲音、必不再聽見。",
+            "jp": "万軍ばんぐんの主しゅは言いわれる、見みよ、わたしはあなたに臨のぞむ。わたしはあなたの戦車せんしゃを焼やいて煙けむりにする。つるぎはあなたの若わかいししを滅ほろぼす。わたしはまた、あなたの獲物えものを地ちから断たつ。あなたの使者ししゃの声こえは重かさねて聞きかれない。",
+            "kr": "만군의 여호와의 말씀에 내가 네 대적이 되어 네 병거들을 불살라 연기가 되게 하고 네 젊은 사자들을 칼로 멸할 것이며 내가 또 네 노략한 것을 땅에서 끊으리니 네 파견자의 목소리가 다시는 들리지 아니하리라 하셨느니라"
+          }
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "introduction": {
+        "fr": "La chute pitoyable de Ninive est prédite.",
+        "en": "The miserable downfall of Nineveh is foretold.",
+        "zh": "The miserable downfall of Nineveh is foretold.",
+        "jp": "The miserable downfall of Nineveh is foretold.",
+        "kr": "The miserable downfall of Nineveh is foretold."
+      },
+      "verses": [
+        {
+          "key": "1",
+          "text": {
+            "fr": "Malheur à la ville sanguinaire, Pleine de mensonge, pleine de violence, Et qui ne cesse de se livrer au pillage.",
+            "en": "Woe to the bloody city! it is all full of lies and robbery; the prey departeth not;",
+            "zh": "禍哉、這流人血的城、充滿謊詐和強暴搶奪的事總不止息。",
+            "jp": "わざわいなるかな、血ちを流ながす町まち。その中なかには偽いつわりと、ぶんどり物ものが満みち、略奪りゃくだつはやまない。",
+            "kr": "화 있을진저 피의 성이여 그 안에는 거짓이 가득하고 포악이 가득하며 탈취가 떠나지 아니하는도다"
+          }
+        },
+        {
+          "key": "2",
+          "text": {
+            "fr": "On entend le bruit du fouet, Le bruit des roues, Le galop des chevaux, Le roulement des chars.",
+            "en": "The noise of a whip, and the noise of the rattling of the wheels, and of the pransing horses, and of the jumping chariots.",
+            "zh": "鞭聲響亮、車輪轟轟、馬匹踢跳、車輛奔騰、",
+            "jp": "むちの音おとがする。車輪しゃりんのとどろく音おとが聞きこえる。かける馬うまがあり、走はしる戦車せんしゃがある。",
+            "kr": "휙휙 하는 채찍 소리, 윙윙 하는 병거 바퀴 소리, 뛰는 말, 달리는 병거,"
+          }
+        },
+        {
+          "key": "3",
+          "text": {
+            "fr": "Les cavaliers s’élancent, l’épée étincelle, la lance brille … Une multitude de blessés ! … une foule de cadavres ! … Des morts à l’infini ! … On tombe sur les morts ! …",
+            "en": "The horseman lifteth up both the bright sword and the glittering spear: and there is a multitude of slain, and a great number of carcases; and there is none end of their corpses; they stumble upon their corpses:",
+            "zh": "馬兵爭先、刀劍發光、槍矛閃爍、被殺的甚多、屍首成了大堆、屍骸無數、人碰著而跌倒、",
+            "jp": "騎兵きへいは突撃とつげきし、つるぎがきらめき、やりがひらめく。殺ころされる者ものはおびただしく、しかばねは山やまをなす。死体したいは数かず限かぎりなく、人々ひとびとはその死体したいにつまずく。",
+            "kr": "충돌하는 기병, 번쩍이는 칼, 번개 같은 창, 죽임 당한 자의 떼, 주검의 큰 무더기, 무수한 시체여 사람이 그 시체에 걸려 넘어지니"
+          }
+        },
+        {
+          "key": "4",
+          "text": {
+            "fr": "C’est à cause des nombreuses prostitutions de la prostituée, Pleine d’attraits, habile enchanteresse Qui vendait les nations par ses prostitutions Et les peuples par ses enchantements.",
+            "en": "Because of the multitude of the whoredoms of the wellfavoured harlot, the mistress of witchcrafts, that selleth nations through her whoredoms, and families through her witchcrafts.",
+            "zh": "都因那美貌的妓女多有淫行、慣行邪術、藉淫行誘惑列國、用邪術誘惑多族〔誘惑原文作賣〕",
+            "jp": "これは皆みなあでやかな遊女ゆうじょの恐おそるべき魔力まりょくと、多おおくの淫行いんこうのためであって、その淫行いんこうをもって諸しょ国民こくみんを売うり、その魔力まりょくをもって諸しょ族ぞくを売うり渡わたしたものである。",
+            "kr": "이는 마술에 능숙한 미모의 음녀가 많은 음행을 함이라 그가 그의 음행으로 여러 나라를 미혹하고 그의 마술로 여러 족속을 미혹하느니라"
+          }
+        },
+        {
+          "key": "5",
+          "text": {
+            "fr": "Voici, je m’en prends à toi, dit l’Éternel des armées, Je relèverai les pans de ta robe jusque sur ton visage, Je montrerai ta nudité aux nation Et ta honte aux royaumes.",
+            "en": "Behold, I am against thee, saith the Lord of hosts; and I will discover thy skirts upon thy face, and I will shew the nations thy nakedness, and the kingdoms thy shame.",
+            "zh": "萬軍之耶和華說、我與你為敵．我必揭起你的衣襟、蒙在你臉上、使列國看見你的赤體、使列邦觀看你的醜陋。",
+            "jp": "万軍ばんぐんの主しゅは言いわれる、見みよ、わたしはあなたに臨のぞむ、わたしはあなたのすそを顔かおの上うえまであげ、あなたの裸はだかを諸民しょみんに見みせ、あなたの恥はじる所ところを諸国しょこくに見みせる。",
+            "kr": "보라 내가 네게 말하노니 만군의 여호와의 말씀에 네 치마를 걷어 올려 네 얼굴에 이르게 하고 네 벌거벗은 것을 나라들에게 보이며 네 부끄러운 곳을 뭇 민족에게 보일 것이요"
+          }
+        },
+        {
+          "key": "6",
+          "text": {
+            "fr": "Je jetterai sur toi des ordures, je t’abaisserai Et je te donnerai en spectacle.",
+            "en": "And I will cast abominable filth upon thee, and make thee vile, and will set thee as a gazingstock.",
+            "zh": "我必將可憎污穢之物拋在你身上、辱沒你、為眾目所觀。",
+            "jp": "わたしは汚けがらわしい物ものを、あなたの上うえに投なげかけて、あなたをはずかしめ、あなたを見みものとする。",
+            "kr": "내가 또 가증하고 더러운 것들을 네 위에 던져 능욕하여 너를 구경거리가 되게 하리니"
+          }
+        },
+        {
+          "key": "7",
+          "text": {
+            "fr": "Tous ceux qui te verront fuiront loin de toi, Et l’on dira : Ninive est détruite ! Qui la plaindra ? Où chercherai-je pour toi des consolateurs ?",
+            "en": "And it shall come to pass, that all they that look upon thee shall flee from thee, and say, Nineveh is laid waste: who will bemoan her? whence shall I seek comforters for thee?",
+            "zh": "凡看見你的、都必逃跑離開你、說、尼尼微荒涼了．有誰為你悲傷呢．我何處尋得安慰你的人呢。",
+            "jp": "すべてあなたを見みるものは、あなたを避さけて逃にげ去さって言いう、「ニネベは滅ほろびた」と。だれがこのために嘆なげこう。わたしはどこから彼女かのじょを慰なぐさめる者ものを、尋たずね出だし得えよう。",
+            "kr": "그 때에 너를 보는 자가 다 네게서 도망하며 이르기를 니느웨가 황폐하였도다 누가 그것을 위하여 애곡하며 내가 어디서 너를 위로할 자를 구하리요 하리라"
+          }
+        },
+        {
+          "key": "8",
+          "text": {
+            "fr": "Es-tu meilleure que No-Amon, Qui était assise au milieu des fleuves, Entourée par les eaux, Ayant la mer pour rempart, La mer pour murailles ?",
+            "en": "Art thou better than populous No, that was situate among the rivers, that had the waters round about it, whose rampart was the sea, and her wall was from the sea?",
+            "zh": "你豈比挪亞們強呢．挪亞們坐落在眾河之間、周圍有水．海作他的濠溝〔海指尼羅河〕又作他的城牆。",
+            "jp": "あなたはテーベにまさっているか。これはナイル川かわのかたわらに座ざし、水みずをその周囲しゅういにめぐらし、海うみをとりでとなし、水みずをその垣かきとしている。",
+            "kr": "네가 어찌 노아몬보다 낫겠느냐 그는 강들 사이에 있으므로 물이 둘렸으니 바다가 성루가 되었고 바다가 방어벽이 되었으며"
+          }
+        },
+        {
+          "key": "9",
+          "text": {
+            "fr": "L’Éthiopie et les Égyptiens innombrables faisaient sa force, Puth et les Libyens étaient ses alliés.",
+            "en": "Ethiopia and Egypt were her strength, and it was infinite; Put and Lubim were thy helpers.",
+            "zh": "古實和埃及是他無窮的力量．弗人和路比族是他的幫手。",
+            "jp": "その力ちからはエチオピヤ、またエジプトであって、限かぎりがない。プトびと、リビヤびともその助たすけ手てであった。",
+            "kr": "구스와 애굽은 그의 힘이 강하여 끝이 없었고 붓과 루빔이 그를 돕는 자가 되었으나"
+          }
+        },
+        {
+          "key": "10",
+          "text": {
+            "fr": "Et cependant elle est partie pour l’exil, elle s’en est allée captive ; Ses enfants ont été écrasés au coin des rues ; On a tiré au sort ses nobles Et tous ses grands ont été chargés de chaînes.",
+            "en": "Yet was she carried away, she went into captivity: her young children also were dashed in pieces at the top of all the streets: and they cast lots for her honourable men, and all her great men were bound in chains.",
+            "zh": "但他被遷移、被擄去．他的嬰孩在各市口上也被摔死．人為他的尊貴人拈鬮．他所有的大人、都被鍊子鎖著。",
+            "jp": "しかし、これもとりことなって捕とらえられて行いき、その子こ供とももすべてのちまたのかどで打うち砕くだかれ、その尊たっとい人々ひとびとはくじで分わけられ、その大おおいなる人々ひとびとは皆みな、鎖くさりにつながれた。",
+            "kr": "그가 포로가 되어 사로잡혀 갔고 그의 어린 아이들은 길 모퉁이 모퉁이에 메어침을 당하여 부서졌으며 그의 존귀한 자들은 제비 뽑혀 나뉘었고 그의 모든 권세자들은 사슬에 결박되었나니"
+          }
+        },
+        {
+          "key": "11",
+          "text": {
+            "fr": "Toi aussi, tu seras enivrée, tu te cacheras ; Toi aussi, tu chercheras un refuge contre l’ennemi.",
+            "en": "Thou also shalt be drunken: thou shalt be hid, thou also shalt seek strength because of the enemy.",
+            "zh": "你也必喝醉、必被埋藏．並因仇敵的緣故尋求避難所。",
+            "jp": "あなたもまた酔よわされて気きを失うしない、あなたは敵てきを避さけて逃にげ場ばを求もとめる。",
+            "kr": "너도 술에 취하여 숨으리라 너도 원수들 때문에 피난처를 찾으리라"
+          }
+        },
+        {
+          "key": "12",
+          "text": {
+            "fr": "Toutes tes forteresses Sont des figuiers aux fruits mûrs ; Quand on les secoue, Ils tombent dans la bouche de qui veut les manger.",
+            "en": "All thy strong holds shall be like fig trees with the firstripe figs: if they be shaken, they shall even fall into the mouth of the eater.",
+            "zh": "你一切保障必像無花果樹上初熟的無花果．若一搖撼、就落在想喫之人的口中。",
+            "jp": "あなたのとりでは皆みな初はつなりの実みをもつ、いちじくの木きのようだ。これをゆすぶればその実みは落おちて、食たべようとする者ものの口くちにはいる。",
+            "kr": "네 모든 산성은 무화과나무의 처음 익은 열매가 흔들기만 하면 먹는 자의 입에 떨어짐과 같으리라"
+          }
+        },
+        {
+          "key": "13",
+          "text": {
+            "fr": "Voici, ton peuple, ce sont des femmes au milieu de toi ; Les portes de ton pays s’ouvrent à tes ennemis ; Le feu consume tes verrous.",
+            "en": "Behold, thy people in the midst of thee are women: the gates of thy land shall be set wide open unto thine enemies: the fire shall devour thy bars.",
+            "zh": "你地上的人民、如同婦女．你國中的關口、向仇敵敞開．你的門閂、被火焚燒。",
+            "jp": "見みよ、あなたのうちにいる兵士へいしは女おんなのようだ。あなたの国くにの門もんはあなたの敵てきの前まえに広ひろく開ひらかれ、火ひはあなたの貫かんの木きを焼やいた。",
+            "kr": "네 가운데 장정들은 여인 같고 네 땅의 성문들은 네 원수 앞에 넓게 열리고 빗장들은 불에 타도다"
+          }
+        },
+        {
+          "key": "14",
+          "text": {
+            "fr": "Puise de l’eau pour le siège ! Répare tes forteresses ! Entre dans la boue, foule l’argile ! Rétablis le four à briques !",
+            "en": "Draw thee waters for the siege, fortify thy strong holds: go into clay, and tread the mortar, make strong the brickkiln.",
+            "zh": "你要打水預備受困．要堅固你的保障．踹土和泥、修補磚窰。",
+            "jp": "籠城ろうじょうのために水みずをくめ。あなたのとりでを堅かためよ。粘土ねんどの中なかにはいって、しっくいを踏ふみ、れんがの型かたをとれ。",
+            "kr": "너는 물을 길어 에워싸일 것을 대비하며 너의 산성들을 견고하게 하며 진흙에 들어가서 흙을 밟아 벽돌 가마를 수리하라"
+          }
+        },
+        {
+          "key": "15",
+          "text": {
+            "fr": "Là, le feu te dévorera, L’épée t’exterminera, Te dévorera comme des grillons Entasse-toi comme les grillons ! Entasse-toi comme les sauterelles !",
+            "en": "There shall the fire devour thee; the sword shall cut thee off, it shall eat thee up like the cankerworm: make thyself many as the cankerworm, make thyself many as the locusts.",
+            "zh": "在那裡火必燒滅你．刀必殺戮你、吞滅你如同蝻子．任你加增人數多如蝻子、多如蝗蟲罷。",
+            "jp": "その所ところで火ひはあなたを焼やき、つるぎはあなたを切きる。それはいなごのようにあなたを食くい滅ほろぼす。あなたはいなごのように数かずを増ませ。ばったのようにふえよ。",
+            "kr": "거기서 불이 너를 삼키며 칼이 너를 베기를 느치가 먹는 것 같이 하리라 네가 느치 같이 스스로 많게 할지어다 네가 메뚜기 같이 스스로 많게 할지어다"
+          }
+        },
+        {
+          "key": "16",
+          "text": {
+            "fr": "Tes marchands, plus nombreux Que les étoiles du ciel, Sont comme la sauterelle qui ouvre les ailes et s’envole.",
+            "en": "Thou hast multiplied thy merchants above the stars of heaven: the cankerworm spoileth, and flieth away.",
+            "zh": "你增添商賈、多過天上的星．蝻子喫盡而去。",
+            "jp": "あなたは自分じぶんの商人しょうにんを天てんの星ほしよりも多おおくした。いなごは羽はねをはって飛とび去さる。",
+            "kr": "네가 네 상인을 하늘의 별보다 많게 하였으나 느치가 날개를 펴서 날아감과 같고"
+          }
+        },
+        {
+          "key": "17",
+          "text": {
+            "fr": "Tes princes sont comme les sauterelles, Tes chefs comme une multitude de sauterelles, Qui se posent sur les haies aux temps froids : Le soleil paraît, elles s’envolent, Et l’on ne connaît plus le lieu où elles étaient.",
+            "en": "Thy crowned are as the locusts, and thy captains as the great grasshoppers, which camp in the hedges in the cold day, but when the sun ariseth they flee away, and their place is not known where they are.",
+            "zh": "你的首領多如蝗蟲、你的軍長彷彿成群的螞蚱、天涼的時候、齊落在籬笆上、日頭一出便都飛去、人不知道落在何處。",
+            "jp": "あなたの君きみたちは、ばったのように、あなたの学者がくしゃたちは、いなごのように、寒さむい日ひには垣かきにとまり、日ひが出でて来くると飛とび去さる。そのありかはだれも知しらない。",
+            "kr": "네 방백은 메뚜기 같고 너의 장수들은 큰 메뚜기 떼가 추운 날에는 울타리에 깃들였다가 해가 뜨면 날아감과 같으니 그 있는 곳을 알 수 없도다"
+          }
+        },
+        {
+          "key": "18",
+          "text": {
+            "fr": "Tes bergers sommeillent, roi d’Assyrie, Tes vaillants hommes reposent ; Ton peuple est dispersé sur les montagnes, Et nul ne le rassemble.",
+            "en": "Thy shepherds slumber, O king of Assyria: thy nobles shall dwell in the dust: thy people is scattered upon the mountains, and no man gathereth them.",
+            "zh": "亞述王阿、你的牧人睡覺、你的貴冑安歇．你的人民散在山間、無人招聚。",
+            "jp": "アッスリヤの王おうよ、あなたの牧者ぼくしゃは眠ねむり、あなたの貴族きぞくはまどろむ。あなたの民たみは山やまの上うえに散ちらされ、これを集あつめる者ものはない。",
+            "kr": "앗수르 왕이여 네 목자가 자고 네 귀족은 누워 쉬며 네 백성은 산들에 흩어지나 그들을 모을 사람이 없도다"
+          }
+        },
+        {
+          "key": "19",
+          "text": {
+            "fr": "Il n’y a pas de remède à ta blessure, Ta plaie est mortelle. Tous ceux qui entendront parler de toi Battront des mains à ton sujet ; Car quel est celui que ta méchanceté n’a pas atteint ?",
+            "en": "There is no healing of thy bruise; thy wound is grievous: all that hear the bruit of thee shall clap the hands over thee: for upon whom hath not thy wickedness passed continually?",
+            "zh": "你的損傷無法醫治、你的傷痕極其重大。凡聽你信息的、必都因此向你拍掌．你所行的惡誰沒有時常遭遇呢。",
+            "jp": "あなたの破やぶれは、いえることがなく、あなたの傷きずは重おもい。あなたのうわさを聞きく者ものは皆みな、あなたの事ことについて手てを打うつ。あなたの悪あくを常つねに身みに受うけなかったような者ものが、だれひとりあるか。",
+            "kr": "네 상처는 고칠 수 없고 네 부상은 중하도다 네 소식을 듣는 자가 다 너를 보고 손뼉을 치나니 이는 그들이 항상 네게 행패를 당하였음이 아니더냐 하시니라"
+          }
+        }
+      ]
+    }
+  ]
+}

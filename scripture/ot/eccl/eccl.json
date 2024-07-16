@@ -1,0 +1,2389 @@
+{
+  "book": {
+    "fr": "ECCLÉSIASTE",
+    "en": "ECCLESIASTES",
+    "zh": "傳道書",
+    "jp": "伝道でんどうの書しょ",
+    "kr": "전도서"
+  },
+  "theme": {
+    "fr": "Chapitre 1",
+    "en": "",
+    "zh": "第1章",
+    "jp": "第1章",
+    "kr": "제 1 장"
+  },
+  "introduction": {
+    "fr": "Sous le soleil, tout est vanité et poursuite du vent. Celui qui augmente sa connaissance augmente sa douleur.",
+    "en": "Chapter 1",
+    "zh": "",
+    "jp": "Chapter 1",
+    "kr": "Chapter 1"
+  },
+  "chapters": [
+    {
+      "number": 1,
+      "introduction": {
+        "fr": "Sous le soleil, tout est vanité et poursuite du vent. Celui qui augmente sa connaissance augmente sa douleur.",
+        "en": "Everything under the sun is vanity and vexation of spirit—He who increases in knowledge increases in sorrow.",
+        "zh": "Everything under the sun is vanity and vexation of spirit—He who increases in knowledge increases in sorrow.",
+        "jp": "Everything under the sun is vanity and vexation of spirit—He who increases in knowledge increases in sorrow.",
+        "kr": "Everything under the sun is vanity and vexation of spirit—He who increases in knowledge increases in sorrow."
+      },
+      "verses": [
+        {
+          "key": "1",
+          "text": {
+            "fr": "Paroles de l’Ecclésiaste, fils de David, roi de Jérusalem.",
+            "en": "The words of the Preacher, the son of David, king in Jerusalem.",
+            "zh": "在耶路撒冷作王、大衛的兒子、傳道者的言語。",
+            "jp": "ダビデの子こ、エルサレムの王おうである伝道者でんどうしゃの言葉ことば。",
+            "kr": "다윗의 아들 예루살렘 왕 전도자의 말씀이라"
+          }
+        },
+        {
+          "key": "2",
+          "text": {
+            "fr": "Vanité des vanités, dit l’Ecclésiaste, vanité des vanités, tout est vanité.",
+            "en": "Vanity of vanities, saith the Preacher, vanity of vanities; all is vanity.",
+            "zh": "傳道者說、虛空的虛空、虛空的虛空．凡事都是虛空。",
+            "jp": "伝道者でんどうしゃは言いう、空くうの空くう、空くうの空くう、いっさいは空くうである。",
+            "kr": "전도자가 이르되 헛되고 헛되며 헛되고 헛되니 모든 것이 헛되도다"
+          }
+        },
+        {
+          "key": "3",
+          "text": {
+            "fr": "Quel avantage revient-il à l’homme de toute la peine qu’il se donne sous le soleil ?",
+            "en": "What profit hath a man of all his labour which he taketh under the sun?",
+            "zh": "人一切的勞碌、就是他在日光之下的勞碌、有甚麼益處呢。",
+            "jp": "日ひの下したで人ひとが労ろうするすべての労苦ろうくは、その身みになんの益えきがあるか。",
+            "kr": "해 아래에서 수고하는 모든 수고가 사람에게 무엇이 유익한가"
+          }
+        },
+        {
+          "key": "4",
+          "text": {
+            "fr": "Une génération s’en va, une autre vient et la terre subsiste toujours.",
+            "en": "One generation passeth away, and another generation cometh: but the earth abideth for ever.",
+            "zh": "一代過去、一代又來．地卻永遠長存。",
+            "jp": "世よは去さり、世よはきたる。しかし地ちは永遠えいえんに変かわらない。",
+            "kr": "한 세대는 가고 한 세대는 오되 땅은 영원히 있도다"
+          }
+        },
+        {
+          "key": "5",
+          "text": {
+            "fr": "Le soleil se lève, le soleil se couche ; il soupire après le lieu d’où il se lève de nouveau.",
+            "en": "The sun also ariseth, and the sun goeth down, and hasteth to his place where he arose.",
+            "zh": "日頭出來、日頭落下、急歸所出之地。",
+            "jp": "日ひはいで、日ひは没ぼっし、その出でた所ところに急いそぎ行いく。",
+            "kr": "해는 뜨고 해는 지되 그 떴던 곳으로 빨리 돌아가고"
+          }
+        },
+        {
+          "key": "6",
+          "text": {
+            "fr": "Le vent se dirige vers le sud, tourne vers le nord ; puis il tourne encore et reprend les mêmes circuits.",
+            "en": "The wind goeth toward the south, and turneth about unto the north; it whirleth about continually, and the wind returneth again according to his circuits.",
+            "zh": "風往南颳、又向北轉、不住的旋轉、而且返回轉行原道。",
+            "jp": "風かぜは南みなみに吹ふき、また転てんじて、北きたに向むかい、めぐりにめぐって、またそのめぐる所ところに帰かえる。",
+            "kr": "바람은 남으로 불다가 북으로 돌아가며 이리 돌며 저리 돌아 바람은 그 불던 곳으로 돌아가고"
+          }
+        },
+        {
+          "key": "7",
+          "text": {
+            "fr": "Tous les fleuves vont à la mer et la mer n’est pas remplie ; ils continuent à aller vers le lieu où ils se dirigent.",
+            "en": "All the rivers run into the sea; yet the sea is not full; unto the place from whence the rivers come, thither they return again.",
+            "zh": "江河都往海裡流、海卻不滿．江河從何處流、仍歸還何處．",
+            "jp": "川かわはみな、海うみに流ながれ入いる、しかし海うみは満みちることがない。川かわはその出でてきた所ところにまた帰かえって行いく。",
+            "kr": "모든 강물은 다 바다로 흐르되 바다를 채우지 못하며 강물은 어느 곳으로 흐르든지 그리로 연하여 흐르느니라"
+          }
+        },
+        {
+          "key": "8",
+          "text": {
+            "fr": "Toutes choses sont en travail au-delà de ce qu’on peut dire ; l’œil ne se rassasie pas de voir, et l’oreille ne se lasse pas d’entendre.",
+            "en": "All things are full of labour; man cannot utter it: the eye is not satisfied with seeing, nor the ear filled with hearing.",
+            "zh": "萬事令人厭煩〔或作萬物滿有困乏〕人不能說盡．眼看、看不飽、耳聽、聽不足。",
+            "jp": "すべての事ことは人ひとをうみ疲つかれさせる、人ひとはこれを言いいつくすことができない。目めは見みることに飽あきることがなく、耳みみは聞きくことに満足まんぞくすることがない。",
+            "kr": "모든 만물이 피곤하다는 것을 사람이 말로 다 말할 수는 없나니 눈은 보아도 족함이 없고 귀는 들어도 가득 차지 아니하도다"
+          }
+        },
+        {
+          "key": "9",
+          "text": {
+            "fr": "Ce qui a été, c’est ce qui sera, et ce qui s’est fait, c’est ce qui se fera, il n’y a rien de nouveau sous le soleil.",
+            "en": "The thing that hath been, it is that which shall be; and that which is done is that which shall be done: and there is no new thing under the sun.",
+            "zh": "已有的事、後必再有．已行的事、後必再行．日光之下並無新事。",
+            "jp": "先さきにあったことは、また後のちにもある、先さきになされた事ことは、また後のちにもなされる。日ひの下したには新あたらしいものはない。",
+            "kr": "이미 있던 것이 후에 다시 있겠고 이미 한 일을 후에 다시 할지라 해 아래에는 새 것이 없나니"
+          }
+        },
+        {
+          "key": "10",
+          "text": {
+            "fr": "S’il est une chose dont on dise : Vois ceci, c’est nouveau ! cette chose existait déjà dans les siècles qui nous ont précédés.",
+            "en": "Is there any thing whereof it may be said, See, this is new? it hath been already of old time, which was before us.",
+            "zh": "豈有一件事人能指著說、這是新的．那知、在我們以前的世代、早已有了。",
+            "jp": "「見みよ、これは新あたらしいものだ」と言いわれるものがあるか、それはわれわれの前まえにあった世々よよに、すでにあったものである。",
+            "kr": "무엇을 가리켜 이르기를 보라 이것이 새 것이라 할 것이 있으랴 우리가 있기 오래 전 세대들에도 이미 있었느니라"
+          }
+        },
+        {
+          "key": "11",
+          "text": {
+            "fr": "On ne se souvient pas de ce qui est ancien ; et ce qui arrivera dans la suite ne laissera pas de souvenir chez ceux qui vivront plus tard.",
+            "en": "There is no remembrance of former things; neither shall there be any remembrance of things that are to come with those that shall come after.",
+            "zh": "已過的世代、無人記念、將來的世代、後來的人也不記念。",
+            "jp": "前まえの者もののことは覚おぼえられることがない、また、きたるべき後のちの者もののことも、後のちに起おこる者ものはこれを覚おぼえることがない。",
+            "kr": "이전 세대들이 기억됨이 없으니 장래 세대도 그 후 세대들과 함께 기억됨이 없으리라"
+          }
+        },
+        {
+          "key": "12",
+          "text": {
+            "fr": "Moi, l’Ecclésiaste, j’ai été roi d’Israël à Jérusalem.",
+            "en": "¶ I the Preacher was king over Israel in Jerusalem.",
+            "zh": "我傳道者在耶路撒冷作過以色列的王。",
+            "jp": "伝道者でんどうしゃであるわたしはエルサレムで、イスラエルの王おうであった。",
+            "kr": "나 전도자는 예루살렘에서 이스라엘 왕이 되어"
+          }
+        },
+        {
+          "key": "13",
+          "text": {
+            "fr": "J’ai appliqué mon cœur à rechercher et à sonder par la sagesse tout ce qui se fait sous les cieux : c’est là une occupation pénible à laquelle Dieu soumet les fils de l’homme.",
+            "en": "And I gave my heart to seek and search out by wisdom concerning all things that are done under heaven: this sore travail hath God given to the sons of man to be exercised therewith.",
+            "zh": "我專心用智慧尋求查究天下所作的一切事、乃知　神叫世人所經練的、是極重的勞苦。",
+            "jp": "わたしは心こころをつくし、知恵ちえを用もちいて、天あめが下したに行おこなわれるすべてのことを尋たずね、また調しらべた。これは神かみが、人ひとの子こらに与あたえて、ほねおらせられる苦くるしい仕事しごとである。",
+            "kr": "마음을 다하며 지혜를 써서 하늘 아래에서 행하는 모든 일을 연구하며 살핀즉 이는 괴로운 것이니 하나님이 인생들에게 주사 수고하게 하신 것이라"
+          }
+        },
+        {
+          "key": "14",
+          "text": {
+            "fr": "J’ai vu tout ce qui se fait sous le soleil ; et voici, tout est vanité et poursuite du vent.",
+            "en": "I have seen all the works that are done under the sun; and, behold, all is vanity and vexation of spirit.",
+            "zh": "我見日光之下所作的一切事、都是虛空、都是捕風。",
+            "jp": "わたしは日ひの下したで人ひとが行おこなうすべてのわざを見みたが、みな空くうであって風かぜを捕とらえるようである。",
+            "kr": "내가 해 아래에서 행하는 모든 일을 보았노라 보라 모두 다 헛되어 바람을 잡으려는 것이로다"
+          }
+        },
+        {
+          "key": "15",
+          "text": {
+            "fr": "Ce qui est courbé ne peut se redresser et ce qui manque ne peut être compté.",
+            "en": "That which is crooked cannot be made straight: and that which is wanting cannot be numbered.",
+            "zh": "彎曲的不能變直．缺少的不能足數。",
+            "jp": "曲まがったものは、まっすぐにすることができない、欠かけたものは数かぞえることができない。",
+            "kr": "구부러진 것도 곧게 할 수 없고 모자란 것도 셀 수 없도다"
+          }
+        },
+        {
+          "key": "16",
+          "text": {
+            "fr": "J’ai dit en mon cœur : Voici, j’ai grandi et surpassé en sagesse tous ceux qui ont dominé avant moi sur Jérusalem et mon cœur a vu beaucoup de sagesse et de connaissance.",
+            "en": "I communed with mine own heart, saying, Lo, I am come to great estate, and have gotten more wisdom than all they that have been before me in Jerusalem: yea, my heart had great experience of wisdom and knowledge.",
+            "zh": "我心裡議論、說、我得了大智慧、勝過我以前在耶路撒冷的眾人．而且我心中多經歷智慧、和知識的事。",
+            "jp": "わたしは心こころの中なかに語かたって言いった、「わたしは、わたしより先さきにエルサレムを治おさめたすべての者ものにまさって、多おおくの知恵ちえを得えた。わたしの心こころは知恵ちえと知識ちしきを多おおく得えた」。",
+            "kr": "내가 내 마음 속으로 말하여 이르기를 보라 내가 크게 되고 지혜를 더 많이 얻었으므로 나보다 먼저 예루살렘에 있던 모든 사람들보다 낫다 하였나니 내 마음이 지혜와 지식을 많이 만나 보았음이로다"
+          }
+        },
+        {
+          "key": "17",
+          "text": {
+            "fr": "J’ai appliqué mon cœur à connaître la sagesse, et à connaître la sottise et la folie ; j’ai compris que cela aussi c’est la poursuite du vent.",
+            "en": "And I gave my heart to know wisdom, and to know madness and folly: I perceived that this also is vexation of spirit.",
+            "zh": "我又專心察明智慧、狂妄、和愚昧．乃知這也是捕風。",
+            "jp": "わたしは心こころをつくして知恵ちえを知しり、また狂気きょうきと愚痴ぐちとを知しろうとしたが、これもまた風かぜを捕とらえるようなものであると悟さとった。",
+            "kr": "내가 다시 지혜를 알고자 하며 미친 것들과 미련한 것들을 알고자 하여 마음을 썼으나 이것도 바람을 잡으려는 것인 줄을 깨달았도다"
+          }
+        },
+        {
+          "key": "18",
+          "text": {
+            "fr": "Car avec beaucoup de sagesse on a beaucoup de chagrin, et celui qui augmente sa connaissance augmente sa douleur.",
+            "en": "For in much wisdom is much grief: and he that increaseth knowledge increaseth sorrow.",
+            "zh": "因為多有智慧、就多有愁煩．加增知識的、就加增憂傷。",
+            "jp": "それは知恵ちえが多おおければ悩なやみが多おおく、知識ちしきを増ます者ものは憂うれいを増ますからである。",
+            "kr": "지혜가 많으면 번뇌도 많으니 지식을 더하는 자는 근심을 더하느니라"
+          }
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "introduction": {
+        "fr": "Toutes les richesses du roi sont vanité et poursuite du vent. La sagesse vaut mieux que la folie. Dieu donne à l’homme la sagesse, la connaissance et la joie.",
+        "en": "All the riches and wealth of the king are vanity and vexation of spirit—Wisdom is better than folly—God gives wisdom, knowledge, and joy to man.",
+        "zh": "All the riches and wealth of the king are vanity and vexation of spirit—Wisdom is better than folly—God gives wisdom, knowledge, and joy to man.",
+        "jp": "All the riches and wealth of the king are vanity and vexation of spirit—Wisdom is better than folly—God gives wisdom, knowledge, and joy to man.",
+        "kr": "All the riches and wealth of the king are vanity and vexation of spirit—Wisdom is better than folly—God gives wisdom, knowledge, and joy to man."
+      },
+      "verses": [
+        {
+          "key": "1",
+          "text": {
+            "fr": "J’ai dit en mon cœur : Allons ! je t’éprouverai par la joie et tu goûteras le bonheur. Et voici, c’est encore là une vanité.",
+            "en": "I said in mine heart, Go to now, I will prove thee with mirth, therefore enjoy pleasure: and, behold, this also is vanity.",
+            "zh": "我心裡說、來罷、我以喜樂試試你、你好享福．誰知、這也是虛空。",
+            "jp": "わたしは自分じぶんの心こころに言いった、「さあ、快楽かいらくをもって、おまえを試こころみよう。おまえは愉快ゆかいに過すごすがよい」と。しかし、これもまた空くうであった。",
+            "kr": "나는 내 마음에 이르기를 자, 내가 시험삼아 너를 즐겁게 하리니 너는 낙을 누리라 하였으나 보라 이것도 헛되도다"
+          }
+        },
+        {
+          "key": "2",
+          "text": {
+            "fr": "J’ai dit du rire : Insensé ! et de la joie : À quoi sert-elle ?",
+            "en": "I said of laughter, It is mad: and of mirth, What doeth it?",
+            "zh": "我指嬉笑說、這是狂妄．論喜樂說、有何功效呢。",
+            "jp": "わたしは笑わらいについて言いった、「これは狂気きょうきである」と。また快楽かいらくについて言いった、「これは何なにをするのか」と。",
+            "kr": "내가 웃음에 관하여 말하여 이르기를 그것은 미친 것이라 하였고 희락에 대하여 이르기를 이것이 무슨 소용이 있는가 하였노라"
+          }
+        },
+        {
+          "key": "3",
+          "text": {
+            "fr": "Je résolus en mon cœur de livrer ma chair au vin, tandis que mon cœur me conduirait avec sagesse, et de m’attacher à la folie jusqu’à ce que je vois ce qu’il est bon pour les fils de l’homme de faire sous les cieux pendant le nombre des jours de leur vie.",
+            "en": "I sought in mine heart to give myself unto wine, yet acquainting mine heart with wisdom; and to lay hold on folly, till I might see what was that good for the sons of men, which they should do under the heaven all the days of their life.",
+            "zh": "我心裡察究、如何用酒使我肉體舒暢、我心卻仍以智慧引導我．又如何持住愚昧、等我看明世人、在天下一生當行何事為美。",
+            "jp": "わたしの心こころは知恵ちえをもってわたしを導みちびいているが、わたしは酒さけをもって自分じぶんの肉体にくたいを元気げんきづけようと試こころみた。また、人ひとの子こは天あめが下したでその短みじかい一生いっしょうの間あいだ、どんな事ことをしたら良よいかを、見みきわめるまでは、愚おろかな事ことをしようと試こころみた。",
+            "kr": "내가 내 마음으로 깊이 생각하기를 내가 어떻게 하여야 내 마음을 지혜로 다스리면서 술로 내 육신을 즐겁게 할까 또 내가 어떻게 하여야 천하의 인생들이 그들의 인생을 살아가는 동안 어떤 것이 선한 일인지를 알아볼 때까지 내 어리석음을 꼭 붙잡아 둘까 하여"
+          }
+        },
+        {
+          "key": "4",
+          "text": {
+            "fr": "J’exécutai de grands ouvrages : je me bâtis des maisons ; je me plantai des vignes ;",
+            "en": "I made me great works; I builded me houses; I planted me vineyards:",
+            "zh": "我為自己動大工程、建造房屋、栽種葡萄園、",
+            "jp": "わたしは大おおきな事業じぎょうをした。わたしは自分じぶんのために家いえを建たて、ぶどう畑ばたけを設もうけ、",
+            "kr": "나의 사업을 크게 하였노라 내가 나를 위하여 집들을 짓고 포도원을 일구며"
+          }
+        },
+        {
+          "key": "5",
+          "text": {
+            "fr": "je me fis des jardins et des vergers, et j’y plantai des arbres fruitiers de toute espèce ;",
+            "en": "I made me gardens and orchards, and I planted trees in them of all kind of fruits:",
+            "zh": "修造園囿、在其中栽種各樣果木樹、",
+            "jp": "園そのと庭にわをつくり、またすべて実みのなる木きをそこに植うえ、",
+            "kr": "여러 동산과 과원을 만들고 그 가운데에 각종 과목을 심었으며"
+          }
+        },
+        {
+          "key": "6",
+          "text": {
+            "fr": "je me créai des étangs pour arroser la forêt où croissaient les arbres.",
+            "en": "I made me pools of water, to water therewith the wood that bringeth forth trees:",
+            "zh": "挖造水池、用以澆灌嫩小的樹木．",
+            "jp": "池いけをつくって、木きのおい茂しげる林はやしに、そこから水みずを注そそがせた。",
+            "kr": "나를 위하여 수목을 기르는 삼림에 물을 주기 위하여 못들을 팠으며"
+          }
+        },
+        {
+          "key": "7",
+          "text": {
+            "fr": "J’achetai des serviteurs et des servantes, et j’eus leurs enfants nés dans la maison ; je possédai des troupeaux de bœufs et de brebis, plus que tous ceux qui étaient avant moi dans Jérusalem.",
+            "en": "I got me servants and maidens, and had servants born in my house; also I had great possessions of great and small cattle above all that were in Jerusalem before me:",
+            "zh": "我買了僕婢、也有生在家中的僕婢．又有許多牛群羊群、勝過以前在耶路撒冷眾人所有的．",
+            "jp": "わたしは男女だんじょの奴隷どれいを買かった。またわたしの家いえで生うまれた奴隷どれいを持もっていた。わたしはまた、わたしより先さきにエルサレムにいただれよりも多おおくの牛うしや羊ひつじの財産ざいさんを持もっていた。",
+            "kr": "남녀 노비들을 사기도 하였고 나를 위하여 집에서 종들을 낳기도 하였으며 나보다 먼저 예루살렘에 있던 모든 자들보다도 내가 소와 양 떼의 소유를 더 많이 가졌으며"
+          }
+        },
+        {
+          "key": "8",
+          "text": {
+            "fr": "Je m’amassai de l’argent et de l’or, et les richesses des rois et des provinces. Je me procurai des chanteurs et des chanteuses, et les délices des fils de l’homme, des femmes en grand nombre.",
+            "en": "I gathered me also silver and gold, and the peculiar treasure of kings and of the provinces: I gat me men singers and women singers, and the delights of the sons of men, as musical instruments, and that of all sorts.",
+            "zh": "我又為自己積蓄金銀、和君王的財寶、並各省的財寶．又得唱歌的男女、和世人所喜愛的物、並許多的妃嬪。",
+            "jp": "わたしはまた銀ぎんと金きんを集あつめ、王おうたちと国々くにぐにの財宝ざいほうを集あつめた。またわたしは歌うたうたう男おとこ、歌うたうたう女おんなを得えた。また人ひとの子この楽たのしみとするそばめを多おおく得えた。",
+            "kr": "은 금과 왕들이 소유한 보배와 여러 지방의 보배를 나를 위하여 쌓고 또 노래하는 남녀들과 인생들이 기뻐하는 처첩들을 많이 두었노라"
+          }
+        },
+        {
+          "key": "9",
+          "text": {
+            "fr": "Je devins grand, plus grand que tous ceux qui étaient avant moi dans Jérusalem. Et même ma sagesse demeura avec moi.",
+            "en": "So I was great, and increased more than all that were before me in Jerusalem: also my wisdom remained with me.",
+            "zh": "這樣、我就日見昌盛、勝過以前在耶路撒冷的眾人．我的智慧仍然存留。",
+            "jp": "こうして、わたしは大おおいなる者ものとなり、わたしより先さきにエルサレムにいたすべての者ものよりも、大おおいなる者ものとなった。わたしの知恵ちえもまた、わたしを離はなれなかった。",
+            "kr": "내가 이같이 창성하여 나보다 먼저 예루살렘에 있던 모든 자들보다 더 창성하니 내 지혜도 내게 여전하도다"
+          }
+        },
+        {
+          "key": "10",
+          "text": {
+            "fr": "Tout ce que mes yeux avaient désiré, je ne les en ai pas privés ; je n’ai refusé à mon cœur aucune joie ; car mon cœur prenait plaisir à tout mon travail, et c’est la part qui m’en est revenue.",
+            "en": "And whatsoever mine eyes desired I kept not from them, I withheld not my heart from any joy; for my heart rejoiced in all my labour: and this was my portion of all my labour.",
+            "zh": "凡我眼所求的、我沒有留下不給他的．我心所樂的、我沒有禁止不享受的．因我的心為我一切所勞碌的快樂．這就是我從勞碌中所得的分。",
+            "jp": "なんでもわたしの目めの好このむものは遠慮えんりょせず、わたしの心こころの喜よろこぶものは拒こばまなかった。わたしの心こころがわたしのすべての労苦ろうくによって、快楽かいらくを得えたからである。そしてこれはわたしのすべての労苦ろうくによって得えた報むくいであった。",
+            "kr": "무엇이든지 내 눈이 원하는 것을 내가 금하지 아니하며 무엇이든지 내 마음이 즐거워하는 것을 내가 막지 아니하였으니 이는 나의 모든 수고를 내 마음이 기뻐하였음이라 이것이 나의 모든 수고로 말미암아 얻은 몫이로다"
+          }
+        },
+        {
+          "key": "11",
+          "text": {
+            "fr": "Puis, j’ai considéré tous les ouvrages que mes mains avaient faits, et la peine que j’avais prise à les exécuter ; et voici, tout est vanité et poursuite du vent, et il n’y a aucun avantage à tirer de ce qu’on fait sous le soleil.",
+            "en": "Then I looked on all the works that my hands had wrought, and on the labour that I had laboured to do: and, behold, all was vanity and vexation of spirit, and there was no profit under the sun.",
+            "zh": "後來我察看我手所經營的一切事、和我勞碌所成的功．誰知都是虛空、都是捕風、在日光之下毫無益處。",
+            "jp": "そこで、わたしはわが手てのなしたすべての事こと、およびそれをなすに要ようした労苦ろうくを顧かえりみたとき、見みよ、皆みな、空くうであって、風かぜを捕とらえるようなものであった。日ひの下したには益えきとなるものはないのである。",
+            "kr": "그 후에 내가 생각해 본즉 내 손으로 한 모든 일과 내가 수고한 모든 것이 다 헛되어 바람을 잡는 것이며 해 아래에서 무익한 것이로다"
+          }
+        },
+        {
+          "key": "12",
+          "text": {
+            "fr": "Alors j’ai tourné mes regards vers la sagesse, et vers la sottise et la folie. Car que fera l’homme qui succédera au roi ? Ce qu’on a déjà fait.",
+            "en": "¶ And I turned myself to behold wisdom, and madness, and folly: for what can the man do that cometh after the king? even that which hath been already done.",
+            "zh": "我轉念觀看智慧、狂妄、和愚昧．在王以後而來的人、還能作甚麼呢．也不過行早先所行的就是了。",
+            "jp": "わたしはまた、身みをめぐらして、知恵ちえと、狂気きょうきと、愚痴ぐちとを見みた。そもそも、王おうの後のちに来くる人ひとは何なにをなし得えようか。すでに彼かれがなした事ことにすぎないのだ。",
+            "kr": "내가 돌이켜 지혜와 망령됨과 어리석음을 보았나니 왕 뒤에 오는 자는 무슨 일을 행할까 이미 행한 지 오래 전의 일일 뿐이리라"
+          }
+        },
+        {
+          "key": "13",
+          "text": {
+            "fr": "Et j’ai vu que la sagesse a de l’avantage sur la folie, comme la lumière a de l’avantage sur les ténèbres ;",
+            "en": "Then I saw that wisdom excelleth folly, as far as light excelleth darkness.",
+            "zh": "我便看出智慧勝過愚昧、如同光明勝過黑暗。",
+            "jp": "光ひかりが暗くらきにまさるように、知恵ちえが愚痴ぐちにまさるのを、わたしは見みた。",
+            "kr": "내가 보니 지혜가 우매보다 뛰어남이 빛이 어둠보다 뛰어남 같도다"
+          }
+        },
+        {
+          "key": "14",
+          "text": {
+            "fr": "le sage voit où il va et l’insensé marche dans les ténèbres. Mais j’ai reconnu aussi qu’ils ont l’un et l’autre un même sort.",
+            "en": "The wise man’s eyes are in his head; but the fool walketh in darkness: and I myself perceived also that one event happeneth to them all.",
+            "zh": "智慧人的眼目光明、〔光明原文作在他頭上〕、愚昧人在黑暗裡行．我卻看明有一件事、這兩等人都必遇見。",
+            "jp": "知者ちしゃの目めは、その頭あたまにある。しかし愚者ぐしゃは暗くらやみを歩あゆむ。けれどもわたしはなお同一どういつの運命うんめいが彼かれらのすべてに臨のぞむことを知しっている。",
+            "kr": "지혜자는 그의 눈이 그의 머리 속에 있고 우매자는 어둠 속에 다니지만 그들 모두가 당하는 일이 모두 같으리라는 것을 나도 깨달아 알았도다"
+          }
+        },
+        {
+          "key": "15",
+          "text": {
+            "fr": "Et j’ai dit en mon cœur : J’aurai le même sort que l’insensé ; pourquoi donc ai-je été plus sage ? Et j’ai dit en mon cœur que c’est encore là une vanité.",
+            "en": "Then said I in my heart, As it happeneth to the fool, so it happeneth even to me; and why was I then more wise? Then I said in my heart, that this also is vanity.",
+            "zh": "我就心裡說、愚昧人所遇見的、我也必遇見．我為何更有智慧呢．我心裡說、這也是虛空。",
+            "jp": "わたしは心こころに言いった、「愚者ぐしゃに臨のぞむ事ことはわたしにも臨のぞむのだ。それでどうしてわたしは賢かしこいことがあろう」。わたしはまた心こころに言いった、「これもまた空くうである」と。",
+            "kr": "내가 내 마음속으로 이르기를 우매자가 당한 것을 나도 당하리니 내게 지혜가 있었다 한들 내게 무슨 유익이 있으리요 하였도다 이에 내가 내 마음속으로 이르기를 이것도 헛되도다 하였도다"
+          }
+        },
+        {
+          "key": "16",
+          "text": {
+            "fr": "Car la mémoire du sage n’est pas plus éternelle que celle de l’insensé, puisque déjà les jours qui suivent, tout est oublié. Eh quoi ! le sage meurt aussi bien que l’insensé !",
+            "en": "For there is no remembrance of the wise more than of the fool for ever; seeing that which now is in the days to come shall all be forgotten. And how dieth the wise man? as the fool.",
+            "zh": "智慧人、和愚昧人一樣、永遠無人記念．因為日後都被忘記．可歎智慧人死亡、與愚昧人無異。",
+            "jp": "そもそも、知者ちしゃも愚者ぐしゃも同様どうように長ながく覚おぼえられるものではない。きたるべき日ひには皆みな忘わすれられてしまうのである。知者ちしゃが愚者ぐしゃと同おなじように死しぬのは、どうしたことであろう。",
+            "kr": "지혜자도 우매자와 함께 영원하도록 기억함을 얻지 못하나니 후일에는 모두 다 잊어버린 지 오랠 것임이라 오호라 지혜자의 죽음이 우매자의 죽음과 일반이로다"
+          }
+        },
+        {
+          "key": "17",
+          "text": {
+            "fr": "Et j’ai haï la vie, car ce qui se fait sous le soleil m’a déplu, car tout est vanité et poursuite du vent.",
+            "en": "Therefore I hated life; because the work that is wrought under the sun is grievous unto me: for all is vanity and vexation of spirit.",
+            "zh": "我所以恨惡生命、因為在日光之下所行的事我都以為煩惱．都是虛空、都是捕風。",
+            "jp": "そこで、わたしは生いきることをいとった。日ひの下したに行おこなわれるわざは、わたしに悪あしく見みえたからである。皆みな空くうであって、風かぜを捕とらえるようである。",
+            "kr": "이러므로 내가 사는 것을 미워하였노니 이는 해 아래에서 하는 일이 내게 괴로움이요 모두 다 헛되어 바람을 잡으려는 것이기 때문이로다"
+          }
+        },
+        {
+          "key": "18",
+          "text": {
+            "fr": "J’ai haï tout le travail que j’ai fait sous le soleil et qui profitera à l’homme qui me succédera.",
+            "en": "¶ Yea, I hated all my labour which I had taken under the sun: because I should leave it unto the man that shall be after me.",
+            "zh": "我恨惡一切的勞碌、就是我在日光之下的勞碌、因為我得來的必留給我以後的人。",
+            "jp": "わたしは日ひの下したで労ろうしたすべての労苦ろうくを憎にくんだ。わたしの後のちに来くる人ひとにこれを残のこさなければならないからである。",
+            "kr": "내가 해 아래에서 내가 한 모든 수고를 미워하였노니 이는 내 뒤를 이을 이에게 남겨 주게 됨이라"
+          }
+        },
+        {
+          "key": "19",
+          "text": {
+            "fr": "Et qui sait s’il sera sage ou insensé ? Cependant il sera maître de tout mon travail, de tout le fruit de ma sagesse sous le soleil. C’est encore là une vanité.",
+            "en": "And who knoweth whether he shall be a wise man or a fool? yet shall he have rule over all my labour wherein I have laboured, and wherein I have shewed myself wise under the sun. This is also vanity.",
+            "zh": "那人是智慧、是愚昧、誰能知道．他竟要管理我勞碌所得的、就是我在日光之下用智慧所得的．這也是虛空。",
+            "jp": "そして、その人ひとが知者ちしゃであるか、または愚者ぐしゃであるかは、だれが知しり得えよう。そうであるのに、その人ひとが、日ひの下したでわたしが労ろうし、かつ知恵ちえを働はたらかしてなしたすべての労苦ろうくをつかさどることになるのだ。これもまた空くうである。",
+            "kr": "그 사람이 지혜자일지, 우매자일지야 누가 알랴마는 내가 해 아래에서 내 지혜를 다하여 수고한 모든 결과를 그가 다 관리하리니 이것도 헛되도다"
+          }
+        },
+        {
+          "key": "20",
+          "text": {
+            "fr": "Et j’en suis venu à livrer mon cœur au désespoir à cause de tout le travail que j’ai fait sous le soleil.",
+            "en": "Therefore I went about to cause my heart to despair of all the labour which I took under the sun.",
+            "zh": "故此、我轉想我在日光之下所勞碌的一切工作、心便絕望。",
+            "jp": "それでわたしはふり返かえってみて、日ひの下したでわたしが労ろうしたすべての労苦ろうくについて、望のぞみを失うしなった。",
+            "kr": "이러므로 내가 해 아래에서 한 모든 수고에 대하여 내가 내 마음에 실망하였도다"
+          }
+        },
+        {
+          "key": "21",
+          "text": {
+            "fr": "Car tel homme a travaillé avec sagesse et connaissance, et avec succès, et il laisse le produit de son travail à un homme qui ne s’en est pas occupé. C’est encore là une vanité et un grand mal.",
+            "en": "For there is a man whose labour is in wisdom, and in knowledge, and in equity; yet to a man that hath not laboured therein shall he leave it for his portion. This also is vanity and a great evil.",
+            "zh": "因為有人用智慧知識靈巧所勞碌得來的、卻要留給未曾勞碌的人為分．這也是虛空、也是大患。",
+            "jp": "今いまここに人ひとがあって、知恵ちえと知識ちしきと才能さいのうをもって労ろうしても、これがために労ろうしない人ひとに、すべてを残のこして、その所有しょゆうとさせなければならないのだ。これもまた空くうであって、大おおいに悪わるい。",
+            "kr": "어떤 사람은 그 지혜와 지식과 재주를 다하여 수고하였어도 그가 얻은 것을 수고하지 아니한 자에게 그의 몫으로 넘겨 주리니 이것도 헛된 것이며 큰 악이로다"
+          }
+        },
+        {
+          "key": "22",
+          "text": {
+            "fr": "Que revient-il, en effet, à l’homme de tout son travail et de la préoccupation de son cœur, objet de ses fatigues sous le soleil ?",
+            "en": "For what hath man of all his labour, and of the vexation of his heart, wherein he hath laboured under the sun?",
+            "zh": "人在日光之下勞碌累心、在他一切的勞碌上得著甚麼呢。",
+            "jp": "そもそも、人ひとは日ひの下したで労ろうするすべての労苦ろうくと、その心こころづかいによってなんの得えるところがあるか。",
+            "kr": "사람이 해 아래에서 행하는 모든 수고와 마음에 애쓰는 것이 무슨 소득이 있으랴"
+          }
+        },
+        {
+          "key": "23",
+          "text": {
+            "fr": "Tous ses jours ne sont que douleur et son partage n’est que chagrin ; même la nuit son cœur ne se repose pas. C’est encore là une vanité.",
+            "en": "For all his days are sorrows, and his travail grief; yea, his heart taketh not rest in the night. This is also vanity.",
+            "zh": "因為他日日憂慮他的勞苦成為愁煩．連夜間心也不安．這也是虛空。",
+            "jp": "そのすべての日ひはただ憂うれいのみであって、そのわざは苦くるしく、その心こころは夜よの間まも休やすまることがない。これもまた空くうである。",
+            "kr": "일평생에 근심하며 수고하는 것이 슬픔뿐이라 그의 마음이 밤에도 쉬지 못하나니 이것도 헛되도다"
+          }
+        },
+        {
+          "key": "24",
+          "text": {
+            "fr": "Il n’y a de bonheur pour l’homme qu’à manger et à boire, et à profiter du bien-être au milieu de son travail ; mais j’ai vu que cela aussi vient de la main de Dieu.",
+            "en": "¶ There is nothing better for a man, than that he should eat and drink, and that he should make his soul enjoy good in his labour. This also I saw, that it was from the hand of God.",
+            "zh": "人莫強如喫喝、且在勞碌中享福．我看這也是出於　神的手。",
+            "jp": "人ひとは食くい飲のみし、その労苦ろうくによって得えたもので心こころを楽たのしませるより良よい事ことはない。これもまた神かみの手てから出でることを、わたしは見みた。",
+            "kr": "사람이 먹고 마시며 수고하는 것보다 그의 마음을 더 기쁘게 하는 것은 없나니 내가 이것도 본즉 하나님의 손에서 나오는 것이로다"
+          }
+        },
+        {
+          "key": "25",
+          "text": {
+            "fr": "Qui, en effet, peut manger et trouver du plaisir si ce n’est moi ?",
+            "en": "For who can eat, or who else can hasten hereunto, more than I?",
+            "zh": "論到喫用、享福、誰能勝過我呢。",
+            "jp": "だれが神かみを離はなれて、食くい、かつ楽たのしむことのできる者ものがあろう。",
+            "kr": "아, 먹고 즐기는 일을 누가 나보다 더 해 보았으랴"
+          }
+        },
+        {
+          "key": "26",
+          "text": {
+            "fr": "Car il donne à l’homme qui lui est agréable la sagesse, la connaissance et la joie ; mais il donne au pécheur le soin de recueillir et d’amasser, afin de donner à celui qui est agréable à Dieu. C’est encore là une vanité et la poursuite du vent.",
+            "en": "For God giveth to a man that is good in his sight wisdom, and knowledge, and joy: but to the sinner he giveth travail, to gather and to heap up, that he may give to him that is good before God. This also is vanity and vexation of spirit.",
+            "zh": "神喜悅誰、就給誰智慧、知識、和喜樂．惟有罪人、　神使他勞苦、叫他將所收聚的、所堆積的、歸給　神所喜悅的人．這也是虛空、也是捕風。",
+            "jp": "神かみは、その心こころにかなう人ひとに、知恵ちえと知識ちしきと喜よろこびとをくださる。しかし罪つみびとには仕事しごとを与あたえて集あつめることと、積つむことをさせられる。これは神かみの心こころにかなう者ものにそれを賜たまわるためである。これもまた空くうであって、風かぜを捕とらえるようである。",
+            "kr": "하나님은 그가 기뻐하시는 자에게는 지혜와 지식과 희락을 주시나 죄인에게는 노고를 주시고 그가 모아 쌓게 하사 하나님을 기뻐하는 자에게 그가 주게 하시지만 이것도 헛되어 바람을 잡는 것이로다"
+          }
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "introduction": {
+        "fr": "Il y a un temps pour tout. Tout ce que Dieu fait durera toujours. Dieu jugera le juste et le méchant.",
+        "en": "To every thing there is a season—Whatever God does, it will be forever—God will judge the righteous and the wicked.",
+        "zh": "To every thing there is a season—Whatever God does, it will be forever—God will judge the righteous and the wicked.",
+        "jp": "To every thing there is a season—Whatever God does, it will be forever—God will judge the righteous and the wicked.",
+        "kr": "To every thing there is a season—Whatever God does, it will be forever—God will judge the righteous and the wicked."
+      },
+      "verses": [
+        {
+          "key": "1",
+          "text": {
+            "fr": "Il y a un temps pour tout, un temps pour toute chose sous les cieux :",
+            "en": "To every thing there is a season, and a time to every purpose under the heaven:",
+            "zh": "凡事都有定期、天下萬務都有定時．",
+            "jp": "天あめが下したのすべての事ことには季節きせつがあり、すべてのわざには時ときがある。",
+            "kr": "범사에 기한이 있고 천하 만사가 다 때가 있나니"
+          }
+        },
+        {
+          "key": "2",
+          "text": {
+            "fr": "un temps pour naître et un temps pour mourir ; un temps pour planter et un temps pour arracher ce qui a été planté ;",
+            "en": "A time to be born, and a time to die; a time to plant, and a time to pluck up that which is planted;",
+            "zh": "生有時、死有時．栽種有時、拔出所栽種的、也有時．",
+            "jp": "生うまるるに時ときがあり、死しぬるに時ときがあり、植うえるに時ときがあり、植うえたものを抜ぬくに時ときがあり、",
+            "kr": "날 때가 있고 죽을 때가 있으며 심을 때가 있고 심은 것을 뽑을 때가 있으며"
+          }
+        },
+        {
+          "key": "3",
+          "text": {
+            "fr": "un temps pour tuer et un temps pour guérir ; un temps pour abattre et un temps pour bâtir ;",
+            "en": "A time to kill, and a time to heal; a time to break down, and a time to build up;",
+            "zh": "殺戮有時、醫治有時．拆毀有時、建造有時．",
+            "jp": "殺ころすに時ときがあり、いやすに時ときがあり、こわすに時ときがあり、建たてるに時ときがあり、",
+            "kr": "죽일 때가 있고 치료할 때가 있으며 헐 때가 있고 세울 때가 있으며"
+          }
+        },
+        {
+          "key": "4",
+          "text": {
+            "fr": "un temps pour pleurer et un temps pour rire ; un temps pour se lamenter et un temps pour danser ;",
+            "en": "A time to weep, and a time to laugh; a time to mourn, and a time to dance;",
+            "zh": "哭有時、笑有時．哀慟有時、跳舞有時．",
+            "jp": "泣なくに時ときがあり、笑わらうに時ときがあり、悲かなしむに時ときがあり、踊おどるに時ときがあり、",
+            "kr": "울 때가 있고 웃을 때가 있으며 슬퍼할 때가 있고 춤출 때가 있으며"
+          }
+        },
+        {
+          "key": "5",
+          "text": {
+            "fr": "un temps pour lancer des pierres et un temps pour ramasser des pierres ; un temps pour embrasser et un temps pour s’éloigner des embrassements ;",
+            "en": "A time to cast away stones, and a time to gather stones together; a time to embrace, and a time to refrain from embracing;",
+            "zh": "拋擲石頭有時、堆聚石頭有時．懷抱有時、不懷抱有時．",
+            "jp": "石いしを投なげるに時ときがあり、石いしを集あつめるに時ときがあり、抱だくに時ときがあり、抱だくことをやめるに時ときがあり、",
+            "kr": "돌을 던져 버릴 때가 있고 돌을 거둘 때가 있으며 안을 때가 있고 안는 일을 멀리 할 때가 있으며"
+          }
+        },
+        {
+          "key": "6",
+          "text": {
+            "fr": "un temps pour chercher et un temps pour perdre ; un temps pour garder et un temps pour jeter ;",
+            "en": "A time to get, and a time to lose; a time to keep, and a time to cast away;",
+            "zh": "尋找有時、失落有時．保守有時、捨棄有時．",
+            "jp": "捜さがすに時ときがあり、失うしなうに時ときがあり、保たもつに時ときがあり、捨すてるに時ときがあり、",
+            "kr": "찾을 때가 있고 잃을 때가 있으며 지킬 때가 있고 버릴 때가 있으며"
+          }
+        },
+        {
+          "key": "7",
+          "text": {
+            "fr": "un temps pour déchirer et un temps pour coudre ; un temps pour se taire et un temps pour parler ;",
+            "en": "A time to rend, and a time to sew; a time to keep silence, and a time to speak;",
+            "zh": "撕裂有時、縫補有時．靜默有時、言語有時．",
+            "jp": "裂さくに時ときがあり、縫ぬうに時ときがあり、黙だまるに時ときがあり、語かたるに時ときがあり、",
+            "kr": "찢을 때가 있고 꿰맬 때가 있으며 잠잠할 때가 있고 말할 때가 있으며"
+          }
+        },
+        {
+          "key": "8",
+          "text": {
+            "fr": "un temps pour aimer et un temps pour haïr ; un temps pour la guerre et un temps pour la paix.",
+            "en": "A time to love, and a time to hate; a time of war, and a time of peace.",
+            "zh": "喜愛有時、恨惡有時．爭戰有時、和好有時。",
+            "jp": "愛あいするに時ときがあり、憎にくむに時ときがあり、戦たたかうに時ときがあり、和やわらぐに時ときがある。",
+            "kr": "사랑할 때가 있고 미워할 때가 있으며 전쟁할 때가 있고 평화할 때가 있느니라"
+          }
+        },
+        {
+          "key": "9",
+          "text": {
+            "fr": "Quel avantage celui qui travaille retire-t-il de sa peine ?",
+            "en": "What profit hath he that worketh in that wherein he laboureth?",
+            "zh": "這樣看來、作事的人在他的勞碌上有甚麼益處呢。",
+            "jp": "働はたらく者ものはその労ろうすることにより、なんの益えきを得えるか。",
+            "kr": "일하는 자가 그의 수고로 말미암아 무슨 이익이 있으랴"
+          }
+        },
+        {
+          "key": "10",
+          "text": {
+            "fr": "J’ai vu à quelle occupation Dieu soumet les fils de l’homme.",
+            "en": "I have seen the travail, which God hath given to the sons of men to be exercised in it.",
+            "zh": "我見　神叫世人勞苦、使他們在其中受經練。",
+            "jp": "わたしは神かみが人ひとの子こらに与あたえて、ほねおらせられる仕事しごとを見みた。",
+            "kr": "하나님이 인생들에게 노고를 주사 애쓰게 하신 것을 내가 보았노라"
+          }
+        },
+        {
+          "key": "11",
+          "text": {
+            "fr": "Il fait toute chose belle en son temps ; même il a mis dans leur cœur la pensée de l’éternité, bien que l’homme ne puisse pas saisir l’œuvre que Dieu fait, du commencement jusqu’à la fin.",
+            "en": "He hath made every thing beautiful in his time: also he hath set the world in their heart, so that no man can find out the work that God maketh from the beginning to the end.",
+            "zh": "神造萬物、各按其時成為美好．又將永生安置在世人心裡．〔永生原文作永遠〕然而　神從始至終的作為、人不能參透。",
+            "jp": "神かみのなされることは皆みなその時ときにかなって美うつくしい。神かみはまた人ひとの心こころに永遠えいえんを思おもう思おもいを授さづけられた。それでもなお、人ひとは神かみのなされるわざを初はじめから終おわりまで見みきわめることはできない。",
+            "kr": "하나님이 모든 것을 지으시되 때를 따라 아름답게 하셨고 또 사람들에게는 영원을 사모하는 마음을 주셨느니라 그러나 하나님이 하시는 일의 시종을 사람으로 측량할 수 없게 하셨도다"
+          }
+        },
+        {
+          "key": "12",
+          "text": {
+            "fr": "J’ai reconnu qu’il n’y a de bonheur pour eux qu’à se réjouir et à se donner du bien-être pendant leur vie ;",
+            "en": "I know that there is no good in them, but for a man to rejoice, and to do good in his life.",
+            "zh": "我知道世人、莫強如終身喜樂行善。",
+            "jp": "わたしは知しっている。人ひとにはその生いきながらえている間あいだ、楽たのしく愉快ゆかいに過すごすよりほかに良よい事ことはない。",
+            "kr": "사람들이 사는 동안에 기뻐하며 선을 행하는 것보다 더 나은 것이 없는 줄을 내가 알았고"
+          }
+        },
+        {
+          "key": "13",
+          "text": {
+            "fr": "mais que, si un homme mange et boit et jouit du bien-être au milieu de tout son travail, c’est là un don de Dieu.",
+            "en": "And also that every man should eat and drink, and enjoy the good of all his labour, it is the gift of God.",
+            "zh": "並且人人喫喝、在他一切勞碌中享福．這也是　神的恩賜。",
+            "jp": "またすべての人ひとが食くい飲のみし、そのすべての労苦ろうくによって楽たのしみを得えることは神かみの賜物たまものである。",
+            "kr": "사람마다 먹고 마시는 것과 수고함으로 낙을 누리는 그것이 하나님의 선물인 줄도 또한 알았도다"
+          }
+        },
+        {
+          "key": "14",
+          "text": {
+            "fr": "J’ai reconnu que tout ce que Dieu fait durera toujours, qu’il n’y a rien à y ajouter et rien à en retrancher, et que Dieu agit ainsi afin qu’on le craigne.",
+            "en": "I know that, whatsoever God doeth, it shall be for ever: nothing can be put to it, nor any thing taken from it: and God doeth it, that men should fear before him.",
+            "zh": "我知道　神一切所作的、都必永存、無所增添、無所減少．　神這樣行、是要人在他面前存敬畏的心。",
+            "jp": "わたしは知しっている。すべて神かみがなさる事ことは永遠えいえんに変かわることがなく、これに加くわえることも、これから取とることもできない。神かみがこのようにされるのは、人々ひとびとが神かみの前まえに恐おそれをもつようになるためである。",
+            "kr": "하나님께서 행하시는 모든 것은 영원히 있을 것이라 그 위에 더 할 수도 없고 그것에서 덜 할 수도 없나니 하나님이 이같이 행하심은 사람들이 그의 앞에서 경외하게 하려 하심인 줄을 내가 알았도다"
+          }
+        },
+        {
+          "key": "15",
+          "text": {
+            "fr": "Ce qui est a déjà été, et ce qui sera a déjà été, et Dieu ramène ce qui est passé.",
+            "en": "That which hath been is now; and that which is to be hath already been; and God requireth that which is past.",
+            "zh": "現今的事早先就有了．將來的事早已也有了．並且　神使已過的事重新再來．〔或作並且　神再尋回已過的事〕",
+            "jp": "今いまあるものは、すでにあったものである。後のちにあるものも、すでにあったものである。神かみは追おいやられたものを尋たずね求もとめられる。",
+            "kr": "이제 있는 것이 옛적에 있었고 장래에 있을 것도 옛적에 있었나니 하나님은 이미 지난 것을 다시 찾으시느니라"
+          }
+        },
+        {
+          "key": "16",
+          "text": {
+            "fr": "J’ai encore vu sous le soleil qu’au lieu établi pour juger il y a de la méchanceté, et qu’au lieu établi pour la justice il y a de la méchanceté.",
+            "en": "¶ And moreover I saw under the sun the place of judgment, that wickedness was there; and the place of righteousness, that iniquity was there.",
+            "zh": "我又見日光之下、在審判之處有奸惡．在公義之處也有奸惡。",
+            "jp": "わたしはまた、日ひの下したを見みたが、さばきを行おこなう所ところにも不正ふせいがあり、公義こうぎを行おこなう所ところにも不正ふせいがある。",
+            "kr": "또 내가 해 아래에서 보건대 재판하는 곳 거기에도 악이 있고 정의를 행하는 곳 거기에도 악이 있도다"
+          }
+        },
+        {
+          "key": "17",
+          "text": {
+            "fr": "J’ai dit en mon cœur : Dieu jugera le juste et le méchant ; car il y a là un temps pour toute chose et pour toute œuvre.",
+            "en": "I said in mine heart, God shall judge the righteous and the wicked: for there is a time there for every purpose and for every work.",
+            "zh": "我心裡說、　神必審判義人和惡人．因為在那裡、各樣事務、一切工作、都有定時。",
+            "jp": "わたしは心こころに言いった、「神かみは正ただしい者ものと悪わるい者ものとをさばかれる。神かみはすべての事ことと、すべてのわざに、時ときを定さだめられたからである」と。",
+            "kr": "내가 내 마음속으로 이르기를 의인과 악인을 하나님이 심판하시리니 이는 모든 소망하는 일과 모든 행사에 때가 있음이라 하였으며"
+          }
+        },
+        {
+          "key": "18",
+          "text": {
+            "fr": "J’ai dit en mon cœur, au sujet des fils de l’homme, que Dieu les éprouverait, et qu’eux-mêmes verraient qu’ils ne sont que des bêtes.",
+            "en": "I said in mine heart concerning the estate of the sons of men, that God might manifest them, and that they might see that they themselves are beasts.",
+            "zh": "我心裡說、這乃為世人的緣故、是　神要試驗他們、使他們覺得自己不過像獸一樣。",
+            "jp": "わたしはまた、人ひとの子こらについて心こころに言いった、「神かみは彼かれらをためして、彼かれらに自分じぶんたちが獣けものにすぎないことを悟さとらせられるのである」と。",
+            "kr": "내가 내 마음속으로 이르기를 인생들의 일에 대하여 하나님이 그들을 시험하시리니 그들이 자기가 짐승과 다름이 없는 줄을 깨닫게 하려 하심이라 하였노라"
+          }
+        },
+        {
+          "key": "19",
+          "text": {
+            "fr": "Car le sort des fils de l’homme et celui de la bête est pour eux un même sort ; comme meurt l’un, ainsi meurt l’autre, ils ont tous un même souffle, et la supériorité de l’homme sur la bête est nulle ; car tout est vanité.",
+            "en": "For that which befalleth the sons of men befalleth beasts; even one thing befalleth them: as the one dieth, so dieth the other; yea, they have all one breath; so that a man hath no preeminence above a beast: for all is vanity.",
+            "zh": "因為世人遭遇的、獸也遭遇．所遭遇的都是一樣．這個怎樣死、那個也怎樣死、氣息都是一樣．人不能強於獸．都是虛空。",
+            "jp": "人ひとの子こらに臨のぞむところは獣けものにも臨のぞむからである。すなわち一様いちように彼かれらに臨のぞみ、これの死しぬように、彼かれも死しぬのである。彼かれらはみな同様どうようの息いきをもっている。人ひとは獣けものにまさるところがない。すべてのものは空くうだからである。",
+            "kr": "인생이 당하는 일을 짐승도 당하나니 그들이 당하는 일이 일반이라 다 동일한 호흡이 있어서 짐승이 죽음 같이 사람도 죽으니 사람이 짐승보다 뛰어남이 없음은 모든 것이 헛됨이로다"
+          }
+        },
+        {
+          "key": "20",
+          "text": {
+            "fr": "Tout va dans un même lieu ; tout a été fait de la poussière et tout retourne à la poussière.",
+            "en": "All go unto one place; all are of the dust, and all turn to dust again.",
+            "zh": "都歸一處．都是出於塵土、也都歸於塵土。",
+            "jp": "みな一ひとつ所ところに行いく。皆みなちりから出でて、皆みなちりに帰かえる。",
+            "kr": "다 흙으로 말미암았으므로 다 흙으로 돌아가나니 다 한 곳으로 가거니와"
+          }
+        },
+        {
+          "key": "21",
+          "text": {
+            "fr": "Qui sait si le souffle des fils de l’homme monte en haut et si le souffle de la bête descend en bas dans la terre ?",
+            "en": "Who knoweth the spirit of man that goeth upward, and the spirit of the beast that goeth downward to the earth?",
+            "zh": "誰知道人的靈是往上升、獸的魂是下入地呢。",
+            "jp": "だれが知しるか、人ひとの子こらの霊れいは上うえにのぼり、獣けものの霊れいは地ちにくだるかを。",
+            "kr": "인생들의 혼은 위로 올라가고 짐승의 혼은 아래 곧 땅으로 내려가는 줄을 누가 알랴"
+          }
+        },
+        {
+          "key": "22",
+          "text": {
+            "fr": "Et j’ai vu qu’il n’y a rien de mieux pour l’homme que de se réjouir de ses œuvres : c’est là sa part. Car qui le fera profiter de ce qui sera après lui ?",
+            "en": "Wherefore I perceive that there is nothing better, than that a man should rejoice in his own works; for that is his portion: for who shall bring him to see what shall be after him?",
+            "zh": "故此、我見人、莫強如在他經營的事上喜樂．因為這是他的分．他身後的事、誰能使他回來得見呢。",
+            "jp": "それで、わたしは見みた、人ひとはその働はたらきによって楽たのしむにこした事ことはない。これが彼かれの分ぶんだからである。だれが彼かれをつれていって、その後のちの、どうなるかを見みさせることができようか。",
+            "kr": "그러므로 나는 사람이 자기 일에 즐거워하는 것보다 더 나은 것이 없음을 보았나니 이는 그것이 그의 몫이기 때문이라 아, 그의 뒤에 일어날 일이 무엇인지를 보게 하려고 그를 도로 데리고 올 자가 누구이랴"
+          }
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "introduction": {
+        "fr": "L’oppression et les mauvaises actions sont vanité. La force de deux vaut mieux que la force d’un seul. Mieux vaut un enfant pauvre et sage qu’un roi vieux et insensé.",
+        "en": "Oppression and evil deeds are vanity—The strength of two is better than one—Better is a poor and wise child than an old and foolish king.",
+        "zh": "Oppression and evil deeds are vanity—The strength of two is better than one—Better is a poor and wise child than an old and foolish king.",
+        "jp": "Oppression and evil deeds are vanity—The strength of two is better than one—Better is a poor and wise child than an old and foolish king.",
+        "kr": "Oppression and evil deeds are vanity—The strength of two is better than one—Better is a poor and wise child than an old and foolish king."
+      },
+      "verses": [
+        {
+          "key": "1",
+          "text": {
+            "fr": "J’ai considéré ensuite toutes les oppressions qui se commettent sous le soleil ; et voici, les opprimés sont dans les larmes et personne qui les console ! ils sont en butte à la violence de leurs oppresseurs et personne qui les console !",
+            "en": "So I returned, and considered all the oppressions that are done under the sun: and behold the tears of such as were oppressed, and they had no comforter; and on the side of their oppressors there was power; but they had no comforter.",
+            "zh": "我又轉念、見日光之下所行的一切欺壓．看哪、受欺壓的流淚、且無人安慰．欺壓他們的有勢力、也無人安慰他們。",
+            "jp": "わたしはまた、日ひの下したに行おこなわれるすべてのしえたげを見みた。見みよ、しえたげられる者ものの涙なみだを。彼かれらを慰なぐさめる者ものはない。しえたげる者ものの手てには権力けんりょくがある。しかし彼かれらを慰なぐさめる者ものはいない。",
+            "kr": "내가 다시 해 아래에서 행하는 모든 학대를 살펴 보았도다 보라 학대 받는 자들의 눈물이로다 그들에게 위로자가 없도다 그들을 학대하는 자들의 손에는 권세가 있으나 그들에게는 위로자가 없도다"
+          }
+        },
+        {
+          "key": "2",
+          "text": {
+            "fr": "Et j’ai trouvé les morts qui sont déjà morts plus heureux que les vivants qui sont encore vivants,",
+            "en": "Wherefore I praised the dead which are already dead more than the living which are yet alive.",
+            "zh": "因此我讚歎那早已死的死人、勝過那還活著的活人．",
+            "jp": "それで、わたしはなお生いきている生存者せいぞんしゃよりも、すでに死しんだ死者ししゃを、さいわいな者ものと思おもった。",
+            "kr": "그러므로 나는 아직 살아 있는 산 자들보다 죽은 지 오랜 죽은 자들을 더 복되다 하였으며"
+          }
+        },
+        {
+          "key": "3",
+          "text": {
+            "fr": "et plus heureux qu’eux tous celui qui n’a pas encore existé et qui n’a pas vu les mauvaises actions qui se commettent sous le soleil.",
+            "en": "Yea, better is he than both they, which hath not yet been, who hath not seen the evil work that is done under the sun.",
+            "zh": "並且我以為那未曾生的、就是未見過日光之下惡事的、比這兩等人更強。",
+            "jp": "しかし、この両者りょうしゃよりもさいわいなのは、まだ生うまれない者もので、日ひの下したに行おこなわれる悪あしきわざを見みない者ものである。",
+            "kr": "이 둘보다도 아직 출생하지 아니하여 해 아래에서 행하는 악한 일을 보지 못한 자가 더 복되다 하였노라"
+          }
+        },
+        {
+          "key": "4",
+          "text": {
+            "fr": "J’ai vu que tout travail et toute habileté dans le travail n’est que jalousie de l’homme à l’égard de son prochain. C’est encore là une vanité et la poursuite du vent.",
+            "en": "¶ Again, I considered all travail, and every right work, that for this a man is envied of his neighbour. This is also vanity and vexation of spirit.",
+            "zh": "我又見人為一切的勞碌、和各樣靈巧的工作、就被鄰舍嫉妒．這也是虛空、也是捕風。",
+            "jp": "また、わたしはすべての労苦ろうくと、すべての巧たくみなわざを見みたが、これは人ひとが互たがいにねたみあってなすものである。これもまた空くうであって、風かぜを捕とらえるようである。",
+            "kr": "내가 또 본즉 사람이 모든 수고와 모든 재주로 말미암아 이웃에게 시기를 받으니 이것도 헛되어 바람을 잡는 것이로다"
+          }
+        },
+        {
+          "key": "5",
+          "text": {
+            "fr": "L’insensé se croise les bras et mange sa propre chair.",
+            "en": "The fool foldeth his hands together, and eateth his own flesh.",
+            "zh": "愚昧人抱著手、喫自己的肉。",
+            "jp": "愚おろかなる者ものは手てをつかねて、自分じぶんの肉にくを食くう。",
+            "kr": "우매자는 팔짱을 끼고 있으면서 자기의 몸만 축내는도다"
+          }
+        },
+        {
+          "key": "6",
+          "text": {
+            "fr": "Mieux vaut une main pleine de repos que les deux mains pleines de labeur et de poursuite du vent.",
+            "en": "Better is an handful with quietness, than both the hands full with travail and vexation of spirit.",
+            "zh": "滿了一把、得享安靜、強如滿了兩把、勞碌捕風。",
+            "jp": "片手かたてに物ものを満みたして平穏へいおんであるのは、両手りょうてに物ものを満みたして労苦ろうくし、風かぜを捕とらえるのにまさる。",
+            "kr": "두 손에 가득하고 수고하며 바람을 잡는 것보다 한 손에만 가득하고 평온함이 더 나으니라"
+          }
+        },
+        {
+          "key": "7",
+          "text": {
+            "fr": "J’ai considéré une autre vanité sous le soleil.",
+            "en": "¶ Then I returned, and I saw vanity under the sun.",
+            "zh": "我又轉念、見日光之下有一件虛空的事。",
+            "jp": "わたしはまた、日ひの下したに空くうなる事ことのあるのを見みた。",
+            "kr": "내가 또 다시 해 아래에서 헛된 것을 보았도다"
+          }
+        },
+        {
+          "key": "8",
+          "text": {
+            "fr": "Tel homme est seul et sans personne qui est avec lui, il n’a ni fils ni frère, et pourtant son travail n’a pas de fin et ses yeux ne sont jamais rassasiés de richesses. Pour qui donc est-ce que je travaille et que je me prive de réjouissances ? C’est encore là une vanité et une chose mauvaise.",
+            "en": "There is one alone, and there is not a second; yea, he hath neither child nor brother: yet is there no end of all his labour; neither is his eye satisfied with riches; neither saith he, For whom do I labour, and bereave my soul of good? This is also vanity, yea, it is a sore travail.",
+            "zh": "有人孤單無二、無子無兄、竟勞碌不息、眼目也不以錢財為足．他說我勞勞碌碌、刻苦自己、不享福樂、到底是為誰呢．這也是虛空、是極重的勞苦。",
+            "jp": "ここに人ひとがある。ひとりであって、仲なか間まもなく、子こもなく、兄弟きょうだいもない。それでも彼かれの労苦ろうくは窮きわまりなく、その目めは富とみに飽あくことがない。また彼かれは言いわない、「わたしはだれのために労ろうするのか、どうして自分じぶんを楽たのしませないのか」と。これもまた空くうであって、苦くるしいわざである。",
+            "kr": "어떤 사람은 아들도 없고 형제도 없이 홀로 있으나 그의 모든 수고에는 끝이 없도다 또 비록 그의 눈은 부요를 족하게 여기지 아니하면서 이르기를 내가 누구를 위하여는 이같이 수고하고 나를 위하여는 행복을 누리지 못하게 하는가 하여도 이것도 헛되어 불행한 노고로다"
+          }
+        },
+        {
+          "key": "9",
+          "text": {
+            "fr": "Deux valent mieux qu’un parce qu’ils retirent un bon salaire de leur travail.",
+            "en": "¶ Two are better than one; because they have a good reward for their labour.",
+            "zh": "兩個人總比一個人好、因為二人勞碌同得美好的果效。",
+            "jp": "ふたりはひとりにまさる。彼かれらはその労苦ろうくによって良よい報むくいを得えるからである。",
+            "kr": "두 사람이 한 사람보다 나음은 그들이 수고함으로 좋은 상을 얻을 것임이라"
+          }
+        },
+        {
+          "key": "10",
+          "text": {
+            "fr": "Car, s’ils tombent, l’un relève son compagnon ; mais malheur à celui qui est seul et qui tombe sans avoir un deuxième pour le relever !",
+            "en": "For if they fall, the one will lift up his fellow: but woe to him that is alone when he falleth; for he hath not another to help him up.",
+            "zh": "若是跌倒、這人可以扶起他的同伴．若是孤身跌倒、沒有別人扶起他來、這人就有禍了。",
+            "jp": "すなわち彼かれらが倒たおれる時ときには、そのひとりがその友ともを助たすけ起おこす。しかしひとりであって、その倒たおれる時とき、これを助たすけ起おこす者もののない者ものはわざわいである。",
+            "kr": "혹시 그들이 넘어지면 하나가 그 동무를 붙들어 일으키려니와 홀로 있어 넘어지고 붙들어 일으킬 자가 없는 자에게는 화가 있으리라"
+          }
+        },
+        {
+          "key": "11",
+          "text": {
+            "fr": "De même, si deux dorment ensemble, ils auront chaud ; mais celui qui est seul, comment aura-t-il chaud ?",
+            "en": "Again, if two lie together, then they have heat: but how can one be warm alone?",
+            "zh": "再者、二人同睡、就都煖和．一人獨睡、怎能煖和呢。",
+            "jp": "またふたりが一緒いっしょに寝ねれば暖あたたかである。ひとりだけで、どうして暖あたたかになり得えようか。",
+            "kr": "또 두 사람이 함께 누우면 따뜻하거니와 한 사람이면 어찌 따뜻하랴"
+          }
+        },
+        {
+          "key": "12",
+          "text": {
+            "fr": "Et si quelqu’un est plus fort qu’un seul, les deux peuvent lui résister ; et la corde à trois fils ne se rompt pas facilement.",
+            "en": "And if one prevail against him, two shall withstand him; and a threefold cord is not quickly broken.",
+            "zh": "有人攻勝孤身一人、若有二人便能敵擋他．三股合成的繩子、不容易折斷。",
+            "jp": "人ひとがもし、そのひとりを攻せめ撃うったなら、ふたりで、それに当あたるであろう。三つよりの綱つなはたやすくは切きれない。",
+            "kr": "한 사람이면 패하겠거니와 두 사람이면 맞설 수 있나니 세 겹 줄은 쉽게 끊어지지 아니하느니라"
+          }
+        },
+        {
+          "key": "13",
+          "text": {
+            "fr": "Mieux vaut un enfant pauvre et sage qu’un roi vieux et insensé qui ne sait plus écouter les avis ;",
+            "en": "¶ Better is a poor and a wise child than an old and foolish king, who will no more be admonished.",
+            "zh": "貧窮而有智慧的少年人、勝過年老不肯納諫的愚昧王。",
+            "jp": "貧まずしくて賢かしこいわらべは、老おいて愚おろかで、もはや、いさめをいれることを知しらない王おうにまさる。",
+            "kr": "가난하여도 지혜로운 젊은이가 늙고 둔하여 경고를 더 받을 줄 모르는 왕보다 나으니"
+          }
+        },
+        {
+          "key": "14",
+          "text": {
+            "fr": "car il peut sortir de prison pour régner, et même être né pauvre dans son royaume.",
+            "en": "For out of prison he cometh to reign; whereas also he that is born in his kingdom becometh poor.",
+            "zh": "這人是從監牢中出來作王．在他國中、生來原是貧窮的。",
+            "jp": "たとい、その王おうが獄屋ごくやから出でて、王位おういについた者ものであっても、また自分じぶんの国くにに貧まずしく生うまれて王位おういについた者ものであっても、そうである。",
+            "kr": "그는 자기의 나라에서 가난하게 태어났을지라도 감옥에서 나와 왕이 되었음이니라"
+          }
+        },
+        {
+          "key": "15",
+          "text": {
+            "fr": "J’ai vu tous les vivants qui marchent sous le soleil entourer l’enfant qui devait succéder au roi et régner à sa place.",
+            "en": "I considered all the living which walk under the sun, with the second child that shall stand up in his stead.",
+            "zh": "我見日光之下一切行動的活人、都隨從那第二位、就是起來代替老王的少年人。",
+            "jp": "わたしは日ひの下したに歩あゆむすべての民たみが、かのわらべのように王おうに代かわって立たつのを見みた。",
+            "kr": "내가 본즉 해 아래에서 다니는 인생들이 왕의 다음 자리에 있다가 왕을 대신하여 일어난 젊은이와 함께 있고"
+          }
+        },
+        {
+          "key": "16",
+          "text": {
+            "fr": "Il n’y avait pas de fin à tout ce peuple, à tous ceux à la tête desquels il était. Et toutefois, ceux qui viendront après ne se réjouiront pas à son sujet. Car c’est encore là une vanité et la poursuite du vent.",
+            "en": "There is no end of all the people, even of all that have been before them: they also that come after shall not rejoice in him. Surely this also is vanity and vexation of spirit.",
+            "zh": "他所治理的眾人、就是他的百姓、多得無數．在他後來的人、尚且不喜悅他．這真是虛空、也是捕風。",
+            "jp": "すべての民たみは果はてしがない。彼かれはそのすべての民たみを導みちびいた。しかし後のちに来くる者ものは彼かれを喜よろこばない。たしかに、これもまた空くうであって、風かぜを捕とらえるようである。",
+            "kr": "그의 치리를 받는 모든 백성들이 무수하였을지라도 후에 오는 자들은 그를 기뻐하지 아니하리니 이것도 헛되어 바람을 잡는 것이로다"
+          }
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "introduction": {
+        "fr": "Dieu est au ciel. La voix de l’insencé se fait entendre dans la multitude de paroles. Accomplis le vœu que tu as fait. Les richesses et les biens sont un don de Dieu.",
+        "en": "God is in heaven—A fool’s voice is known by a multitude of words—Keep your vows—Riches and wealth are the gift of God.",
+        "zh": "God is in heaven—A fool’s voice is known by a multitude of words—Keep your vows—Riches and wealth are the gift of God.",
+        "jp": "God is in heaven—A fool’s voice is known by a multitude of words—Keep your vows—Riches and wealth are the gift of God.",
+        "kr": "God is in heaven—A fool’s voice is known by a multitude of words—Keep your vows—Riches and wealth are the gift of God."
+      },
+      "verses": [
+        {
+          "key": "1",
+          "text": {
+            "fr": "Ne te presse pas d’ouvrir la bouche et que ton cœur ne se hâte pas d’exprimer une parole devant Dieu ; car Dieu est au ciel et toi sur la terre : que tes paroles soient donc peu nombreuses.",
+            "en": "Keep thy foot when thou goest to the house of God, and be more ready to hear, than to give the sacrifice of fools: for they consider not that they do evil.",
+            "zh": "你到　神的殿、要謹慎腳步．因為近前聽、勝過愚昧人獻祭、〔或作勝過獻愚昧人的祭〕、他們本不知道所作的是惡。",
+            "jp": "神かみの宮みやに行ゆく時ときには、その足あしを慎つつしむがよい。近ちかよって聞きくのは愚おろかな者ものの犠牲ぎせいをささげるのにまさる。彼かれらは悪あくを行おこなっていることを知しらないからである。",
+            "kr": "너는 하나님의 집에 들어갈 때에 네 발을 삼갈지어다 가까이 하여 말씀을 듣는 것이 우매한 자들이 제물 드리는 것보다 나으니 그들은 악을 행하면서도 깨닫지 못함이니라"
+          }
+        },
+        {
+          "key": "2",
+          "text": {
+            "fr": "Car, si les songes naissent de la multitude des occupations, la voix de l’insensé se fait entendre dans la multitude des paroles.",
+            "en": "Be not rash with thy mouth, and let not thine heart be hasty to utter any thing before God: for God is in heaven, and thou upon earth: therefore let thy words be few.",
+            "zh": "你在　神面前不可冒失開口、也不可心急發言．因為　神在天上、你在地下、所以你的言語要寡少。",
+            "jp": "神かみの前まえで軽々かるがるしく口くちをひらき、また言葉ことばを出だそうと、心こころにあせってはならない。神かみは天てんにいまし、あなたは地ちにおるからである。それゆえ、あなたは言葉ことばを少すくなくせよ。",
+            "kr": "너는 하나님 앞에서 함부로 입을 열지 말며 급한 마음으로 말을 내지 말라 하나님은 하늘에 계시고 너는 땅에 있음이니라 그런즉 마땅히 말을 적게 할 것이라"
+          }
+        },
+        {
+          "key": "3",
+          "text": {
+            "fr": "Lorsque tu as fait un vœu à Dieu, ne tarde pas à l’accomplir car il n’aime pas les insensés : accomplis le vœu que tu as fait.",
+            "en": "For a dream cometh through the multitude of business; and a fool’s voice is known by multitude of words.",
+            "zh": "事務多、就令人作夢、言語多、就顯出愚昧。",
+            "jp": "夢ゆめは仕事しごとの多おおいことによってきたり、愚おろかなる者ものの声こえは言葉ことばの多おおいことによって知しられる。",
+            "kr": "걱정이 많으면 꿈이 생기고 말이 많으면 우매한 자의 소리가 나타나느니라"
+          }
+        },
+        {
+          "key": "4",
+          "text": {
+            "fr": "Mieux vaut pour toi ne pas faire de vœu, que d’en faire un et ne pas l’accomplir.",
+            "en": "When thou vowest a vow unto God, defer not to pay it; for he hath no pleasure in fools: pay that which thou hast vowed.",
+            "zh": "你向　神許願、償還不可遲延．因他不喜悅愚昧人．所以你許的願應當償還。",
+            "jp": "あなたは神かみに誓ちかいをなすとき、それを果はたすことを延のばしてはならない。神かみは愚おろかな者ものを喜よろこばれないからである。あなたの誓ちかったことを必かならず果はたせ。",
+            "kr": "네가 하나님께 서원하였거든 갚기를 더디게 하지 말라 하나님은 우매한 자들을 기뻐하지 아니하시나니 서원한 것을 갚으라"
+          }
+        },
+        {
+          "key": "5",
+          "text": {
+            "fr": "Ne permets pas à ta bouche de faire pécher ta chair et ne dis pas en présence de l’envoyé que c’est une inadvertance. Pourquoi Dieu s’irriterait-il de tes paroles et détruirait-il l’ouvrage de tes mains ?",
+            "en": "Better is it that thou shouldest not vow, than that thou shouldest vow and not pay.",
+            "zh": "你許願不還、不如不許。",
+            "jp": "あなたが誓ちかいをして、それを果はたさないよりは、むしろ誓ちかいをしないほうがよい。",
+            "kr": "서원하고 갚지 아니하는 것보다 서원하지 아니하는 것이 더 나으니"
+          }
+        },
+        {
+          "key": "6",
+          "text": {
+            "fr": "Car, s’il y a des vanités dans la multitude des songes, il y en a aussi dans beaucoup de paroles ; c’est pourquoi, crains Dieu.",
+            "en": "Suffer not thy mouth to cause thy flesh to sin; neither say thou before the angel, that it was an error: wherefore should God be angry at thy voice, and destroy the work of thine hands?",
+            "zh": "不可任你的口使肉體犯罪．也不可在祭司〔原文作使者〕面前說是錯許了．為何使　神因你的聲音發怒、敗壞你手所作的呢。",
+            "jp": "あなたの口くちが、あなたに罪つみを犯おかさせないようにせよ。また使者ししゃの前まえにそれは誤あやまりであったと言いってはならない。どうして、神かみがあなたの言葉ことばを怒いかり、あなたの手てのわざを滅ほろぼしてよかろうか。",
+            "kr": "네 입으로 네 육체가 범죄하게 하지 말라 사자 앞에서 내가 서원한 것이 실수라고 말하지 말라 어찌 하나님께서 네 목소리로 말미암아 진노하사 네 손으로 한 것을 멸하시게 하랴"
+          }
+        },
+        {
+          "key": "7",
+          "text": {
+            "fr": "Si tu vois dans une province le pauvre opprimé et la violation du droit et de la justice, ne t’en étonne pas ; car un homme élevé est placé sous la surveillance d’un autre plus élevé, et au-dessus d’eux il en est de plus élevés encore.",
+            "en": "For in the multitude of dreams and many words there are also divers vanities: but fear thou God.",
+            "zh": "多夢和多言、其中多有虛幻．你只要敬畏　神。",
+            "jp": "夢ゆめが多おおければ空くうなる言葉ことばも多おおい。しかし、あなたは神かみを恐おそれよ。",
+            "kr": "꿈이 많으면 헛된 일들이 많아지고 말이 많아도 그러하니 오직 너는 하나님을 경외할지니라"
+          }
+        },
+        {
+          "key": "8",
+          "text": {
+            "fr": "Un avantage pour le pays à tous égards, c’est un roi honoré du pays.",
+            "en": "¶ If thou seest the oppression of the poor, and violent perverting of judgment and justice in a province, marvel not at the matter: for he that is higher than the highest regardeth; and there be higher than they.",
+            "zh": "你若在一省之中見窮人受欺壓、並奪去公義公平的事、不要因此詫異．因有一位高過居高位的鑒察．在他們以上還有更高的。",
+            "jp": "あなたは国くにのうちに貧まずしい者ものをしえたげ、公道こうどうと正義せいぎを曲まげることのあるのを見みても、その事ことを怪あやしんではならない。それは位くらいの高たかい人ひとよりも、さらに高たかい者ものがあって、その人ひとをうかがうからである。そしてそれらよりもなお高たかい者ものがある。",
+            "kr": "너는 어느 지방에서든지 빈민을 학대하는 것과 정의와 공의를 짓밟는 것을 볼지라도 그것을 이상히 여기지 말라 높은 자는 더 높은 자가 감찰하고 또 그들보다 더 높은 자들도 있음이니라"
+          }
+        },
+        {
+          "key": "9",
+          "text": {
+            "fr": "Celui qui aime l’argent n’est pas rassasié par l’argent et celui qui aime les richesses n’en profite pas. C’est encore là une vanité.",
+            "en": "¶ Moreover the profit of the earth is for all: the king himself is served by the field.",
+            "zh": "況且地的益處歸眾人．就是君王也受田地的供應。",
+            "jp": "しかし、要ようするに耕作こうさくした田畑たはたをもつ国くにには王おうは利益りえきである。",
+            "kr": "땅의 소산물은 모든 사람을 위하여 있나니 왕도 밭의 소산을 받느니라"
+          }
+        },
+        {
+          "key": "10",
+          "text": {
+            "fr": "Quand le bien abonde, ceux qui le mangent abondent ; et quel avantage en revient-il à son possesseur, sinon qu’il le voit de ses yeux ?",
+            "en": "He that loveth silver shall not be satisfied with silver; nor he that loveth abundance with increase: this is also vanity.",
+            "zh": "貪愛銀子的、不因得銀子知足．貪愛豐富的、也不因得利益知足．這也是虛空。",
+            "jp": "金銭きんせんを好このむ者ものは金銭きんせんをもって満足まんぞくしない。富とみを好このむ者ものは富とみを得えて満足まんぞくしない。これもまた空くうである。",
+            "kr": "은을 사랑하는 자는 은으로 만족하지 못하고 풍요를 사랑하는 자는 소득으로 만족하지 아니하나니 이것도 헛되도다"
+          }
+        },
+        {
+          "key": "11",
+          "text": {
+            "fr": "Le sommeil du travailleur est doux, qu’il ait peu ou beaucoup à manger ; mais le rassasiement du riche ne le laisse pas dormir.",
+            "en": "When goods increase, they are increased that eat them: and what good is there to the owners thereof, saving the beholding of them with their eyes?",
+            "zh": "貨物增添、喫的人也增添．物主得甚麼益處呢、不過眼看而已。",
+            "jp": "財産ざいさんが増ませば、これを食くう者ものも増ます。その持もち主ぬしは目めにそれを見みるだけで、なんの益えきがあるか。",
+            "kr": "재산이 많아지면 먹는 자들도 많아지나니 그 소유주들은 눈으로 보는 것 외에 무엇이 유익하랴"
+          }
+        },
+        {
+          "key": "12",
+          "text": {
+            "fr": "Il est un mal grave que j’ai vu sous le soleil : des richesses conservées pour son malheur par celui qui les possède.",
+            "en": "The sleep of a labouring man is sweet, whether he eat little or much: but the abundance of the rich will not suffer him to sleep.",
+            "zh": "勞碌的人、不拘喫多喫少、睡得香甜．富足人的豐滿、卻不容他睡覺。",
+            "jp": "働はたらく者ものは食たべることが少すくなくても多おおくても、快こころよく眠ねむる。しかし飽あき足たりるほどの富とみは、彼かれに眠ねむることをゆるさない。",
+            "kr": "노동자는 먹는 것이 많든지 적든지 잠을 달게 자거니와 부자는 그 부요함 때문에 자지 못하느니라"
+          }
+        },
+        {
+          "key": "13",
+          "text": {
+            "fr": "Ces richesses se perdent par quelque événement fâcheux ; il a engendré un fils et il ne reste rien entre ses mains.",
+            "en": "There is a sore evil which I have seen under the sun, namely, riches kept for the owners thereof to their hurt.",
+            "zh": "我見日光之下、有一宗大禍患、就是財主積存資財、反害自己．",
+            "jp": "わたしは日ひの下したに悲かなしむべき悪あくのあるのを見みた。すなわち、富とみはこれをたくわえるその持もち主ぬしに害がいを及およぼすことである。",
+            "kr": "내가 해 아래에서 큰 폐단 되는 일이 있는 것을 보았나니 곧 소유주가 재물을 자기에게 해가 되도록 소유하는 것이라"
+          }
+        },
+        {
+          "key": "14",
+          "text": {
+            "fr": "Comme il est sorti du ventre de sa mère, il s’en retourne nu ainsi qu’il était venu, et pour son travail n’emporte rien qu’il puisse prendre dans sa main.",
+            "en": "But those riches perish by evil travail: and he begetteth a son, and there is nothing in his hand.",
+            "zh": "因遭遇禍患、這些資財就消滅．那人若生了兒子、手裡也一無所有。",
+            "jp": "またその富とみは不幸ふこうな出来事できごとによってうせ行いくことである。それで、その人ひとが子こをもうけても、彼かれの手てには何なにも残のこらない。",
+            "kr": "그 재물이 재난을 당할 때 없어지나니 비록 아들은 낳았으나 그 손에 아무것도 없느니라"
+          }
+        },
+        {
+          "key": "15",
+          "text": {
+            "fr": "C’est encore là un mal grave. Il s’en va comme il était venu ; et quel avantage lui revient-il d’avoir travaillé pour du vent ?",
+            "en": "As he came forth of his mother’s womb, naked shall he return to go as he came, and shall take nothing of his labour, which he may carry away in his hand.",
+            "zh": "他怎樣從母胎赤身而來、也必照樣赤身而去．他所勞碌得來的、手中分毫不能帶去。",
+            "jp": "彼かれは母ははの胎たいから出でてきたように、すなわち裸はだかで出でてきたように帰かえって行いく。彼かれはその労苦ろうくによって得えた何なに物ものをもその手てに携たずさえ行いくことができない。",
+            "kr": "그가 모태에서 벌거벗고 나왔은즉 그가 나온 대로 돌아가고 수고하여 얻은 것을 아무것도 자기 손에 가지고 가지 못하리니"
+          }
+        },
+        {
+          "key": "16",
+          "text": {
+            "fr": "De plus, toute sa vie il mange dans les ténèbres et il a beaucoup de chagrin, de maux et d’irritation.",
+            "en": "And this also is a sore evil, that in all points as he came, so shall he go: and what profit hath he that hath laboured for the wind?",
+            "zh": "他來的情形怎樣、他去的情形也怎樣．這也是一宗大禍患．他為風勞碌有甚麼益處呢。",
+            "jp": "人ひとは全まったくその来きたように、また去さって行いかなければならない。これもまた悲かなしむべき悪あくである。風かぜのために労ろうする者ものになんの益えきがあるか。",
+            "kr": "이것도 큰 불행이라 어떻게 왔든지 그대로 가리니 바람을 잡는 수고가 그에게 무엇이 유익하랴"
+          }
+        },
+        {
+          "key": "17",
+          "text": {
+            "fr": "Voici ce que j’ai vu : c’est pour l’homme une chose bonne et belle de manger et de boire, et de profiter du bien-être au milieu de tout le travail qu’il fait sous le soleil, pendant le nombre des jours de vie que Dieu lui a donnés ; car c’est là sa part.",
+            "en": "All his days also he eateth in darkness, and he hath much sorrow and wrath with his sickness.",
+            "zh": "並且他終身在黑暗中喫喝、多有煩惱、又有病患嘔氣。",
+            "jp": "人ひとは一生いっしょう、暗くらやみと、悲かなしみと、多おおくの悩なやみと、病やまいと、憤いきどおりの中なかにある。",
+            "kr": "일평생을 어두운 데에서 먹으며 많은 근심과 질병과 분노가 그에게 있느니라"
+          }
+        },
+        {
+          "key": "18",
+          "text": {
+            "fr": "Mais, si Dieu a donné à un homme des richesses et des biens, s’il l’a rendu maître d’en manger, d’en prendre sa part et de se réjouir au milieu de son travail, c’est là un don de Dieu.",
+            "en": "¶ Behold that which I have seen: it is good and comely for one to eat and to drink, and to enjoy the good of all his labour that he taketh under the sun all the days of his life, which God giveth him: for it is his portion.",
+            "zh": "我所見為善為美的、就是人在　神賜他一生的日子喫喝、享受日光之下勞碌得來的好處．因為這是他的分。",
+            "jp": "見みよ、わたしが見みたところの善ぜんかつ美びなる事ことは、神かみから賜たまわった短みじかい一生いっしょうの間あいだ、食くい、飲のみ、かつ日ひの下したで労ろうするすべての労苦ろうくによって、楽たのしみを得える事ことである。これがその分ぶんだからである。",
+            "kr": "사람이 하나님께서 그에게 주신 바 그 일평생에 먹고 마시며 해 아래에서 하는 모든 수고 중에서 낙을 보는 것이 선하고 아름다움을 내가 보았나니 그것이 그의 몫이로다"
+          }
+        },
+        {
+          "key": "19",
+          "text": {
+            "fr": "Car il ne se souviendra pas beaucoup des jours de sa vie, parce que Dieu répand la joie dans son cœur.",
+            "en": "Every man also to whom God hath given riches and wealth, and hath given him power to eat thereof, and to take his portion, and to rejoice in his labour; this is the gift of God.",
+            "zh": "神賜人資財豐富、使他能以喫用、能取自己的分、在他勞碌中喜樂．這乃是　神的恩賜。",
+            "jp": "また神かみはすべての人ひとに富とみと宝たからと、それを楽たのしむ力ちからを与あたえ、またその分ぶんを取とらせ、その労苦ろうくによって楽たのしみを得えさせられる。これが神かみの賜物たまものである。",
+            "kr": "또한 어떤 사람에게든지 하나님이 재물과 부요를 그에게 주사 능히 누리게 하시며 제 몫을 받아 수고함으로 즐거워하게 하신 것은 하나님의 선물이라"
+          }
+        },
+        {
+          "key": "20",
+          "text": {
+            "fr": "",
+            "en": "For he shall not much remember the days of his life; because God answereth him in the joy of his heart.",
+            "zh": "他不多思念自己一生的年日．因為　神應他的心使他喜樂。",
+            "jp": "このような人ひとは自分じぶんの生いきる日ひのことを多おおく思おもわない。神かみは喜よろこびをもって彼かれの心こころを満みたされるからである。",
+            "kr": "그는 자기의 생명의 날을 깊이 생각하지 아니하리니 이는 하나님이 그의 마음에 기뻐하는 것으로 응답하심이니라"
+          }
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "introduction": {
+        "fr": "Les richesses, les biens, la gloire et une postérité ne sont que vanité pour l’homme qui n’est pas rassasié de bonheur.",
+        "en": "Unless a man’s soul is filled with good, his riches, wealth, honor, and posterity are vanity.",
+        "zh": "Unless a man’s soul is filled with good, his riches, wealth, honor, and posterity are vanity.",
+        "jp": "Unless a man’s soul is filled with good, his riches, wealth, honor, and posterity are vanity.",
+        "kr": "Unless a man’s soul is filled with good, his riches, wealth, honor, and posterity are vanity."
+      },
+      "verses": [
+        {
+          "key": "1",
+          "text": {
+            "fr": "Il est un mal que j’ai vu sous le soleil et qui est fréquent parmi les hommes.",
+            "en": "There is an evil which I have seen under the sun, and it is common among men:",
+            "zh": "我見日光之下有一宗禍患、重壓在人身上．",
+            "jp": "わたしは日ひの下したに一つの悪あくのあるのを見みた。これは人々ひとびとの上うえに重おもい。",
+            "kr": "내가 해 아래에서 한 가지 불행한 일이 있는 것을 보았나니 이는 사람의 마음을 무겁게 하는 것이라"
+          }
+        },
+        {
+          "key": "2",
+          "text": {
+            "fr": "Il y a tel homme à qui Dieu a donné des richesses, des biens et de la gloire, et il ne lui manque rien de ce qu’il désire, mais Dieu ne le laisse pas maître d’en profiter, car c’est un étranger qui en profitera. C’est là une vanité et un mal grave.",
+            "en": "A man to whom God hath given riches, wealth, and honour, so that he wanteth nothing for his soul of all that he desireth, yet God giveth him not power to eat thereof, but a stranger eateth it: this is vanity, and it is an evil disease.",
+            "zh": "就是人蒙　神賜他資財、豐富、尊榮、以致他心裡所願的一樣都不缺、只是　神使他不能喫用、反有外人來喫用．這是虛空、也是禍患。",
+            "jp": "すなわち神かみは富とみと、財産ざいさんと、誉ほまれとを人ひとに与あたえて、その心こころに慕したうものを、一つも欠かけることのないようにされる。しかし神かみは、その人ひとにこれを持もつことを許ゆるされないで、他人たにんがこれを持もつようになる。これは空くうである。悪あしき病やまいである。",
+            "kr": "어떤 사람은 그의 영혼이 바라는 모든 소원에 부족함이 없어 재물과 부요와 존귀를 하나님께 받았으나 하나님께서 그가 그것을 누리도록 허락하지 아니하셨으므로 다른 사람이 누리나니 이것도 헛되어 악한 병이로다"
+          }
+        },
+        {
+          "key": "3",
+          "text": {
+            "fr": "Un homme peut avoir cent fils, vivre un grand nombre d’années etvoir se multiplier le nombre de ses années, s’il n’est pas rassasié de bonheur et si de plus il n’a pas de sépulture, je dis qu’un enfant mort-né est plus heureux que lui.",
+            "en": "¶ If a man beget an hundred children, and live many years, so that the days of his years be many, and his soul be not filled with good, and also that he have no burial; I say, that an untimely birth is better than he.",
+            "zh": "人若生一百個兒子、活許多歲數、以致他的年日甚多、心裡卻不得滿享福樂、又不得埋葬．據我說、那不到期而落的胎比他倒好．",
+            "jp": "たとい人ひとは百人にんの子こをもうけ、また命いのち長ながく、そのよわいの日ひが多おおくても、その心こころが幸福こうふくに満足まんぞくせず、また葬ほうむられることがなければ、わたしは言いう、流産りゅうざんの子こはその人ひとにまさると。",
+            "kr": "사람이 비록 백 명의 자녀를 낳고 또 장수하여 사는 날이 많을지라도 그의 영혼은 그러한 행복으로 만족하지 못하고 또 그가 안장되지 못하면 나는 이르기를 낙태된 자가 그보다는 낫다 하나니"
+          }
+        },
+        {
+          "key": "4",
+          "text": {
+            "fr": "Car il est venu en vain, il s’en va dans les ténèbres et son nom reste couvert de ténèbres ;",
+            "en": "For he cometh in with vanity, and departeth in darkness, and his name shall be covered with darkness.",
+            "zh": "因為虛虛而來、暗暗而去、名字被黑暗遮蔽．",
+            "jp": "これはむなしく来きて、暗くらやみの中なかに去さって行いき、その名なは暗くらやみにおおわれる。",
+            "kr": "낙태된 자는 헛되이 왔다가 어두운 중에 가매 그의 이름이 어둠에 덮이니"
+          }
+        },
+        {
+          "key": "5",
+          "text": {
+            "fr": "il n’a pas vu, il n’a pas connu le soleil ; il a plus de repos que cet homme.",
+            "en": "Moreover he hath not seen the sun, nor known any thing: this hath more rest than the other.",
+            "zh": "並且沒有見過天日、也毫無知覺．這胎、比那人倒享安息。",
+            "jp": "またこれは日ひを見みず、物ものを知しらない。けれどもこれは彼かれよりも安やすらかである。",
+            "kr": "햇빛도 보지 못하고 또 그것을 알지도 못하나 이가 그보다 더 평안함이라"
+          }
+        },
+        {
+          "key": "6",
+          "text": {
+            "fr": "Et quand celui-ci vivrait deux fois mille ans sans goûter au bonheur, tout ne va-t-il pas dans un même lieu ?",
+            "en": "¶ Yea, though he live a thousand years twice told, yet hath he seen no good: do not all go to one place?",
+            "zh": "那人雖然活千年、再活千年、卻不享福、眾人豈不都歸一個地方去麼。",
+            "jp": "たとい彼かれは千年ねんに倍ばいするほど生いきても幸福こうふくを見みない。みな一ひとつ所ところに行いくのではないか。",
+            "kr": "그가 비록 천 년의 갑절을 산다 할지라도 행복을 보지 못하면 마침내 다 한 곳으로 돌아가는 것뿐이 아니냐"
+          }
+        },
+        {
+          "key": "7",
+          "text": {
+            "fr": "Tout le travail de l’homme est pour sa bouche et cependant ses désirs ne sont jamais satisfaits.",
+            "en": "All the labour of man is for his mouth, and yet the appetite is not filled.",
+            "zh": "人的勞碌都為口腹、心裡卻不知足。",
+            "jp": "人ひとの労苦ろうくは皆みな、その口くちのためである。しかしその食欲しょくよくは満みたされない。",
+            "kr": "사람의 수고는 다 자기의 입을 위함이나 그 식욕은 채울 수 없느니라"
+          }
+        },
+        {
+          "key": "8",
+          "text": {
+            "fr": "Car quel avantage le sage a-t-il sur l’insensé ? quel avantage a le malheureux qui sait se conduire en présence des vivants ?",
+            "en": "For what hath the wise more than the fool? what hath the poor, that knoweth to walk before the living?",
+            "zh": "這樣看來、智慧人比愚昧人有甚麼長處呢．窮人在眾人面前知道如何行、有甚麼長處呢。",
+            "jp": "賢かしこい者ものは愚おろかな者ものになんのまさるところがあるか。また生いける者ものの前まえに歩あゆむことを知しる貧まずしい者ものもなんのまさるところがあるか。",
+            "kr": "지혜자가 우매자보다 나은 것이 무엇이냐 살아 있는 자들 앞에서 행할 줄을 아는 가난한 자에게는 무슨 유익이 있는가"
+          }
+        },
+        {
+          "key": "9",
+          "text": {
+            "fr": "Ce que les yeux voient est préférable à l’agitation des désirs : c’est encore là une vanité et la poursuite du vent.",
+            "en": "¶ Better is the sight of the eyes than the wandering of the desire: this is also vanity and vexation of spirit.",
+            "zh": "眼睛所看的、比心裡妄想的倒好．這也是虛空、也是捕風。",
+            "jp": "目めに見みる事ことは欲望よくぼうのさまよい歩あるくにまさる。これもまた空くうであって、風かぜを捕とらえるようなものである。",
+            "kr": "눈으로 보는 것이 마음으로 공상하는 것보다 나으나 이것도 헛되어 바람을 잡는 것이로다"
+          }
+        },
+        {
+          "key": "10",
+          "text": {
+            "fr": "Ce qui existe a déjà été appelé par son nom ; et l’on sait que celui qui est homme ne peut contester avec un plus fort que lui.",
+            "en": "That which hath been is named already, and it is known that it is man: neither may he contend with him that is mightier than he.",
+            "zh": "先前所有的、早已起了名．並知道何為人．他也不能與那比自己力大的相爭。",
+            "jp": "今いまあるものは、すでにその名ながつけられた。そして人ひとはいかなる者ものであるかは知しられた。それで人ひとは自分じぶんよりも力強ちからづよい者ものと争あらそうことはできない。",
+            "kr": "이미 있는 것은 무엇이든지 오래 전부터 그의 이름이 이미 불린 바 되었으며 사람이 무엇인지도 이미 안 바 되었나니 자기보다 강한 자와는 능히 다툴 수 없느니라"
+          }
+        },
+        {
+          "key": "11",
+          "text": {
+            "fr": "S’il y a beaucoup de choses, il y a beaucoup de vanités : quel avantage en revient-il à l’homme ?",
+            "en": "¶ Seeing there be many things that increase vanity, what is man the better?",
+            "zh": "加增虛浮的事既多、這與人有甚麼益處呢。",
+            "jp": "言葉ことばが多おおければむなしい事ことも多おおい。人ひとになんの益えきがあるか。",
+            "kr": "헛된 것을 더하게 하는 많은 일들이 있나니 그것들이 사람에게 무슨 유익이 있으랴"
+          }
+        },
+        {
+          "key": "12",
+          "text": {
+            "fr": "Car qui sait ce qui est bon pour l’homme dans la vie, pendant le nombre des jours de sa vie de vanité qu’il passe comme une ombre ? Et qui peut dire à l’homme ce qui sera après lui sous le soleil ?",
+            "en": "For who knoweth what is good for man in this life, all the days of his vain life which he spendeth as a shadow? for who can tell a man what shall be after him under the sun?",
+            "zh": "人一生虛度的日子、就如影兒經過．誰知道甚麼與他有益呢．誰能告訴他身後在日光之下有甚麼事呢。",
+            "jp": "人ひとはその短みじかく、むなしい命いのちの日ひを影かげのように送おくるのに、何なにが人ひとのために善ぜんであるかを知しることができよう。だれがその身みの後のちに、日ひの下したに何なにがあるであろうかを人ひとに告つげることができるか。",
+            "kr": "헛된 생명의 모든 날을 그림자 같이 보내는 일평생에 사람에게 무엇이 낙인지를 누가 알며 그 후에 해 아래에서 무슨 일이 있을 것을 누가 능히 그에게 고하리요"
+          }
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "introduction": {
+        "fr": "La sagesse fait vivre ceux qui la possèdent. Tous les hommes sont pécheurs. Dieu a fait les hommes droits.",
+        "en": "Wisdom gives life to them that have it—All men are sinners—God has made man upright.",
+        "zh": "Wisdom gives life to them that have it—All men are sinners—God has made man upright.",
+        "jp": "Wisdom gives life to them that have it—All men are sinners—God has made man upright.",
+        "kr": "Wisdom gives life to them that have it—All men are sinners—God has made man upright."
+      },
+      "verses": [
+        {
+          "key": "1",
+          "text": {
+            "fr": "Une bonne réputation vaut mieux que le bon parfum, et le jour de la mort que le jour de la naissance.",
+            "en": "A good name is better than precious ointment; and the day of death than the day of one’s birth.",
+            "zh": "名譽強如美好的膏油．人死的日子、勝過人生的日子。",
+            "jp": "良よき名なは良よき油あぶらにまさり、死しぬる日ひは生うまるる日ひにまさる。",
+            "kr": "좋은 이름이 좋은 기름보다 낫고 죽는 날이 출생하는 날보다 나으며"
+          }
+        },
+        {
+          "key": "2",
+          "text": {
+            "fr": "Mieux vaut aller dans une maison de deuil que d’aller dans une maison de festin ; car c’est là la fin de tout homme, et celui qui vit prend la chose à cœur.",
+            "en": "¶ It is better to go to the house of mourning, than to go to the house of feasting: for that is the end of all men; and the living will lay it to his heart.",
+            "zh": "往遭喪的家去、強如往宴樂的家去、因為死是眾人的結局．活人也必將這事放在心上。",
+            "jp": "悲かなしみの家いえにはいるのは、宴会えんかいの家いえにはいるのにまさる。死しはすべての人ひとの終おわりだからである。生いきている者ものは、これを心こころにとめる。",
+            "kr": "초상집에 가는 것이 잔칫집에 가는 것보다 나으니 모든 사람의 끝이 이와 같이 됨이라 산 자는 이것을 그의 마음에 둘지어다"
+          }
+        },
+        {
+          "key": "3",
+          "text": {
+            "fr": "Mieux vaut le chagrin que le rire ; car avec un visage triste le cœur peut être content.",
+            "en": "Sorrow is better than laughter: for by the sadness of the countenance the heart is made better.",
+            "zh": "憂愁強如喜笑、因為面帶愁容終必使心喜樂。",
+            "jp": "悲かなしみは笑わらいにまさる。顔かおに憂うれいをもつことによって、心こころは良よくなるからである。",
+            "kr": "슬픔이 웃음보다 나음은 얼굴에 근심하는 것이 마음에 유익하기 때문이니라"
+          }
+        },
+        {
+          "key": "4",
+          "text": {
+            "fr": "Le cœur des sages est dans la maison de deuil, et le cœur des insensés dans la maison de joie.",
+            "en": "The heart of the wise is in the house of mourning; but the heart of fools is in the house of mirth.",
+            "zh": "智慧人的心、在遭喪之家．愚昧人的心、在快樂之家。",
+            "jp": "賢かしこい者ものの心こころは悲かなしみの家いえにあり、愚おろかな者ものの心こころは楽たのしみの家いえにある。",
+            "kr": "지혜자의 마음은 초상집에 있으되 우매한 자의 마음은 혼인집에 있느니라"
+          }
+        },
+        {
+          "key": "5",
+          "text": {
+            "fr": "Mieux vaut entendre la réprimande du sage que d’entendre le chant des insensés.",
+            "en": "It is better to hear the rebuke of the wise, than for a man to hear the song of fools.",
+            "zh": "聽智慧人的責備、強如聽愚昧人的歌唱。",
+            "jp": "賢かしこい者ものの戒いましめを聞きくのは、愚おろかな者ものの歌うたを聞きくのにまさる。",
+            "kr": "지혜로운 사람의 책망을 듣는 것이 우매한 자들의 노래를 듣는 것보다 나으니라"
+          }
+        },
+        {
+          "key": "6",
+          "text": {
+            "fr": "Car comme le bruit des épines sous la marmite, ainsi est le rire des insensés. C’est encore là une vanité.",
+            "en": "For as the crackling of thorns under a pot, so is the laughter of the fool: this also is vanity.",
+            "zh": "愚昧人的笑聲、好像鍋下燒荊棘的爆聲、這也是虛空。",
+            "jp": "愚おろかな者ものの笑わらいはかまの下したに燃もえるいばらの音おとのようである。これもまた空くうである。",
+            "kr": "우매한 자들의 웃음 소리는 솥 밑에서 가시나무가 타는 소리 같으니 이것도 헛되니라"
+          }
+        },
+        {
+          "key": "7",
+          "text": {
+            "fr": "L’oppression rend insensé le sage et les présents corrompent le cœur.",
+            "en": "¶ Surely oppression maketh a wise man mad; and a gift destroyeth the heart.",
+            "zh": "勒索使智慧人變為愚妄．賄賂能敗壞人的慧心。",
+            "jp": "たしかに、しえたげは賢かしこい人ひとを愚おろかにし、まいないは人ひとの心こころをそこなう。",
+            "kr": "탐욕이 지혜자를 우매하게 하고 뇌물이 사람의 명철을 망하게 하느니라"
+          }
+        },
+        {
+          "key": "8",
+          "text": {
+            "fr": "Mieux vaut la fin d’une chose que son commencement ; mieux vaut un esprit patient qu’un esprit hautain.",
+            "en": "Better is the end of a thing than the beginning thereof: and the patient in spirit is better than the proud in spirit.",
+            "zh": "事情的終局、強如事情的起頭．存心忍耐的、勝過居心驕傲的。",
+            "jp": "事ことの終おわりはその初はじめよりも良よい。耐たえ忍しのぶ心こころは、おごり高たかぶる心こころにまさる。",
+            "kr": "일의 끝이 시작보다 낫고 참는 마음이 교만한 마음보다 나으니"
+          }
+        },
+        {
+          "key": "9",
+          "text": {
+            "fr": "Ne te hâte pas en ton esprit de t’irriter, car l’irritation repose dans le sein des insensés.",
+            "en": "Be not hasty in thy spirit to be angry: for anger resteth in the bosom of fools.",
+            "zh": "你不要心裡急躁惱怒、因為惱怒存在愚昧人的懷中。",
+            "jp": "気きをせきたてて怒いかるな。怒いかりは愚おろかな者ものの胸むねに宿やどるからである。",
+            "kr": "급한 마음으로 노를 발하지 말라 노는 우매한 자들의 품에 머무름이니라"
+          }
+        },
+        {
+          "key": "10",
+          "text": {
+            "fr": "Ne dis pas : D’où vient que les jours passés étaient meilleurs que ceux ci ? Car ce n’est pas par sagesse que tu demandes cela.",
+            "en": "Say not thou, What is the cause that the former days were better than these? for thou dost not inquire wisely concerning this.",
+            "zh": "不要說、先前的日子強過如今的日子、是甚麼緣故呢．你這樣問、不是出於智慧。",
+            "jp": "「昔むかしが今いまよりもよかったのはなぜか」と言いうな。あなたがこれを問とうのは知恵ちえから出でるのではない。",
+            "kr": "옛날이 오늘보다 나은 것이 어찜이냐 하지 말라 이렇게 묻는 것은 지혜가 아니니라"
+          }
+        },
+        {
+          "key": "11",
+          "text": {
+            "fr": "La sagesse vaut autant qu’un héritage et même plus pour ceux qui voient le soleil.",
+            "en": "¶ Wisdom is good with an inheritance: and by it there is profit to them that see the sun.",
+            "zh": "智慧和產業並好．而且見天日的人、得智慧更為有益。",
+            "jp": "知恵ちえに財産ざいさんが伴ともなうのは良よい。それは日ひを見みる者ものどもに益えきがある。",
+            "kr": "지혜는 유산 같이 아름답고 햇빛을 보는 자에게 유익이 되도다"
+          }
+        },
+        {
+          "key": "12",
+          "text": {
+            "fr": "Car à l’ombre de la sagesse on est abrité comme à l’ombre de l’argent ; mais un avantage sur la connaissance, c’est que la sagesse fait vivre ceux qui la possèdent.",
+            "en": "For wisdom is a defence, and money is a defence: but the excellency of knowledge is, that wisdom giveth life to them that have it.",
+            "zh": "因為智慧護庇人、好像銀錢護庇人一樣．惟獨智慧能保全智慧人的生命、這就是知識的益處。",
+            "jp": "知恵ちえが身みを守まもるのは、金銭きんせんが身みを守まもるようである。しかし、知恵ちえはこれを持もつ者ものに生命せいめいを保たもたせる。これが知識ちしきのすぐれた所ところである。",
+            "kr": "지혜의 그늘 아래에 있음은 돈의 그늘 아래에 있음과 같으나, 지혜에 관한 지식이 더 유익함은 지혜가 그 지혜 있는 자를 살리기 때문이니라"
+          }
+        },
+        {
+          "key": "13",
+          "text": {
+            "fr": "Regarde l’œuvre de Dieu : qui pourra redresser ce qu’il a courbé ?",
+            "en": "Consider the work of God: for who can make that straight, which he hath made crooked?",
+            "zh": "你要察看　神的作為、因　神使為曲的、誰能變為直呢。",
+            "jp": "神かみのみわざを考かんがえみよ。神かみの曲まげられたものを、だれがまっすぐにすることができるか。",
+            "kr": "하나님께서 행하시는 일을 보라 하나님께서 굽게 하신 것을 누가 능히 곧게 하겠느냐"
+          }
+        },
+        {
+          "key": "14",
+          "text": {
+            "fr": "Au jour du bonheur, sois heureux, et au jour du malheur, réfléchis : Dieu a fait l’un comme l’autre, afin que l’homme ne découvre rien de ce qui sera après lui.",
+            "en": "In the day of prosperity be joyful, but in the day of adversity consider: God also hath set the one over against the other, to the end that man should find nothing after him.",
+            "zh": "遇亨通的日子、你當喜樂．遭患難的日子、你當思想．因為　神使這兩樣並列、為的是叫人查不出身後有甚麼事。",
+            "jp": "順境じゅんきょうの日ひには楽たのしめ、逆境ぎゃっきょうの日ひには考かんがえよ。神かみは人ひとに将来しょうらいどういう事ことがあるかを、知しらせないために、彼かれとこれとを等ひとしく造つくられたのである。",
+            "kr": "형통한 날에는 기뻐하고 곤고한 날에는 되돌아 보아라 이 두 가지를 하나님이 병행하게 하사 사람이 그의 장래 일을 능히 헤아려 알지 못하게 하셨느니라"
+          }
+        },
+        {
+          "key": "15",
+          "text": {
+            "fr": "J’ai vu tout cela pendant les jours de ma vanité. Il y a tel juste qui périt dans sa justice, et il y a tel méchant qui prolonge son existence dans sa méchanceté.",
+            "en": "All things have I seen in the days of my vanity: there is a just man that perisheth in his righteousness, and there is a wicked man that prolongeth his life in his wickedness.",
+            "zh": "有義人行義、反致滅亡．有惡人行惡、倒享長壽．這都是我在虛度之日中所見過的。",
+            "jp": "わたしはこのむなしい人生じんせいにおいて、もろもろの事ことを見みた。そこには義人ぎじんがその義ぎによって滅ほろびることがあり、悪人あくにんがその悪あくによって長生ながいきすることがある。",
+            "kr": "내 허무한 날을 사는 동안 내가 그 모든 일을 살펴 보았더니 자기의 의로움에도 불구하고 멸망하는 의인이 있고 자기의 악행에도 불구하고 장수하는 악인이 있으니"
+          }
+        },
+        {
+          "key": "16",
+          "text": {
+            "fr": "Ne sois pas juste à l’excès et ne te montre pas trop sage : pourquoi te détruirais-tu ?",
+            "en": "Be not righteous over much; neither make thyself over wise: why shouldest thou destroy thyself?",
+            "zh": "不要行義過分．也不要過於自逞智慧．何必自取敗亡呢。",
+            "jp": "あなたは義ぎに過すぎてはならない。また賢かしこきに過すぎてはならない。あなたはどうして自分じぶんを滅ほろぼしてよかろうか。",
+            "kr": "지나치게 의인이 되지도 말며 지나치게 지혜자도 되지 말라 어찌하여 스스로 패망하게 하겠느냐"
+          }
+        },
+        {
+          "key": "17",
+          "text": {
+            "fr": "Ne sois pas méchant à l’excès et ne sois pas insensé : pourquoi mourrais-tu avant ton temps ?",
+            "en": "Be not over much wicked, neither be thou foolish: why shouldest thou die before thy time?",
+            "zh": "不要行惡過分．也不要為人愚昧．何必不到期而死呢。",
+            "jp": "悪あくに過すぎてはならない。また愚おろかであってはならない。あなたはどうして、自分じぶんの時ときのこないのに、死しんでよかろうか。",
+            "kr": "지나치게 악인이 되지도 말며 지나치게 우매한 자도 되지 말라 어찌하여 기한 전에 죽으려고 하느냐"
+          }
+        },
+        {
+          "key": "18",
+          "text": {
+            "fr": "Il est bon que tu retiennes ceci et que tu ne négliges pas cela ; car celui qui craint Dieu échappe à toutes ces choses.",
+            "en": "It is good that thou shouldest take hold of this; yea, also from this withdraw not thine hand: for he that feareth God shall come forth of them all.",
+            "zh": "你持守這個為美．那個也不要鬆手．因為敬畏　神的人、必從這兩樣出來。",
+            "jp": "あなたがこれを執とるのはよい、また彼かれから手てを引ひいてはならない。神かみをかしこむ者ものは、このすべてからのがれ出でるのである。",
+            "kr": "너는 이것도 잡으며 저것에서도 네 손을 놓지 아니하는 것이 좋으니 하나님을 경외하는 자는 이 모든 일에서 벗어날 것임이니라"
+          }
+        },
+        {
+          "key": "19",
+          "text": {
+            "fr": "La sagesse rend le sage plus fort que dix chefs qui sont dans une ville.",
+            "en": "Wisdom strengtheneth the wise more than ten mighty men which are in the city.",
+            "zh": "智慧使有智慧的人、比城中十個官長更有能力。",
+            "jp": "知恵ちえが知者ちしゃを強つよくするのは、十人にんのつかさが町まちにおるのにまさる。",
+            "kr": "지혜가 지혜자를 성읍 가운데에 있는 열 명의 권력자들보다 더 능력이 있게 하느니라"
+          }
+        },
+        {
+          "key": "20",
+          "text": {
+            "fr": "Non, il n’y a sur la terre pas d’homme juste qui fasse le bien et qui ne pèche jamais.",
+            "en": "For there is not a just man upon earth, that doeth good, and sinneth not.",
+            "zh": "時常行善而不犯罪的義人、世上實在沒有。",
+            "jp": "善ぜんを行おこない、罪つみを犯おかさない正ただしい人ひとは世よにいない。",
+            "kr": "선을 행하고 전혀 죄를 범하지 아니하는 의인은 세상에 없기 때문이로다"
+          }
+        },
+        {
+          "key": "21",
+          "text": {
+            "fr": "Ne fais donc pas attention à toutes les paroles qu’on dit, de peur que tu n’entendes ton serviteur te maudire ;",
+            "en": "Also take no heed unto all words that are spoken; lest thou hear thy servant curse thee:",
+            "zh": "人所說的一切話、你不要放在心上、恐怕聽見你的僕人咒詛你。",
+            "jp": "人ひとの語かたるすべての事ことに心こころをとめてはならない。これはあなたが、自分じぶんのしもべのあなたをのろう言葉ことばを聞きかないためである。",
+            "kr": "또한 사람들이 하는 모든 말에 네 마음을 두지 말라 그리하면 네 종이 너를 저주하는 것을 듣지 아니하리라"
+          }
+        },
+        {
+          "key": "22",
+          "text": {
+            "fr": "car ton cœur a senti bien des fois que tu as toi-même maudit les autres.",
+            "en": "For oftentimes also thine own heart knoweth that thou thyself likewise hast cursed others.",
+            "zh": "因為你心裡知道、自己也曾屢次咒詛別人。",
+            "jp": "あなたもまた、しばしば他人たにんをのろったのを自分じぶんの心こころに知しっているからである。",
+            "kr": "너도 가끔 사람을 저주하였다는 것을 네 마음도 알고 있느니라"
+          }
+        },
+        {
+          "key": "23",
+          "text": {
+            "fr": "J’ai éprouvé tout cela par la sagesse. J’ai dit : Je serai sage. Et la sagesse est restée loin de moi.",
+            "en": "¶ All this have I proved by wisdom: I said, I will be wise; but it was far from me.",
+            "zh": "我曾用智慧試驗這一切事．我說、要得智慧、智慧卻離我遠。",
+            "jp": "わたしは知恵ちえをもってこのすべての事ことを試こころみて、「わたしは知者ちしゃとなろう」と言いったが、遠とおく及およばなかった。",
+            "kr": "내가 이 모든 것을 지혜로 시험하며 스스로 이르기를 내가 지혜자가 되리라 하였으나 지혜가 나를 멀리 하였도다"
+          }
+        },
+        {
+          "key": "24",
+          "text": {
+            "fr": "Ce qui est loin, ce qui est profond, profond, qui peut l’atteindre ?",
+            "en": "That which is far off, and exceeding deep, who can find it out?",
+            "zh": "萬事之理、離我甚遠、而且最深、誰能測透呢。",
+            "jp": "物事ものごとの理りは遠とおく、また、はなはだ深ふかい。だれがこれを見みいだすことができよう。",
+            "kr": "이미 있는 것은 멀고 또 깊고 깊도다 누가 능히 통달하랴"
+          }
+        },
+        {
+          "key": "25",
+          "text": {
+            "fr": "Je me suis appliqué dans mon cœur à connaître, à sonder, et à chercher la sagesse et la raison des choses, et à connaître la folie de la méchanceté et la stupidité de la sottise.",
+            "en": "I applied mine heart to know, and to search, and to seek out wisdom, and the reason of things, and to know the wickedness of folly, even of foolishness and madness:",
+            "zh": "我轉念、一心要知道、要考察、要尋求智慧、和萬事的理由．又要知道邪惡為愚昧、愚昧為狂妄。",
+            "jp": "わたしは、心こころを転てんじて、物ものを知しり、事ことを探さぐり、知恵ちえと道理どうりを求もとめようとし、また悪あくの愚おろかなこと、愚痴ぐちの狂気きょうきであることを知しろうとした。",
+            "kr": "내가 돌이켜 전심으로 지혜와 명철을 살피고 연구하여 악한 것이 얼마나 어리석은 것이요 어리석은 것이 얼마나 미친 것인 줄을 알고자 하였더니"
+          }
+        },
+        {
+          "key": "26",
+          "text": {
+            "fr": "Et j’ai trouvé plus amère que la mort la femme dont le cœur est un piège et un filet, et dont les mains sont des liens ; celui qui est agréable à Dieu lui échappe, mais le pécheur est pris par elle.",
+            "en": "And I find more bitter than death the woman, whose heart is snares and nets, and her hands as bands: whoso pleaseth God shall escape from her; but the sinner shall be taken by her.",
+            "zh": "我得知有等婦人、比死還苦、他的心是網羅、手是鎖鍊．凡蒙　神喜悅的人、必能躲避他．有罪的人、卻被他纏住了。",
+            "jp": "わたしは、その心こころが、わなと網あみのような女おんな、その手てが、かせのような女おんなは、死しよりも苦にがい者ものであることを見みいだした。神かみを喜よろこばす者ものは彼女かのじょからのがれる。しかし罪つみびとは彼女かのじょに捕とらえられる。",
+            "kr": "마음은 올무와 그물 같고 손은 포승 같은 여인은 사망보다 더 쓰다는 사실을 내가 알아내었도다 그러므로 하나님을 기쁘게 하는 자는 그 여인을 피하려니와 죄인은 그 여인에게 붙잡히리로다"
+          }
+        },
+        {
+          "key": "27",
+          "text": {
+            "fr": "Voici ce que j’ai trouvé, dit l’Ecclésiaste, en examinant les choses une à une pour en saisir la raison ;",
+            "en": "Behold, this have I found, saith the preacher, counting one by one, to find out the account:",
+            "zh": "傳道者說、看哪、一千男子中、我找到一個正直人．但眾女子中、沒有找到一個．我將這事一一比較、要尋求其理、我心仍要尋找、卻未曾找到。",
+            "jp": "伝道者でんどうしゃは言いう、見みよ、その数かずを知しろうとして、いちいち数かぞえて、わたしが得えたものはこれである。",
+            "kr": "전도자가 이르되 보라 내가 낱낱이 살펴 그 이치를 연구하여 이것을 깨달았노라"
+          }
+        },
+        {
+          "key": "28",
+          "text": {
+            "fr": "voici ce que je cherche encore et que je n’ai pas trouvé. J’ai trouvé un homme entre mille ; mais je n’ai pas trouvé une femme entre elles toutes.",
+            "en": "Which yet my soul seeketh, but I find not: one man among a thousand have I found; but a woman among all those have I not found.",
+            "zh": "見上節",
+            "jp": "わたしはなおこれを求もとめたけれども、得えなかった。わたしは千人にんのうちにひとりの男子だんしを得えたけれども、そのすべてのうちに、ひとりの女子じょしをも得えなかった。",
+            "kr": "내 마음이 계속 찾아 보았으나 아직도 찾지 못한 것이 이것이라 천 사람 가운데서 한 사람을 내가 찾았으나 이 모든 사람들 중에서 여자는 한 사람도 찾지 못하였느니라"
+          }
+        },
+        {
+          "key": "29",
+          "text": {
+            "fr": "Seulement, voici ce que j’ai trouvé, c’est que Dieu a fait les hommes droits ; mais ils ont cherché beaucoup de détours.",
+            "en": "Lo, this only have I found, that God hath made man upright; but they have sought out many inventions.",
+            "zh": "我所找到的、只有一件、就是　神造人原是正直、但他們尋出許多巧計。",
+            "jp": "見みよ、わたしが得えた事ことは、ただこれだけである。すなわち、神かみは人ひとを正ただしい者ものに造つくられたけれども、人ひとは多おおくの計略けいりゃくを考かんがえ出だした事ことである。",
+            "kr": "내가 깨달은 것은 오직 이것이라 곧 하나님은 사람을 정직하게 지으셨으나 사람이 많은 꾀들을 낸 것이니라"
+          }
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "introduction": {
+        "fr": "Personne n’a le pouvoir d’éviter la mort. Le bonheur n’est pas pour le méchant ; il se tourne vers les plaisirs et ne peut trouver la sagesse.",
+        "en": "None have power to avoid death—It will not be well with the wicked; he turns to pleasure and cannot find wisdom.",
+        "zh": "None have power to avoid death—It will not be well with the wicked; he turns to pleasure and cannot find wisdom.",
+        "jp": "None have power to avoid death—It will not be well with the wicked; he turns to pleasure and cannot find wisdom.",
+        "kr": "None have power to avoid death—It will not be well with the wicked; he turns to pleasure and cannot find wisdom."
+      },
+      "verses": [
+        {
+          "key": "1",
+          "text": {
+            "fr": "Qui est comme le sage et qui connaît l’explication des choses ? La sagesse d’un homme fait briller son visage, et la sévérité de sa face est changée.",
+            "en": "Who is as the wise man? and who knoweth the interpretation of a thing? a man’s wisdom maketh his face to shine, and the boldness of his face shall be changed.",
+            "zh": "誰如智慧人呢．誰知道事情的解釋呢．人的智慧使他的臉發光、並使他臉上的暴氣改變。",
+            "jp": "だれが知者ちしゃのようになり得えよう。だれが事ことの意義いぎを知しり得えよう。人ひとの知恵ちえはその人ひとの顔かおを輝かがやかせ、またその粗暴そぼうな顔かおを変かえる。",
+            "kr": "누가 지혜자와 같으며 누가 사물의 이치를 아는 자이냐 사람의 지혜는 그의 얼굴에 광채가 나게 하나니 그의 얼굴의 사나운 것이 변하느니라"
+          }
+        },
+        {
+          "key": "2",
+          "text": {
+            "fr": "Je te dis : Observe les ordres du roi et cela à cause du serment fait à Dieu.",
+            "en": "I counsel thee to keep the king’s commandment, and that in regard of the oath of God.",
+            "zh": "我勸你遵守王的命令．既指　神起誓、理當如此。",
+            "jp": "王おうの命めいを守まもれ。すでに神かみをさして誓ちかったことゆえ、驚おどろくな。",
+            "kr": "내가 권하노라 왕의 명령을 지키라 이미 하나님을 가리켜 맹세하였음이니라"
+          }
+        },
+        {
+          "key": "3",
+          "text": {
+            "fr": "Ne te hâte pas de t’éloigner de lui et ne persiste pas dans une chose mauvaise : car il peut faire tout ce qui lui plaît,",
+            "en": "Be not hasty to go out of his sight: stand not in an evil thing; for he doeth whatsoever pleaseth him.",
+            "zh": "不要急躁離開王的面前．不要固執行惡．因為他凡事都隨自己的心意而行。",
+            "jp": "事ことが悪わるい時ときは、王おうの前まえを去され、ためらうな。彼かれはすべてその好このむところをなすからである。",
+            "kr": "왕 앞에서 물러가기를 급하게 하지 말며 악한 것을 일삼지 말라 왕은 자기가 하고자 하는 것을 다 행함이니라"
+          }
+        },
+        {
+          "key": "4",
+          "text": {
+            "fr": "parce que la parole du roi est puissante ; et qui lui dira : Que fais-tu ?",
+            "en": "Where the word of a king is, there is power: and who may say unto him, What doest thou?",
+            "zh": "王的話本有權力、誰敢問他說、你作甚麼呢。",
+            "jp": "王おうの言葉ことばは決定的けっていてきである。だれが彼かれに「あなたは何なにをするのか」と言いうことができようか。",
+            "kr": "왕의 말은 권능이 있나니 누가 그에게 이르기를 왕께서 무엇을 하시나이까 할 수 있으랴"
+          }
+        },
+        {
+          "key": "5",
+          "text": {
+            "fr": "Celui qui observe le commandement ne connaît pas de chose mauvaise, et le cœur du sage connaît le temps et le jugement.",
+            "en": "Whoso keepeth the commandment shall feel no evil thing: and a wise man’s heart discerneth both time and judgment.",
+            "zh": "凡遵守命令的、必不經歷禍患．智慧人的心、能辨明時候和定理。〔原文作審判下節同〕",
+            "jp": "命令めいれいを守まもる者ものは災わざわいにあわない。知者ちしゃの心こころは時ときと方法ほうほうをわきまえている。",
+            "kr": "명령을 지키는 자는 불행을 알지 못하리라 지혜자의 마음은 때와 판단을 분변하나니"
+          }
+        },
+        {
+          "key": "6",
+          "text": {
+            "fr": "Car il y a pour toute chose un temps et un jugement, quand le malheur accable l’homme.",
+            "en": "¶ Because to every purpose there is time and judgment, therefore the misery of man is great upon him.",
+            "zh": "各樣事務成就、都有時候和定理．因為人的苦難、重壓在他身上。",
+            "jp": "人ひとの悪あくが彼かれの上うえに重おもくても、すべてのわざには時ときと方法ほうほうがある。",
+            "kr": "무슨 일에든지 때와 판단이 있으므로 사람에게 임하는 화가 심함이니라"
+          }
+        },
+        {
+          "key": "7",
+          "text": {
+            "fr": "Mais il ne sait pas ce qui arrivera et qui lui dira comment cela arrivera ?",
+            "en": "For he knoweth not that which shall be: for who can tell him when it shall be?",
+            "zh": "他不知道將來的事、因為將來如何、誰能告訴他呢。",
+            "jp": "後のちに起おこる事ことを知しる者ものはない。どんな事ことが起おこるかをだれが彼かれに告つげ得えよう。",
+            "kr": "사람이 장래 일을 알지 못하나니 장래 일을 가르칠 자가 누구이랴"
+          }
+        },
+        {
+          "key": "8",
+          "text": {
+            "fr": "L’homme n’est pas maître de son souffle pour pouvoir le retenir et il n’a aucune puissance sur le jour de la mort ; il n’y a pas de délivrance dans ce combat et la méchanceté ne saurait sauver les méchants.",
+            "en": "There is no man that hath power over the spirit to retain the spirit; neither hath he power in the day of death: and there is no discharge in that war; neither shall wickedness deliver those that are given to it.",
+            "zh": "無人有權力掌管生命、將生命留住．也無人有權力掌管死期．這場爭戰、無人能免．邪惡也不能救那好行邪惡的人。",
+            "jp": "風かぜをとどめる力ちからをもつ人ひとはない。また死しの日ひをつかさどるものはない。戦たたかいには免除めんじょはない。また悪あくはこれを行おこなう者ものを救すくうことができない。",
+            "kr": "바람을 주장하여 바람을 움직이게 할 사람도 없고 죽는 날을 주장할 사람도 없으며 전쟁할 때를 모면할 사람도 없으니 악이 그의 주민들을 건져낼 수는 없느니라"
+          }
+        },
+        {
+          "key": "9",
+          "text": {
+            "fr": "J’ai vu tout cela et j’ai appliqué mon cœur à tout ce qui se fait sous le soleil. Il y a un temps où l’homme domine sur l’homme pour le rendre malheureux.",
+            "en": "All this have I seen, and applied my heart unto every work that is done under the sun: there is a time wherein one man ruleth over another to his own hurt.",
+            "zh": "這一切我都見過．也專心查考日光之下所作的一切事．有時這人管轄那人、令人受害。",
+            "jp": "わたしはこのすべての事ことを見みた。また日ひの下したに行おこなわれるもろもろのわざに心こころを用もちいた。時ときとしてはこの人ひとが、かの人ひとを治おさめて、これに害がいをこうむらせることがある。",
+            "kr": "내가 이 모든 것들을 보고 해 아래에서 행하는 모든 일을 마음에 두고 살핀즉 사람이 사람을 주장하여 해롭게 하는 때가 있도다"
+          }
+        },
+        {
+          "key": "10",
+          "text": {
+            "fr": "Alors j’ai vu des méchants recevoir la sépulture et entrer dans leur repos, et ceux qui avaient agi avec droiture s’en aller loin du lieu saint et être oubliés dans la ville. C’est encore là une vanité.",
+            "en": "And so I saw the wicked buried, who had come and gone from the place of the holy, and they were forgotten in the city where they had so done: this is also vanity.",
+            "zh": "我見惡人埋葬、歸入墳墓．又見行正直事的、離開聖地、在城中被人忘記．這也是虛空。",
+            "jp": "またわたしは悪人あくにんの葬ほうむられるのを見みた。彼かれらはいつも聖所せいじょに出入でいりし、それを行おこなったその町まちでほめられた。これもまた空くうである。",
+            "kr": "그런 후에 내가 본즉 악인들은 장사지낸 바 되어 거룩한 곳을 떠나 그들이 그렇게 행한 성읍 안에서 잊어버린 바 되었으니 이것도 헛되도다"
+          }
+        },
+        {
+          "key": "11",
+          "text": {
+            "fr": "Parce qu’une sentence contre les mauvaises actions ne s’exécute pas promptement, le cœur des fils de l’homme se remplit en eux du désir de faire le mal.",
+            "en": "Because sentence against an evil work is not executed speedily, therefore the heart of the sons of men is fully set in them to do evil.",
+            "zh": "因為斷定罪名、不立刻施刑、所以世人滿心作惡。",
+            "jp": "悪あしきわざに対たいする判決はんけつがすみやかに行おこなわれないために、人ひとの子こらの心こころはもっぱら悪あくを行おこなうことに傾かたむいている。",
+            "kr": "악한 일에 관한 징벌이 속히 실행되지 아니하므로 인생들이 악을 행하는 데에 마음이 담대하도다"
+          }
+        },
+        {
+          "key": "12",
+          "text": {
+            "fr": "Cependant, quoique le pécheur fasse cent fois le mal et qu’il y persévère longtemps, je sais aussi que le bonheur est pour ceux qui craignent Dieu, parce qu’ils ont de la crainte devant lui.",
+            "en": "¶ Though a sinner do evil an hundred times, and his days be prolonged, yet surely I know that it shall be well with them that fear God, which fear before him:",
+            "zh": "罪人雖然作惡百次、倒享長久的年日．然而我準知道、敬畏　神的、就是在他面前敬畏的人、終久必得福樂。",
+            "jp": "罪つみびとで百度ど悪あくをなして、なお長生ながいきするものがあるけれども、神かみをかしこみ、み前まえに恐おそれをいだく者ものには幸福こうふくがあることを、わたしは知しっている。",
+            "kr": "죄인은 백 번이나 악을 행하고도 장수하거니와 또한 내가 아노니 하나님을 경외하여 그를 경외하는 자들은 잘 될 것이요"
+          }
+        },
+        {
+          "key": "13",
+          "text": {
+            "fr": "Mais le bonheur n’est pas pour le méchant et il ne prolongera pas ses jours, pas plus que l’ombre, parce qu’il n’a pas de la crainte devant Dieu.",
+            "en": "But it shall not be well with the wicked, neither shall he prolong his days, which are as a shadow; because he feareth not before God.",
+            "zh": "惡人卻不得福樂、也不得長久的年日．這年日好像影兒、因他不敬畏　神。",
+            "jp": "しかし悪人あくにんには幸福こうふくがない。またその命いのちは影かげのようであって長ながくは続つづかない。彼かれは神かみの前まえに恐おそれをいだかないからである。",
+            "kr": "악인은 잘 되지 못하며 장수하지 못하고 그 날이 그림자와 같으리니 이는 하나님을 경외하지 아니함이니라"
+          }
+        },
+        {
+          "key": "14",
+          "text": {
+            "fr": "Il est une vanité qui a lieu sur la terre : c’est qu’il y a des justes qui sont traités comme le méritent les méchants, et des méchants qui sont traités comme le méritent les justes. Je dis que c’est encore là une vanité.",
+            "en": "There is a vanity which is done upon the earth; that there be just men, unto whom it happeneth according to the work of the wicked; again, there be wicked men, to whom it happeneth according to the work of the righteous: I said that this also is vanity.",
+            "zh": "世上有一件虛空的事、就是義人所遭遇的、反照惡人所行的．又有惡人所遭遇的、反照義人所行的．我說、這也是虛空。",
+            "jp": "地ちの上うえに空くうな事ことが行おこなわれている。すなわち、義人ぎじんであって、悪人あくにんに臨のぞむべき事ことが、その身みに臨のぞむ者ものがある。また、悪人あくにんであって、義人ぎじんに臨のぞむべき事ことが、その身みに臨のぞむ者ものがある。わたしは言いった、これもまた空くうであると。",
+            "kr": "세상에서 행해지는 헛된 일이 있나니 곧 악인들의 행위에 따라 벌을 받는 의인들도 있고 의인들의 행위에 따라 상을 받는 악인들도 있다는 것이라 내가 이르노니 이것도 헛되도다"
+          }
+        },
+        {
+          "key": "15",
+          "text": {
+            "fr": "J’ai donc loué la joie parce qu’il n’y a de bonheur pour l’homme sous le soleil qu’à manger et à boire et à se réjouir ; c’est là ce qui doit l’accompagner au milieu de son travail, pendant les jours de la vie que Dieu lui donne sous le soleil.",
+            "en": "Then I commended mirth, because a man hath no better thing under the sun, than to eat, and to drink, and to be merry: for that shall abide with him of his labour the days of his life, which God giveth him under the sun.",
+            "zh": "我就稱讚快樂、原來人在日光之下、莫強如喫喝快樂．因為他在日光之下、　神賜他一生的年日、要從勞碌中、時常享受所得的。",
+            "jp": "そこで、わたしは歓楽かんらくをたたえる。それは日ひの下したでは、人ひとにとって、食くい、飲のみ、楽たのしむよりほかに良よい事ことはないからである。これこそは日ひの下したで、神かみが賜たまわった命いのちの日ひの間あいだ、その勤労きんろうによってその身みに伴ともなうものである。",
+            "kr": "이에 내가 희락을 찬양하노니 이는 사람이 먹고 마시고 즐거워하는 것보다 더 나은 것이 해 아래에는 없음이라 하나님이 사람을 해 아래에서 살게 하신 날 동안 수고하는 일 중에 그러한 일이 그와 함께 있을 것이니라"
+          }
+        },
+        {
+          "key": "16",
+          "text": {
+            "fr": "Lorsque j’ai appliqué mon cœur à connaître la sagesse et à considérer les choses qui se passent sur la terre, car les yeux de l’homme ne goûtent le sommeil ni le jour ni la nuit,",
+            "en": "¶ When I applied mine heart to know wisdom, and to see the business that is done upon the earth: (for also there is that neither day nor night seeth sleep with his eyes:)",
+            "zh": "我專心求智慧、要看世上所作的事．（有晝夜不睡覺、不合眼的）",
+            "jp": "わたしは心こころをつくして知恵ちえを知しろうとし、また地上ちじょうに行おこなわれるわざを昼ひるも夜よるも眠ねむらずに窮きわめようとしたとき、",
+            "kr": "내가 마음을 다하여 지혜를 알고자 하며 세상에서 행해지는 일을 보았는데 밤낮으로 자지 못하는 자도 있도다"
+          }
+        },
+        {
+          "key": "17",
+          "text": {
+            "fr": "j’ai vu toute l’œuvre de Dieu, j’ai vu que l’homme ne peut pas trouver ce qui se fait sous le soleil ; il a beau se fatiguer à chercher, il ne trouve pas ; et même si le sage prétend savoir, il ne peut pas trouver.",
+            "en": "Then I beheld all the work of God, that a man cannot find out the work that is done under the sun: because though a man labour to seek it out, yet he shall not find it; yea further; though a wise man think to know it, yet shall he not be able to find it.",
+            "zh": "我就看明　神一切的作為．知道人查不出日光之下所作的事．任憑他費多少力尋查、都查不出來．就是智慧人雖想知道、也是查不出來。",
+            "jp": "わたしは神かみのもろもろのわざを見みたが、人ひとは日ひの下したに行おこなわれるわざを窮きわめることはできない。人ひとはこれを尋たずねようと労ろうしても、これを窮きわめることはできない。また、たとい知者ちしゃがあって、これを知しろうと思おもっても、これを窮きわめることはできないのである。",
+            "kr": "또 내가 하나님의 모든 행사를 살펴 보니 해 아래에서 행해지는 일을 사람이 능히 알아낼 수 없도다 사람이 아무리 애써 알아보려고 할지라도 능히 알지 못하나니 비록 지혜자가 아노라 할지라도 능히 알아내지 못하리로다"
+          }
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "introduction": {
+        "fr": "La Providence de Dieu domine tout. Tout dépend pour les hommes du temps et des circonstances. La sagesse vaut mieux que la force. Un seul pécheur détruit beaucoup de bien.",
+        "en": "God’s providence rules over all—All men are subject to time and chance—Wisdom is better than strength—One sinner destroys much good.",
+        "zh": "God’s providence rules over all—All men are subject to time and chance—Wisdom is better than strength—One sinner destroys much good.",
+        "jp": "God’s providence rules over all—All men are subject to time and chance—Wisdom is better than strength—One sinner destroys much good.",
+        "kr": "God’s providence rules over all—All men are subject to time and chance—Wisdom is better than strength—One sinner destroys much good."
+      },
+      "verses": [
+        {
+          "key": "1",
+          "text": {
+            "fr": "Oui, j’ai appliqué mon cœur à tout cela, j’ai fait de tout cela l’objet de mon examen, et j’ai vu que les justes et les sages, et leurs travaux, sont dans la main de Dieu, et l’amour aussi bien que la haine ; les hommes ne savent rien : tout est devant eux.",
+            "en": "For all this I considered in my heart even to declare all this, that the righteous, and the wise, and their works, are in the hand of God: no man knoweth either love or hatred by all that is before them.",
+            "zh": "我將這一切事放在心上、詳細考究、就知道義人和智慧人、並他們的作為、都在　神手中．或是愛、或是恨、都在他們的前面、人不能知道。",
+            "jp": "わたしはこのすべての事ことに心こころを用もちいて、このすべての事ことを明あきらかにしようとした。すなわち正ただしい者ものと賢かしこい者もの、および彼かれらのわざが、神かみの手てにあることを明あきらかにしようとした。愛あいするか憎にくむかは人ひとにはわからない。彼かれらの前まえにあるすべてのことは空くうである。",
+            "kr": "이 모든 것을 내가 마음에 두고 이 모든 것을 살펴 본즉 의인들이나 지혜자들이나 그들의 행위나 모두 다 하나님의 손 안에 있으니 사랑을 받을는지 미움을 받을는지 사람이 알지 못하는 것은 모두 그들의 미래의 일들임이니라"
+          }
+        },
+        {
+          "key": "2",
+          "text": {
+            "fr": "Tout arrive également à tous ; même sort pour le juste et pour le méchant, pour celui qui est bon et pur et pour celui qui est impur, pour celui qui sacrifie et pour celui qui ne sacrifie pas ; il en est du bon comme du pécheur, de celui qui jure comme de celui qui craint de jurer.",
+            "en": "All things come alike to all: there is one event to the righteous, and to the wicked; to the good and to the clean, and to the unclean; to him that sacrificeth, and to him that sacrificeth not: as is the good, so is the sinner; and he that sweareth, as he that feareth an oath.",
+            "zh": "凡臨到眾人的事、都是一樣．義人和惡人、都遭遇一樣的事．好人、潔淨人和不潔淨人、獻祭的與不獻祭的、也是一樣．好人如何、罪人也如何．起誓的如何、怕起誓的也如何。",
+            "jp": "すべての人ひとに臨のぞむところは、みな同様どうようである。正ただしい者ものにも正ただしくない者ものにも、善良ぜんりょうな者ものにも悪わるい者ものにも、清きよい者ものにも汚けがれた者ものにも、犠牲ぎせいをささげる者ものにも、犠牲ぎせいをささげない者ものにも、その臨のぞむところは同様どうようである。善良ぜんりょうな人ひとも罪つみびとも異ことなることはない。誓ちかいをなす者ものも、誓ちかいをなすことを恐おそれる者ものも異ことなることはない。",
+            "kr": "모든 사람에게 임하는 그 모든 것이 일반이라 의인과 악인, 선한 자와 깨끗한 자와 깨끗하지 아니한 자, 제사를 드리는 자와 제사를 드리지 아니하는 자에게 일어나는 일들이 모두 일반이니 선인과 죄인, 맹세하는 자와 맹세하기를 무서워하는 자가 일반이로다"
+          }
+        },
+        {
+          "key": "3",
+          "text": {
+            "fr": "Ceci est un mal parmi tout ce qui se fait sous le soleil, c’est qu’il y a pour tous un même sort ; aussi le cœur des fils de l’homme est-il plein de méchanceté et la folie est dans leur cœur pendant leur vie ; après quoi, ils vont chez les morts.",
+            "en": "This is an evil among all things that are done under the sun, that there is one event unto all: yea, also the heart of the sons of men is full of evil, and madness is in their heart while they live, and after that they go to the dead.",
+            "zh": "在日光之下所行的一切事上、有一件禍患、就是眾人所遭遇的、都是一樣．並且世人的心、充滿了惡．活著的時候心裡狂妄、後來就歸死人那裡去了。",
+            "jp": "すべての人ひとに同一どういつに臨のぞむのは、日ひの下したに行おこなわれるすべての事ことのうちの悪事あくじである。また人ひとの心こころは悪あくに満みち、その生いきている間あいだは、狂気きょうきがその心こころのうちにあり、その後のちは死者ししゃのもとに行いくのである。",
+            "kr": "모든 사람의 결국은 일반이라 이것은 해 아래에서 행해지는 모든 일 중의 악한 것이니 곧 인생의 마음에는 악이 가득하여 그들의 평생에 미친 마음을 품고 있다가 후에는 죽은 자들에게로 돌아가는 것이라"
+          }
+        },
+        {
+          "key": "4",
+          "text": {
+            "fr": "Pour tous ceux qui vivent il y a de l’espérance ; et même un chien vivant vaut mieux qu’un lion mort.",
+            "en": "¶ For to him that is joined to all the living there is hope: for a living dog is better than a dead lion.",
+            "zh": "與一切活人相連的、那人還有指望．因為活著的狗、比死了的獅子更強。",
+            "jp": "すべて生いける者ものに連つらなる者ものには望のぞみがある。生いける犬いぬは、死しせるししにまさるからである。",
+            "kr": "모든 산 자들 중에 들어 있는 자에게는 누구나 소망이 있음은 산 개가 죽은 사자보다 낫기 때문이니라"
+          }
+        },
+        {
+          "key": "5",
+          "text": {
+            "fr": "Les vivants, en effet, savent qu’ils mourront ; mais les morts ne savent rien et il n’y a pour eux plus de salaire puisque leur mémoire est oubliée.",
+            "en": "For the living know that they shall die: but the dead know not any thing, neither have they any more a reward; for the memory of them is forgotten.",
+            "zh": "活著的人、知道必死．死了的人、毫無所知．也不再得賞賜、他們的名無人記念．",
+            "jp": "生いきている者ものは死しぬべき事ことを知しっている。しかし死者ししゃは何事なにごとをも知しらない、また、もはや報むくいを受うけることもない。その記憶きおくに残のこる事ことがらさえも、ついに忘わすれられる。",
+            "kr": "산 자들은 죽을 줄을 알되 죽은 자들은 아무것도 모르며 그들이 다시는 상을 받지 못하는 것은 그들의 이름이 잊어버린 바 됨이니라"
+          }
+        },
+        {
+          "key": "6",
+          "text": {
+            "fr": "Et leur amour, et leur haine, et leur envie ont déjà péri ; et ils n’auront plus jamais aucune part à tout ce qui se fait sous le soleil.",
+            "en": "Also their love, and their hatred, and their envy, is now perished; neither have they any more a portion for ever in any thing that is done under the sun.",
+            "zh": "他們的愛、他們的恨、他們的嫉妒、早都消滅了．在日光之下所行的一切事上、他們永不再有分了。",
+            "jp": "その愛あいも、憎にくしみも、ねたみも、すでに消きえうせて、彼かれらはもはや日ひの下したに行おこなわれるすべての事ことに、永久えいきゅうにかかわることがない。",
+            "kr": "그들의 사랑과 미움과 시기도 없어진 지 오래이니 해 아래에서 행하는 모든 일 중에서 그들에게 돌아갈 몫은 영원히 없느니라"
+          }
+        },
+        {
+          "key": "7",
+          "text": {
+            "fr": "Va, mange avec joie ton pain et bois gaiement ton vin ; car depuis longtemps Dieu prend plaisir à ce que tu fais.",
+            "en": "¶ Go thy way, eat thy bread with joy, and drink thy wine with a merry heart; for God now accepteth thy works.",
+            "zh": "你只管去歡歡喜喜喫你的飯．心中快樂喝你的酒．因為　神已經悅納你的作為。",
+            "jp": "あなたは行いって、喜よろこびをもってあなたのパンを食たべ、楽たのしい心こころをもってあなたの酒さけを飲のむがよい。神かみはすでに、あなたのわざをよみせられたからである。",
+            "kr": "너는 가서 기쁨으로 네 음식물을 먹고 즐거운 마음으로 네 포도주를 마실지어다 이는 하나님이 네가 하는 일들을 벌써 기쁘게 받으셨음이니라"
+          }
+        },
+        {
+          "key": "8",
+          "text": {
+            "fr": "Qu’en tout temps tes vêtements soient blancs et que l’huile ne manque pas sur ta tête.",
+            "en": "Let thy garments be always white; and let thy head lack no ointment.",
+            "zh": "你的衣服當時常潔白．你頭上也不要缺少膏油。",
+            "jp": "あなたの衣ころもを常つねに白しろくせよ。あなたの頭あたまに油あぶらを絶たやすな。",
+            "kr": "네 의복을 항상 희게 하며 네 머리에 향 기름을 그치지 아니하도록 할지니라"
+          }
+        },
+        {
+          "key": "9",
+          "text": {
+            "fr": "Profite de la vie avec la femme que tu aimes, pendant tous les jours de ta vie de vanité, que Dieu t’a donnés sous le soleil, pendant tous les jours de ta vanité ; car c’est ta part dans la vie, au milieu de ton travail que tu fais sous le soleil.",
+            "en": "Live joyfully with the wife whom thou lovest all the days of the life of thy vanity, which he hath given thee under the sun, all the days of thy vanity: for that is thy portion in this life, and in thy labour which thou takest under the sun.",
+            "zh": "在你一生虛空的年日、就是　神賜你在日光之下虛空的年日、當同你所愛的妻、快活度日．因為那是你生前、在日光之下勞碌的事上所得的分。",
+            "jp": "日ひの下したで神かみから賜たまわったあなたの空くうなる命いのちの日ひの間あいだ、あなたはその愛あいする妻つまと共ともに楽たのしく暮くらすがよい。これはあなたが世よにあってうける分ぶん、あなたが日ひの下したで労ろうする労苦ろうくによって得えるものだからである。",
+            "kr": "네 헛된 평생의 모든 날 곧 하나님이 해 아래에서 네게 주신 모든 헛된 날에 네가 사랑하는 아내와 함께 즐겁게 살지어다 그것이 네가 평생에 해 아래에서 수고하고 얻은 네 몫이니라"
+          }
+        },
+        {
+          "key": "10",
+          "text": {
+            "fr": "Tout ce que ta main trouve à faire avec ta force, fais-le ; car il n’y a ni œuvre, ni pensée, ni connaissance, ni sagesse dans le séjour des morts où tu vas.",
+            "en": "Whatsoever thy hand findeth to do, do it with thy might; for there is no work, nor device, nor knowledge, nor wisdom, in the grave, whither thou goest.",
+            "zh": "凡你手所當作的事、要盡力去作．因為在你所必去的陰間、沒有工作、沒有謀算、沒有知識、也沒有智慧。",
+            "jp": "すべてあなたの手てのなしうる事ことは、力ちからをつくしてなせ。あなたの行いく陰府よみには、わざも、計略けいりゃくも、知識ちしきも、知恵ちえもないからである。",
+            "kr": "네 손이 일을 얻는 대로 힘을 다하여 할지어다 네가 장차 들어갈 스올에는 일도 없고 계획도 없고 지식도 없고 지혜도 없음이니라"
+          }
+        },
+        {
+          "key": "11",
+          "text": {
+            "fr": "J’ai encore vu sous le soleil que la course n’est pas aux agiles ni la guerre aux vaillants, ni le pain aux sages, ni la richesse aux intelligents, ni la faveur aux savants ; car tout dépend pour eux du temps et des circonstances.",
+            "en": "¶ I returned, and saw under the sun, that the race is not to the swift, nor the battle to the strong, neither yet bread to the wise, nor yet riches to men of understanding, nor yet favour to men of skill; but time and chance happeneth to them all.",
+            "zh": "我又轉念、見日光之下、快跑的未必能贏、力戰的未必得勝、智慧的未必得糧食、明哲的未必得資財、靈巧的未必得喜悅．所臨到眾人的、是在乎當時的機會。",
+            "jp": "わたしはまた日ひの下したを見みたが、必かならずしも速はやい者ものが競走きょうそうに勝かつのではなく、強つよい者ものが戦たたかいに勝かつのでもない。また賢かしこい者ものがパンを得えるのでもなく、さとき者ものが富とみを得えるのでもない。また知識ちしきある者ものが恵めぐみを得えるのでもない。しかし時ときと災難さいなんはすべての人ひとに臨のぞむ。",
+            "kr": "내가 다시 해 아래에서 보니 빠른 경주자들이라고 선착하는 것이 아니며 용사들이라고 전쟁에 승리하는 것이 아니며 지혜자들이라고 음식물을 얻는 것도 아니며 명철자들이라고 재물을 얻는 것도 아니며 지식인들이라고 은총을 입는 것이 아니니 이는 시기와 기회는 그들 모두에게 임함이니라"
+          }
+        },
+        {
+          "key": "12",
+          "text": {
+            "fr": "L’homme ne connaît pas non plus son heure, pareil aux poissons qui sont pris au filet fatal et aux oiseaux qui sont pris au piège ; comme eux, les fils de l’homme sont pris au piège au temps du malheur, lorsqu’il tombe sur eux tout à coup.",
+            "en": "For man also knoweth not his time: as the fishes that are taken in an evil net, and as the birds that are caught in the snare; so are the sons of men snared in an evil time, when it falleth suddenly upon them.",
+            "zh": "原來人也不知道自己的定期．魚被惡網圈住、鳥被網羅捉住、禍患忽然臨到的時候、世人陷在其中、也是如此。",
+            "jp": "人ひとはその時ときを知しらない。魚うおがわざわいの網あみにかかり、鳥とりがわなにかかるように、人ひとの子こらもわざわいの時ときが突然とつぜん彼かれらに臨のぞむ時とき、それにかかるのである。",
+            "kr": "분명히 사람은 자기의 시기도 알지 못하나니 물고기들이 재난의 그물에 걸리고 새들이 올무에 걸림 같이 인생들도 재앙의 날이 그들에게 홀연히 임하면 거기에 걸리느니라"
+          }
+        },
+        {
+          "key": "13",
+          "text": {
+            "fr": "J’ai aussi vu sous le soleil ce trait d’une sagesse qui m’a paru grande.",
+            "en": "¶ This wisdom have I seen also under the sun, and it seemed great unto me:",
+            "zh": "我見日光之下有一樣智慧、據我看乃是廣大、",
+            "jp": "またわたしは日ひの下したにこのような知恵ちえの例れいを見みた。これはわたしにとって大おおきな事ことである。",
+            "kr": "내가 또 해 아래에서 지혜를 보고 내가 크게 여긴 것이 이러하니"
+          }
+        },
+        {
+          "key": "14",
+          "text": {
+            "fr": "Il y avait une petite ville avec peu d’hommes dans ses murs ; un roi puissant marcha sur elle, l’assiégea et éleva contre elle de grands forts.",
+            "en": "There was a little city, and few men within it; and there came a great king against it, and besieged it, and built great bulwarks against it:",
+            "zh": "就是有一小城、其中的人數稀少、有大君王來攻擊、修築營壘、將城圍困．",
+            "jp": "ここに一つの小ちいさい町まちがあって、そこに住すむ人ひとは少すくなかったが、大おおいなる王おうが攻せめて来きて、これを囲かこみ、これに向むかって大おおきな雲梯うんていを建たてた。",
+            "kr": "곧 작고 인구가 많지 아니한 어떤 성읍에 큰 왕이 와서 그것을 에워싸고 큰 흉벽을 쌓고 치고자 할 때에"
+          }
+        },
+        {
+          "key": "15",
+          "text": {
+            "fr": "Il s’y trouvait un homme pauvre et sage qui sauva la ville par sa sagesse. Et personne ne s’est souvenu de cet homme pauvre.",
+            "en": "Now there was found in it a poor wise man, and he by his wisdom delivered the city; yet no man remembered that same poor man.",
+            "zh": "城中有一個貧窮的智慧人、他用智慧救了那城、卻沒有人記念那窮人．",
+            "jp": "しかし、町まちのうちにひとりの貧まずしい知恵ちえのある人ひとがいて、その知恵ちえをもって町まちを救すくった。ところがだれひとり、その貧まずしい人ひとを記憶きおくする者ものがなかった。",
+            "kr": "그 성읍 가운데에 가난한 지혜자가 있어서 그의 지혜로 그 성읍을 건진 그것이라 그러나 그 가난한 자를 기억하는 사람이 없었도다"
+          }
+        },
+        {
+          "key": "16",
+          "text": {
+            "fr": "Et j’ai dit : La sagesse vaut mieux que la force. Cependant la sagesse du pauvre est méprisée et ses paroles ne sont pas écoutées.",
+            "en": "Then said I, Wisdom is better than strength: nevertheless the poor man’s wisdom is despised, and his words are not heard.",
+            "zh": "我就說、智慧勝過勇力．然而那貧窮人的智慧、被人藐視、他的話也無人聽從。",
+            "jp": "そこでわたしは言いう、「知恵ちえは力ちからにまさる。しかしかの貧まずしい人ひとの知恵ちえは軽かろんぜられ、その言葉ことばは聞きかれなかった」。",
+            "kr": "그러므로 내가 이르기를 지혜가 힘보다 나으나 가난한 자의 지혜가 멸시를 받고 그의 말들을 사람들이 듣지 아니한다 하였노라"
+          }
+        },
+        {
+          "key": "17",
+          "text": {
+            "fr": "Les paroles des sages tranquillement écoutées valent mieux que les cris de celui qui domine parmi les insensés.",
+            "en": "The words of wise men are heard in quiet more than the cry of him that ruleth among fools.",
+            "zh": "寧可在安靜之中聽智慧人的言語、不聽掌管愚昧人的喊聲。",
+            "jp": "静しずかに聞きかれる知者ちしゃの言葉ことばは、愚おろかな者ものの中なかのつかさたる者ものの叫さけびにまさる。",
+            "kr": "조용히 들리는 지혜자들의 말들이 우매한 자들을 다스리는 자의 호령보다 나으니라"
+          }
+        },
+        {
+          "key": "18",
+          "text": {
+            "fr": "La sagesse vaut mieux que les instruments de guerre ; mais un seul pécheur détruit beaucoup de bien.",
+            "en": "Wisdom is better than weapons of war: but one sinner destroyeth much good.",
+            "zh": "智慧勝過打仗的兵器．但一個罪人、能敗壞許多善事。",
+            "jp": "知恵ちえは戦たたかいの武器ぶきにまさる。しかし、ひとりの罪つみびとは多おおくの良よきわざを滅ほろぼす。",
+            "kr": "지혜가 무기보다 나으니라 그러나 죄인 한 사람이 많은 선을 무너지게 하느니라"
+          }
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "introduction": {
+        "fr": "Un peu de folie l’emporte sur la sagesse et la gloire. Les paroles de la bouche du sage sont pleines de grâce. L’insensé multiplie les paroles.",
+        "en": "A little folly destroys the reputation of the wise and honorable—The words of a wise man’s mouth are gracious—A fool is full of words.",
+        "zh": "A little folly destroys the reputation of the wise and honorable—The words of a wise man’s mouth are gracious—A fool is full of words.",
+        "jp": "A little folly destroys the reputation of the wise and honorable—The words of a wise man’s mouth are gracious—A fool is full of words.",
+        "kr": "A little folly destroys the reputation of the wise and honorable—The words of a wise man’s mouth are gracious—A fool is full of words."
+      },
+      "verses": [
+        {
+          "key": "1",
+          "text": {
+            "fr": "Les mouches mortes infectent et font fermenter l’huile du parfumeur ; un peu de folie l’emporte sur la sagesse et sur la gloire.",
+            "en": "Dead flies cause the ointment of the apothecary to send forth a stinking savour: so doth a little folly him that is in reputation for wisdom and honour.",
+            "zh": "死蒼蠅、使作香的膏油發出臭氣．這樣、一點愚昧、也能敗壞智慧和尊榮。",
+            "jp": "死しんだはえは、香料こうりょうを造つくる者もののあぶらを臭くさくし、少すこしの愚痴ぐちは知恵ちえと誉ほまれよりも重おもい。",
+            "kr": "죽은 파리들이 향기름을 악취가 나게 만드는 것 같이 적은 우매가 지혜와 존귀를 난처하게 만드느니라"
+          }
+        },
+        {
+          "key": "2",
+          "text": {
+            "fr": "Le cœur du sage est à sa droite et le cœur de l’insensé à sa gauche.",
+            "en": "A wise man’s heart is at his right hand; but a fool’s heart at his left.",
+            "zh": "智慧人的心居右．愚昧人的心居左。",
+            "jp": "知者ちしゃの心こころは彼かれを右みぎに向むけさせ、愚者ぐしゃの心こころは左ひだりに向むけさせる。",
+            "kr": "지혜자의 마음은 오른쪽에 있고 우매자의 마음은 왼쪽에 있느니라"
+          }
+        },
+        {
+          "key": "3",
+          "text": {
+            "fr": "Quand l’insensé marche sur un chemin, le sens lui manque et il dit de chacun : Voilà un fou !",
+            "en": "Yea also, when he that is a fool walketh by the way, his wisdom faileth him, and he saith to every one that he is a fool.",
+            "zh": "並且愚昧人行路、顯出無知．對眾人說、他是愚昧人。",
+            "jp": "愚者ぐしゃは道みちを行いく時とき、思慮しりょが足たりない、自分じぶんの愚おろかなことをすべての人ひとに告つげる。",
+            "kr": "우매한 자는 길을 갈 때에도 지혜가 부족하여 각 사람에게 자기가 우매함을 말하느니라"
+          }
+        },
+        {
+          "key": "4",
+          "text": {
+            "fr": "Si l’esprit de celui qui domine s’élève contre toi, ne quitte pas ta place ; car le calme prévient de grands péchés.",
+            "en": "If the spirit of the ruler rise up against thee, leave not thy place; for yielding pacifieth great offences.",
+            "zh": "掌權者的心、若向你發怒、不要離開你的本位、因為柔和能免大過。",
+            "jp": "つかさたる者ものがあなたに向むかって立腹りっぷくしても、あなたの所ところを離はなれてはならない。温順おんじゅんは大おおいなるとがを和やわらげるからである。",
+            "kr": "주권자가 네게 분을 일으키거든 너는 네 자리를 떠나지 말라 공손함이 큰 허물을 용서 받게 하느니라"
+          }
+        },
+        {
+          "key": "5",
+          "text": {
+            "fr": "Il est un mal que j’ai vu sous le soleil, comme une erreur provenant de celui qui gouverne :",
+            "en": "There is an evil which I have seen under the sun, as an error which proceedeth from the ruler:",
+            "zh": "我見日光之下、有一件禍患、似乎出於掌權的錯誤、",
+            "jp": "わたしは日ひの下したに一つの悪あくのあるのを見みた。それはつかさたる者ものから出でるあやまちに似にている。",
+            "kr": "내가 해 아래에서 한 가지 재난을 보았노니 곧 주권자에게서 나오는 허물이라"
+          }
+        },
+        {
+          "key": "6",
+          "text": {
+            "fr": "la folie occupe des postes très élevés et des riches sont assis dans l’abaissement.",
+            "en": "Folly is set in great dignity, and the rich sit in low place.",
+            "zh": "就是愚昧人立在高位．富足人坐在低位。",
+            "jp": "すなわち愚おろかなる者ものが高たかい地位ちいに置おかれ、富とめる者ものが卑いやしい所ところに座ざしている。",
+            "kr": "우매한 자가 크게 높은 지위들을 얻고 부자들이 낮은 지위에 앉는도다"
+          }
+        },
+        {
+          "key": "7",
+          "text": {
+            "fr": "J’ai vu des esclaves sur des chevaux et des princes marchant à pied comme des esclaves.",
+            "en": "I have seen servants upon horses, and princes walking as servants upon the earth.",
+            "zh": "我見過僕人騎馬、王子像僕人在地上步行。",
+            "jp": "わたしはしもべたる者ものが馬うまに乗のり、君くんたる者ものが奴隷どれいのように徒歩とほであるくのを見みた。",
+            "kr": "또 내가 보았노니 종들은 말을 타고 고관들은 종들처럼 땅에 걸어 다니는도다"
+          }
+        },
+        {
+          "key": "8",
+          "text": {
+            "fr": "Celui qui creuse une fosse y tombera et celui qui renverse une muraille sera mordu par un serpent.",
+            "en": "He that diggeth a pit shall fall into it; and whoso breaketh an hedge, a serpent shall bite him.",
+            "zh": "挖陷坑的、自己必掉在其中．拆牆垣的、必為蛇所咬。",
+            "jp": "穴あなを掘ほる者ものはみずからこれに陥おちいり、石いしがきをこわす者ものは、へびにかまれる。",
+            "kr": "함정을 파는 자는 거기에 빠질 것이요 담을 허는 자는 뱀에게 물리리라"
+          }
+        },
+        {
+          "key": "9",
+          "text": {
+            "fr": "Celui qui remue des pierres en sera blessé et celui qui fend du bois en éprouvera du danger.",
+            "en": "Whoso removeth stones shall be hurt therewith; and he that cleaveth wood shall be endangered thereby.",
+            "zh": "鑿開〔或作挪移〕石頭的、必受損傷．劈開木頭的、必遭危險。",
+            "jp": "石いしを切きり出だす者ものはそれがために傷きずをうけ、木きを割わる者ものはそれがために危険きけんにさらされる。",
+            "kr": "돌들을 떠내는 자는 그로 말미암아 상할 것이요 나무들을 쪼개는 자는 그로 말미암아 위험을 당하리라"
+          }
+        },
+        {
+          "key": "10",
+          "text": {
+            "fr": "S’il a émoussé le fer et s’il n’en a pas aiguisé le tranchant, il devra redoubler de force ; mais la sagesse a l’avantage du succès.",
+            "en": "If the iron be blunt, and he do not whet the edge, then must he put to more strength: but wisdom is profitable to direct.",
+            "zh": "鐵器鈍了、若不將刃磨快、就必多費氣力．但得智慧指教、便有益處。",
+            "jp": "鉄てつが鈍にぶくなったとき、人ひとがその刃はをみがかなければ、力ちからを多おおくこれに用もちいねばならない。しかし、知恵ちえは人ひとを助たすけてなし遂とげさせる。",
+            "kr": "철 연장이 무디어졌는데도 날을 갈지 아니하면 힘이 더 드느니라 오직 지혜는 성공하기에 유익하니라"
+          }
+        },
+        {
+          "key": "11",
+          "text": {
+            "fr": "Si le serpent mord faute d’enchantement, il n’y a pas d’avantage pour l’enchanteur.",
+            "en": "Surely the serpent will bite without enchantment; and a babbler is no better.",
+            "zh": "未行法術以先、蛇若咬人、後行法術也是無益。",
+            "jp": "へびがもし呪文じゅもんをかけられる前まえに、かみつけば、へび使つかいは益えきがない。",
+            "kr": "주술을 베풀기 전에 뱀에게 물렸으면 술객은 소용이 없느니라"
+          }
+        },
+        {
+          "key": "12",
+          "text": {
+            "fr": "Les paroles de la bouche du sage sont pleines de grâce ; mais les lèvres de l’insensé causent sa perte.",
+            "en": "The words of a wise man’s mouth are gracious; but the lips of a fool will swallow up himself.",
+            "zh": "智慧人的口、說出恩言．愚昧人的嘴、吞滅自己。",
+            "jp": "知者ちしゃの口くちの言葉ことばは恵めぐみがある、しかし愚者ぐしゃのくちびるはその身みを滅ほろぼす。",
+            "kr": "지혜자의 입의 말들은 은혜로우나 우매자의 입술들은 자기를 삼키나니"
+          }
+        },
+        {
+          "key": "13",
+          "text": {
+            "fr": "Le commencement des paroles de sa bouche est folie, et la fin de son discours est une méchante folie.",
+            "en": "The beginning of the words of his mouth is foolishness: and the end of his talk is mischievous madness.",
+            "zh": "他口中的言語、起頭是愚昧．他話的末尾、是奸惡的狂妄。",
+            "jp": "愚者ぐしゃの口くちの言葉ことばの初はじめは愚痴ぐちである、またその言葉ことばの終おわりは悪わるい狂気きょうきである。",
+            "kr": "그의 입의 말들의 시작은 우매요 그의 입의 결말들은 심히 미친 것이니라"
+          }
+        },
+        {
+          "key": "14",
+          "text": {
+            "fr": "L’insensé multiplie les paroles. L’homme ne sait pas ce qui arrivera et qui lui dira ce qui sera après lui ?",
+            "en": "A fool also is full of words: a man cannot tell what shall be; and what shall be after him, who can tell him?",
+            "zh": "愚昧人多有言語、人卻不知將來有甚麼事．他身後的事、誰能告訴他呢。",
+            "jp": "愚者ぐしゃは言葉ことばを多おおくする、しかし人ひとはだれも後のちに起おこることを知しらない。だれがその身みの後のちに起おこる事ことを告つげることができようか。",
+            "kr": "우매한 자는 말을 많이 하거니와 사람은 장래 일을 알지 못하나니 나중에 일어날 일을 누가 그에게 알리리요"
+          }
+        },
+        {
+          "key": "15",
+          "text": {
+            "fr": "Le travail de l’insensé le fatigue, parce qu’il ne sait pas aller à la ville.",
+            "en": "The labour of the foolish wearieth every one of them, because he knoweth not how to go to the city.",
+            "zh": "凡愚昧人、他的勞碌使自己困乏．因為連進城的路他也不知道。",
+            "jp": "愚者ぐしゃの労苦ろうくはその身みを疲つかれさせる、彼かれは町まちにはいる道みちをさえ知しらない。",
+            "kr": "우매한 자들의 수고는 자신을 피곤하게 할 뿐이라 그들은 성읍에 들어갈 줄도 알지 못함이니라"
+          }
+        },
+        {
+          "key": "16",
+          "text": {
+            "fr": "Malheur à toi, pays dont le roi est un enfant et dont les princes mangent dès le matin !",
+            "en": "¶ Woe to thee, O land, when thy king is a child, and thy princes eat in the morning!",
+            "zh": "邦國阿、你的王若是孩童、你的群臣早晨宴樂、你就有禍了。",
+            "jp": "あなたの王おうはわらべであって、その君きみたちが朝あさから、ごちそうを食たべる国くによ、あなたはわざわいだ。",
+            "kr": "왕은 어리고 대신들은 아침부터 잔치하는 나라여 네게 화가 있도다"
+          }
+        },
+        {
+          "key": "17",
+          "text": {
+            "fr": "Heureux toi, pays dont le roi est de race illustre, et dont les princes mangent au temps convenable, pour soutenir leurs forces, et non pour se livrer à la boisson !",
+            "en": "Blessed art thou, O land, when thy king is the son of nobles, and thy princes eat in due season, for strength, and not for drunkenness!",
+            "zh": "邦國阿、你的王若是貴冑之子、你的群臣按時喫喝、為要補力、不為酒醉、你就有福了。",
+            "jp": "あなたの王おうは自主じしゅの子こであって、その君きみたちが酔ようためでなく、力ちからを得えるために、適当てきとうな時ときにごちそうを食たべる国くによ、あなたはさいわいだ。",
+            "kr": "왕은 귀족들의 아들이요 대신들은 취하지 아니하고 기력을 보하려고 정한 때에 먹는 나라여 네게 복이 있도다"
+          }
+        },
+        {
+          "key": "18",
+          "text": {
+            "fr": "Quand les mains sont paresseuses, la charpente s’affaisse ; et quand les mains sont nonchalantes, la maison a des gouttières.",
+            "en": "¶ By much slothfulness the building decayeth; and through idleness of the hands the house droppeth through.",
+            "zh": "因人懶惰、房頂塌下．因人手懶、房屋滴漏。",
+            "jp": "怠惰たいだによって屋根やねは落おち、無精ぶしょうによって家いえは漏もる。",
+            "kr": "게으른즉 서까래가 내려앉고 손을 놓은즉 집이 새느니라"
+          }
+        },
+        {
+          "key": "19",
+          "text": {
+            "fr": "On fait des repas pour se divertir, le vin rend la vie joyeuse et l’argent répond à tout.",
+            "en": "¶ A feast is made for laughter, and wine maketh merry: but money answereth all things.",
+            "zh": "設擺筵席、是為喜笑．酒能使人快活、錢能叫萬事應心。",
+            "jp": "食事しょくじは笑わらいのためになされ、酒さけは命いのちを楽たのしませる。金銭きんせんはすべての事ことに応おうじる。",
+            "kr": "잔치는 희락을 위하여 베푸는 것이요 포도주는 생명을 기쁘게 하는 것이나 돈은 범사에 이용되느니라"
+          }
+        },
+        {
+          "key": "20",
+          "text": {
+            "fr": "Ne maudis pas le roi, même dans ta pensée, et ne maudis pas le riche dans la chambre où tu couches ; car l’oiseau du ciel emporterait ta voix, l’animal ailé publierait tes paroles.",
+            "en": "¶ Curse not the king, no not in thy thought; and curse not the rich in thy bedchamber: for a bird of the air shall carry the voice, and that which hath wings shall tell the matter.",
+            "zh": "你不可咒詛君王、也不可心懷此念．在你臥房也不可咒詛富戶．因為空中的鳥、必傳揚這聲音．有翅膀的、也必述說這事。",
+            "jp": "あなたは心こころのうちでも王おうをのろってはならない、また寝室しんしつでも富とめる者ものをのろってはならない。空そらの鳥とりはあなたの声こえを伝つたえ、翼つばさのあるものは事ことを告つげるからである。",
+            "kr": "심중에라도 왕을 저주하지 말며 침실에서라도 부자를 저주하지 말라 공중의 새가 그 소리를 전하고 날짐승이 그 일을 전파할 것임이니라"
+          }
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "introduction": {
+        "fr": "Fais le bien et donne à celui qui est dans le besoin. Dieu jugera tout le monde.",
+        "en": "Do good and give to them who need—God will bring all men to judgment.",
+        "zh": "Do good and give to them who need—God will bring all men to judgment.",
+        "jp": "Do good and give to them who need—God will bring all men to judgment.",
+        "kr": "Do good and give to them who need—God will bring all men to judgment."
+      },
+      "verses": [
+        {
+          "key": "1",
+          "text": {
+            "fr": "Jette ton pain à la surface des eaux, car avec le temps tu le retrouveras ;",
+            "en": "Cast thy bread upon the waters: for thou shalt find it after many days.",
+            "zh": "當將你的糧食撒在水面、因為日久必能得著。",
+            "jp": "あなたのパンを水みずの上うえに投なげよ、多おおくの日ひの後のち、あなたはそれを得えるからである。",
+            "kr": "너는 네 떡을 물 위에 던져라 여러 날 후에 도로 찾으리라"
+          }
+        },
+        {
+          "key": "2",
+          "text": {
+            "fr": "donnes-en une part à sept et même à huit, car tu ne sais pas quel malheur peut arriver sur la terre.",
+            "en": "Give a portion to seven, and also to eight; for thou knowest not what evil shall be upon the earth.",
+            "zh": "你要分給七人、或分給八人、因為你不知道將來有甚麼災禍臨到地上。",
+            "jp": "あなたは一つの分ぶんを七つまた八つに分わけよ、あなたは、どんな災わざわいが地ちに起おこるかを知しらないからだ。",
+            "kr": "일곱에게나 여덟에게 나눠 줄지어다 무슨 재앙이 땅에 임할는지 네가 알지 못함이니라"
+          }
+        },
+        {
+          "key": "3",
+          "text": {
+            "fr": "Quand les nuages sont pleins de pluie, ils la répandent sur la terre ; et si un arbre tombe, au sud ou au nord, il reste à la place où il est tombé.",
+            "en": "If the clouds be full of rain, they empty themselves upon the earth: and if the tree fall toward the south, or toward the north, in the place where the tree falleth, there it shall be.",
+            "zh": "雲若滿了雨、就必傾倒在地上．樹若向南倒、或向北倒、樹倒在何處、就存在何處。",
+            "jp": "雲くもがもし雨あめで満みちるならば、地ちにそれを注そそぐ、また木きがもし南みなみか北きたに倒たおれるならば、その木きは倒たおれた所ところに横よこたわる。",
+            "kr": "구름에 비가 가득하면 땅에 쏟아지며 나무가 남으로나 북으로나 쓰러지면 그 쓰러진 곳에 그냥 있으리라"
+          }
+        },
+        {
+          "key": "4",
+          "text": {
+            "fr": "Celui qui observe le vent ne sèmera pas et celui qui regarde les nuages ne moissonnera pas.",
+            "en": "He that observeth the wind shall not sow; and he that regardeth the clouds shall not reap.",
+            "zh": "看風的必不撒種．望雲的必不收割。",
+            "jp": "風かぜを警戒けいかいする者ものは種たねをまかない、雲くもを観測かんそくする者ものは刈かることをしない。",
+            "kr": "풍세를 살펴보는 자는 파종하지 못할 것이요 구름만 바라보는 자는 거두지 못하리라"
+          }
+        },
+        {
+          "key": "5",
+          "text": {
+            "fr": "Comme tu ne sais pas quel est le chemin du vent, ni comment se forment les os dans le ventre de la femme enceinte, tu ne connais pas non plus l’œuvre de Dieu qui fait tout.",
+            "en": "As thou knowest not what is the way of the spirit, nor how the bones do grow in the womb of her that is with child: even so thou knowest not the works of God who maketh all.",
+            "zh": "風從何道來、骨頭在懷孕婦人的胎中如何長成、你尚且不得知道、這樣、行萬事之　神的作為、你更不得知道。",
+            "jp": "あなたは、身みごもった女おんなの胎たいの中なかで、どうして霊れいが骨ほねにはいるかを知しらない。そのようにあなたは、すべての事ことをなされる神かみのわざを知しらない。",
+            "kr": "바람의 길이 어떠함과 아이 밴 자의 태에서 뼈가 어떻게 자라는지를 네가 알지 못함 같이 만사를 성취하시는 하나님의 일을 네가 알지 못하느니라"
+          }
+        },
+        {
+          "key": "6",
+          "text": {
+            "fr": "Dès le matin sème ta semence, et le soir ne laisse pas reposer ta main ; car tu ne sais pas ce qui réussira, ceci ou cela, ou si l’un et l’autre sont également bons.",
+            "en": "In the morning sow thy seed, and in the evening withhold not thine hand: for thou knowest not whether shall prosper, either this or that, or whether they both shall be alike good.",
+            "zh": "早晨要撒你的種、晚上也不要歇你的手、因為你不知道那一樣發旺、或是早撒的、或是晚撒的、或是兩樣都好。",
+            "jp": "朝あさのうちに種たねをまけ、夕ゆうまで手てを休やすめてはならない。実みのるのは、これであるか、あれであるか、あるいは二つともに良よいのであるか、あなたは知しらないからである。",
+            "kr": "너는 아침에 씨를 뿌리고 저녁에도 손을 놓지 말라 이것이 잘 될는지, 저것이 잘 될는지, 혹 둘이 다 잘 될는지 알지 못함이니라"
+          }
+        },
+        {
+          "key": "7",
+          "text": {
+            "fr": "La lumière est douce et il est agréable aux yeux de voir le soleil.",
+            "en": "¶ Truly the light is sweet, and a pleasant thing it is for the eyes to behold the sun:",
+            "zh": "光本是佳美的、眼見日光也是可悅的。",
+            "jp": "光ひかりは快こころよいものである。目めに太陽たいようを見みるのは楽たのしいことである。",
+            "kr": "빛은 실로 아름다운 것이라 눈으로 해를 보는 것이 즐거운 일이로다"
+          }
+        },
+        {
+          "key": "8",
+          "text": {
+            "fr": "Si donc un homme vit beaucoup d’années, qu’il se réjouisse pendant toutes ces années, et qu’il pense aux jours de ténèbres qui seront nombreux ; tout ce qui arrivera est vanité.",
+            "en": "But if a man live many years, and rejoice in them all; yet let him remember the days of darkness; for they shall be many. All that cometh is vanity.",
+            "zh": "人活多年、就當快樂多年．然而也當想到黑暗的日子、因為這日子必多、所要來的都是虛空。",
+            "jp": "人ひとが多おおくの年ねん、生いきながらえ、そのすべてにおいて自分じぶんを楽たのしませても、暗くらい日ひの多おおくあるべきことを忘わすれてはならない。すべて、きたらんとする事ことは皆みな空くうである。",
+            "kr": "사람이 여러 해를 살면 항상 즐거워할지로다 그러나 캄캄한 날들이 많으리니 그 날들을 생각할지로다 다가올 일은 다 헛되도다"
+          }
+        },
+        {
+          "key": "9",
+          "text": {
+            "fr": "",
+            "en": "¶ Rejoice, O young man, in thy youth; and let thy heart cheer thee in the days of thy youth, and walk in the ways of thine heart, and in the sight of thine eyes: but know thou, that for all these things God will bring thee into judgment.",
+            "zh": "少年人哪、你在幼年時當快樂．在幼年的日子、使你的心歡暢、行你心所願行的、看你眼所愛看的、卻要知道、為這一切的事、　神必審問你。",
+            "jp": "若わかい者ものよ、あなたの若わかい時ときに楽たのしめ。あなたの若わかい日ひにあなたの心こころを喜よろこばせよ。あなたの心こころの道みちに歩あゆみ、あなたの目めの見みるところに歩あゆめ。ただし、そのすべての事ことのために、神かみはあなたをさばかれることを知しれ。",
+            "kr": "청년이여 네 어린 때를 즐거워하며 네 청년의 날들을 마음에 기뻐하여 마음에 원하는 길들과 네 눈이 보는 대로 행하라 그러나 하나님이 이 모든 일로 말미암아 너를 심판하실 줄 알라"
+          }
+        },
+        {
+          "key": "10",
+          "text": {
+            "fr": "",
+            "en": "Therefore remove sorrow from thy heart, and put away evil from thy flesh: for childhood and youth are vanity.",
+            "zh": "所以你當從心中除掉愁煩．從肉體克去邪惡．因為一生的開端、和幼年之時、都是虛空的。",
+            "jp": "あなたの心こころから悩なやみを去さり、あなたのからだから痛いたみを除のぞけ。若わかい時ときと盛さかんな時ときはともに空くうだからである。",
+            "kr": "그런즉 근심이 네 마음에서 떠나게 하며 악이 네 몸에서 물러가게 하라 어릴 때와 검은 머리의 시절이 다 헛되니라"
+          }
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "introduction": {
+        "fr": "À la mort, l’esprit retourne à Dieu qui l’a donné. Les paroles des sages sont comme des aiguillons. Ce que doit faire tout homme, c’est craindre Dieu et observer ses commandements.",
+        "en": "At death the spirit will return to God who gave it—The words of the wise are as goads—The whole duty of man is to fear God and keep His commandments.",
+        "zh": "At death the spirit will return to God who gave it—The words of the wise are as goads—The whole duty of man is to fear God and keep His commandments.",
+        "jp": "At death the spirit will return to God who gave it—The words of the wise are as goads—The whole duty of man is to fear God and keep His commandments.",
+        "kr": "At death the spirit will return to God who gave it—The words of the wise are as goads—The whole duty of man is to fear God and keep His commandments."
+      },
+      "verses": [
+        {
+          "key": "1",
+          "text": {
+            "fr": "Jeune homme, réjouis-toi dans ta jeunesse, livre ton cœur à la joie pendant les jours de ta jeunesse, marche dans les voies de ton cœur et selon les regards de tes yeux ; mais sache que pour tout cela Dieu t’appellera en jugement.",
+            "en": "Remember now thy Creator in the days of thy youth, while the evil days come not, nor the years draw nigh, when thou shalt say, I have no pleasure in them;",
+            "zh": "你趁著年幼、衰敗的日子尚未來到、就是你所說、我毫無喜樂的那些年日未曾臨近之先、當記念造你的主．",
+            "jp": "あなたの若わかい日ひに、あなたの造つくり主ぬしを覚おぼえよ。悪あしき日ひがきたり、年としが寄よって、「わたしにはなんの楽たのしみもない」と言いうようにならない前まえに、",
+            "kr": "너는 청년의 때에 너의 창조주를 기억하라 곧 곤고한 날이 이르기 전에, 나는 아무 낙이 없다고 할 해들이 가깝기 전에"
+          }
+        },
+        {
+          "key": "2",
+          "text": {
+            "fr": "Bannis de ton cœur le chagrin et éloigne le mal de ton corps ; car la jeunesse et l’aurore sont vanité.",
+            "en": "While the sun, or the light, or the moon, or the stars, be not darkened, nor the clouds return after the rain:",
+            "zh": "不要等到日頭、光明、月亮、星宿、變為黑暗、雨後雲彩反回、",
+            "jp": "また日ひや光ひかりや、月つきや星ほしの暗くらくならない前まえに、雨あめの後のちにまた雲くもが帰かえらないうちに、そのようにせよ。",
+            "kr": "해와 빛과 달과 별들이 어둡기 전에, 비 뒤에 구름이 다시 일어나기 전에 그리하라"
+          }
+        },
+        {
+          "key": "3",
+          "text": {
+            "fr": "Mais souviens-toi de ton créateur pendant les jours de ta jeunesse, avant que les jours mauvais arrivent et que les années s’approchent où tu diras : Je n’y prends pas de plaisir ;",
+            "en": "In the day when the keepers of the house shall tremble, and the strong men shall bow themselves, and the grinders cease because they are few, and those that look out of the windows be darkened,",
+            "zh": "看守房屋的發顫、有力的屈身、推磨的稀少就止息、從窗戶往外看的都昏暗、",
+            "jp": "その日ひになると、家いえを守まもる者ものは震ふるえ、力ちからある人ひとはかがみ、ひきこなす女おんなは少すくないために休やすみ、窓まどからのぞく者ものの目めはかすみ、",
+            "kr": "그런 날에는 집을 지키는 자들이 떨 것이며 힘 있는 자들이 구부러질 것이며 맷돌질 하는 자들이 적으므로 그칠 것이며 창들로 내다 보는 자가 어두워질 것이며"
+          }
+        },
+        {
+          "key": "4",
+          "text": {
+            "fr": "avant que s’obscurcissent le soleil et la lumière, la lune et les étoiles, et que les nuages reviennent après la pluie,",
+            "en": "And the doors shall be shut in the streets, when the sound of the grinding is low, and he shall rise up at the voice of the bird, and all the daughters of musick shall be brought low;",
+            "zh": "街門關閉、推磨的響聲微小、雀鳥一叫、人就起來、歌唱的女子、也都衰微、",
+            "jp": "町まちの門もんは閉とざされる。その時ときひきこなす音おとは低ひくくなり、人ひとは鳥とりの声こえによって起おきあがり、歌うたの娘むすめたちは皆みな、低ひくくされる。",
+            "kr": "길거리 문들이 닫혀질 것이며 맷돌 소리가 적어질 것이며 새의 소리로 말미암아 일어날 것이며 음악하는 여자들은 다 쇠하여질 것이며"
+          }
+        },
+        {
+          "key": "5",
+          "text": {
+            "fr": "temps où les gardiens de la maison tremblent, où les hommes forts se courbent, où celles qui moulent s’arrêtent parce qu’elles sont diminuées, où ceux qui regardent par les fenêtres sont obscurcis,",
+            "en": "Also when they shall be afraid of that which is high, and fears shall be in the way, and the almond tree shall flourish, and the grasshopper shall be a burden, and desire shall fail: because man goeth to his long home, and the mourners go about the streets:",
+            "zh": "人怕高處、路上有驚慌、杏樹開花、蚱蜢成為重擔、人所願的也都廢掉、因為人歸他永遠的家、弔喪的在街上往來、",
+            "jp": "彼かれらはまた高たかいものを恐おそれる。恐おそろしいものが道みちにあり、あめんどうは花はな咲さき、いなごはその身みをひきずり歩あるき、その欲望よくぼうは衰おとろえ、人ひとが永遠えいえんの家いえに行いこうとするので、泣なく人ひとが、ちまたを歩あるきまわる。",
+            "kr": "또한 그런 자들은 높은 곳을 두려워할 것이며 길에서는 놀랄 것이며 살구나무가 꽃이 필 것이며 메뚜기도 짐이 될 것이며 정욕이 그치리니 이는 사람이 자기의 영원한 집으로 돌아가고 조문객들이 거리로 왕래하게 됨이니라"
+          }
+        },
+        {
+          "key": "6",
+          "text": {
+            "fr": "où les deux battants de la porte se ferment sur la rue quand s’abaisse le bruit de la meule, où l’on se lève au chant de l’oiseau, où s’affaiblissent toutes les filles du chant,",
+            "en": "Or ever the silver cord be loosed, or the golden bowl be broken, or the pitcher be broken at the fountain, or the wheel broken at the cistern.",
+            "zh": "銀鍊折斷、金罐破裂、瓶子在泉旁損壞、水輪在井口破爛、",
+            "jp": "その後のち、銀ぎんのひもは切きれ、金きんの皿さらは砕くだけ、水みずがめは泉いずみのかたわらで破やぶれ、車くるまは井戸いどのかたわらで砕くだける。",
+            "kr": "은 줄이 풀리고 금 그릇이 깨지고 항아리가 샘 곁에서 깨지고 바퀴가 우물 위에서 깨지고"
+          }
+        },
+        {
+          "key": "7",
+          "text": {
+            "fr": "où l’on redoute ce qui est élevé, où l’on a des terreurs en chemin, où l’amandier fleurit, où la sauterelle devient pesante et où la câpre n’a plus d’effet, car l’homme s’en va vers sa demeure éternelle et les pleureurs parcourent les rues ;",
+            "en": "Then shall the dust return to the earth as it was: and the spirit shall return unto God who gave it.",
+            "zh": "塵土仍歸於地、靈仍歸於賜靈的　神。",
+            "jp": "ちりは、もとのように土つちに帰かえり、霊れいはこれを授さづけた神かみに帰かえる。",
+            "kr": "흙은 여전히 땅으로 돌아가고 영은 그것을 주신 하나님께로 돌아가기 전에 기억하라"
+          }
+        },
+        {
+          "key": "8",
+          "text": {
+            "fr": "avant que le cordon d’argent se détache, que le vase en or se brise, que le seau se rompe sur la source et que la roue se casse sur la citerne ;",
+            "en": "¶ Vanity of vanities, saith the preacher; all is vanity.",
+            "zh": "傳道者說、虛空的虛空、凡事都是虛空。",
+            "jp": "伝道者でんどうしゃは言いう、「空くうの空くう、いっさいは空くうである」と。",
+            "kr": "전도자가 이르되 헛되고 헛되도다 모든 것이 헛되도다"
+          }
+        },
+        {
+          "key": "9",
+          "text": {
+            "fr": "avant que la poussière retourne à la terre comme elle y était, et que l’esprit retourne à Dieu qui l’a donné.",
+            "en": "And moreover, because the preacher was wise, he still taught the people knowledge; yea, he gave good heed, and sought out, and set in order many proverbs.",
+            "zh": "再者、傳道者因有智慧、仍將知識教訓眾人．又默想、又考查、又陳說許多箴言。",
+            "jp": "さらに伝道者でんどうしゃは知恵ちえがあるゆえに、知識ちしきを民たみに教おしえた。彼かれはよく考かんがえ、尋たずねきわめ、あまたの箴言しんげんをまとめた。",
+            "kr": "전도자는 지혜자이어서 여전히 백성에게 지식을 가르쳤고 또 깊이 생각하고 연구하여 잠언을 많이 지었으며"
+          }
+        },
+        {
+          "key": "10",
+          "text": {
+            "fr": "Vanité des vanités, dit l’Ecclésiaste, tout est vanité.",
+            "en": "The preacher sought to find out acceptable words: and that which was written was upright, even words of truth.",
+            "zh": "傳道者專心尋求可喜悅的言語、是憑正直寫的誠實話。",
+            "jp": "伝道者でんどうしゃは麗うるわしい言葉ことばを得えようとつとめた。また彼かれは真実しんじつの言葉ことばを正ただしく書かきしるした。",
+            "kr": "전도자는 힘써 아름다운 말들을 구하였나니 진리의 말씀들을 정직하게 기록하였느니라"
+          }
+        },
+        {
+          "key": "11",
+          "text": {
+            "fr": "Outre que l’Ecclésiaste fut un sage, il a encore enseigné la connaissance au peuple et il a examiné, sondé, mis en ordre un grand nombre de proverbes.",
+            "en": "The words of the wise are as goads, and as nails fastened by the masters of assemblies, which are given from one shepherd.",
+            "zh": "智慧人的言語、好像刺棍．會中之師的言語、又像釘穩的釘子．都是一個牧者所賜的。",
+            "jp": "知者ちしゃの言葉ことばは突つき棒ぼうのようであり、またよく打うった釘くぎのようなものであって、ひとりの牧者ぼくしゃから出でた言葉ことばが集あつめられたものである。",
+            "kr": "지혜자들의 말씀들은 찌르는 채찍들 같고 회중의 스승들의 말씀들은 잘 박힌 못 같으니 다 한 목자가 주신 바이니라"
+          }
+        },
+        {
+          "key": "12",
+          "text": {
+            "fr": "L’Ecclésiaste s’est efforcé de trouver des paroles agréables ; et ce qui a été écrit avec droiture, ce sont des paroles de vérité.",
+            "en": "And further, by these, my son, be admonished: of making many books there is no end; and much study is a weariness of the flesh.",
+            "zh": "我兒、還有一層、你當受勸戒．著書多、沒有窮盡．讀書多、身體疲倦。",
+            "jp": "わが子こよ、これら以外いがいの事ことにも心こころを用もちいよ。多おおくの書しょを作つくれば際限さいげんがない。多おおく学まなべばからだが疲つかれる。",
+            "kr": "내 아들아 또 이것들로부터 경계를 받으라 많은 책들을 짓는 것은 끝이 없고 많이 공부하는 것은 몸을 피곤하게 하느니라"
+          }
+        },
+        {
+          "key": "13",
+          "text": {
+            "fr": "Les paroles des sages sont comme des aiguillons ; et, rassemblées en un recueil, elles sont comme des clous plantés, données par un seul maître.",
+            "en": "¶ Let us hear the conclusion of the whole matter: Fear God, and keep his commandments: for this is the whole duty of man.",
+            "zh": "這些事都已聽見了．總意就是敬畏　神、謹守他的誡命、這是人所當盡的本分。〔或作這是眾人的本分〕",
+            "jp": "事ことの帰きする所ところは、すべて言いわれた。すなわち、神かみを恐おそれ、その命令めいれいを守まもれ。これはすべての人ひとの本分ほんぶんである。",
+            "kr": "일의 결국을 다 들었으니 하나님을 경외하고 그의 명령들을 지킬지어다 이것이 모든 사람의 본분이니라"
+          }
+        },
+        {
+          "key": "14",
+          "text": {
+            "fr": "Du reste, mon fils, tire instruction de ces choses ; on n’en finirait pas si l’on voulait faire un grand nombre de livres, et beaucoup d’étude est une fatigue pour le corps.",
+            "en": "For God shall bring every work into judgment, with every secret thing, whether it be good, or whether it be evil.",
+            "zh": "因為人所作的事、連一切隱藏的事、無論是善是惡、　神都必審問。",
+            "jp": "神かみはすべてのわざ、ならびにすべての隠かくれた事ことを善悪ぜんあくともにさばかれるからである。",
+            "kr": "하나님은 모든 행위와 모든 은밀한 일을 선악 간에 심판하시리라"
+          }
+        }
+      ]
+    }
+  ]
+}

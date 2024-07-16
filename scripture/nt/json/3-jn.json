@@ -1,0 +1,177 @@
+{
+  "book": {
+    "fr": "3 JEAN",
+    "en": "THE THIRD EPISTLE OF",
+    "zh": "約翰三書",
+    "jp": "ヨハネの第だい三の手紙てがみ",
+    "kr": "요한3서"
+  },
+  "theme": {
+    "fr": "Chapitre 1",
+    "en": "",
+    "zh": "第1章",
+    "jp": "第1章",
+    "kr": "제 1 장"
+  },
+  "introduction": {
+    "fr": "",
+    "en": "Chapter 1",
+    "zh": "",
+    "jp": "Chapter 1",
+    "kr": "Chapter 1"
+  },
+  "chapters": [
+    {
+      "number": 1,
+      "introduction": {
+        "fr": "John commends Gaius for his help to those who love the truth.",
+        "en": "John commends Gaius for his help to those who love the truth.",
+        "zh": "John commends Gaius for his help to those who love the truth.",
+        "jp": "John commends Gaius for his help to those who love the truth.",
+        "kr": "John commends Gaius for his help to those who love the truth."
+      },
+      "verses": [
+        {
+          "key": "1",
+          "text": {
+            "fr": "L’ancien, à Gaïus, le bien aimé, que j’aime dans la vérité.",
+            "en": "The elder unto the wellbeloved Gaius, whom I love in the truth.",
+            "zh": "作長老的寫信給親愛的該猶、就是我誠心所愛的。",
+            "jp": "長老ちょうろうのわたしから、真実しんじつに愛あいしている親愛しんあいなるガイオへ。",
+            "kr": "장로인 나는 사랑하는 가이오 곧 내가 참으로 사랑하는 자에게 편지하노라"
+          }
+        },
+        {
+          "key": "2",
+          "text": {
+            "fr": "Bien-aimé, je souhaite que tu prospères à tous égards et sois en bonne santé, comme prospère l’état de ton âme.",
+            "en": "Beloved, I wish above all things that thou mayest prosper and be in health, even as thy soul prospereth.",
+            "zh": "親愛的兄弟阿、我願你凡事興盛、身體健壯、正如你的靈魂興盛一樣。",
+            "jp": "愛あいする者ものよ。あなたのたましいがいつも恵めぐまれていると同おなじく、あなたがすべてのことに恵めぐまれ、またすこやかであるようにと、わたしは祈いのっている。",
+            "kr": "사랑하는 자여 네 영혼이 잘됨 같이 네가 범사에 잘되고 강건하기를 내가 간구하노라"
+          }
+        },
+        {
+          "key": "3",
+          "text": {
+            "fr": "J’ai été fort réjoui, lorsque des frères sont arrivés et ont rendu témoignage de la vérité qui est en toi, de la manière dont tu marches dans la vérité.",
+            "en": "For I rejoiced greatly, when the brethren came and testified of the truth that is in thee, even as thou walkest in the truth.",
+            "zh": "有弟兄來證明你心裡存的真理、正如你按真理而行、我就甚喜樂。",
+            "jp": "兄弟きょうだいたちがきて、あなたが真理しんりに生いきていることを、あかししてくれたので、ひじょうに喜よろこんでいる。事実じじつ、あなたは真理しんりのうちを歩あるいているのである。",
+            "kr": "형제들이 와서 네게 있는 진리를 증언하되 네가 진리 안에서 행한다 하니 내가 심히 기뻐하노라"
+          }
+        },
+        {
+          "key": "4",
+          "text": {
+            "fr": "Je n’ai pas de plus grande joie que d’apprendre que mes enfants marchent dans la vérité.",
+            "en": "I have no greater joy than to hear that my children walk in truth.",
+            "zh": "我聽見我的兒女們按真理而行、我的喜樂就沒有比這個大的。",
+            "jp": "わたしの子供こどもたちが真理しんりのうちを歩あるいていることを聞きく以上いじょうに、大おおきい喜よろこびはない。",
+            "kr": "내가 내 자녀들이 진리 안에서 행한다 함을 듣는 것보다 더 기쁜 일이 없도다"
+          }
+        },
+        {
+          "key": "5",
+          "text": {
+            "fr": "Bien-aimé, tu agis fidèlement dans ce que tu fais pour les frères, et même pour des frères étrangers,",
+            "en": "Beloved, thou doest faithfully whatsoever thou doest to the brethren, and to strangers;",
+            "zh": "親愛的兄弟阿、凡你向作客旅之弟兄所行的、都是忠心的．",
+            "jp": "愛あいする者ものよ。あなたが、兄弟きょうだいたち、しかも旅先たびさきにある者ものにつくしていることは、みな真実しんじつなわざである。",
+            "kr": "사랑하는 자여 네가 무엇이든지 형제 곧 나그네 된 자들에게 행하는 것은 신실한 일이니"
+          }
+        },
+        {
+          "key": "6",
+          "text": {
+            "fr": "lesquels ont rendu témoignage de ta charité, en présence de l’Église. Tu feras bien de pourvoir à leur voyage d’une manière digne de Dieu.",
+            "en": "Which have borne witness of thy charity before the church: whom if thou bring forward on their journey after a godly sort, thou shalt do well:",
+            "zh": "他們在教會面前證明了你的愛．你若配得過　神、幫助他們往前行、這就好了．",
+            "jp": "彼かれらは、諸しょ教会きょうかいで、あなたの愛あいについてあかしをした。それらの人々ひとびとを、神かみのみこころにかなうように送おくり出だしてくれたら、それは願ねがわしいことである。",
+            "kr": "그들이 교회 앞에서 너의 사랑을 증언하였느니라 네가 하나님께 합당하게 그들을 전송하면 좋으리로다"
+          }
+        },
+        {
+          "key": "7",
+          "text": {
+            "fr": "Car c’est pour le nom de Jésus Christ qu’ils sont partis, sans rien recevoir des païens.",
+            "en": "Because that for his name’s sake they went forth, taking nothing of the Gentiles.",
+            "zh": "因他們是為主的名〔原文作那名〕出外、對於外邦人一無所取。",
+            "jp": "彼かれらは、御名みなのために旅立たびだった者ものであって、異邦人いほうじんからは何なにも受うけていない。",
+            "kr": "이는 그들이 주의 이름을 위하여 나가서 이방인에게 아무 것도 받지 아니함이라"
+          }
+        },
+        {
+          "key": "8",
+          "text": {
+            "fr": "Nous devons donc accueillir de tels hommes, afin d’être ouvriers avec eux pour la vérité.",
+            "en": "We therefore ought to receive such, that we might be fellowhelpers to the truth.",
+            "zh": "所以我們應該接待這樣的人、叫我們與他們一同為真理作工。",
+            "jp": "それだから、わたしたちは、真理しんりのための同労者どうろうしゃとなるように、こういう人々ひとびとを助たすけねばならない。",
+            "kr": "그러므로 우리가 이같은 자들을 영접하는 것이 마땅하니 이는 우리로 진리를 위하여 함께 일하는 자가 되게 하려 함이라"
+          }
+        },
+        {
+          "key": "9",
+          "text": {
+            "fr": "J’ai écrit quelques mots à l’Église ; mais Diotrèphe, qui aime à être le premier parmi eux, ne nous reçoit point.",
+            "en": "I wrote unto the church: but Diotrephes, who loveth to have the preeminence among them, receiveth us not.",
+            "zh": "我曾略略的寫信給教會．但那在教會中好為首的丟特腓不接待我們。",
+            "jp": "わたしは少すこしばかり教会きょうかいに書かきおくっておいたが、みんなのかしらになりたがっているデオテレペスが、わたしたちを受うけいれてくれない。",
+            "kr": "내가 두어 자를 교회에 썼으나 그들 중에 으뜸되기를 좋아하는 디오드레베가 우리를 맞아들이지 아니하니"
+          }
+        },
+        {
+          "key": "10",
+          "text": {
+            "fr": "C’est pourquoi, si je vais, je rappellerai les actes qu’il commet, en tenant contre nous de méchants propos ; non content de cela, il ne reçoit pas les frères, et ceux qui voudraient le faire, il les en empêche et les chasse de l’Église.",
+            "en": "Wherefore, if I come, I will remember his deeds which he doeth, prating against us with malicious words: and not content therewith, neither doth he himself receive the brethren, and forbiddeth them that would, and casteth them out of the church.",
+            "zh": "所以我若去、必要提說他所行的事、就是他用惡言妄論我們．還不以此為足、他自己不接待弟兄、有人願意接待、他也禁止、並且將接待弟兄的人趕出教會。",
+            "jp": "だから、わたしがそちらへ行いった時とき、彼かれのしわざを指摘してきしようと思おもう。彼かれは口くちぎたなくわたしたちをののしり、そればかりか、兄弟きょうだいたちを受うけいれようともせず、受うけいれようとする人ひとたちを妨さまたげて、教会きょうかいから追おい出だしている。",
+            "kr": "그러므로 내가 가면 그 행한 일을 잊지 아니하리라 그가 악한 말로 우리를 비방하고도 오히려 부족하여 형제들을 맞아들이지도 아니하고 맞아들이고자 하는 자를 금하여 교회에서 내쫓는도다"
+          }
+        },
+        {
+          "key": "11",
+          "text": {
+            "fr": "Bien-aimé, n’imite pas le mal, mais le bien. Celui qui fait le bien est de Dieu ; celui qui fait le mal n’a point vu Dieu.",
+            "en": "Beloved, follow not that which is evil, but that which is good. He that doeth good is of God: but he that doeth evil hath not seen God.",
+            "zh": "親愛的兄弟阿、不要效法惡、只要效法善。行善的屬乎　神．行惡的未曾見過　神。",
+            "jp": "愛あいする者ものよ。悪あくにならわないで、善ぜんにならいなさい。善ぜんを行おこなう者ものは神かみから出でた者ものであり、悪あくを行おこなう者ものは神かみを見みたことのない者ものである。",
+            "kr": "사랑하는 자여 악한 것을 본받지 말고 선한 것을 본받으라 선을 행하는 자는 하나님께 속하고 악을 행하는 자는 하나님을 뵈옵지 못하였느니라"
+          }
+        },
+        {
+          "key": "12",
+          "text": {
+            "fr": "Tous, et la vérité elle-même, rendent un bon témoignage à Démétrius ; nous aussi, nous lui rendons témoignage, et tu sais que notre témoignage est vrai.",
+            "en": "Demetrius hath good report of all men, and of the truth itself: yea, and we also bear record; and ye know that our record is true.",
+            "zh": "低米丟行善、有眾人給他作見證．又有真理給他作見證．就是我們也給他作見證．你也知道我們的見證是真的。",
+            "jp": "デメテリオについては、あらゆる人ひとも、また真理しんりそのものも、証明しょうめいしている。わたしたちも証明しょうめいしている。そして、あなたが知しっているとおり、わたしたちの証明しょうめいは真実しんじつである。",
+            "kr": "데메드리오는 뭇 사람에게도, 진리에게서도 증거를 받았으매 우리도 증언하노니 너는 우리의 증언이 참된 줄을 아느니라"
+          }
+        },
+        {
+          "key": "13",
+          "text": {
+            "fr": "J’aurais beaucoup de choses à t’écrire, mais je ne veux pas le faire avec l’encre et la plume.",
+            "en": "I had many things to write, but I will not with ink and pen write unto thee:",
+            "zh": "我原有許多事要寫給你、卻不願意用筆墨寫給你．",
+            "jp": "あなたに書かきおくりたいことはたくさんあるが、墨すみと筆ふでとで書かくことはすまい。",
+            "kr": "내가 네게 쓸 것이 많으나 먹과 붓으로 쓰기를 원하지 아니하고"
+          }
+        },
+        {
+          "key": "14",
+          "text": {
+            "fr": "J’espère te voir bientôt, et nous parlerons de bouche à bouche.",
+            "en": "But I trust I shall shortly see thee, and we shall speak face to face. Peace be to thee. Our friends salute thee. Greet the friends by name.",
+            "zh": "但盼望快快的見你、我們就當面談論．",
+            "jp": "すぐにでもあなたに会あって、直接ちょくせつはなし合あいたいものである。",
+            "kr": "속히 보기를 바라노니 또한 우리가 대면하여 말하리라"
+          }
+        }
+      ]
+    }
+  ]
+}

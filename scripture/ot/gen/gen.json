@@ -1,8 +1,8 @@
 {
   "book": {
     "fr": "GENÈSE",
-    "en": "THE FIRST BOOK OF MOSES",
-    "zh": "摩西的第一部書稱為創世記",
+    "en": "GENESIS",
+    "zh": "創世記",
     "jp": "創世そうせい記き",
     "kr": "창세기"
   },
@@ -15,10 +15,10 @@
   },
   "introduction": {
     "fr": "En six jours, Dieu crée la terre, le ciel et toutes formes de vie. Description de ce qui est créé chaque jour. Dieu crée l’homme à son image, homme et femme. Il est donné à l’homme de dominer sur toutes choses et il reçoit le commandement de se multiplier et de remplir la terre.",
-    "en": "",
+    "en": "God creates this earth and its heaven and all forms of life in six days—The creative acts of each day are described—God creates man, both male and female, in His own image—Man is given dominion over all things and is commanded to multiply and fill the earth.",
     "zh": "神在六日內創造這大地及其上的天，和所有樣式的生命——敘述各日的創造工作——神按自己的形像造人，祂造男造女——使人管理萬物，並命令他生養眾多，遍滿地面。",
-    "jp": "",
-    "kr": ""
+    "jp": "God creates this earth and its heaven and all forms of life in six days—The creative acts of each day are described—God creates man, both male and female, in His own image—Man is given dominion over all things and is commanded to multiply and fill the earth.",
+    "kr": "God creates this earth and its heaven and all forms of life in six days—The creative acts of each day are described—God creates man, both male and female, in His own image—Man is given dominion over all things and is commanded to multiply and fill the earth."
   },
   "chapters": [
     {

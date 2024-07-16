@@ -1,0 +1,553 @@
+{
+  "book": {
+    "fr": "JONAS",
+    "en": "JONAH",
+    "zh": "約拿書",
+    "jp": "ヨナ書しょ",
+    "kr": "요나"
+  },
+  "theme": {
+    "fr": "Chapitre 1",
+    "en": "Chapter 1",
+    "zh": "第1章",
+    "jp": "第1章",
+    "kr": "제 1 장"
+  },
+  "introduction": {
+    "fr": "Jonas est envoyé prêcher le repentir à Ninive. Il s’enfuie sur un navire et il est jeté à la mer.",
+    "en": "Jonah is sent to call Nineveh to repentance—He flees on a ship, is cast into the sea, and is swallowed by a great fish.",
+    "zh": "",
+    "jp": "Jonah is sent to call Nineveh to repentance—He flees on a ship, is cast into the sea, and is swallowed by a great fish.",
+    "kr": "Jonah is sent to call Nineveh to repentance—He flees on a ship, is cast into the sea, and is swallowed by a great fish."
+  },
+  "chapters": [
+    {
+      "number": 1,
+      "introduction": {
+        "fr": "Jonas est envoyé prêcher le repentir à Ninive. Il s’enfuie sur un navire et il est jeté à la mer.",
+        "en": "Jonah is sent to call Nineveh to repentance—He flees on a ship, is cast into the sea, and is swallowed by a great fish.",
+        "zh": "Jonah is sent to call Nineveh to repentance—He flees on a ship, is cast into the sea, and is swallowed by a great fish.",
+        "jp": "Jonah is sent to call Nineveh to repentance—He flees on a ship, is cast into the sea, and is swallowed by a great fish.",
+        "kr": "Jonah is sent to call Nineveh to repentance—He flees on a ship, is cast into the sea, and is swallowed by a great fish."
+      },
+      "verses": [
+        {
+          "key": "1",
+          "text": {
+            "fr": "La parole de l’Éternel fut adressée à Jonas, fils d’Amitthaï, en ces mots :",
+            "en": "Now the word of the Lord came unto Jonah the son of Amittai, saying,",
+            "zh": "耶和華的話臨到亞米太的兒子約拿、說、",
+            "jp": "主しゅの言葉ことばがアミッタイの子こヨナに臨のぞんで言いった、",
+            "kr": "여호와의 말씀이 아밋대의 아들 요나에게 임하니라 이르시되"
+          }
+        },
+        {
+          "key": "2",
+          "text": {
+            "fr": "Lève-toi, va à Ninive, la grande ville, et crie contre elle ! car sa méchanceté est montée jusqu’à moi.",
+            "en": "Arise, go to Nineveh, that great city, and cry against it; for their wickedness is come up before me.",
+            "zh": "你起來往尼尼微大城去、向其中的居民呼喊、因為他們的惡達到我面前。",
+            "jp": "「立たって、あの大おおきな町まちニネベに行いき、これに向むかって呼よばわれ。彼かれらの悪あくがわたしの前まえに上のぼってきたからである」。",
+            "kr": "너는 일어나 저 큰 성읍 니느웨로 가서 그것을 향하여 외치라 그 악독이 내 앞에 상달되었음이니라 하시니라"
+          }
+        },
+        {
+          "key": "3",
+          "text": {
+            "fr": "Et Jonas se leva pour s’enfuir à Tarsis, loin de la face de l’Éternel. Il descendit à Japho et il trouva un navire qui allait à Tarsis ; il paya le prix du transport et s’embarqua pour aller avec les passagers à Tarsis, loin de la face de l’Éternel.",
+            "en": "But Jonah rose up to flee unto Tarshish from the presence of the Lord, and went down to Joppa; and he found a ship going to Tarshish: so he paid the fare thereof, and went down into it, to go with them unto Tarshish from the presence of the Lord.",
+            "zh": "約拿卻起來、逃往他施去躲避耶和華．下到約帕、遇見一隻船、要往他施去。他就給了船價、上了船、要與船上的人同往他施去躲避耶和華。",
+            "jp": "しかしヨナは主しゅの前まえを離はなれてタルシシへのがれようと、立たってヨッパに下くだって行いった。ところがちょうど、タルシシへ行いく船ふねがあったので、船賃ふなちんを払はらい、主しゅの前まえを離はなれて、人々ひとびとと共ともにタルシシへ行いこうと船ふねに乗のった。",
+            "kr": "그러나 요나가 여호와의 얼굴을 피하려고 일어나 다시스로 도망하려 하여 욥바로 내려갔더니 마침 다시스로 가는 배를 만난지라 여호와의 얼굴을 피하여 그들과 함께 다시스로 가려고 배삯을 주고 배에 올랐더라"
+          }
+        },
+        {
+          "key": "4",
+          "text": {
+            "fr": "Mais l’Éternel fit souffler sur la mer un vent impétueux et il s’éleva sur la mer une grande tempête. Le navire menaçait de faire naufrage.",
+            "en": "¶ But the Lord sent out a great wind into the sea, and there was a mighty tempest in the sea, so that the ship was like to be broken.",
+            "zh": "然而耶和華使海中起大風、海就狂風大作、甚至船幾乎破壞。",
+            "jp": "時ときに、主しゅは大風おおかぜを海うみの上うえに起おこされたので、船ふねが破やぶれるほどの激はげしい暴風ぼうふうが海うみの上うえにあった。",
+            "kr": "여호와께서 큰 바람을 바다 위에 내리시매 바다 가운데에 큰 폭풍이 일어나 배가 거의 깨지게 된지라"
+          }
+        },
+        {
+          "key": "5",
+          "text": {
+            "fr": "Les marins eurent peur, ils implorèrent chacun leur dieu et ils jetèrent dans la mer les objets qui étaient sur le navire afin de le rendre plus léger. Jonas descendit au fond du navire, se coucha et s’endormit profondément.",
+            "en": "Then the mariners were afraid, and cried every man unto his god, and cast forth the wares that were in the ship into the sea, to lighten it of them. But Jonah was gone down into the sides of the ship; and he lay, and was fast asleep.",
+            "zh": "水手便懼怕、各人哀求自己的神．他們將船上的貨物拋在海中、為要使船輕些。約拿已下到底艙、躺臥沉睡。",
+            "jp": "それで水夫すいふたちは恐おそれて、めいめい自分じぶんの神かみを呼よび求もとめ、また船ふねを軽かるくするため、その中なかの積つみ荷にを海うみに投なげ捨すてた。しかし、ヨナは船ふねの奥おくに下くだり、伏ふして熟睡じゅくすいしていた。",
+            "kr": "사공들이 두려워하여 각각 자기의 신을 부르고 또 배를 가볍게 하려고 그 가운데 물건들을 바다에 던지니라 그러나 요나는 배 밑층에 내려가서 누워 깊이 잠이 든지라"
+          }
+        },
+        {
+          "key": "6",
+          "text": {
+            "fr": "Le pilote s’approcha de lui, et lui dit : Pourquoi dors-tu ? Lève-toi, invoque ton Dieu ! peut-être voudra-t-il penser à nous et nous ne périrons pas.",
+            "en": "So the shipmaster came to him, and said unto him, What meanest thou, O sleeper? arise, call upon thy God, if so be that God will think upon us, that we perish not.",
+            "zh": "船主到他那裡對他說、你這沉睡的人哪、為何這樣呢。起來、求告你的神、或者神顧念我們、使我們不至滅亡。",
+            "jp": "そこで船長せんちょうは来きて、彼かれに言いった、「あなたはどうして眠ねむっているのか。起おきて、あなたの神かみに呼よばわりなさい。神かみがあるいは、われわれを顧かえりみて、助たすけてくださるだろう」。",
+            "kr": "선장이 그에게 가서 이르되 자는 자여 어찌함이냐 일어나서 네 하나님께 구하라 혹시 하나님이 우리를 생각하사 망하지 아니하게 하시리라 하니라"
+          }
+        },
+        {
+          "key": "7",
+          "text": {
+            "fr": "Et il se dirent l’un à l’autre : Venez, et tirons au sort pour savoir qui nous attire ce malheur. Ils tirèrent au sort et le sort tomba sur Jonas.",
+            "en": "And they said every one to his fellow, Come, and let us cast lots, that we may know for whose cause this evil is upon us. So they cast lots, and the lot fell upon Jonah.",
+            "zh": "船上的人彼此說、來罷、我們掣籤、看看這災臨到我們是因誰的緣故．於是他們掣籤、掣出約拿來。",
+            "jp": "やがて人々ひとびとは互たがいに言いった、「この災わざわいがわれわれに臨のぞんだのは、だれのせいか知しるために、さあ、くじを引ひいてみよう」。そして彼かれらが、くじを引ひいたところ、くじはヨナに当あたった。",
+            "kr": "그들이 서로 이르되, 자 우리가 제비를 뽑아 이 재앙이 누구로 말미암아 우리에게 임하였나 알아 보자 하고 곧 제비를 뽑으니 제비가 요나에게 뽑힌지라"
+          }
+        },
+        {
+          "key": "8",
+          "text": {
+            "fr": "Alors ils lui dirent : Dis-nous qui nous attire ce malheur. Quelles sont tes affaires et d’où viens-tu ? Quel est ton pays et de quel peuple es-tu ?",
+            "en": "Then said they unto him, Tell us, we pray thee, for whose cause this evil is upon us; What is thine occupation? and whence comest thou? what is thy country? and of what people art thou?",
+            "zh": "眾人對他說、請你告訴我們、這災臨到我們是因誰的緣故．你以何事為業．你從那裡來．你是哪一國、屬那一族的人。",
+            "jp": "そこで人々ひとびとはヨナに言いった、「この災わざわいがだれのせいで、われわれに臨のぞんだのか、われわれに告つげなさい。あなたの職業しょくぎょうは何なにか。あなたはどこから来きたのか。あなたの国くにはどこか。あなたはどこの民たみか」。",
+            "kr": "무리가 그에게 이르되 청하건대 이 재앙이 누구 때문에 우리에게 임하였는가 말하라 네 생업이 무엇이며 네가 어디서 왔으며 네 나라가 어디며 어느 민족에 속하였느냐 하니"
+          }
+        },
+        {
+          "key": "9",
+          "text": {
+            "fr": "Il leur répondit : Je suis Hébreu et je crains l’Éternel, le Dieu des cieux, qui a fait la mer et la terre.",
+            "en": "And he said unto them, I am an Hebrew; and I fear the Lord, the God of heaven, which hath made the sea and the dry land.",
+            "zh": "他說、我是希伯來人．我敬畏耶和華、那創造滄海旱地之天上的　神。",
+            "jp": "ヨナは彼かれらに言いった、「わたしはヘブルびとです。わたしは海うみと陸りくとをお造つくりになった天てんの神かみ、主しゅを恐おそれる者ものです」。",
+            "kr": "그가 대답하되 나는 히브리 사람이요 바다와 육지를 지으신 하늘의 하나님 여호와를 경외하는 자로라 하고"
+          }
+        },
+        {
+          "key": "10",
+          "text": {
+            "fr": "Ces hommes eurent une grande frayeur et ils lui dirent : Pourquoi as-tu fait cela ? Car ces hommes savaient qu’il fuyait loin de la face de l’Éternel parce qu’il le leur avait déclaré.",
+            "en": "Then were the men exceedingly afraid, and said unto him, Why hast thou done this? For the men knew that he fled from the presence of the Lord, because he had told them.",
+            "zh": "他們就大大懼怕、對他說、你作的是甚麼事呢．他們已經知道他躲避耶和華、因為他告訴了他們。",
+            "jp": "そこで人々ひとびとははなはだしく恐おそれて、彼かれに言いった、「あなたはなんたる事ことをしてくれたのか」。人々ひとびとは彼かれがさきに彼かれらに告つげた事ことによって、彼かれが主しゅの前まえを離はなれて、のがれようとしていた事ことを知しっていたからである。",
+            "kr": "자기가 여호와의 얼굴을 피함인 줄을 그들에게 말하였으므로 무리가 알고 심히 두려워하여 이르되 네가 어찌하여 그렇게 행하였느냐 하니라"
+          }
+        },
+        {
+          "key": "11",
+          "text": {
+            "fr": "Ils lui dirent : Que te ferons-nous pour que la mer se calme envers nous ? Car la mer était de plus en plus déchaînée.",
+            "en": "¶ Then said they unto him, What shall we do unto thee, that the sea may be calm unto us? for the sea wrought, and was tempestuous.",
+            "zh": "他們問他說、我們當向你怎樣行、使海浪平靜呢．這話是因海浪越發翻騰。",
+            "jp": "人々ひとびとは彼かれに言いった、「われわれのために海うみが静しずまるには、あなたをどうしたらよかろうか」。それは海うみがますます荒あれてきたからである。",
+            "kr": "바다가 점점 흉용한지라 무리가 그에게 이르되 우리가 너를 어떻게 하여야 바다가 우리를 위하여 잔잔하겠느냐 하니"
+          }
+        },
+        {
+          "key": "12",
+          "text": {
+            "fr": "Il leur répondit : Prenez-moi et jetez-moi dans la mer, et la mer se calmera envers vous ; car je sais que c’est moi qui attire sur vous cette grande tempête.",
+            "en": "And he said unto them, Take me up, and cast me forth into the sea; so shall the sea be calm unto you: for I know that for my sake this great tempest is upon you.",
+            "zh": "他對他們說、你們將我抬起來、拋在海中、海就平靜了．我知道你們遭這大風、是因我的緣故。",
+            "jp": "ヨナは彼かれらに言いった、「わたしを取とって海うみに投なげ入いれなさい。そうしたら海うみは、あなたがたのために静しずまるでしょう。わたしにはよくわかっています。この激はげしい暴風ぼうふうがあなたがたに臨のぞんだのは、わたしのせいです」。",
+            "kr": "그가 대답하되 나를 들어 바다에 던지라 그리하면 바다가 너희를 위하여 잔잔하리라 너희가 이 큰 폭풍을 만난 것이 나 때문인 줄을 내가 아노라 하니라"
+          }
+        },
+        {
+          "key": "13",
+          "text": {
+            "fr": "Ces hommes ramaient pour gagner la terre, mais ils n’y parvenaient pas parce que la mer s’agitait toujours plus contre eux.",
+            "en": "Nevertheless the men rowed hard to bring it to the land; but they could not: for the sea wrought, and was tempestuous against them.",
+            "zh": "然而那些人竭力盪槳、要把船攏岸、卻是不能．因為海浪越發向他們翻騰。",
+            "jp": "しかし人々ひとびとは船ふねを陸りくにこぎもどそうとつとめたが、成功せいこうしなかった。それは海うみが彼かれらに逆さからって、いよいよ荒あれたからである。",
+            "kr": "그러나 그 사람들이 힘써 노를 저어 배를 육지로 돌리고자 하다가 바다가 그들을 향하여 점점 더 흉용하므로 능히 못한지라"
+          }
+        },
+        {
+          "key": "14",
+          "text": {
+            "fr": "Alors ils invoquèrent l’Éternel et dirent : Ô Éternel, ne nous fais pas périr à cause de la vie de cet homme et ne nous charge pas du sang innocent ! Car toi, Éternel, tu fais ce que tu veux.",
+            "en": "Wherefore they cried unto the Lord, and said, We beseech thee, O Lord, we beseech thee, let us not perish for this man’s life, and lay not upon us innocent blood: for thou, O Lord, hast done as it pleased thee.",
+            "zh": "他們便求告耶和華說、耶和華阿、我們懇求你、不要因這人的性命使我們死亡．不要使流無辜血的罪歸與我們．因為你耶和華是隨自己的意旨行事。",
+            "jp": "そこで人々ひとびとは主しゅに呼よばわって言いった、「主しゅよ、どうぞ、この人ひとの生命せいめいのために、われわれを滅ほろぼさないでください。また罪つみなき血ちを、われわれに帰きしないでください。主しゅよ、これはみ心こころに従したがって、なされた事ことだからです」。",
+            "kr": "무리가 여호와께 부르짖어 이르되 여호와여 구하고 구하오니 이 사람의 생명 때문에 우리를 멸망시키지 마옵소서 무죄한 피를 우리에게 돌리지 마옵소서 주 여호와께서는 주의 뜻대로 행하심이니이다 하고"
+          }
+        },
+        {
+          "key": "15",
+          "text": {
+            "fr": "Puis ils prirent Jonas et le jetèrent dans la mer. Et la fureur de la mer s’apaisa.",
+            "en": "So they took up Jonah, and cast him forth into the sea: and the sea ceased from her raging.",
+            "zh": "他們遂將約拿抬起、拋在海中、海的狂浪就平息了。",
+            "jp": "そして彼かれらはヨナを取とって海うみに投なげ入いれた。すると海うみの荒あれるのがやんだ。",
+            "kr": "요나를 들어 바다에 던지매 바다가 뛰노는 것이 곧 그친지라"
+          }
+        },
+        {
+          "key": "16",
+          "text": {
+            "fr": "Ces hommes furent saisis d’une grande crainte de l’Éternel, et ils offrirent un sacrifice à l’Éternel, et firent des vœux.",
+            "en": "Then the men feared the Lord exceedingly, and offered a sacrifice unto the Lord, and made vows.",
+            "zh": "那些人便大大敬畏耶和華、向耶和華獻祭、並且許願。",
+            "jp": "そこで人々ひとびとは大おおいに主しゅを恐おそれ、犠牲ぎせいを主しゅにささげて、誓願せいがんを立たてた。",
+            "kr": "그 사람들이 여호와를 크게 두려워하여 여호와께 제물을 드리고 서원을 하였더라"
+          }
+        },
+        {
+          "key": "17",
+          "text": {
+            "fr": "",
+            "en": "¶ Now the Lord had prepared a great fish to swallow up Jonah. And Jonah was in the belly of the fish three days and three nights.",
+            "zh": "耶和華安排一條大魚吞了約拿、他在魚腹中三日三夜。",
+            "jp": "主しゅは大おおいなる魚うおを備そなえて、ヨナをのませられた。ヨナは三日か三夜よその魚うおの腹はらの中うちにいた。",
+            "kr": "여호와께서 이미 큰 물고기를 예비하사 요나를 삼키게 하셨으므로 요나가 밤낮 삼 일을 물고기 뱃속에 있으니라"
+          }
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "introduction": {
+        "fr": "Jonas est englouti par un grand poisson. Il prie l’Éternel et le poisson le vomit sur la terre.",
+        "en": "Jonah prays to the Lord, and the fish vomits him out on dry ground.",
+        "zh": "Jonah prays to the Lord, and the fish vomits him out on dry ground.",
+        "jp": "Jonah prays to the Lord, and the fish vomits him out on dry ground.",
+        "kr": "Jonah prays to the Lord, and the fish vomits him out on dry ground."
+      },
+      "verses": [
+        {
+          "key": "1",
+          "text": {
+            "fr": "L’Éternel fit venir un grand poisson pour engloutir Jonas, et Jonas fut dans le ventre du poisson trois jours et trois nuits.",
+            "en": "Then Jonah prayed unto the Lord his God out of the fish’s belly,",
+            "zh": "約拿在魚腹中禱告耶和華他的　神、",
+            "jp": "ヨナは魚うおの腹はらの中うちからその神かみ、主しゅに祈いのって、",
+            "kr": "요나가 물고기 뱃속에서 그의 하나님 여호와께 기도하여"
+          }
+        },
+        {
+          "key": "2",
+          "text": {
+            "fr": "Jonas, dans le ventre du poisson, pria l’Éternel, son Dieu.",
+            "en": "And said, I cried by reason of mine affliction unto the Lord, and he heard me; out of the belly of hell cried I, and thou heardest my voice.",
+            "zh": "說、我遭遇患難求告耶和華、你就應允我．從陰間的深處呼求、你就俯聽我的聲音。",
+            "jp": "言いった、「わたしは悩なやみのうちから主しゅに呼よばわると、主しゅはわたしに答こたえられた。わたしが陰府よみの腹はらの中うちから叫さけぶと、あなたはわたしの声こえを聞きかれた。",
+            "kr": "이르되 내가 받는 고난으로 말미암아 여호와께 불러 아뢰었더니 주께서 내게 대답하셨고 내가 스올의 뱃속에서 부르짖었더니 주께서 내 음성을 들으셨나이다"
+          }
+        },
+        {
+          "key": "3",
+          "text": {
+            "fr": "Il dit : Dans ma détresse, j’ai invoqué l’Éternel, Et il m’a exaucé ; Du milieu du séjour des morts j’ai crié, Et tu as entendu ma voix.",
+            "en": "For thou hadst cast me into the deep, in the midst of the seas; and the floods compassed me about: all thy billows and thy waves passed over me.",
+            "zh": "你將我投下深淵、就是海的深處．大水環繞我．你的波浪洪濤、都漫過我身。",
+            "jp": "あなたはわたしを淵ふちの中なか、海うみのまん中なかに投なげ入いれられた。大水おおみずはわたしをめぐり、あなたの波なみと大波おおなみは皆みな、わたしの上うえを越こえて行いった。",
+            "kr": "주께서 나를 깊음 속 바다 가운데에 던지셨으므로 큰 물이 나를 둘렀고 주의 파도와 큰 물결이 다 내 위에 넘쳤나이다"
+          }
+        },
+        {
+          "key": "4",
+          "text": {
+            "fr": "Tu m’as jeté dans l’abîme, dans le cœur de la mer, Et les courants d’eau m’ont environné ; Toutes tes vagues et tous tes flots sont passés sur moi.",
+            "en": "Then I said, I am cast out of thy sight; yet I will look again toward thy holy temple.",
+            "zh": "我說、我從你眼前雖被驅逐、我仍要仰望你的聖殿。",
+            "jp": "わたしは言いった、『わたしはあなたの前まえから追おわれてしまった、どうして再ふたたびあなたの聖せいなる宮みやを望のぞみえようか』。",
+            "kr": "내가 말하기를 내가 주의 목전에서 쫓겨났을지라도 다시 주의 성전을 바라보겠다 하였나이다"
+          }
+        },
+        {
+          "key": "5",
+          "text": {
+            "fr": "Je disais : Je suis chassé loin de ton regard ! Mais je verrai encore ton saint temple.",
+            "en": "The waters compassed me about, even to the soul: the depth closed me round about, the weeds were wrapped about my head.",
+            "zh": "諸水環繞我、幾乎淹沒我．深淵圍住我、海草纏繞我的頭．",
+            "jp": "水みずがわたしをめぐって魂たましいにまでおよび、淵ふちはわたしを取とり囲かこみ、海草かいそうは山やまの根元ねもとでわたしの頭あたまにまといついた。",
+            "kr": "물이 나를 영혼까지 둘렀사오며 깊음이 나를 에워싸고 바다 풀이 내 머리를 감쌌나이다"
+          }
+        },
+        {
+          "key": "6",
+          "text": {
+            "fr": "Les eaux m’ont couvert jusqu’à m’ôter la vie, L’abîme m’a enveloppé, Les roseaux ont entouré ma tête.",
+            "en": "I went down to the bottoms of the mountains; the earth with her bars was about me for ever: yet hast thou brought up my life from corruption, O Lord my God.",
+            "zh": "我下到山根．地的門將我永遠關住。耶和華我的　神阿、你卻將我的性命從坑中救出來。",
+            "jp": "わたしは地ちに下くだり、地ちの貫かんの木きはいつもわたしの上うえにあった。しかしわが神かみ、主しゅよ、あなたはわが命いのちを穴あなから救すくいあげられた。",
+            "kr": "내가 산의 뿌리까지 내려갔사오며 땅이 그 빗장으로 나를 오래도록 막았사오나 나의 하나님 여호와여 주께서 내 생명을 구덩이에서 건지셨나이다"
+          }
+        },
+        {
+          "key": "7",
+          "text": {
+            "fr": "Je suis descendu jusqu’aux racines des montagnes, Les vérrous de la terre m’enfermaient pour toujours ; Mais tu m’as fait remonter vivant de la fosse, Éternel, mon Dieu !",
+            "en": "When my soul fainted within me I remembered the Lord: and my prayer came in unto thee, into thine holy temple.",
+            "zh": "我心在我裡面發昏的時候、我就想念耶和華。我的禱告進入你的聖殿、達到你的面前。",
+            "jp": "わが魂たましいがわたしのうちに弱よわっているとき、わたしは主しゅをおぼえ、わたしの祈いのりはあなたに至いたり、あなたの聖せいなる宮みやに達たっした。",
+            "kr": "내 영혼이 내 속에서 피곤할 때에 내가 여호와를 생각하였더니 내 기도가 주께 이르렀사오며 주의 성전에 미쳤나이다"
+          }
+        },
+        {
+          "key": "8",
+          "text": {
+            "fr": "Quand mon âme était abattue au-dedans de moi, Je me suis souvenu de l’Éternel, Et ma prière est parvenue jusqu’à toi, Dans ton saint temple.",
+            "en": "They that observe lying vanities forsake their own mercy.",
+            "zh": "那信奉虛無之神的人、離棄憐愛他們的主．",
+            "jp": "むなしい偶像ぐうぞうに心こころを寄よせる者ものは、そのまことの忠節ちゅうせつを捨すてる。",
+            "kr": "거짓되고 헛된 것을 숭상하는 모든 자는 자기에게 베푸신 은혜를 버렸사오나"
+          }
+        },
+        {
+          "key": "9",
+          "text": {
+            "fr": "Ceux qui s’attachent à de vaines idoles Éloignent d’eux la miséricorde.",
+            "en": "But I will sacrifice unto thee with the voice of thanksgiving; I will pay that that I have vowed. Salvation is of the Lord.",
+            "zh": "但我必用感謝的聲音獻祭與你．我所許的願、我必償還。救恩出於耶和華。",
+            "jp": "しかしわたしは感謝かんしゃの声こえをもって、あなたに犠牲ぎせいをささげ、わたしの誓ちかいをはたす。救すくいは主しゅにある」。",
+            "kr": "나는 감사하는 목소리로 주께 제사를 드리며 나의 서원을 주께 갚겠나이다 구원은 여호와께 속하였나이다 하니라"
+          }
+        },
+        {
+          "key": "10",
+          "text": {
+            "fr": "Pour moi, je t’offrirai des sacrifices avec un cri d’actions de grâces, J’accomplirai les vœux que j’ai faits : Le salut vient de l’Éternel.",
+            "en": "¶ And the Lord spake unto the fish, and it vomited out Jonah upon the dry land.",
+            "zh": "耶和華吩咐魚、魚就把約拿吐在旱地上。",
+            "jp": "主しゅは魚うおにお命めいじになったので、魚うおはヨナを陸りくに吐はき出だした。",
+            "kr": "여호와께서 그 물고기에게 말씀하시매 요나를 육지에 토하니라"
+          }
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "introduction": {
+        "fr": "Jonas prophétise la chute de Ninive. Le peuple se repent et la ville est sauvée.",
+        "en": "Jonah prophesies the downfall of Nineveh—The people repent, and the city is saved.",
+        "zh": "Jonah prophesies the downfall of Nineveh—The people repent, and the city is saved.",
+        "jp": "Jonah prophesies the downfall of Nineveh—The people repent, and the city is saved.",
+        "kr": "Jonah prophesies the downfall of Nineveh—The people repent, and the city is saved."
+      },
+      "verses": [
+        {
+          "key": "1",
+          "text": {
+            "fr": "La parole de l’Éternel fut adressée à Jonas une seconde fois, en ces mots :",
+            "en": "And the word of the Lord came unto Jonah the second time, saying,",
+            "zh": "耶和華的話、二次臨到約拿說、",
+            "jp": "時ときに主しゅの言葉ことばは再ふたたびヨナに臨のぞんで言いった、",
+            "kr": "여호와의 말씀이 두 번째로 요나에게 임하니라 이르시되"
+          }
+        },
+        {
+          "key": "2",
+          "text": {
+            "fr": "Lève-toi, va à Ninive, la grande ville, et fais-y la proclamation que je t’ordonne !",
+            "en": "Arise, go unto Nineveh, that great city, and preach unto it the preaching that I bid thee.",
+            "zh": "你起來、往尼尼微大城去、向其中的居民宣告我所吩咐你的話。",
+            "jp": "「立たって、あの大おおきな町まちニネベに行いき、あなたに命めいじる言葉ことばをこれに伝つたえよ」。",
+            "kr": "일어나 저 큰 성읍 니느웨로 가서 내가 네게 명한 바를 그들에게 선포하라 하신지라"
+          }
+        },
+        {
+          "key": "3",
+          "text": {
+            "fr": "Et Jonas se leva, et alla à Ninive, selon la parole de l’Éternel. Or Ninive était une très grande ville, de trois jours de marche.",
+            "en": "So Jonah arose, and went unto Nineveh, according to the word of the Lord. Now Nineveh was an exceeding great city of three days’ journey.",
+            "zh": "約拿便照耶和華的話起來、往尼尼微去。這尼尼微是極大的城、有三日的路程。",
+            "jp": "そこでヨナは主しゅの言葉ことばに従したがい、立たって、ニネベに行いった。ニネベは非常ひじょうに大おおきな町まちであって、これを行いきめぐるには、三日かを要ようするほどであった。",
+            "kr": "요나가 여호와의 말씀대로 일어나서 니느웨로 가니라 니느웨는 사흘 동안 걸을 만큼 하나님 앞에 큰 성읍이더라"
+          }
+        },
+        {
+          "key": "4",
+          "text": {
+            "fr": "Jonas fit d’abord dans la ville une journée de marche ; il criait et disait : Encore quarante jours et Ninive sera détruite !",
+            "en": "And Jonah began to enter into the city a day’s journey, and he cried, and said, Yet forty days, and Nineveh shall be overthrown.",
+            "zh": "約拿進城走了一日、宣告說、再等四十日、尼尼微必傾覆了。",
+            "jp": "ヨナはその町まちにはいり、初はじめ一日にち路じを行ゆきめぐって呼よばわり、「四十日にちを経へたらニネベは滅ほろびる」と言いった。",
+            "kr": "요나가 그 성읍에 들어가서 하루 동안 다니며 외쳐 이르되 사십 일이 지나면 니느웨가 무너지리라 하였더니"
+          }
+        },
+        {
+          "key": "5",
+          "text": {
+            "fr": "Les gens de Ninive crurent Dieu, ils publièrent un jeûne et se revêtirent de sacs, depuis les plus grands jusqu’aux plus petits.",
+            "en": "¶ So the people of Nineveh believed God, and proclaimed a fast, and put on sackcloth, from the greatest of them even to the least of them.",
+            "zh": "尼尼微人信服　神、便宣告禁食、從最大的到至小的都穿麻衣。〔或作披上麻布〕",
+            "jp": "そこでニネベの人々ひとびとは神かみを信しんじ、断食だんじきをふれ、大おおきい者ものから小ちいさい者ものまで荒布あらぬのを着きた。",
+            "kr": "니느웨 사람들이 하나님을 믿고 금식을 선포하고 높고 낮은 자를 막론하고 굵은 베 옷을 입은지라"
+          }
+        },
+        {
+          "key": "6",
+          "text": {
+            "fr": "La chose parvint au roi de Ninive ; il se leva de son trône, ôta son manteau, se couvrit d’un sac et s’assit sur la cendre.",
+            "en": "For word came unto the king of Nineveh, and he arose from his throne, and he laid his robe from him, and covered him with sackcloth, and sat in ashes.",
+            "zh": "這信息傳到尼尼微王的耳中、他就下了寶座、脫下朝服、披上麻布、坐在灰中。",
+            "jp": "このうわさがニネベの王おうに達たっすると、彼かれはその王座おうざから立たち上あがり、朝ちょう服ふくを脱ぬぎ、荒布あらぬのをまとい、灰はいの中なかに座ざした。",
+            "kr": "그 일이 니느웨 왕에게 들리매 왕이 보좌에서 일어나 왕복을 벗고 굵은 베 옷을 입고 재 위에 앉으니라"
+          }
+        },
+        {
+          "key": "7",
+          "text": {
+            "fr": "Et il fit faire dans Ninive cette prolamation, par ordre du roi et de ses grands : Que les hommes et les bêtes, les bœufs et les brebis, ne goûtent de rien, ne se nourrissent pas et ne boivent pas d’eau !",
+            "en": "And he caused it to be proclaimed and published through Nineveh by the decree of the king and his nobles, saying, Let neither man nor beast, herd nor flock, taste any thing: let them not feed, nor drink water:",
+            "zh": "他又使人遍告尼尼微通城說、王和大臣有令、人不可嘗甚麼、牲畜、牛羊、不可喫草、也不可喝水。",
+            "jp": "また王おうとその大臣だいじんの布告ふこくをもって、ニネベ中なかにふれさせて言いった、「人ひとも獣けものも牛うしも羊ひつじもみな、何なにをも味あじわってはならない。物ものを食くい、水みずを飲のんではならない。",
+            "kr": "왕과 그의 대신들이 조서를 내려 니느웨에 선포하여 이르되 사람이나 짐승이나 소 떼나 양 떼나 아무것도 입에 대지 말지니 곧 먹지도 말 것이요 물도 마시지 말 것이며"
+          }
+        },
+        {
+          "key": "8",
+          "text": {
+            "fr": "Que les hommes et les bêtes soient couverts de sacs, qu’ils crient vers Dieu avec force, et qu’ils reviennent tous de leur mauvaise conduite et des actes de violence dont leurs mains sont coupables !",
+            "en": "But let man and beast be covered with sackcloth, and cry mightily unto God: yea, let them turn every one from his evil way, and from the violence that is in their hands.",
+            "zh": "人與牲畜都當披上麻布、人要切切求告　神．各人回頭離開所行的惡道、丟棄手中的強暴。",
+            "jp": "人ひとも獣けものも荒布あらぬのをまとい、ひたすら神かみに呼よばわり、おのおのその悪わるい道みちおよびその手てにある強暴きょうぼうを離はなれよ。",
+            "kr": "사람이든지 짐승이든지 다 굵은 베 옷을 입을 것이요 힘써 하나님께 부르짖을 것이며 각기 악한 길과 손으로 행한 강포에서 떠날 것이라"
+          }
+        },
+        {
+          "key": "9",
+          "text": {
+            "fr": "Qui sait si Dieu ne reviendra pas sur sa décision et ne se ravisera pas, et s’il ne renoncera pas à son ardente colère de sorte que nous ne périssions pas ?",
+            "en": "Who can tell if God will turn and repent, and turn away from his fierce anger, that we perish not?",
+            "zh": "或者　神轉意後悔、不發烈怒、使我們不至滅亡、也未可知。",
+            "jp": "あるいは神かみはみ心こころをかえ、その激はげしい怒いかりをやめて、われわれを滅ほろぼされないかもしれない。だれがそれを知しるだろう」。",
+            "kr": "하나님이 뜻을 돌이키시고 그 진노를 그치사 우리가 멸망하지 않게 하시리라 그렇지 않을 줄을 누가 알겠느냐 한지라"
+          }
+        },
+        {
+          "key": "10",
+          "text": {
+            "fr": "Dieu vit qu’ils agissaient ainsi et qu’ils revenaient de leur mauvaise conduite. Alors Dieu renonça au mal qu’il avait résolu de leur faire, et il ne le fit pas.",
+            "en": "¶ And God saw their works, that they turned from their evil way; and God repented of the evil, that he had said that he would do unto them; and he did it not.",
+            "zh": "於是　神察看他們的行為、見他們離開惡道、他就後悔、不把所說的災禍降與他們了。",
+            "jp": "神かみは彼かれらのなすところ、その悪わるい道みちを離はなれたのを見みられ、彼かれらの上うえに下くだそうと言いわれた災わざわいを思おもいかえして、これをおやめになった。",
+            "kr": "하나님이 그들이 행한 것 곧 그 악한 길에서 돌이켜 떠난 것을 보시고 하나님이 뜻을 돌이키사 그들에게 내리리라고 말씀하신 재앙을 내리지 아니하시니라"
+          }
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "introduction": {
+        "fr": "Jonas est mécontent de l’Éternel en raison de sa miséricorde envers le peuple. L’Éternel le réprimande.",
+        "en": "Jonah is displeased with the Lord for His mercy upon the people—The Lord rebukes him.",
+        "zh": "Jonah is displeased with the Lord for His mercy upon the people—The Lord rebukes him.",
+        "jp": "Jonah is displeased with the Lord for His mercy upon the people—The Lord rebukes him.",
+        "kr": "Jonah is displeased with the Lord for His mercy upon the people—The Lord rebukes him."
+      },
+      "verses": [
+        {
+          "key": "1",
+          "text": {
+            "fr": "Cela déplut fort à Jonas, et il fut irrité.",
+            "en": "But it displeased Jonah exceedingly, and he was very angry.",
+            "zh": "這事約拿大大不悅、且甚發怒。",
+            "jp": "ところがヨナはこれを非常ひじょうに不快ふかいとして、激はげしく怒いかり、",
+            "kr": "요나가 매우 싫어하고 성내며"
+          }
+        },
+        {
+          "key": "2",
+          "text": {
+            "fr": "Il implora l’Éternel, et il dit : Ah ! Éternel, n’est-ce pas ce que je disais quand j’étais encore dans mon pays ? C’est ce que je voulais éviter en fuyant à Tarsis. Car je savais que tu es un Dieu compatissant et miséricordieux, lent à la colère et riche en bonté, et qui renonce au mal annoncé.",
+            "en": "And he prayed unto the Lord, and said, I pray thee, O Lord, was not this my saying, when I was yet in my country? Therefore I fled before unto Tarshish: for I knew that thou art a gracious God, and merciful, slow to anger, and of great kindness, and repentest thee of the evil.",
+            "zh": "就禱告耶和華說、耶和華阿、我在本國的時候、豈不是這樣說麼．我知道你是有恩典、有憐憫的　神、不輕易發怒、有豐盛的慈愛、並且後悔不降所說的災．所以我急速逃往他施去。",
+            "jp": "主しゅに祈いのって言いった、「主しゅよ、わたしがなお国くににおりました時とき、この事ことを申もうしたではありませんか。それでこそわたしは、急いそいでタルシシにのがれようとしたのです。なぜなら、わたしはあなたが恵めぐみ深ふかい神かみ、あわれみあり、怒いかることおそく、いつくしみ豊ゆたかで、災わざわいを思おもいかえされることを、知しっていたからです。",
+            "kr": "여호와께 기도하여 이르되 여호와여 내가 고국에 있을 때에 이러하겠다고 말씀하지 아니하였나이까 그러므로 내가 빨리 다시스로 도망하였사오니 주께서는 은혜로우시며 자비로우시며 노하기를 더디하시며 인애가 크시사 뜻을 돌이켜 재앙을 내리지 아니하시는 하나님이신 줄을 내가 알았음이니이다"
+          }
+        },
+        {
+          "key": "3",
+          "text": {
+            "fr": "Maintenant, Éternel, prends-moi donc la vie, car la mort m’est préférable à la vie.",
+            "en": "Therefore now, O Lord, take, I beseech thee, my life from me; for it is better for me to die than to live.",
+            "zh": "耶和華阿、現在求你取我的命罷．因為我死了比活著還好。",
+            "jp": "それで主しゅよ、どうぞ今いまわたしの命いのちをとってください。わたしにとっては、生いきるよりも死しぬ方ほうがましだからです」。",
+            "kr": "여호와여 원하건대 이제 내 생명을 거두어 가소서 사는 것보다 죽는 것이 내게 나음이니이다 하니"
+          }
+        },
+        {
+          "key": "4",
+          "text": {
+            "fr": "L’Éternel répondit : Fais-tu bien de t’irriter ?",
+            "en": "¶ Then said the Lord, Doest thou well to be angry?",
+            "zh": "耶和華說、你這樣發怒合乎理麼。",
+            "jp": "主しゅは言いわれた、「あなたの怒いかるのは、よいことであろうか」。",
+            "kr": "여호와께서 이르시되 네가 성내는 것이 옳으냐 하시니라"
+          }
+        },
+        {
+          "key": "5",
+          "text": {
+            "fr": "Et Jonas sortit de la ville, et s’assit à l’est de la ville, Là il se fit une cabane, et s’y tint à l’ombre, jusqu’à ce qu’il vît ce qui arriverait dans la ville.",
+            "en": "So Jonah went out of the city, and sat on the east side of the city, and there made him a booth, and sat under it in the shadow, till he might see what would become of the city.",
+            "zh": "於是約拿出城、坐在城的東邊、在那裡為自己搭了一座棚、坐在棚的蔭下、要看看那城究竟如何。",
+            "jp": "そこでヨナは町まちから出でて、町まちの東ひがしの方ほうに座ざし、そこに自分じぶんのために一つの小屋こやを造つくり、町まちのなりゆきを見みきわめようと、その下したの日ひ陰かげにすわっていた。",
+            "kr": "요나가 성읍에서 나가서 그 성읍 동쪽에 앉아 거기서 자기를 위하여 초막을 짓고 그 성읍에 무슨 일이 일어나는가를 보려고 그 그늘 아래에 앉았더라"
+          }
+        },
+        {
+          "key": "6",
+          "text": {
+            "fr": "L’Éternel Dieu fit croître un ricin, qui s’éleva au-dessus de Jonas, pour donner de l’ombre sur sa tête et pour lui ôter son irritation. Jonas éprouva une grande joie à cause de ce ricin.",
+            "en": "And the Lord God prepared a gourd, and made it to come up over Jonah, that it might be a shadow over his head, to deliver him from his grief. So Jonah was exceeding glad of the gourd.",
+            "zh": "耶和華　神安排一棵蓖麻、使其發生高過約拿、影兒遮蓋他的頭、救他脫離苦楚．約拿因這棵蓖麻大大喜樂。",
+            "jp": "時ときに主しゅなる神かみは、ヨナを暑あつさの苦痛くつうから救すくうために、とうごまを備そなえて、それを育そだて、ヨナの頭あたまの上うえに日陰ひかげを設もうけた。ヨナはこのとうごまを非常ひじょうに喜よろこんだ。",
+            "kr": "하나님 여호와께서 박넝쿨을 예비하사 요나를 가리게 하셨으니 이는 그의 머리를 위하여 그늘이 지게 하며 그의 괴로움을 면하게 하려 하심이었더라 요나가 박넝쿨로 말미암아 크게 기뻐하였더니"
+          }
+        },
+        {
+          "key": "7",
+          "text": {
+            "fr": "Mais le lendemain, à l’aurore, Dieu fit venir un ver qui attaqua le ricin, et le ricin sécha.",
+            "en": "But God prepared a worm when the morning rose the next day, and it smote the gourd that it withered.",
+            "zh": "次日黎明、　神卻安排一條蟲子、咬這蓖麻、以致枯槁。",
+            "jp": "ところが神かみは翌日よくじつの夜明よあけに虫むしを備そなえて、そのとうごまをかませられたので、それは枯かれた。",
+            "kr": "하나님이 벌레를 예비하사 이튿날 새벽에 그 박넝쿨을 갉아먹게 하시매 시드니라"
+          }
+        },
+        {
+          "key": "8",
+          "text": {
+            "fr": "Au lever du soleil, Dieu fit souffler un vent chaud d’orient, et le soleil frappa la tête de Jonas, au point qu’il tomba en défaillance. Il demanda la mort, et dit : La mort m’est préférable à la vie.",
+            "en": "And it came to pass, when the sun did arise, that God prepared a vehement east wind; and the sun beat upon the head of Jonah, that he fainted, and wished in himself to die, and said, It is better for me to die than to live.",
+            "zh": "日頭出來的時候、　神安排炎熱的東風．日頭曝曬約拿的頭、使他發昏、他就為自己求死、說、我死了比活著還好。",
+            "jp": "やがて太陽たいようが出でたとき、神かみが暑あつい東風ひがしかぜを備そなえ、また太陽たいようがヨナの頭あたまを照てらしたので、ヨナは弱よわりはて、死しぬことを願ねがって言いった、「生いきるよりも死しぬ方ほうがわたしにはましだ」。",
+            "kr": "해가 뜰 때에 하나님이 뜨거운 동풍을 예비하셨고 해는 요나의 머리에 쪼이매 요나가 혼미하여 스스로 죽기를 구하여 이르되 사는 것보다 죽는 것이 내게 나으니이다 하니라"
+          }
+        },
+        {
+          "key": "9",
+          "text": {
+            "fr": "Dieu dit à Jonas : Fais-tu bien de t’irriter à cause du ricin ? Il répondit : Je fais bien de m’irriter jusqu’à la mort.",
+            "en": "And God said to Jonah, Doest thou well to be angry for the gourd? And he said, I do well to be angry, even unto death.",
+            "zh": "神對約拿說、你因這棵蓖麻發怒合乎理麼．他說、我發怒以至於死、都合乎理。",
+            "jp": "しかし神かみはヨナに言いわれた、「とうごまのためにあなたの怒いかるのはよくない」。ヨナは言いった、「わたしは怒いかりのあまり狂くるい死しにそうです」。",
+            "kr": "하나님이 요나에게 이르시되 네가 이 박넝쿨로 말미암아 성내는 것이 어찌 옳으냐 하시니 그가 대답하되 내가 성내어 죽기까지 할지라도 옳으니이다 하니라"
+          }
+        },
+        {
+          "key": "10",
+          "text": {
+            "fr": "Et l’Éternel dit : Tu as pitié du ricin qui ne t’a coûté aucune peine et que tu n’as pas fait croître, qui est né en une nuit et qui a péri en une nuit.",
+            "en": "Then said the Lord, Thou hast had pity on the gourd, for the which thou hast not laboured, neither madest it grow; which came up in a night, and perished in a night:",
+            "zh": "耶和華說、這蓖麻不是你栽種的、也不是你培養的．一夜發生、一夜乾死你尚且愛惜．",
+            "jp": "主しゅは言いわれた、「あなたは労ろうせず、育そだてず、一夜やに生しょうじて、一夜やに滅ほろびたこのとうごまをさえ、惜おしんでいる。",
+            "kr": "여호와께서 이르시되 네가 수고도 아니하였고 재배도 아니하였고 하룻밤에 났다가 하룻밤에 말라 버린 이 박넝쿨을 아꼈거든"
+          }
+        },
+        {
+          "key": "11",
+          "text": {
+            "fr": "Et moi, je n’aurais pas pitié de Ninive, la grande ville, dans laquelle se trouvent plus de cent vingt mille hommes qui ne savent pas distinguer leur droite de leur gauche, et des animaux en grand nombre !",
+            "en": "And should not I spare Nineveh, that great city, wherein are more than sixscore thousand persons that cannot discern between their right hand and their left hand; and also much cattle?",
+            "zh": "何況這尼尼微大城、其中不能分辨左手右手的有十二萬多人、並有許多牲畜、我豈能不愛惜呢。",
+            "jp": "ましてわたしは十二万まんあまりの、右左みぎひだりをわきまえない人々ひとびとと、あまたの家畜かちくとのいるこの大おおきな町まちニネベを、惜おしまないでいられようか」。",
+            "kr": "하물며 이 큰 성읍 니느웨에는 좌우를 분변하지 못하는 자가 십이만여 명이요 가축도 많이 있나니 내가 어찌 아끼지 아니하겠느냐 하시니라"
+          }
+        }
+      ]
+    }
+  ]
+}

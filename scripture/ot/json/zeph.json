@@ -1,0 +1,591 @@
+{
+  "book": {
+    "fr": "SOPHONIE",
+    "en": "ZEPHANIAH",
+    "zh": "西番雅書",
+    "jp": "ゼパニヤ書しょ",
+    "kr": "스바냐"
+  },
+  "theme": {
+    "fr": "Chapitre 1",
+    "en": "Chapter 1",
+    "zh": "第1章",
+    "jp": "第1章",
+    "kr": "제 1 장"
+  },
+  "introduction": {
+    "fr": "La destruction de Juda est un symbole de la Seconde Venue. C’est le jour du sacrifice de l’Éternel, un jour de colère et de trouble.",
+    "en": "The destruction of Judah is symbolic of the Second Coming—It is the day of the Lord’s sacrifice, a day of wrath and trouble.",
+    "zh": "",
+    "jp": "The destruction of Judah is symbolic of the Second Coming—It is the day of the Lord’s sacrifice, a day of wrath and trouble.",
+    "kr": "The destruction of Judah is symbolic of the Second Coming—It is the day of the Lord’s sacrifice, a day of wrath and trouble."
+  },
+  "chapters": [
+    {
+      "number": 1,
+      "introduction": {
+        "fr": "La destruction de Juda est un symbole de la Seconde Venue. C’est le jour du sacrifice de l’Éternel, un jour de colère et de trouble.",
+        "en": "The destruction of Judah is symbolic of the Second Coming—It is the day of the Lord’s sacrifice, a day of wrath and trouble.",
+        "zh": "The destruction of Judah is symbolic of the Second Coming—It is the day of the Lord’s sacrifice, a day of wrath and trouble.",
+        "jp": "The destruction of Judah is symbolic of the Second Coming—It is the day of the Lord’s sacrifice, a day of wrath and trouble.",
+        "kr": "The destruction of Judah is symbolic of the Second Coming—It is the day of the Lord’s sacrifice, a day of wrath and trouble."
+      },
+      "verses": [
+        {
+          "key": "1",
+          "text": {
+            "fr": "Parole de l’Éternel adressée à Sophonie, fils de Cuschi, fils de Guedalia, fils d’Amaria, fils d’Ézéchias, au temps de Josias, fils d’Amon, roi de Juda.",
+            "en": "The word of the Lord which came unto Zephaniah the son of Cushi, the son of Gedaliah, the son of Amariah, the son of Hizkiah, in the days of Josiah the son of Amon, king of Judah.",
+            "zh": "當猶大王亞們的兒子約西亞在位的時候、耶和華的話臨到希西家的元孫亞瑪利雅的曾孫基大利的孫子古示的兒子西番雅。",
+            "jp": "ユダの王おうアモンの子こヨシヤの世よに、ゼパニヤに臨のぞんだ主しゅの言葉ことば。ゼパニヤはクシの子こ、クシはゲダリヤの子こ、ゲダリヤはアマリヤの子こ、アマリヤはヒゼキヤの子こである。",
+            "kr": "아몬의 아들 유다 왕 요시야의 시대에 스바냐에게 임한 여호와의 말씀이라 스바냐는 히스기야의 현손이요 아마랴의 증손이요 그다랴의 손자요 구시의 아들이었더라"
+          }
+        },
+        {
+          "key": "2",
+          "text": {
+            "fr": "Je détruirai tout sur la surface de la terre, Dit l’Éternel.",
+            "en": "I will utterly consume all things from off the land, saith the Lord.",
+            "zh": "耶和華說、我必從地上除滅萬類。",
+            "jp": "主しゅは言いわれる、「わたしは地ちのおもてからすべてのものを一掃いっそうする」。",
+            "kr": "여호와께서 이르시되 내가 땅 위에서 모든 것을 진멸하리라"
+          }
+        },
+        {
+          "key": "3",
+          "text": {
+            "fr": "Je détruirai les hommes et les bêtes, Les oiseaux du ciel et les poissons de la mer, Les objets de scandale et les méchants avec eux ; J’exterminerai les hommes de la surface de la terre, Dit l’Éternel.",
+            "en": "I will consume man and beast; I will consume the fowls of the heaven, and the fishes of the sea, and the stumblingblocks with the wicked; and I will cut off man from off the land, saith the Lord.",
+            "zh": "我必除滅人和牲畜、與空中的鳥、海裡的魚、以及絆腳石和惡人．我必將人從地上剪除。這是耶和華說的。",
+            "jp": "主しゅは言いわれる、「わたしは人ひとも獣けものも一掃いっそうし、空そらの鳥とり、海うみの魚うおをも一掃いっそうする。わたしは悪人あくにんを倒たおす。わたしは地ちのおもてから人ひとを絶たち滅ほろぼす」。",
+            "kr": "내가 사람과 짐승을 진멸하고 공중의 새와 바다의 고기와 거치게 하는 것과 악인들을 아울러 진멸할 것이라 내가 사람을 땅 위에서 멸절하리라 나 여호와의 말이니라"
+          }
+        },
+        {
+          "key": "4",
+          "text": {
+            "fr": "J’étendrai ma main sur Juda Et sur tous les habitants de Jérusalem ; J’exterminerai de ce lieu les restes de Baal, Le nom de ses ministres et les prêtres avec eux,",
+            "en": "I will also stretch out mine hand upon Judah, and upon all the inhabitants of Jerusalem; and I will cut off the remnant of Baal from this place, and the name of the Chemarims with the priests;",
+            "zh": "我必伸手攻擊猶大和耶路撒冷的一切居民．也必從這地方剪除所剩下的巴力、並基瑪林的名和祭司、",
+            "jp": "「わたしはユダとエルサレムのすべての住民じゅうみんとの上うえに手てを伸のべる。わたしはこの所ところからバアルの残党ざんとうと、偶像ぐうぞうの祭司さいしの名なとを断たつ。",
+            "kr": "내가 유다와 예루살렘의 모든 주민들 위에 손을 펴서 남아 있는 바알을 그 곳에서 멸절하며 그마림이란 이름과 및 그 제사장들을 아울러 멸절하며"
+          }
+        },
+        {
+          "key": "5",
+          "text": {
+            "fr": "Ceux qui se prosternent sur les toits devant l’armée des cieux, Ceux qui se prosternent en jurant par l’Éternel Tout en jurant par leur roi,",
+            "en": "And them that worship the host of heaven upon the housetops; and them that worship and that swear by the Lord, and that swear by Malcham;",
+            "zh": "與那些在房頂上敬拜天上萬象的、並那些敬拜耶和華指著他起誓、又指著瑪勒堪起誓的、",
+            "jp": "また屋上おくじょうで天てんの万象ばんしょうを拝おがむ者もの、主しゅに誓ちかいを立たてて拝おがみながら、またミルコムをさして誓ちかう者もの、",
+            "kr": "또 지붕에서 하늘의 뭇 별에게 경배하는 자들과 경배하며 여호와께 맹세하면서 말감을 가리켜 맹세하는 자들과"
+          }
+        },
+        {
+          "key": "6",
+          "text": {
+            "fr": "Ceux qui se sont détournés de l’Éternel Et ceux qui ne cherchent pas l’Éternel, Qui ne le consultent pas.",
+            "en": "And them that are turned back from the Lord; and those that have not sought the Lord, nor inquired for him.",
+            "zh": "與那些轉去不跟從耶和華的、和不尋求耶和華、也不訪問他的。",
+            "jp": "主しゅにそむいて従したがわない者もの、主しゅを求もとめず、主しゅを尋たずねない者ものを断たつ」。",
+            "kr": "여호와를 배반하고 따르지 아니한 자들과 여호와를 찾지도 아니하며 구하지도 아니한 자들을 멸절하리라"
+          }
+        },
+        {
+          "key": "7",
+          "text": {
+            "fr": "Silence devant le Seigneur, l’Éternel ! Car le jour de l’Éternel est proche, Car l’Éternel a préparé le sacrifice, Il a choisi ses invités.",
+            "en": "Hold thy peace at the presence of the Lord God: for the day of the Lord is at hand: for the Lord hath prepared a sacrifice, he hath bid his guests.",
+            "zh": "你要在主耶和華面前靜默無聲、因為耶和華的日子快到．耶和華已經預備祭物、將他的客、分別為聖。",
+            "jp": "主しゅなる神かみの前まえに沈黙ちんもくせよ。主しゅの日ひは近ちかづき、主しゅはすでに犠牲ぎせいを備そなえ、その招まねいた者ものを聖別せいべつされたからである。",
+            "kr": "주 여호와 앞에서 잠잠할지어다 이는 여호와의 날이 가까웠으므로 여호와께서 희생을 준비하고 그가 청할 자들을 구별하셨음이니라"
+          }
+        },
+        {
+          "key": "8",
+          "text": {
+            "fr": "Au jour du sacrifice de l’Éternel, Je châtierai les princes et les fils du roi Et tous ceux qui portent des vêtements étrangers.",
+            "en": "And it shall come to pass in the day of the Lord’s sacrifice, that I will punish the princes, and the king’s children, and all such as are clothed with strange apparel.",
+            "zh": "到了我耶和華獻祭的日子、必懲罰首領、和王子、並一切穿外邦衣服的。",
+            "jp": "主しゅの犠牲ぎせいをささげる日ひに、「わたしはつかさたちと王おうの子こたち、およびすべて異邦いほうの衣服いふくを着きる者ものを罰ばっする。",
+            "kr": "여호와의 희생의 날에 내가 방백들과 왕자들과 이방인의 옷을 입은 자들을 벌할 것이며"
+          }
+        },
+        {
+          "key": "9",
+          "text": {
+            "fr": "En ce jour-là, je châtierai tous ceux qui sautent par-dessus le seuil pour remplir de violence et de fraude la maison de leur maître.",
+            "en": "In the same day also will I punish all those that leap on the threshold, which fill their masters’ houses with violence and deceit.",
+            "zh": "到那日、我必懲罰一切跳過門檻、將強暴和詭詐得來之物充滿主人房屋的。",
+            "jp": "その日ひにわたしはまた、すべて敷居しきいをとび越こえ、暴虐ぼうぎゃくと欺あざむきとを自分じぶんの主君しゅくんの家いえに満みたす者ものを罰ばっする」。",
+            "kr": "그 날에 문턱을 뛰어넘어서 포악과 거짓을 자기 주인의 집에 채운 자들을 내가 벌하리라"
+          }
+        },
+        {
+          "key": "10",
+          "text": {
+            "fr": "En ce jour-là, dit l’Éternel, Il y aura des cris à la porte des poissons, Des lamentations dans l’autre quartier de la ville Et un grand désastre sur les collines.",
+            "en": "And it shall come to pass in that day, saith the Lord, that there shall be the noise of a cry from the fish gate, and an howling from the second, and a great crashing from the hills.",
+            "zh": "耶和華說當那日從魚門必發出悲哀的聲音、從二城發出哀號的聲音、從山間發出大破裂的響聲。",
+            "jp": "主しゅは言いわれる、「その日ひには魚うおの門もんから叫さけび声ごえがおこり、第だい二の町まちからうめき声ごえがおこり、もろもろの丘おかからすさまじい響ひびきがおこる。",
+            "kr": "나 여호와가 말하노라 그 날에 어문에서는 부르짖는 소리가, 제 이 구역에서는 울음 소리가, 작은 산들에서는 무너지는 소리가 일어나리라"
+          }
+        },
+        {
+          "key": "11",
+          "text": {
+            "fr": "Gémissez, habitants de Macthesch ! Car tous ceux qui font du commerce sont détruits, Tous les hommes chargés d’argent sont exterminés.",
+            "en": "Howl, ye inhabitants of Maktesh, for all the merchant people are cut down; all they that bear silver are cut off.",
+            "zh": "瑪革提施的居民哪、你們要哀號、因為迦南的商民都滅亡了．凡搬運銀子的都被剪除。",
+            "jp": "しっくいの家いえの住民じゅうみんよ、泣なき叫さけべ。あきないする民たみは皆みな滅ほろぼされ、銀ぎんを量はかる者ものは皆みな断たたれるからである。",
+            "kr": "막데스 주민들아 너희는 슬피 울라 가나안 백성이 다 패망하고 은을 거래하는 자들이 끊어졌음이라"
+          }
+        },
+        {
+          "key": "12",
+          "text": {
+            "fr": "En ce temps-là, je fouillerai Jérusalem avec des lampes Et je châtierai les hommes qui reposent sur leur lie, Et qui disent dans leur cœur : L’Éternel ne fait ni bien ni mal.",
+            "en": "And it shall come to pass at that time, that I will search Jerusalem with candles, and punish the men that are settled on their lees: that say in their heart, The Lord will not do good, neither will he do evil.",
+            "zh": "那時、我必用燈巡查耶路撒冷．我必懲罰那些如酒在渣滓上澄清的．他們心裡說、耶和華必不降福、也不降禍。",
+            "jp": "その時とき、わたしはともしびをもって、エルサレムを尋たずねる。そして滓おりの上うえに凝こり固かたまり、その心こころの中なかで『主しゅは良よいことも、悪わるいこともしない』と言いう人々ひとびとをわたしは罰ばっする。",
+            "kr": "그 때에 내가 예루살렘에서 찌꺼기 같이 가라앉아서 마음속에 스스로 이르기를 여호와께서는 복도 내리지 아니하시며 화도 내리지 아니하시리라 하는 자를 등불로 두루 찾아 벌하리니"
+          }
+        },
+        {
+          "key": "13",
+          "text": {
+            "fr": "Leurs biens seront pillés Et leurs maisons seront dévastées ; Ils auront bâti des maisons qu’ils n’habiteront plus, Ils auront planté des vignes dont ils ne boiront plus le vin.",
+            "en": "Therefore their goods shall become a booty, and their houses a desolation: they shall also build houses, but not inhabit them; and they shall plant vineyards, but not drink the wine thereof.",
+            "zh": "他們的財寶、必成為掠物、他們的房屋、必變為荒場．他們必建造房屋、卻不得住在其內、栽種葡萄園、卻不得喝所出的酒。",
+            "jp": "彼かれらの財宝ざいほうはかすめられ、彼かれらの家いえは荒あれはてる。彼かれらは家いえを建たてても、それに住すむことができない、ぶどう畑はたけを作つくっても、そのぶどう酒しゅを飲のむことができない」。",
+            "kr": "그들의 재물이 노략되며 그들의 집이 황폐할 것이라 그들이 집을 건축하나 거기에 살지 못하며 포도원을 가꾸나 그 포도주를 마시지 못하리라"
+          }
+        },
+        {
+          "key": "14",
+          "text": {
+            "fr": "Le grand jour de l’Éternel est proche, Il est proche, il arrive en toute hâte ; Le jour de l’Éternel fait entendre sa voix Et le héros pousse des cris amers.",
+            "en": "The great day of the Lord is near, it is near, and hasteth greatly, even the voice of the day of the Lord: the mighty man shall cry there bitterly.",
+            "zh": "耶和華的大日臨近、臨近而且甚快、乃是耶和華日子的風聲．勇士必痛痛地哭號。",
+            "jp": "主しゅの大おおいなる日ひは近ちかい、近ちかづいて、すみやかに来くる。主しゅの日ひの声こえは耳みみにいたい。そこに、勇士ゆうしもいたく叫さけぶ。",
+            "kr": "여호와의 큰 날이 가깝도다 가깝고도 빠르도다 여호와의 날의 소리로다 용사가 거기서 심히 슬피 우는도다"
+          }
+        },
+        {
+          "key": "15",
+          "text": {
+            "fr": "Ce jour est un jour de fureur, Un jour de détresse et d’angoisse, Un jour de ravage et de destruction, Un jour de ténèbres et d’obscurité, Un jour de nuages et de brouillards,",
+            "en": "That day is a day of wrath, a day of trouble and distress, a day of wasteness and desolation, a day of darkness and gloominess, a day of clouds and thick darkness,",
+            "zh": "那日、是忿怒的日子、是急難困苦的日子、是荒廢淒涼的日子、是黑暗、幽冥、密雲、烏黑的日子、",
+            "jp": "その日ひは怒いかりの日ひ、なやみと苦くるしみの日ひ、荒あれ、また滅ほろびる日ひ、暗くらく、薄暗うすぐらい日ひ、雲くもと黒雲くろくもの日ひ、",
+            "kr": "그날은 분노의 날이요 환난과 고통의 날이요 황폐와 패망의 날이요 캄캄하고 어두운 날이요 구름과 흑암의 날이요"
+          }
+        },
+        {
+          "key": "16",
+          "text": {
+            "fr": "Un jour où retentiront la trompette et les cris de guerre Contre les villes fortifiées et les tours élevées.",
+            "en": "A day of the trumpet and alarm against the fenced cities, and against the high towers.",
+            "zh": "是吹角吶喊的日子、要攻擊堅固城、和高大的城樓。",
+            "jp": "ラッパとときの声こえの日ひ、堅固けんごな町まちと高たかいやぐらを攻せめる日ひである。",
+            "kr": "나팔을 불어 경고하며 견고한 성읍들을 치며 높은 망대를 치는 날이로다"
+          }
+        },
+        {
+          "key": "17",
+          "text": {
+            "fr": "Je mettrai les hommes dans la détresse Et ils marcheront comme des aveugles Parce qu’ils ont péché contre l’Éternel ; Je répandrai leur sang comme de la poussière Et leur chair comme de l’ordure.",
+            "en": "And I will bring distress upon men, that they shall walk like blind men, because they have sinned against the Lord: and their blood shall be poured out as dust, and their flesh as the dung.",
+            "zh": "我必使災禍臨到人身上、使他們行走如同瞎眼的、因為得罪了我．他們的血、必倒出如灰塵、他們的肉、必拋棄如糞土。",
+            "jp": "わたしは人々ひとびとになやみを下くだして、盲人もうじんのように歩あるかせる。彼かれらが主しゅに対たいして罪つみを犯おかしたからである。彼かれらの血ちはちりのように流ながされ、彼かれらの肉にくは糞土ふんどのように捨すてられる。",
+            "kr": "내가 사람들에게 고난을 내려 맹인 같이 행하게 하리니 이는 그들이 나 여호와께 범죄하였음이라 또 그들의 피는 쏟아져서 티끌 같이 되며 그들의 살은 분토 같이 될지라"
+          }
+        },
+        {
+          "key": "18",
+          "text": {
+            "fr": "Ni leur argent ni leur or ne pourront les délivrer, Au jour de la fureur de l’Éternel ; Par le feu de sa jalousie tout le pays sera consumé ; Car il détruira soudainement tous les habitants du pays.",
+            "en": "Neither their silver nor their gold shall be able to deliver them in the day of the Lord’s wrath; but the whole land shall be devoured by the fire of his jealousy: for he shall make even a speedy riddance of all them that dwell in the land.",
+            "zh": "當耶和華發怒的日子、他們的金銀不能救他們．他的忿怒如火、必燒滅全地、毀滅這地的一切居民、而且大大毀滅。",
+            "jp": "彼かれらの銀ぎんも金きんも、主しゅの怒いかりの日ひには彼かれらを救すくうことができない。全ぜん地ちは主しゅのねたみの火ひにのまれる。主しゅは地ちに住すむ人々ひとびとをたちまち滅ほろぼし尽つくされる。",
+            "kr": "그들의 은과 금이 여호와의 분노의 날에 능히 그들을 건지지 못할 것이며 이 온 땅이 여호와의 질투의 불에 삼켜지리니 이는 여호와가 이 땅 모든 주민을 멸절하되 놀랍게 멸절할 것임이라"
+          }
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "introduction": {
+        "fr": "Recherchez la justice, recherchez l’humilité. Le jugement viendra sur les Philistins, les Moabites, les enfants d’Ammon, les Éthiopiens et les Assyriens.",
+        "en": "Seek righteousness; seek meekness—Judgment will come upon the Philistines, the Moabites, the children of Ammon, the Ethiopians, and the Assyrians.",
+        "zh": "Seek righteousness; seek meekness—Judgment will come upon the Philistines, the Moabites, the children of Ammon, the Ethiopians, and the Assyrians.",
+        "jp": "Seek righteousness; seek meekness—Judgment will come upon the Philistines, the Moabites, the children of Ammon, the Ethiopians, and the Assyrians.",
+        "kr": "Seek righteousness; seek meekness—Judgment will come upon the Philistines, the Moabites, the children of Ammon, the Ethiopians, and the Assyrians."
+      },
+      "verses": [
+        {
+          "key": "1",
+          "text": {
+            "fr": "Rentrez en vous-mêmes, examinez-vous, Nation sans pudeur,",
+            "en": "Gather yourselves together, yea, gather together, O nation not desired;",
+            "zh": "不知羞恥的國民哪、你們應當聚集．趁命令沒有發出、日子過去如風前的糠、耶和華的烈怒未臨到你們、他發怒的日子未到以先、你們應當聚集前來。",
+            "jp": "あなたがた、恥はじを知しらぬ民たみよ、共ともにつどい、集あつまれ。",
+            "kr": "수치를 모르는 백성아 모일지어다 모일지어다"
+          }
+        },
+        {
+          "key": "2",
+          "text": {
+            "fr": "Avant que le décret s’exécute Et que ce jour passe comme la balle, Avant que la colère ardente de l’Éternel fonde sur vous, Avant que le jour de la colère de l’Éternel fonde sur vous !",
+            "en": "Before the decree bring forth, before the day pass as the chaff, before the fierce anger of the Lord come upon you, before the day of the Lord’s anger come upon you.",
+            "zh": "見上節",
+            "jp": "すなわち、もみがらのように追おいやられる前まえに、主しゅの激はげしい怒いかりがまだあなたがたに臨のぞまない前まえに、主しゅの憤いきどおりの日ひがまだあなたがたに来きない前まえに。",
+            "kr": "명령이 시행되어 날이 겨 같이 지나가기 전, 여호와의 진노가 너희에게 내리기 전, 여호와의 분노의 날이 너희에게 이르기 전에 그리할지어다"
+          }
+        },
+        {
+          "key": "3",
+          "text": {
+            "fr": "Cherchez l’Éternel vous tous, humbles du pays, Qui pratiquez ses ordonnances ! Recherchez la justice, recherchez l’humilité ! Peut-être serez-vous épargnés au jour de la colère de l’Éternel.",
+            "en": "Seek ye the Lord, all ye meek of the earth, which have wrought his judgment; seek righteousness, seek meekness: it may be ye shall be hid in the day of the Lord’s anger.",
+            "zh": "世上遵守耶和華典章的謙卑人哪、你們都當尋求耶和華．當尋求公義謙卑、或者在耶和華發怒的日子、可以隱藏起來。",
+            "jp": "すべて主しゅの命令めいれいを行おこなうこの地ちのへりくだる者ものよ、主しゅを求もとめよ。正義せいぎを求もとめよ。謙遜けんそんを求もとめよ。そうすればあなたがたは主しゅの怒いかりの日ひに、あるいは隠かくされることがあろう。",
+            "kr": "여호와의 규례를 지키는 세상의 모든 겸손한 자들아 너희는 여호와를 찾으며 공의와 겸손을 구하라 너희가 혹시 여호와의 분노의 날에 숨김을 얻으리라"
+          }
+        },
+        {
+          "key": "4",
+          "text": {
+            "fr": "Car Gaza sera délaissée, Askalon sera réduite en désert, Asdod sera chassée en plein midi, Ékron sera déracinée.",
+            "en": "¶ For Gaza shall be forsaken, and Ashkelon a desolation: they shall drive out Ashdod at the noon day, and Ekron shall be rooted up.",
+            "zh": "迦薩必致見棄．亞實基倫必然荒涼．人在正午必趕出亞實突的民．以革倫也被拔出根來。",
+            "jp": "ともあれ、ガザは捨すてられ、アシケロンは荒あれはて、アシドドは真昼まひるに追おい払はらわれ、エクロンは抜ぬき去さられる。",
+            "kr": "가사는 버림을 당하며 아스글론은 폐허가 되며 아스돗은 대낮에 쫓겨나며 에그론은 뽑히리라"
+          }
+        },
+        {
+          "key": "5",
+          "text": {
+            "fr": "Malheur aux habitants des côtes de la mer, à la nation des Kéréthiens ! L’Éternel a parlé contre toi, Canaan, pays des Philistins ! Je te détruirai, tu n’auras plus d’habitants.",
+            "en": "Woe unto the inhabitants of the sea coast, the nation of the Cherethites! the word of the Lord is against you; O Canaan, the land of the Philistines, I will even destroy thee, that there shall be no inhabitant.",
+            "zh": "住沿海之地的基利提族有禍了．迦南非利士人之地阿、耶和華的話與你反對、說、我必毀滅你、以致無人居住。",
+            "jp": "わざわいなるかな、海うみべに住すむ者もの、ケレテの国民こくみん。ペリシテびとの地ち、カナンよ、主しゅの言葉ことばがあなたがたに臨のぞむ。わたしはあなたを滅ほろぼして、住すむ者ものがないようにする。",
+            "kr": "해변 주민 그렛 족속에게 화 있을진저 블레셋 사람의 땅 가나안아 여호와의 말씀이 너희를 치나니 내가 너를 멸하여 주민이 없게 하리라"
+          }
+        },
+        {
+          "key": "6",
+          "text": {
+            "fr": "Les côtes de la mer seront des pâturages, des demeures pour les bergers, Et des parcs pour les troupeaux.",
+            "en": "And the sea coast shall be dwellings and cottages for shepherds, and folds for flocks.",
+            "zh": "沿海之地要變為草場、其上有牧人的住處和羊群的圈。",
+            "jp": "海うみべよ、あなたは牧場まきばとなり、羊飼ひつじかいの牧草ぼくそう地ちとなり、また羊ひつじのおりとなる。",
+            "kr": "해변은 풀밭이 되어 목자의 움막과 양 떼의 우리가 거기에 있을 것이며"
+          }
+        },
+        {
+          "key": "7",
+          "text": {
+            "fr": "Ces côtes seront pour les restes de la maison de Juda ; C’est là qu’ils feront paître ; Ils reposeront le soir dans les maisons d’Askalon ; Car l’Éternel, leur Dieu, ne les oubliera pas, Et il ramènera leurs captifs.",
+            "en": "And the coast shall be for the remnant of the house of Judah; they shall feed thereupon: in the houses of Ashkelon shall they lie down in the evening: for the Lord their God shall visit them, and turn away their captivity.",
+            "zh": "這地必為猶大家剩下的人所得．他們必在那裡牧放群羊．晚上必躺臥在亞實基倫的房屋中．因為耶和華他們的　神、必眷顧他們、使他們被擄的人歸回。",
+            "jp": "海うみべはユダの家いえの残のこりの者ものに帰きする。彼かれらはその所ところで群むれを養やしない、夕暮ゆうぐれにはアシケロンの家いえに伏ふす。彼かれらの神かみ、主しゅが彼かれらを顧かえりみ、その幸福こうふくを回復かいふくされるからである。",
+            "kr": "그 지경은 유다 족속의 남은 자에게로 돌아갈지라 그들이 거기에서 양 떼를 먹이고 저녁에는 아스글론 집들에 누우리니 이는 그들의 하나님 여호와가 그들을 보살피사 그들이 사로잡힘을 돌이킬 것임이라"
+          }
+        },
+        {
+          "key": "8",
+          "text": {
+            "fr": "J’ai entendu les injures de Moab Et les outrages des enfants d’Ammon, Quand ils insultaient mon peuple Et s’élevaient avec arrogance contre ses frontières.",
+            "en": "¶ I have heard the reproach of Moab, and the revilings of the children of Ammon, whereby they have reproached my people, and magnified themselves against their border.",
+            "zh": "我聽見摩押人的毀謗、和亞捫人的辱罵、就是毀謗我的百姓、自誇自大、侵犯他們的境界。",
+            "jp": "「わたしはモアブのあざけりと、アンモンの人々ひとびとの、ののしりを聞きいた。彼かれらはわが民たみをあざけり、自みずから誇ほこって彼かれらの国境こっきょうを侵おかした。",
+            "kr": "내가 모압의 비방과 암몬 자손이 조롱하는 말을 들었나니 그들이 내 백성을 비방하고 자기들의 경계에 대하여 교만하였느니라"
+          }
+        },
+        {
+          "key": "9",
+          "text": {
+            "fr": "C’est pourquoi, je suis vivant ! dit l’Éternel des armées, le Dieu d’Israël, Moab sera comme Sodome, et les enfants d’Ammon comme Gomorrhe, Un lieu couvert de ronces, une mine de sel, un désert pour toujours ; Le reste de mon peuple les pillera, Le reste de ma nation les possédera.",
+            "en": "Therefore as I live, saith the Lord of hosts, the God of Israel, Surely Moab shall be as Sodom, and the children of Ammon as Gomorrah, even the breeding of nettles, and saltpits, and a perpetual desolation: the residue of my people shall spoil them, and the remnant of my people shall possess them.",
+            "zh": "萬軍之耶和華以色列的　神說、我指著我的永生起誓、摩押必像所多瑪、亞捫人必像蛾摩拉、都變為刺草、鹽坑、永遠荒廢之地。我百姓所剩下的必擄掠他們、我國中所餘剩的必得著他們的地。",
+            "jp": "それゆえ、万軍ばんぐんの主しゅ、イスラエルの神かみは言いわれる、わたしは生いきている。モアブは必かならずソドムのようになる。アンモンの人々ひとびとはゴモラのようになる。いらくさと塩しお穴あなとがここを占領せんりょうして、永遠えいえんに荒あれ地ちとなる。わが民たみの残のこりの者ものは彼かれらをかすめ、わが国民くにたみの残のこりの者ものはこれを所有しょゆうする」。",
+            "kr": "그러므로 만군의 여호와 이스라엘의 하나님이 말하노라 내가 나의 삶을 두고 맹세하노니 장차 모압은 소돔 같으며 암몬 자손은 고모라 같을 것이라 찔레가 나며 소금 구덩이가 되어 영원히 황폐하리니 내 백성의 남은 자들이 그들을 노략하며 나의 남은 백성이 그것을 기업으로 얻을 것이라"
+          }
+        },
+        {
+          "key": "10",
+          "text": {
+            "fr": "Cela leur arrivera pour leur orgueil, Parce qu’ils ont insulté et traité avec arrogance Le peuple de l’Éternel des armées.",
+            "en": "This shall they have for their pride, because they have reproached and magnified themselves against the people of the Lord of hosts.",
+            "zh": "這事臨到他們是、因他們驕傲、自誇自大、毀謗萬軍之耶和華的百姓。",
+            "jp": "この事ことの彼かれらに臨のぞむのはその高たかぶりによるのだ。彼かれらが万軍ばんぐんの主しゅの民たみをあざけり、みずから誇ほこったからである。",
+            "kr": "그들이 이런 일을 당할 것은 그들이 만군의 여호와의 백성을 훼방하고 교만하여졌음이라"
+          }
+        },
+        {
+          "key": "11",
+          "text": {
+            "fr": "L’Éternel sera terrible contre eux, Car il anéantira tous les dieux de la terre ; Et chacun se prosternera devant lui dans son pays, Dans toutes les îles des nations.",
+            "en": "The Lord will be terrible unto them: for he will famish all the gods of the earth; and men shall worship him, every one from his place, even all the isles of the heathen.",
+            "zh": "耶和華必向他們顯可畏之威．因他必叫世上的諸神瘦弱、列國海島的居民、各在自己的地方敬拜他。",
+            "jp": "主しゅは彼かれらに対たいして恐おそるべき者ものとなられる。主しゅは地ちのすべての神々かみがみを飢うえさせられる。もろもろの国くにの民たみは、おのおの自分じぶんの所ところから出でて主しゅを拝おがむ。",
+            "kr": "여호와가 그들에게 두렵게 되어서 세상의 모든 신을 쇠약하게 하리니 이방의 모든 해변 사람들이 각각 자기 처소에서 여호와께 경배하리라"
+          }
+        },
+        {
+          "key": "12",
+          "text": {
+            "fr": "Vous aussi, Éthiopiens, Vous serez frappés par mon épée.",
+            "en": "¶ Ye Ethiopians also, ye shall be slain by my sword.",
+            "zh": "古實人哪、你們必被我的刀所殺。",
+            "jp": "エチオピヤびとよ、あなたがたもまたわがつるぎによって殺ころされる。",
+            "kr": "구스 사람들아 너희도 내 칼에 죽임을 당하리라"
+          }
+        },
+        {
+          "key": "13",
+          "text": {
+            "fr": "Il étendra sa main sur le nord, Il détruira l’Assyrie, Et il fera de Ninive une désolation, Une terre aride comme le désert.",
+            "en": "And he will stretch out his hand against the north, and destroy Assyria; and will make Nineveh a desolation, and dry like a wilderness.",
+            "zh": "耶和華必伸手攻擊北方、毀滅亞述、使尼尼微荒涼、又乾旱如曠野。",
+            "jp": "主しゅはまた北きたに向むかって手てを伸のべ、アッスリヤを滅ほろぼし、ニネベを荒あらして、荒野あらののような、かわいた地ちとされる。",
+            "kr": "여호와가 북쪽을 향하여 손을 펴서 앗수르를 멸하며 니느웨를 황폐하게 하여 사막 같이 메마르게 하리니"
+          }
+        },
+        {
+          "key": "14",
+          "text": {
+            "fr": "Des troupeaux se coucheront au milieu d’elle, Des animaux de toute espèce ; Le pélican et le hérisson Habiteront parmi les chapiteaux de ses colonnes ; Des cris retentiront aux fenêtres ; La dévastation sera sur le seuil, Car les lambris de cèdre seront arrachéés.",
+            "en": "And flocks shall lie down in the midst of her, all the beasts of the nations: both the cormorant and the bittern shall lodge in the upper lintels of it; their voice shall sing in the windows; desolation shall be in the thresholds: for he shall uncover the cedar work.",
+            "zh": "群畜、就是各國的走獸、〔國或作類〕必臥在其中．鵜鶘和箭豬要宿在柱頂上．在窗戶內有鳴叫的聲音．門檻都必毀壞．香柏木已經露出。",
+            "jp": "家畜かちくの群むれ、もろもろの野のの獣けものはその中なかに伏ふし、はげたかや、やまあらしはその柱はしらの頂いただきに住すみ、ふくろうは、その窓まどのうちになき、からすは、その敷居しきいの上うえに鳴なく。その香柏こうはくの細工さいくが裸はだかにされるからである。",
+            "kr": "각종 짐승이 그 가운데에 떼로 누울 것이며 당아와 고슴도치가 그 기둥 꼭대기에 깃들이고 그것들이 창에서 울 것이며 문턱이 적막하리니 백향목으로 지은 것이 벗겨졌음이라"
+          }
+        },
+        {
+          "key": "15",
+          "text": {
+            "fr": "Voilà donc cette ville joyeuse, Qui s’assied avec assurance, Et qui dit en son cœur : Moi, et rien que moi ! Comment ! elle est en ruines, C’est un repaire pour les bêtes ! Tous ceux qui passeront près d’elle Siffleront et agiteront la main.",
+            "en": "This is the rejoicing city that dwelt carelessly, that said in her heart, I am, and there is none beside me: how is she become a desolation, a place for beasts to lie down in! every one that passeth by her shall hiss, and wag his hand.",
+            "zh": "這是素來歡樂安然居住的城、心裡說、惟有我、除我以外再沒有別的．現在何竟荒涼、成為野獸躺臥之處．凡經過的人都必搖手嗤笑他。",
+            "jp": "この町まちは勝かち誇ほこって、安やすらかに落おち着つき、その心こころの中なかで、「ただわたしだけだ、わたしの外ほかにはだれもない」と言いった町まちであるが、このように荒あれはてて、獣けものの伏ふす所ところになってしまった。ここを通とおり過すぎる者ものは皆みなあざけって、手てを振ふる。",
+            "kr": "이는 기쁜 성이라 염려 없이 거주하며 마음속에 이르기를 오직 나만 있고 나 외에는 다른 이가 없다 하더니 어찌 이와 같이 황폐하여 들짐승이 엎드릴 곳이 되었는고 지나가는 자마다 비웃으며 손을 흔들리로다"
+          }
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "introduction": {
+        "fr": "À la Seconde Venue, toutes les nations s’assembleront pour combattre. Les hommes auront des lèvres pures. L’Éternel règnera au milieu de son peuple.",
+        "en": "At the Second Coming, all nations will assemble to battle—Men will have a pure language—The Lord will reign in their midst.",
+        "zh": "At the Second Coming, all nations will assemble to battle—Men will have a pure language—The Lord will reign in their midst.",
+        "jp": "At the Second Coming, all nations will assemble to battle—Men will have a pure language—The Lord will reign in their midst.",
+        "kr": "At the Second Coming, all nations will assemble to battle—Men will have a pure language—The Lord will reign in their midst."
+      },
+      "verses": [
+        {
+          "key": "1",
+          "text": {
+            "fr": "Malheur à la ville rebelle et souillée, À la ville pleine d’oppresseurs !",
+            "en": "Woe to her that is filthy and polluted, to the oppressing city!",
+            "zh": "這悖逆污穢欺壓的城、有禍了。",
+            "jp": "わざわいなるかな、このそむき汚けがれた暴虐ぼうぎゃくの町まち。",
+            "kr": "패역하고 더러운 곳, 포학한 그 성읍이 화 있을진저"
+          }
+        },
+        {
+          "key": "2",
+          "text": {
+            "fr": "Elle n’écoute aucune voix, Elle ne tient pas compte de la correction, Elle ne se confie pas en l’Éternel, Elle ne s’approche pas de son Dieu.",
+            "en": "She obeyed not the voice; she received not correction; she trusted not in the Lord; she drew not near to her God.",
+            "zh": "他不聽從命令、不領受訓誨、不倚靠耶和華、不親近他的　神。",
+            "jp": "これはだれの声こえにも耳みみを傾かたむけず、懲こらしめを受うけいれず、主しゅに寄より頼たのまず、おのれの神かみに近ちかよらない。",
+            "kr": "그가 명령을 듣지 아니하며 교훈을 받지 아니하며 여호와를 의뢰하지 아니하며 자기 하나님에게 가까이 나아가지 아니하였도다"
+          }
+        },
+        {
+          "key": "3",
+          "text": {
+            "fr": "Ses chefs au milieu d’elle sont des lions rugissants ; Ses juges sont des loups du soir qui ne gardent rien pour le matin.",
+            "en": "Her princes within her are roaring lions; her judges are evening wolves; they gnaw not the bones till the morrow.",
+            "zh": "他中間的首領是咆哮的獅子．他的審判官是晚上的豺狼、一點食物、也不留到早晨。",
+            "jp": "その中なかにいるつかさたちは、ほえるしし、そのさばきびとたちは、夜よるのおおかみで、彼かれらは朝あさまで何なに一つ残のこさない。",
+            "kr": "그 가운데 방백들은 부르짖는 사자요 그의 재판장들은 이튿날까지 남겨 두는 것이 없는 저녁 이리요"
+          }
+        },
+        {
+          "key": "4",
+          "text": {
+            "fr": "Ses prophètes sont indisciplinés, trompeurs ; Ses prêtres profanent les choses saintes, violent la loi.",
+            "en": "Her prophets are light and treacherous persons: her priests have polluted the sanctuary, they have done violence to the law.",
+            "zh": "他的先知是虛浮詭詐的人．他的祭司褻瀆聖所、強解律法。",
+            "jp": "その預言者よげんしゃたちは、放縦ほうじゅうで偽いつわりびと、その祭司さいしたちは聖せいなる物ものを汚けがし、律法りっぽうを破やぶる。",
+            "kr": "그의 선지자들은 경솔하고 간사한 사람들이요 그의 제사장들은 성소를 더럽히고 율법을 범하였도다"
+          }
+        },
+        {
+          "key": "5",
+          "text": {
+            "fr": "L’Éternel est juste au milieu d’elle, Il ne commet point d’iniquité ; Chaque matin il rend à la lumière ses jugements, Sans jamais y manquer ; Mais celui qui est inique ne connaît pas la honte.",
+            "en": "The just Lord is in the midst thereof; he will not do iniquity: every morning doth he bring his judgment to light, he faileth not; but the unjust knoweth no shame.",
+            "zh": "耶和華在他中間是公義的、斷不作非義的事、每早晨顯明他的公義、無日不然．只是不義的人不知羞恥。",
+            "jp": "その中なかにいます主しゅは義ぎであって、不義ふぎを行おこなわれない。朝あさごとにその公義こうぎを現あらわして、誤あやまることがない。しかし不義ふぎな者ものは恥はじを知しらない。",
+            "kr": "그 가운데에 계시는 여호와는 의로우사 불의를 행하지 아니하시고 아침마다 빠짐없이 자기의 공의를 비추시거늘 불의한 자는 수치를 알지 못하는도다"
+          }
+        },
+        {
+          "key": "6",
+          "text": {
+            "fr": "J’ai exterminé des nations ; leurs tours sont détruites ; J’ai dévasté leurs rues, plus de passants ! Leurs villes sont ravagées, plus d’hommes, plus d’habitants !",
+            "en": "I have cut off the nations: their towers are desolate; I made their streets waste, that none passeth by: their cities are destroyed, so that there is no man, that there is none inhabitant.",
+            "zh": "我耶和華已經除滅列國的民．他們的城樓毀壞．我使他們的街道荒涼、以致無人經過．他們的城邑毀滅、以致無人、也無居民。",
+            "jp": "「わたしは諸しょ国民こくみんを滅ほろぼした。そのやぐらは荒あれはてた。わたしはそのちまたを荒あらしたので、ちまたを行いき来きする者ものもない。その町々まちまちは荒あれすたれて、人ひとの姿すがたもなく、住すむ者ものもない。",
+            "kr": "내가 여러 나라를 끊어 버렸으므로 그들의 망대가 파괴되었고 내가 그들의 거리를 비게 하여 지나는 자가 없게 하였으므로 그들의 모든 성읍이 황폐하며 사람이 없으며 거주할 자가 없게 되었느니라"
+          }
+        },
+        {
+          "key": "7",
+          "text": {
+            "fr": "Je disais : Si du moins tu voulais me craindre, Accepter la correction, Ta demeure ne serait pas détruite, Tous les châtiments dont je t’ai menacée n’arriveraient pas ; Mais ils se sont hâtés de pervertir toutes leurs actions.",
+            "en": "I said, Surely thou wilt fear me, thou wilt receive instruction; so their dwelling should not be cut off, howsoever I punished them: but they rose early, and corrupted all their doings.",
+            "zh": "我說、你只要敬畏我、領受訓誨．如此、你的住處、不致照我所擬定的除滅．只是你們從早起來、就在一切事上敗壞自己。",
+            "jp": "わたしは言いった、『これは必かならずわたしを恐おそれ、懲こらしめを受うける。これはわたしが命めいじたすべての事ことを見失みうしなわない』と。しかし彼かれらはしきりに自分じぶんの行状ぎょうじょうを乱みだした」。",
+            "kr": "내가 이르기를 너는 오직 나를 경외하고 교훈을 받으라 그리하면 내가 형벌을 내리기로 정하기는 하였지만 너의 거처가 끊어지지 아니하리라 하였으나 그들이 부지런히 그들의 모든 행위를 더럽게 하였느니라"
+          }
+        },
+        {
+          "key": "8",
+          "text": {
+            "fr": "Attendez-moi donc, dit l’Éternel, Au jour où je me lèverai pour le butin, Car j’ai résolu de rassembler les nations, De rassembler les royaumes, Pour répandre sur eux ma fureur, Toute l’ardeur de ma colère ; Car par le feu de ma jalousie tout le pays sera consumé.",
+            "en": "¶ Therefore wait ye upon me, saith the Lord, until the day that I rise up to the prey: for my determination is to gather the nations, that I may assemble the kingdoms, to pour upon them mine indignation, even all my fierce anger: for all the earth shall be devoured with the fire of my jealousy.",
+            "zh": "耶和華說、你們要等候我、直到我興起擄掠的日子、因為我已定意招聚列國、聚集列邦、將我的惱怒、就是我的烈怒、都傾在他們身上．我的忿怒如火、必燒滅全地。",
+            "jp": "主しゅは言いわれる、「それゆえ、あなたがたは、わたしが立たって、証言しょうげんする日ひを待まて。わたしの決意けついは諸しょ国民こくみんをよせ集あつめ、もろもろの国くにを集あつめて、わが憤いきどおり、わが激はげしい怒いかりをことごとくその上うえに注そそぐことであって、全ぜん地ちは、ねたむわたしの怒いかりの火ひに焼やき滅ほろぼされるからである。",
+            "kr": "나 여호와가 말하노라 그러므로 내가 일어나 벌할 날까지 너희는 나를 기다리라 내가 뜻을 정하고 나의 분노와 모든 진노를 쏟으려고 여러 나라를 소집하며 왕국들을 모으리라 온 땅이 나의 질투의 불에 소멸되리라"
+          }
+        },
+        {
+          "key": "9",
+          "text": {
+            "fr": "Alors je donnerai aux peuples des lèvres pures, Afin qu’ils invoquent tous le nom de l’Éternel, Pour le servir d’un commun accord.",
+            "en": "For then will I turn to the people a pure language, that they may all call upon the name of the Lord, to serve him with one consent.",
+            "zh": "那時、我必使萬民用清潔的言語、好求告我耶和華的名、同心合意地事奉我。",
+            "jp": "その時ときわたしはもろもろの民たみに清きよきくちびるを与あたえ、すべて彼かれらに主しゅの名なを呼よばせ、心こころを一つにして主しゅに仕つかえさせる。",
+            "kr": "그 때에 내가 여러 백성의 입술을 깨끗하게 하여 그들이 다 여호와의 이름을 부르며 한 가지로 나를 섬기게 하리니"
+          }
+        },
+        {
+          "key": "10",
+          "text": {
+            "fr": "D’au-delà des fleuves de l’Éthiopie Mes adorateurs, mes dispersés, m’apporteront des offrandes.",
+            "en": "From beyond the rivers of Ethiopia my suppliants, even the daughter of my dispersed, shall bring mine offering.",
+            "zh": "祈禱我的、就是我所分散的民、〔原文作女子下同〕必從古實河外來、給我獻供物。",
+            "jp": "わたしを拝おがむ者もの、わたしが散ちらした者ものの娘むすめはエチオピヤの川々かわがわの向むこうから来きて、わたしに供そなえ物ものをささげる。",
+            "kr": "내게 구하는 백성들 곧 내가 흩은 자의 딸이 구스 강 건너편에서부터 예물을 가지고 와서 내게 바칠지라"
+          }
+        },
+        {
+          "key": "11",
+          "text": {
+            "fr": "En ce jour-là, tu n’auras plus à rougir de toutes tes actions Par lesquelles tu as péché contre moi ; Car alors j’ôterai du milieu de toi ceux qui triomphaient avec arrogance, Et tu ne t’enorgueilliras plus sur ma montagne sainte.",
+            "en": "In that day shalt thou not be ashamed for all thy doings, wherein thou hast transgressed against me: for then I will take away out of the midst of thee them that rejoice in thy pride, and thou shalt no more be haughty because of my holy mountain.",
+            "zh": "當那日你必不因你一切得罪我的事、自覺羞愧．因為那時我必從你中間除掉矜誇高傲之輩、你也不再於我的聖山狂傲。",
+            "jp": "その日ひには、あなたはわたしにそむいたすべてのわざのゆえに、はずかしめられることはない。その時ときわたしはあなたのうちから、高たかぶって誇ほこる者ものどもを除のぞくゆえ、あなたは重かさねてわが聖せいなる山やまで、高たかぶることはない。",
+            "kr": "그 날에 네가 내게 범죄한 모든 행위로 말미암아 수치를 당하지 아니할 것은 그 때에 내가 네 가운데서 교만하여 자랑하는 자들을 제거하여 네가 나의 성산에서 다시는 교만하지 않게 할 것임이라"
+          }
+        },
+        {
+          "key": "12",
+          "text": {
+            "fr": "Je laisserai au milieu de toi un peuple humble et petit, Qui trouvera son refuge dans le nom de l’Éternel.",
+            "en": "I will also leave in the midst of thee an afflicted and poor people, and they shall trust in the name of the Lord.",
+            "zh": "我卻要在你中間、留下困苦貧寒的民．他們必投靠我耶和華的名。",
+            "jp": "わたしは柔和にゅうわにしてへりくだる民たみを、あなたのうちに残のこす。彼かれらは主しゅの名なを避さけ所どころとする。",
+            "kr": "내가 곤고하고 가난한 백성을 네 가운데에 남겨 두리니 그들이 여호와의 이름을 의탁하여 보호를 받을지라"
+          }
+        },
+        {
+          "key": "13",
+          "text": {
+            "fr": "Les restes d’Israël ne commettront pas d’iniquité, Ils ne diront pas de mensonges, Et il ne se trouvera pas dans leur bouche une langue trompeuse ; Mais ils pourront paître et se reposer et personne ne les troublera.",
+            "en": "The remnant of Israel shall not do iniquity, nor speak lies; neither shall a deceitful tongue be found in their mouth: for they shall feed and lie down, and none shall make them afraid.",
+            "zh": "以色列所剩下的人、必不作罪孽、不說謊言、口中也沒有詭詐的舌頭．而且喫喝躺臥、無人驚嚇。",
+            "jp": "イスラエルの残のこりの者ものは不義ふぎを行おこなわず、偽いつわりを言いわず、その口くちには欺あざむきの舌したを見みない。それゆえ、彼かれらは食しょくを得えて伏ふし、彼かれらをおびやかす者ものはいない」。",
+            "kr": "이스라엘의 남은 자는 악을 행하지 아니하며 거짓을 말하지 아니하며 입에 거짓된 혀가 없으며 먹고 누울지라도 그들을 두렵게 할 자가 없으리라"
+          }
+        },
+        {
+          "key": "14",
+          "text": {
+            "fr": "Pousse des cris de joie, fille de Sion ! Pousse des cris d’allégresse, Israël ! Réjouis-toi et triomphe de tout ton cœur, fille de Jérusalem !",
+            "en": "¶ Sing, O daughter of Zion; shout, O Israel; be glad and rejoice with all the heart, O daughter of Jerusalem.",
+            "zh": "錫安的民哪、應當歌唱．以色列阿、應當歡呼。耶路撒冷的民哪、應當滿心歡喜快樂。",
+            "jp": "シオンの娘むすめよ、喜よろこび歌うたえ。イスラエルよ、喜よろこび呼よばわれ。エルサレムの娘むすめよ、心こころのかぎり喜よろこび楽たのしめ。",
+            "kr": "시온의 딸아 노래할지어다 이스라엘아 기쁘게 부를지어다 예루살렘 딸아 전심으로 기뻐하며 즐거워할지어다"
+          }
+        },
+        {
+          "key": "15",
+          "text": {
+            "fr": "L’Éternel a détourné de toi tes châtiments, Il a éloigné ton ennemi ; Le roi d’Israël, l’Éternel, est au milieu de toi ; Tu n’as plus de malheur à redouter.",
+            "en": "The Lord hath taken away thy judgments, he hath cast out thine enemy: the king of Israel, even the Lord, is in the midst of thee: thou shalt not see evil any more.",
+            "zh": "耶和華已經除去你的刑罰、趕出你的仇敵．以色列的王耶和華在你中間、你必不再懼怕災禍。",
+            "jp": "主しゅはあなたを訴うったえる者ものを取とり去さり、あなたの敵てきを追おい払はらわれた。イスラエルの王おうなる主しゅはあなたのうちにいます。あなたはもはや災わざわいを恐おそれることはない。",
+            "kr": "여호와가 네 형벌을 제거하였고 네 원수를 쫓아냈으며 이스라엘 왕 여호와가 네 가운데 계시니 네가 다시는 화를 당할까 두려워하지 아니할 것이라"
+          }
+        },
+        {
+          "key": "16",
+          "text": {
+            "fr": "En ce jour-là, on dira à Jérusalem : Ne crains rien ! Sion, que tes mains ne s’affaiblissent pas !",
+            "en": "In that day it shall be said to Jerusalem, Fear thou not: and to Zion, Let not thine hands be slack.",
+            "zh": "當那日、必有話向耶路撒冷說、不要懼怕。錫安哪、不要手軟。",
+            "jp": "その日ひ、人々ひとびとはエルサレムに向むかって言いう、「シオンよ、恐おそれるな。あなたの手てを弱々よわよわしくたれるな。",
+            "kr": "그 날에 사람이예루살렘에 이르기를 두려워하지 말라 시온아 네 손을 늘어뜨리지 말라"
+          }
+        },
+        {
+          "key": "17",
+          "text": {
+            "fr": "L’Éternel, ton Dieu, est au milieu de toi, comme un héros qui sauve ; Il fera de toi sa plus grande joie ; Il gardera le silence dans son amour ; Pour toi, il sera transporté d’allégresse.",
+            "en": "The Lord thy God in the midst of thee is mighty; he will save, he will rejoice over thee with joy; he will rest in his love, he will joy over thee with singing.",
+            "zh": "耶和華你的　神、是施行拯救、大有能力的主、他在你中間必因你歡欣喜樂、默然愛你、且因你喜樂而歡呼。",
+            "jp": "あなたの神かみ、主しゅはあなたのうちにいまし、勇士ゆうしであって、勝利しょうりを与あたえられる。彼かれはあなたのために喜よろこび楽たのしみ、その愛あいによってあなたを新あらたにし、祭まつりの日ひのようにあなたのために喜よろこび呼よばわられる」。",
+            "kr": "너의 하나님 여호와가 너의 가운데에 계시니 그는 구원을 베푸실 전능자이시라 그가 너로 말미암아 기쁨을 이기지 못하시며 너를 잠잠히 사랑하시며 너로 말미암아 즐거이 부르며 기뻐하시리라 하리라"
+          }
+        },
+        {
+          "key": "18",
+          "text": {
+            "fr": "Je rassemblerai ceux qui sont dans la tristesse, loin des fêtes solennelles, Ceux qui sont loin de toi, sur qui pèse le déshonneur.",
+            "en": "I will gather them that are sorrowful for the solemn assembly, who are of thee, to whom the reproach of it was a burden.",
+            "zh": "那些屬你、為無大會愁煩、因你擔當羞辱的、我必聚集他們。",
+            "jp": "「わたしはあなたから悩なやみを取とり去さる。あなたは恥はじを受うけることはない。",
+            "kr": "내가 절기로 말미암아 근심하는 자들을 모으리니 그들은 네게 속한 자라 그들에게 지워진 짐이 치욕이 되었느니라"
+          }
+        },
+        {
+          "key": "19",
+          "text": {
+            "fr": "Voici, en ce temps-là, j’agirai contre tous tes oppresseurs ; Je délivrerai les boiteux et je recueillerai ceux qui ont été chassés, Je ferai d’eux un sujet de louange et de gloire Dans tous les pays où ils sont en déshonneur.",
+            "en": "Behold, at that time I will undo all that afflict thee: and I will save her that halteth, and gather her that was driven out; and I will get them praise and fame in every land where they have been put to shame.",
+            "zh": "那時、我必罰辦一切苦待你的人、又拯救你瘸腿的、聚集你被趕出的．那些在全地受羞辱的、我必使他們得稱讚、有名聲。",
+            "jp": "見みよ、その時ときあなたをしえたげる者ものをわたしはことごとく処分しょぶんし、足あしなえを救すくい、追おいやられた者ものを集あつめ、彼かれらの恥はじを誉ほまれにかえ、全ぜん地ちにほめられるようにする。",
+            "kr": "그 때에 내가 너를 괴롭게 하는 자를 다 벌하고 저는 자를 구원하며 쫓겨난 자를 모으며 온 세상에서 수욕 받는 자에게 칭찬과 명성을 얻게 하리라"
+          }
+        },
+        {
+          "key": "20",
+          "text": {
+            "fr": "En ce temps-là, je vous ramènerai ; En ce temps-là, je vous rassemblerai ; Car je ferai de vous un sujet de gloire et de louange Parmi tous les peuples de la terre, Quand je ramènerai vos captifs sous vos yeux, Dit l’Éternel.",
+            "en": "At that time will I bring you again, even in the time that I gather you: for I will make you a name and a praise among all people of the earth, when I turn back your captivity before your eyes, saith the Lord.",
+            "zh": "那時、我必領你們進來、聚集你們．我使你們被擄之人歸回的時候、就必使你們在地上的萬民中有名聲、得稱讚。這是耶和華說的。",
+            "jp": "その時とき、わたしはあなたがたを連つれかえる。わたしがあなたがたを集あつめるとき、わたしがあなたがたの目めの前まえに、あなたがたの幸福こうふくを回復かいふくするとき、地ちのすべての民たみの中なかで、あなたがたに名なを得えさせ、誉ほまれを得えさせる」と主しゅは言いわれる。",
+            "kr": "내가 그 때에 너희를 이끌고 그 때에 너희를 모을지라 내가 너희 목전에서 너희의 사로잡힘을 돌이킬 때에 너희에게 천하 만민 가운데서 명성과 칭찬을 얻게 하리라 여호와의 말이니라"
+          }
+        }
+      ]
+    }
+  ]
+}

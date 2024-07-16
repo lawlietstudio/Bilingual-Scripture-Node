@@ -1,0 +1,1587 @@
+{
+  "book": {
+    "fr": "GALATES",
+    "en": "THE EPISTLE OF PAUL THE APOSTLE",
+    "zh": "加拉太書",
+    "jp": "ガラテヤ人びとへの手紙てがみ",
+    "kr": "갈라디아서"
+  },
+  "theme": {
+    "fr": "Chapitre 1",
+    "en": "GALATIANS",
+    "zh": "第1章",
+    "jp": "第1章",
+    "kr": "제 1 장"
+  },
+  "introduction": {
+    "fr": "",
+    "en": "",
+    "zh": "",
+    "jp": "",
+    "kr": ""
+  },
+  "chapters": [
+    {
+      "number": 1,
+      "introduction": {
+        "fr": "Preachers of false gospels are accursed—Paul received the gospel by revelation—He believed, was taught, and preached to the Gentiles.",
+        "en": "Preachers of false gospels are accursed—Paul received the gospel by revelation—He believed, was taught, and preached to the Gentiles.",
+        "zh": "Preachers of false gospels are accursed—Paul received the gospel by revelation—He believed, was taught, and preached to the Gentiles.",
+        "jp": "Preachers of false gospels are accursed—Paul received the gospel by revelation—He believed, was taught, and preached to the Gentiles.",
+        "kr": "Preachers of false gospels are accursed—Paul received the gospel by revelation—He believed, was taught, and preached to the Gentiles."
+      },
+      "verses": [
+        {
+          "key": "1",
+          "text": {
+            "fr": "Paul, apôtre, non de la part des hommes, ni par un homme, mais par Jésus Christ et Dieu le Père, qui l’a ressuscité des morts,",
+            "en": "Paul, an apostle, (not of men, neither by man, but by Jesus Christ, and God the Father, who raised him from the dead;)",
+            "zh": "作使徒的保羅、（不是由於人、也不是藉著人、乃是藉著耶穌基督、與叫他從死裡復活的父　神）",
+            "jp": "人々ひとびとからでもなく、人ひとによってでもなく、イエス・キリストと彼かれを死人しにんの中なかからよみがえらせた父ちちなる神かみとによって立たてられた使徒しとパウロ、",
+            "kr": "사람들에게서 난 것도 아니요 사람으로 말미암은 것도 아니요 오직 예수 그리스도와 그를 죽은 자 가운데서 살리신 하나님 아버지로 말미암아 사도 된 바울은"
+          }
+        },
+        {
+          "key": "2",
+          "text": {
+            "fr": "et tous les frères qui sont avec moi, aux Églises de la Galatie :",
+            "en": "And all the brethren which are with me, unto the churches of Galatia:",
+            "zh": "和一切與我同在的眾弟兄、寫信給加拉太的各教會。",
+            "jp": "ならびにわたしと共ともにいる兄弟きょうだいたち一同いちどうから、ガラテヤの諸しょ教会きょうかいへ。",
+            "kr": "함께 있는 모든 형제와 더불어 갈라디아 여러 교회들에게"
+          }
+        },
+        {
+          "key": "3",
+          "text": {
+            "fr": "que la grâce et la paix vous soient données de la part de Dieu le Père et de notre Seigneur Jésus Christ,",
+            "en": "Grace be to you and peace from God the Father, and from our Lord Jesus Christ,",
+            "zh": "願恩惠平安、從父　神與我們的主耶穌基督、歸與你們。",
+            "jp": "わたしたちの父ちちなる神かみと主しゅイエス・キリストから、恵めぐみと平安へいあんとが、あなたがたにあるように。",
+            "kr": "우리 하나님 아버지와 주 예수 그리스도로부터 은혜와 평강이 있기를 원하노라"
+          }
+        },
+        {
+          "key": "4",
+          "text": {
+            "fr": "qui s’est donné lui-même pour nos péchés, afin de nous arracher du présent siècle mauvais, selon la volonté de notre Dieu et Père,",
+            "en": "Who gave himself for our sins, that he might deliver us from this present evil world, according to the will of God and our Father:",
+            "zh": "基督照我們父　神的旨意為我們的罪捨己、要救我們脫離這罪惡的世代．",
+            "jp": "キリストは、わたしたちの父ちちなる神かみの御旨みむねに従したがい、わたしたちを今いまの悪あくの世よから救すくい出だそうとして、ご自身じしんをわたしたちの罪つみのためにささげられたのである。",
+            "kr": "그리스도께서 하나님 곧 우리 아버지의 뜻을 따라 이 악한 세대에서 우리를 건지시려고 우리 죄를 대속하기 위하여 자기 몸을 주셨으니"
+          }
+        },
+        {
+          "key": "5",
+          "text": {
+            "fr": "à qui soit la gloire aux siècles des siècles ! Amen !",
+            "en": "To whom be glory for ever and ever. Amen.",
+            "zh": "但願榮耀歸於　神直到永永遠遠。阿們。",
+            "jp": "栄光えいこうが世々よよ限かぎりなく神かみにあるように、アァメン。",
+            "kr": "영광이 그에게 세세토록 있을지어다 아멘"
+          }
+        },
+        {
+          "key": "6",
+          "text": {
+            "fr": "Je m’étonne que vous vous détourniez si promptement de celui qui vous a appelés par la grâce de Christ, pour passer à un autre Évangile.",
+            "en": "I marvel that ye are so soon removed from him that called you into the grace of Christ unto another gospel:",
+            "zh": "我希奇你們這麼快離開那藉著基督之恩召你們的、去從別的福音．",
+            "jp": "あなたがたがこんなにも早はやく、あなたがたをキリストの恵めぐみの内うちへお招まねきになったかたから離はなれて、違ちがった福音ふくいんに落おちていくことが、わたしには不思議ふしぎでならない。",
+            "kr": "그리스도의 은혜로 너희를 부르신 이를 이같이 속히 떠나 다른 복음을 따르는 것을 내가 이상하게 여기노라"
+          }
+        },
+        {
+          "key": "7",
+          "text": {
+            "fr": "Non pas qu’il y ait un autre Évangile, mais il y a des gens qui vous troublent, et qui veulent renverser l’Évangile de Christ.",
+            "en": "Which is not another; but there be some that trouble you, and would pervert the gospel of Christ.",
+            "zh": "那並不是福音、不過有些人攪擾你們、要把基督的福音更改了。",
+            "jp": "それは福音ふくいんというべきものではなく、ただ、ある種たねの人々ひとびとがあなたがたをかき乱みだし、キリストの福音ふくいんを曲まげようとしているだけのことである。",
+            "kr": "다른 복음은 없나니 다만 어떤 사람들이 너희를 교란하여 그리스도의 복음을 변하게 하려 함이라"
+          }
+        },
+        {
+          "key": "8",
+          "text": {
+            "fr": "Mais, quand nous-mêmes, quand un ange du ciel annoncerait un autre Évangile que celui que nous vous avons prêché, qu’il soit anathème !",
+            "en": "But though we, or an angel from heaven, preach any other gospel unto you than that which we have preached unto you, let him be accursed.",
+            "zh": "但無論是我們、是天上來的使者、若傳福音給你們、與我們所傳給你們的不同、他就應當被咒詛。",
+            "jp": "しかし、たといわたしたちであろうと、天てんからの御使みつかいであろうと、わたしたちが宣のべ伝つたえた福音ふくいんに反はんすることをあなたがたに宣のべ伝つたえるなら、その人ひとはのろわるべきである。",
+            "kr": "그러나 우리나 혹은 하늘로부터 온 천사라도 우리가 너희에게 전한 복음 외에 다른 복음을 전하면 저주를 받을지어다"
+          }
+        },
+        {
+          "key": "9",
+          "text": {
+            "fr": "Nous l’avons dit précédemment, et je le répète à cette heure : si quelqu’un vous annonce un autre Évangile que celui que vous avez reçu, qu’il soit anathème !",
+            "en": "As we said before, so say I now again, If any man preach any other gospel unto you than that ye have received, let him be accursed.",
+            "zh": "我們已經說了、現在又說、若有人傳福音給你們、與你們所領受的不同、他就應當被咒詛。",
+            "jp": "わたしたちが前まえに言いっておいたように、今いまわたしは重かさねて言いう。もしある人ひとが、あなたがたの受うけいれた福音ふくいんに反はんすることを宣のべ伝つたえているなら、その人ひとはのろわるべきである。",
+            "kr": "우리가 전에 말하였거니와 내가 지금 다시 말하노니 만일 누구든지 너희가 받은 것 외에 다른 복음을 전하면 저주를 받을지어다"
+          }
+        },
+        {
+          "key": "10",
+          "text": {
+            "fr": "Et maintenant, est-ce la faveur des hommes que je désire, ou celle de Dieu ? Est-ce que je cherche à plaire aux hommes ? Si je plaisais encore aux hommes, je ne serais pas serviteur de Christ.",
+            "en": "For do I now persuade men, or God? or do I seek to please men? for if I yet pleased men, I should not be the servant of Christ.",
+            "zh": "我現在是要得人的心呢、還是要得　神的心呢．我豈是討人的喜歡麼．若仍舊討人的喜歡、我就不是基督的僕人了。",
+            "jp": "今いまわたしは、人ひとに喜よろこばれようとしているのか、それとも、神かみに喜よろこばれようとしているのか。あるいは、人ひとの歓心かんしんを買かおうと努つとめているのか。もし、今いまもなお人ひとの歓心かんしんを買かおうとしているとすれば、わたしはキリストの僕しもべではあるまい。",
+            "kr": "이제 내가 사람들에게 좋게 하랴 하나님께 좋게 하랴 사람들에게 기쁨을 구하랴 내가 지금까지 사람들의 기쁨을 구하였다면 그리스도의 종이 아니니라"
+          }
+        },
+        {
+          "key": "11",
+          "text": {
+            "fr": "Je vous déclare, frères, que l’Évangile qui a été annoncé par moi n’est pas de l’homme ;",
+            "en": "But I certify you, brethren, that the gospel which was preached of me is not after man.",
+            "zh": "弟兄們、我告訴你們、我素來所傳的福音、不是出於人的意思。",
+            "jp": "兄弟きょうだいたちよ。あなたがたに、はっきり言いっておく。わたしが宣のべ伝つたえた福音ふくいんは人間にんげんによるものではない。",
+            "kr": "형제들아 내가 너희에게 알게 하노니 내가 전한 복음은 사람의 뜻을 따라 된 것이 아니니라"
+          }
+        },
+        {
+          "key": "12",
+          "text": {
+            "fr": "car je ne l’ai ni reçu ni appris d’un homme, mais par une révélation de Jésus Christ.",
+            "en": "For I neither received it of man, neither was I taught it, but by the revelation of Jesus Christ.",
+            "zh": "因為我不是從人領受的、也不是人教導我的、乃是從耶穌基督啟示來的。",
+            "jp": "わたしは、それを人間にんげんから受うけたのでも教おしえられたのでもなく、ただイエス・キリストの啓示けいじによったのである。",
+            "kr": "이는 내가 사람에게서 받은 것도 아니요 배운 것도 아니요 오직 예수 그리스도의 계시로 말미암은 것이라"
+          }
+        },
+        {
+          "key": "13",
+          "text": {
+            "fr": "Vous avez su, en effet, quelle était autrefois ma conduite dans le judaïsme, comment je persécutais à outrance et ravageais l’Église de Dieu,",
+            "en": "For ye have heard of my conversation in time past in the Jews’ religion, how that beyond measure I persecuted the church of God, and wasted it:",
+            "zh": "你們聽見我從前在猶太教中所行的事、怎樣極力逼迫殘害　神的教會。",
+            "jp": "ユダヤ教きょうを信しんじていたころのわたしの行動こうどうについては、あなたがたはすでによく聞きいている。すなわち、わたしは激はげしく神かみの教会きょうかいを迫害はくがいし、また荒あらしまわっていた。",
+            "kr": "내가 이전에 유대교에 있을 때에 행한 일을 너희가 들었거니와 하나님의 교회를 심히 박해하여 멸하고"
+          }
+        },
+        {
+          "key": "14",
+          "text": {
+            "fr": "et comment j’étais plus avancé dans le judaïsme que beaucoup de ceux de mon âge et de ma nation, étant animé d’un zèle excessif pour les traditions de mes pères.",
+            "en": "And profited in the Jews’ religion above many my equals in mine own nation, being more exceedingly zealous of the traditions of my fathers.",
+            "zh": "我又在猶太教中、比我本國許多同歲的人更有長進、為我祖宗的遺傳更加熱心。",
+            "jp": "そして、同国人どうこくじんの中なかでわたしと同年輩どうねんぱいの多おおくの者ものにまさってユダヤ教きょうに精進しょうじんし、先祖せんぞたちの言伝いいつたえに対たいして、だれよりもはるかに熱心ねっしんであった。",
+            "kr": "내가 내 동족 중 여러 연갑자보다 유대교를 지나치게 믿어 내 조상의 전통에 대하여 더욱 열심이 있었으나"
+          }
+        },
+        {
+          "key": "15",
+          "text": {
+            "fr": "Mais, lorsqu’il plut à celui qui m’avait mis à part dès le sein de ma mère, et qui m’a appelé par sa grâce,",
+            "en": "But when it pleased God, who separated me from my mother’s womb, and called me by his grace,",
+            "zh": "然而那把我從母腹裡分別出來、又施恩召我的　神、",
+            "jp": "ところが、母ははの胎内たいないにある時ときからわたしを聖せい別べつし、み恵めぐみをもってわたしをお召めしになったかたが、",
+            "kr": "그러나 내 어머니의 태로부터 나를 택정하시고 그의 은혜로 나를 부르신 이가"
+          }
+        },
+        {
+          "key": "16",
+          "text": {
+            "fr": "de révéler en moi son Fils, afin que je l’annonçasse parmi les païens, aussitôt, je ne consultai ni la chair ni le sang,",
+            "en": "To reveal his Son in me, that I might preach him among the heathen; immediately I conferred not with flesh and blood:",
+            "zh": "既然樂意將他兒子啟示在我心裡、叫我把他傳在外邦人中、我就沒有與屬血氣的人商量、",
+            "jp": "異邦人いほうじんの間あいだに宣のべ伝つたえさせるために、御子みこをわたしの内うちに啓示けいじして下くださった時とき、わたしは直ただちに、血肉けつにくに相談そうだんもせず、",
+            "kr": "그의 아들을 이방에 전하기 위하여 그를 내 속에 나타내시기를 기뻐하셨을 때에 내가 곧 혈육과 의논하지 아니하고"
+          }
+        },
+        {
+          "key": "17",
+          "text": {
+            "fr": "et je ne montai point à Jérusalem vers ceux qui furent apôtres avant moi, mais je partis pour l’Arabie. Puis je revins encore à Damas.",
+            "en": "Neither went I up to Jerusalem to them which were apostles before me; but I went into Arabia, and returned again unto Damascus.",
+            "zh": "也沒有上耶路撒冷去、見那些比我先作使徒的．惟獨往亞拉伯去．後又回到大馬色。",
+            "jp": "また先輩せんぱいの使徒しとたちに会あうためにエルサレムにも上のぼらず、アラビヤに出でて行いった。それから再ふたたびダマスコに帰かえった。",
+            "kr": "또 나보다 먼저 사도 된 자들을 만나려고 예루살렘으로 가지 아니하고 아라비아로 갔다가 다시 다메섹으로 돌아갔노라"
+          }
+        },
+        {
+          "key": "18",
+          "text": {
+            "fr": "Trois ans plus tard, je montai à Jérusalem pour faire la connaissance de Céphas, et je demeurai quinze jours chez lui.",
+            "en": "Then after three years I went up to Jerusalem to see Peter, and abode with him fifteen days.",
+            "zh": "過了三年、纔上耶路撒冷去見磯法、和他同住了十五天。",
+            "jp": "その後のち三年ねんたってから、わたしはケパをたずねてエルサレムに上のぼり、彼かれのもとに十五日間にちかん、滞在たいざいした。",
+            "kr": "그 후 삼 년 만에 내가 게바를 방문하려고 예루살렘에 올라가서 그와 함께 십오 일을 머무는 동안"
+          }
+        },
+        {
+          "key": "19",
+          "text": {
+            "fr": "Mais je ne vis aucun autre des apôtres, si ce n’est Jacques, le frère du Seigneur.",
+            "en": "But other of the apostles saw I none, save James the Lord’s brother.",
+            "zh": "至於別的使徒、除了主的兄弟雅各、我都沒有看見。",
+            "jp": "しかし、主しゅの兄弟きょうだいヤコブ以外いがいには、ほかのどの使徒しとにも会あわなかった。",
+            "kr": "주의 형제 야고보 외에 다른 사도들을 보지 못하였노라"
+          }
+        },
+        {
+          "key": "20",
+          "text": {
+            "fr": "Dans ce que je vous écris, voici, devant Dieu, je ne mens point.",
+            "en": "Now the things which I write unto you, behold, before God, I lie not.",
+            "zh": "我寫給你們的、不是謊話、這是我在　神面前說的。",
+            "jp": "ここに書かいていることは、神かみのみまえで言いうが、決けっして偽いつわりではない。",
+            "kr": "보라 내가 너희에게 쓰는 것은 하나님 앞에서 거짓말이 아니로다"
+          }
+        },
+        {
+          "key": "21",
+          "text": {
+            "fr": "J’allai ensuite dans les contrées de la Syrie et de la Cilicie.",
+            "en": "Afterwards I came into the regions of Syria and Cilicia;",
+            "zh": "以後我到了敘利亞和基利家境內。",
+            "jp": "その後のち、わたしはシリヤとキリキヤとの地方ちほうに行いった。",
+            "kr": "그 후에 내가 수리아와 길리기아 지방에 이르렀으나"
+          }
+        },
+        {
+          "key": "22",
+          "text": {
+            "fr": "Or, j’étais inconnu de visage aux Églises de Judée qui sont en Christ ;",
+            "en": "And was unknown by face unto the churches of Judæa which were in Christ:",
+            "zh": "那時、猶太信基督的各教會都沒有見過我的面。",
+            "jp": "しかし、キリストにあるユダヤの諸しょ教会きょうかいには、顔かおを知しられていなかった。",
+            "kr": "그리스도 안에 있는 유대의 교회들이 나를 얼굴로는 알지 못하고"
+          }
+        },
+        {
+          "key": "23",
+          "text": {
+            "fr": "seulement, elles avaient entendu dire : Celui qui autrefois nous persécutait annonce maintenant la foi qu’il s’efforçait alors de détruire.",
+            "en": "But they had heard only, That he which persecuted us in times past now preacheth the faith which once he destroyed.",
+            "zh": "不過聽說、那從前逼迫我們的、現在傳揚他原先所殘害的真道。",
+            "jp": "ただ彼かれらは、「かつて自分じぶんたちを迫害はくがいした者ものが、以前いぜんには撲滅ぼくめつしようとしていたその信仰しんこうを、今いまは宣のべ伝つたえている」と聞きき、",
+            "kr": "다만 우리를 박해하던 자가 전에 멸하려던 그 믿음을 지금 전한다 함을 듣고"
+          }
+        },
+        {
+          "key": "24",
+          "text": {
+            "fr": "Et elles glorifiaient Dieu à mon sujet.",
+            "en": "And they glorified God in me.",
+            "zh": "他們就為我的緣故、歸榮耀給　神。",
+            "jp": "わたしのことで、神かみをほめたたえた。",
+            "kr": "나로 말미암아 하나님께 영광을 돌리니라"
+          }
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "introduction": {
+        "fr": "Paul goes to Jerusalem—He contends for the true gospel—Salvation comes through Christ.",
+        "en": "Paul goes to Jerusalem—He contends for the true gospel—Salvation comes through Christ.",
+        "zh": "Paul goes to Jerusalem—He contends for the true gospel—Salvation comes through Christ.",
+        "jp": "Paul goes to Jerusalem—He contends for the true gospel—Salvation comes through Christ.",
+        "kr": "Paul goes to Jerusalem—He contends for the true gospel—Salvation comes through Christ."
+      },
+      "verses": [
+        {
+          "key": "1",
+          "text": {
+            "fr": "Quatorze ans après, je montai de nouveau à Jérusalem avec Barnabas, ayant aussi pris Tite avec moi ;",
+            "en": "Then fourteen years after I went up again to Jerusalem with Barnabas, and took Titus with me also.",
+            "zh": "過了十四年、我同巴拿巴又上耶路撒冷去、並帶著提多同去。",
+            "jp": "その後のち十四年ねんたってから、わたしはバルナバと一緒いっしょに、テトスをも連つれて、再ふたたびエルサレムに上のぼった。",
+            "kr": "십사 년 후에 내가 바나바와 함께 디도를 데리고 다시 예루살렘에 올라갔나니"
+          }
+        },
+        {
+          "key": "2",
+          "text": {
+            "fr": "et ce fut d’après une révélation que j’y montai. Je leur exposai l’Évangile que je prêche parmi les païens, je l’exposai en particulier à ceux qui sont les plus considérés, afin de ne pas courir ou avoir couru en vain.",
+            "en": "And I went up by revelation, and communicated unto them that gospel which I preach among the Gentiles, but privately to them which were of reputation, lest by any means I should run, or had run, in vain.",
+            "zh": "我是奉啟示上去的、把我在外邦人中所傳的福音、對弟兄們陳說．卻是背地裡對那有名望之人說的．惟恐我現在、或是從前、徒然奔跑。",
+            "jp": "そこに上のぼったのは、啓示けいじによってである。そして、わたしが異邦人いほうじんの間あいだに宣のべ伝つたえている福音ふくいんを、人々ひとびとに示しめし、「重おもだった人ひとたち」には個人こじん的てきに示しめした。それは、わたしが現げんに走はしっており、またすでに走はしってきたことが、むだにならないためである。",
+            "kr": "계시를 따라 올라가 내가 이방 가운데서 전파하는 복음을 그들에게 제시하되 유력한 자들에게 사사로이 한 것은 내가 달음질하는 것이나 달음질한 것이 헛되지 않게 하려 함이라"
+          }
+        },
+        {
+          "key": "3",
+          "text": {
+            "fr": "Mais Tite, qui était avec moi, et qui était Grec, ne fut pas même contraint de se faire circoncire.",
+            "en": "But neither Titus, who was with me, being a Greek, was compelled to be circumcised:",
+            "zh": "但與我同去的提多、雖是希利尼人、也沒有勉強他受割禮．",
+            "jp": "しかし、わたしが連つれていたテトスでさえ、ギリシヤ人じんであったのに、割礼かつれいをしいられなかった。",
+            "kr": "그러나 나와 함께 있는 헬라인 디도까지도 억지로 할례를 받게 하지 아니하였으니"
+          }
+        },
+        {
+          "key": "4",
+          "text": {
+            "fr": "Et cela, à cause des faux frères qui s’étaient furtivement introduits et glissés parmi nous, pour épier la liberté que nous avons en Jésus Christ, avec l’intention de nous asservir.",
+            "en": "And that because of false brethren unawares brought in, who came in privily to spy out our liberty which we have in Christ Jesus, that they might bring us into bondage:",
+            "zh": "因為有偷著引進來的假弟兄、私下窺探我們在基督耶穌裡的自由、要叫我們作奴僕．",
+            "jp": "それは、忍しのび込こんできたにせ兄弟きょうだいらがいたので——彼かれらが忍しのび込こんできたのは、キリスト・イエスにあって持もっているわたしたちの自由じゆうをねらって、わたしたちを奴隷どれいにするためであった。",
+            "kr": "이는 가만히 들어온 거짓 형제들 때문이라 그들이 가만히 들어온 것은 그리스도 예수 안에서 우리가 가진 자유를 엿보고 우리를 종으로 삼고자 함이로되"
+          }
+        },
+        {
+          "key": "5",
+          "text": {
+            "fr": "Nous ne leur cédâmes pas un instant et nous résistâmes à leurs exigences, afin que la vérité de l’Évangile fût maintenue parmi vous.",
+            "en": "To whom we gave place by subjection, no, not for an hour; that the truth of the gospel might continue with you.",
+            "zh": "我們就是一刻的工夫、也沒有容讓順服他們、為要叫福音的真理仍存在你們中間。",
+            "jp": "わたしたちは、福音ふくいんの真理しんりがあなたがたのもとに常つねにとどまっているように、瞬時しゅんじも彼かれらの強要きょうように屈服くっぷくしなかった。",
+            "kr": "그들에게 우리가 한시도 복종하지 아니하였으니 이는 복음의 진리가 항상 너희 가운데 있게 하려 함이라"
+          }
+        },
+        {
+          "key": "6",
+          "text": {
+            "fr": "Ceux qui sont les plus considérés,—quels qu’ils aient été jadis, cela ne m’importe pas : Dieu ne fait point acception de personnes,—ceux qui sont les plus considérés ne m’imposèrent rien.",
+            "en": "But of these who seemed to be somewhat, (whatsoever they were, it maketh no matter to me: God accepteth no man’s person:) for they who seemed to be somewhat in conference added nothing to me:",
+            "zh": "至於那些有名望的、不論他是何等人、都與我無干．　神不以外貌取人．那些有名望的、並沒有加增我甚麼．",
+            "jp": "そして、かの「重おもだった人ひとたち」からは——彼かれらがどんな人ひとであったにしても、それは、わたしには全まったく問題もんだいではない。神かみは人ひとを分わけ隔へだてなさらないのだから——事実じじつ、かの「重おもだった人ひとたち」は、わたしに何なにも加くわえることをしなかった。",
+            "kr": "유력하다는 이들 중에 (본래 어떤 이들이든지 내게 상관이 없으며 하나님은 사람을 외모로 취하지 아니하시나니) 저 유력한 이들은 내게 의무를 더하여 준 것이 없고"
+          }
+        },
+        {
+          "key": "7",
+          "text": {
+            "fr": "Au contraire, voyant que l’Évangile m’avait été confié pour les incirconcis, comme à Pierre pour les circoncis,—",
+            "en": "But contrariwise, when they saw that the gospel of the uncircumcision was committed unto me, as the gospel of the circumcision was unto Peter;",
+            "zh": "反倒看見了主託我傳福音給那未受割禮的人、正如託彼得傳福音給那受割禮的人．",
+            "jp": "それどころか、彼かれらは、ペテロが割礼かつれいの者ものへの福音ふくいんをゆだねられているように、わたしには無む割礼かつれいの者ものへの福音ふくいんがゆだねられていることを認みとめ、",
+            "kr": "도리어 그들은 내가 무할례자에게 복음 전함을 맡은 것이 베드로가 할례자에게 맡음과 같은 것을 보았고"
+          }
+        },
+        {
+          "key": "8",
+          "text": {
+            "fr": "car celui qui a fait de Pierre l’apôtre des circoncis a aussi fait de moi l’apôtre des païens,—",
+            "en": "(For he that wrought effectually in Peter to the apostleship of the circumcision, the same was mighty in me toward the Gentiles:)",
+            "zh": "（那感動彼得、叫他為受割禮之人作使徒的、也感動我、叫我為外邦人作使徒）",
+            "jp": "（というのは、ペテロに働はたらきかけて割礼かつれいの者ものへの使徒しとの務つとめにつかせたかたは、わたしにも働はたらきかけて、異邦人いほうじんにつかわして下くださったからである）、",
+            "kr": "베드로에게 역사하사 그를 할례자의 사도로 삼으신 이가 또한 내게 역사하사 나를 이방인의 사도로 삼으셨느니라"
+          }
+        },
+        {
+          "key": "9",
+          "text": {
+            "fr": "et ayant reconnu la grâce qui m’avait été accordée, Jacques, Céphas et Jean, qui sont regardés comme des colonnes, me donnèrent, à moi et à Barnabas, la main d’association, afin que nous allassions, nous vers les païens, et eux vers les circoncis.",
+            "en": "And when James, Cephas, and John, who seemed to be pillars, perceived the grace that was given unto me, they gave to me and Barnabas the right hands of fellowship; that we should go unto the heathen, and they unto the circumcision.",
+            "zh": "又知道所賜給我的恩典、那稱為教會柱石的雅各、磯法、約翰、就向我和巴拿巴用右手行相交之禮、叫我們往外邦人那裡去、他們往受割禮的人那裡去．",
+            "jp": "かつ、わたしに賜たまわった恵めぐみを知しって、柱はしらとして重おもんじられているヤコブとケパとヨハネとは、わたしとバルナバとに、交まじわりの手てを差さし伸のべた。そこで、わたしたちは異邦人いほうじんに行いき、彼かれらは割礼かつれいの者ものに行いくことになったのである。",
+            "kr": "또 기둥 같이 여기는 야고보와 게바와 요한도 내게 주신 은혜를 알므로 나와 바나바에게 친교의 악수를 하였으니 우리는 이방인에게로, 그들은 할례자에게로 가게 하려 함이라"
+          }
+        },
+        {
+          "key": "10",
+          "text": {
+            "fr": "Ils nous recommandèrent seulement de nous souvenir des pauvres, ce que j’ai bien eu soin de faire.",
+            "en": "Only they would that we should remember the poor; the same which I also was forward to do.",
+            "zh": "只是願意我們記念窮人．這也是我本來熱心去行的。",
+            "jp": "ただ一つ、わたしたちが貧まずしい人々ひとびとをかえりみるようにとのことであったが、わたしはもとより、この事ことのためにも大おおいに努つとめてきたのである。",
+            "kr": "다만 우리에게 가난한 자들을 기억하도록 부탁하였으니 이것은 나도 본래부터 힘써 행하여 왔노라"
+          }
+        },
+        {
+          "key": "11",
+          "text": {
+            "fr": "Mais lorsque Céphas vint à Antioche, je lui résistai en face, parce qu’il était répréhensible.",
+            "en": "But when Peter was come to Antioch, I withstood him to the face, because he was to be blamed.",
+            "zh": "後來磯法到了安提阿、因他有可責之處、我就當面抵擋他。",
+            "jp": "ところが、ケパがアンテオケにきたとき、彼かれに非難ひなんすべきことがあったので、わたしは面めんとむかって彼かれをなじった。",
+            "kr": "게바가 안디옥에 이르렀을 때에 책망 받을 일이 있기로 내가 그를 대면하여 책망하였노라"
+          }
+        },
+        {
+          "key": "12",
+          "text": {
+            "fr": "En effet, avant l’arrivée de quelques personnes envoyées par Jacques, il mangeait avec les païens ; et, quand elles furent venues, il s’esquiva et se tint à l’écart, par crainte des circoncis.",
+            "en": "For before that certain came from James, he did eat with the Gentiles: but when they were come, he withdrew and separated himself, fearing them which were of the circumcision.",
+            "zh": "從雅各那裡來的人、未到以先、他和外邦人一同喫飯．及至他們來到、他因怕奉割禮的人、就退去與外邦人隔開了。",
+            "jp": "というのは、ヤコブのもとからある人々ひとびとが来くるまでは、彼かれは異邦人いほうじんと食しょくを共ともにしていたのに、彼かれらがきてからは、割礼かつれいの者ものどもを恐おそれ、しだいに身みを引ひいて離はなれて行いったからである。",
+            "kr": "야고보에게서 온 어떤 이들이 이르기 전에 게바가 이방인과 함께 먹다가 그들이 오매 그가 할례자들을 두려워하여 떠나 물러가매"
+          }
+        },
+        {
+          "key": "13",
+          "text": {
+            "fr": "Avec lui les autres Juifs usèrent aussi de dissimulation, en sorte que Barnabas même fut entraîné par leur hypocrisie.",
+            "en": "And the other Jews dissembled likewise with him; insomuch that Barnabas also was carried away with their dissimulation.",
+            "zh": "其餘的猶太人、也都隨著他裝假．甚至連巴拿巴也隨夥裝假。",
+            "jp": "そして、ほかのユダヤ人じんたちも彼かれと共ともに偽善ぎぜんの行為こういをし、バルナバまでがそのような偽善ぎぜんに引ひきずり込こまれた。",
+            "kr": "남은 유대인들도 그와 같이 외식하므로 바나바도 그들의 외식에 유혹되었느니라"
+          }
+        },
+        {
+          "key": "14",
+          "text": {
+            "fr": "Voyant qu’ils ne marchaient pas droit selon la vérité de l’Évangile, je dis à Céphas, en présence de tous : Si toi qui es Juif, tu vis à la manière des païens et non à la manière des Juifs, pourquoi forces-tu les païens à judaïser ?",
+            "en": "But when I saw that they walked not uprightly according to the truth of the gospel, I said unto Peter before them all, If thou, being a Jew, livest after the manner of Gentiles, and not as do the Jews, why compellest thou the Gentiles to live as do the Jews?",
+            "zh": "但我一看見他們行的不正、與福音的真理不合、就在眾人面前對磯法說、你既是猶太人、若隨外邦人行事、不隨猶太人行事、怎麼還勉強外邦人隨猶太人呢。",
+            "jp": "彼かれらが福音ふくいんの真理しんりに従したがってまっすぐに歩あるいていないのを見みて、わたしは衆人しゅうじんの面前めんぜんでケパに言いった、「あなたは、ユダヤ人じんであるのに、自分じぶん自身じしんはユダヤ人じんのように生活せいかつしないで、異邦人いほうじんのように生活せいかつしていながら、どうして異邦人いほうじんにユダヤ人じんのようになることをしいるのか」。",
+            "kr": "그러므로 나는 그들이 복음의 진리를 따라 바르게 행하지 아니함을 보고 모든 자 앞에서 게바에게 이르되 네가 유대인으로서 이방인을 따르고 유대인답게 살지 아니하면서 어찌하여 억지로 이방인을 유대인답게 살게 하려느냐 하였노라"
+          }
+        },
+        {
+          "key": "15",
+          "text": {
+            "fr": "Nous, nous sommes Juifs de naissance, et non pécheurs d’entre les païens.",
+            "en": "We who are Jews by nature, and not sinners of the Gentiles,",
+            "zh": "我們這生來的猶太人、不是外邦的罪人、",
+            "jp": "わたしたちは生うまれながらのユダヤ人じんであって、異邦人いほうじんなる罪人つみびとではないが、",
+            "kr": "우리는 본래 유대인이요 이방 죄인이 아니로되"
+          }
+        },
+        {
+          "key": "16",
+          "text": {
+            "fr": "Néanmoins, sachant que ce n’est pas par les oeuvres de la loi que l’homme est justifié, mais par la foi en Jésus Christ, nous aussi nous avons cru en Jésus Christ, afin d’être justifiés par la foi en Christ et non par les oeuvres de la loi, parce que nulle chair ne sera justifiée par les oeuvres de la loi.",
+            "en": "Knowing that a man is not justified by the works of the law, but by the faith of Jesus Christ, even we have believed in Jesus Christ, that we might be justified by the faith of Christ, and not by the works of the law: for by the works of the law shall no flesh be justified.",
+            "zh": "既知道人稱義、不是因行律法、乃是因信耶穌基督、連我們也信了基督耶穌、使我們因信基督稱義、不因行律法稱義．因為凡有血氣的、沒有一人因行律法稱義。",
+            "jp": "人ひとの義ぎとされるのは律法りっぽうの行おこないによるのではなく、ただキリスト・イエスを信しんじる信仰しんこうによることを認みとめて、わたしたちもキリスト・イエスを信しんじたのである。それは、律法りっぽうの行おこないによるのではなく、キリストを信しんじる信仰しんこうによって義ぎとされるためである。なぜなら、律法りっぽうの行おこないによっては、だれひとり義ぎとされることがないからである。",
+            "kr": "사람이 의롭게 되는 것은 율법의 행위로 말미암음이 아니요 오직 예수 그리스도를 믿음으로 말미암는 줄 알므로 우리도 그리스도 예수를 믿나니 이는 우리가 율법의 행위로써가 아니고 그리스도를 믿음으로써 의롭다 함을 얻으려 함이라 율법의 행위로써는 의롭다 함을 얻을 육체가 없느니라"
+          }
+        },
+        {
+          "key": "17",
+          "text": {
+            "fr": "Mais, tandis que nous cherchons à être justifié par Christ, si nous étions aussi nous-mêmes trouvés pécheurs, Christ serait-il un ministre du péché ? Loin de là !",
+            "en": "But if, while we seek to be justified by Christ, we ourselves also are found sinners, is therefore Christ the minister of sin? God forbid.",
+            "zh": "我們若求在基督裡稱義、卻仍舊是罪人、難道基督是叫人犯罪的麼．斷乎不是。",
+            "jp": "しかし、キリストにあって義ぎとされることを求もとめることによって、わたしたち自身じしんが罪人つみびとであるとされるのなら、キリストは罪つみに仕つかえる者ものなのであろうか。断だんじてそうではない。",
+            "kr": "만일 우리가 그리스도 안에서 의롭게 되려 하다가 죄인으로 드러나면 그리스도께서 죄를 짓게 하는 자냐 결코 그럴 수 없느니라"
+          }
+        },
+        {
+          "key": "18",
+          "text": {
+            "fr": "Car, si je rebâtis les choses que j’ai détruites, je me constitue moi-même un transgresseur,",
+            "en": "For if I build again the things which I destroyed, I make myself a transgressor.",
+            "zh": "我素來所拆毀的、若重新建造、這就證明自己是犯罪的人。",
+            "jp": "もしわたしが、いったん打うちこわしたものを、再ふたたび建たてるとすれば、それこそ、自分じぶんが違反者いはんしゃであることを表明ひょうめいすることになる。",
+            "kr": "만일 내가 헐었던 것을 다시 세우면 내가 나를 범법한 자로 만드는 것이라"
+          }
+        },
+        {
+          "key": "19",
+          "text": {
+            "fr": "car c’est par la loi que je suis mort à la loi, afin de vivre pour Dieu.",
+            "en": "For I through the law am dead to the law, that I might live unto God.",
+            "zh": "我因律法、就向律法死了、叫我可以向　神活著。",
+            "jp": "わたしは、神かみに生いきるために、律法りっぽうによって律法りっぽうに死しんだ。わたしはキリストと共ともに十字架じゅうじかにつけられた。",
+            "kr": "내가 율법으로 말미암아 율법에 대하여 죽었나니 이는 하나님에 대하여 살려 함이라"
+          }
+        },
+        {
+          "key": "20",
+          "text": {
+            "fr": "J’ai été crucifié avec Christ ; et si je vis, ce n’est plus moi qui vis, c’est Christ qui vit en moi ; si je vis maintenant dans la chair, je vis dans la foi au Fils de Dieu, qui m’a aimé et qui s’est livré lui-même pour moi.",
+            "en": "I am crucified with Christ: nevertheless I live; yet not I, but Christ liveth in me: and the life which I now live in the flesh I live by the faith of the Son of God, who loved me, and gave himself for me.",
+            "zh": "我已經與基督同釘十字架．現在活著的、不再是我、乃是基督在我裡面活著．並且我如今在肉身活著、是因信　神的兒子而活、他是愛我、為我捨己。",
+            "jp": "生いきているのは、もはや、わたしではない。キリストが、わたしのうちに生いきておられるのである。しかし、わたしがいま肉にくにあって生いきているのは、わたしを愛あいし、わたしのためにご自身じしんをささげられた神かみの御子みこを信しんじる信仰しんこうによって、生いきているのである。",
+            "kr": "내가 그리스도와 함께 십자가에 못 박혔나니 그런즉 이제는 내가 사는 것이 아니요 오직 내 안에 그리스도께서 사시는 것이라 이제 내가 육체 가운데 사는 것은 나를 사랑하사 나를 위하여 자기 자신을 버리신 하나님의 아들을 믿는 믿음 안에서 사는 것이라"
+          }
+        },
+        {
+          "key": "21",
+          "text": {
+            "fr": "Je ne rejette pas la grâce de Dieu ; car si la justice s’obtient par la loi, Christ est donc mort en vain.",
+            "en": "I do not frustrate the grace of God: for if righteousness come by the law, then Christ is dead in vain.",
+            "zh": "我不廢掉　神的恩．義若是藉著律法得的、基督就是徒然死了。",
+            "jp": "わたしは、神かみの恵めぐみを無むにはしない。もし、義ぎが律法りっぽうによって得えられるとすれば、キリストの死しはむだであったことになる。",
+            "kr": "내가 하나님의 은혜를 폐하지 아니하노니 만일 의롭게 되는 것이 율법으로 말미암으면 그리스도께서 헛되이 죽으셨느니라"
+          }
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "introduction": {
+        "fr": "God gave the gospel to Abraham—The Mosaic law was added because of transgressions—The law was a schoolmaster until Christ—The Saints are children of God by faith—All who are of the faith and baptized into Christ become Abraham’s seed.",
+        "en": "God gave the gospel to Abraham—The Mosaic law was added because of transgressions—The law was a schoolmaster until Christ—The Saints are children of God by faith—All who are of the faith and baptized into Christ become Abraham’s seed.",
+        "zh": "God gave the gospel to Abraham—The Mosaic law was added because of transgressions—The law was a schoolmaster until Christ—The Saints are children of God by faith—All who are of the faith and baptized into Christ become Abraham’s seed.",
+        "jp": "God gave the gospel to Abraham—The Mosaic law was added because of transgressions—The law was a schoolmaster until Christ—The Saints are children of God by faith—All who are of the faith and baptized into Christ become Abraham’s seed.",
+        "kr": "God gave the gospel to Abraham—The Mosaic law was added because of transgressions—The law was a schoolmaster until Christ—The Saints are children of God by faith—All who are of the faith and baptized into Christ become Abraham’s seed."
+      },
+      "verses": [
+        {
+          "key": "1",
+          "text": {
+            "fr": "O Galates, dépourvus de sens ! qui vous a fascinés, vous, aux yeux de qui Jésus Christ a été peint comme crucifié ?",
+            "en": "O foolish Galatians, who hath bewitched you, that ye should not obey the truth, before whose eyes Jesus Christ hath been evidently set forth, crucified among you?",
+            "zh": "無知的加拉太人哪、耶穌基督釘十字架、已經活畫在你們眼前、誰又迷惑了你們呢。",
+            "jp": "ああ、物ものわかりのわるいガラテヤ人びとよ。十字架じゅうじかにつけられたイエス・キリストが、あなたがたの目めの前まえに描えがき出だされたのに、いったい、だれがあなたがたを惑まどわしたのか。",
+            "kr": "어리석도다 갈라디아 사람들아 예수 그리스도께서 십자가에 못 박히신 것이 너희 눈 앞에 밝히 보이거늘 누가 너희를 꾀더냐"
+          }
+        },
+        {
+          "key": "2",
+          "text": {
+            "fr": "Voici seulement ce que je veux apprendre de vous : Est-ce par les oeuvres de la loi que vous avez reçu l’Esprit, ou par la prédication de la foi ?",
+            "en": "This only would I learn of you, Received ye the Spirit by the works of the law, or by the hearing of faith?",
+            "zh": "我只要問你們這一件、你們受了聖靈、是因行律法呢、是因聽信福音呢。",
+            "jp": "わたしは、ただこの一つの事ことを、あなたがたに聞きいてみたい。あなたがたが御霊みたまを受うけたのは、律法りっぽうを行おこなったからか、それとも、聞きいて信しんじたからか。",
+            "kr": "내가 너희에게서 다만 이것을 알려 하노니 너희가 성령을 받은 것이 율법의 행위로냐 혹은 듣고 믿음으로냐"
+          }
+        },
+        {
+          "key": "3",
+          "text": {
+            "fr": "Etes-vous tellement dépourvus de sens ? Après avoir commencé par l’Esprit, voulez-vous maintenant finir par la chair ?",
+            "en": "Are ye so foolish? having begun in the Spirit, are ye now made perfect by the flesh?",
+            "zh": "你們既靠聖靈入門、如今還靠肉身成全麼．你們是這樣的無知麼。",
+            "jp": "あなたがたは、そんなに物ものわかりがわるいのか。御霊みたまで始はじめたのに、今いまになって肉にくで仕上しあげるというのか。",
+            "kr": "너희가 이같이 어리석으냐 성령으로 시작하였다가 이제는 육체로 마치겠느냐"
+          }
+        },
+        {
+          "key": "4",
+          "text": {
+            "fr": "Avez-vous tant souffert en vain ? si toutefois c’est en vain.",
+            "en": "Have ye suffered so many things in vain? if it be yet in vain.",
+            "zh": "你們受苦如此之多、都是徒然的麼．難道果真是徒然的麼。",
+            "jp": "あれほどの大おおきな経験けいけんをしたことは、むだであったのか。まさか、むだではあるまい。",
+            "kr": "너희가 이같이 많은 괴로움을 헛되이 받았느냐 과연 헛되냐"
+          }
+        },
+        {
+          "key": "5",
+          "text": {
+            "fr": "Celui qui vous accorde l’Esprit, et qui opère des miracles parmi vous, le fait-il donc par les oeuvres de la loi, ou par la prédication de la foi ?",
+            "en": "He therefore that ministereth to you the Spirit, and worketh miracles among you, doeth he it by the works of the law, or by the hearing of faith?",
+            "zh": "那賜給你們聖靈、又在你們中間行異能的、是因你們行律法呢、是因你們聽信福音呢。",
+            "jp": "すると、あなたがたに御霊みたまを賜たまい、力ちからあるわざをあなたがたの間あいだでなされたのは、律法りっぽうを行おこなったからか、それとも、聞きいて信しんじたからか。",
+            "kr": "너희에게 성령을 주시고 너희 가운데서 능력을 행하시는 이의 일이 율법의 행위에서냐 혹은 듣고 믿음에서냐"
+          }
+        },
+        {
+          "key": "6",
+          "text": {
+            "fr": "Comme Abraham crut à Dieu, et que cela lui fut imputé à justice,",
+            "en": "Even as Abraham believed God, and it was accounted to him for righteousness.",
+            "zh": "正如『亞伯拉罕信　神這就算為他的義。』",
+            "jp": "このように、アブラハムは「神かみを信しんじた。それによって、彼かれは義ぎと認みとめられた」のである。",
+            "kr": "아브라함이 하나님을 믿으매 그것을 그에게 의로 정하셨다 함과 같으니라"
+          }
+        },
+        {
+          "key": "7",
+          "text": {
+            "fr": "reconnaissez donc que ce sont ceux qui ont la foi qui sont fils d’Abraham.",
+            "en": "Know ye therefore that they which are of faith, the same are the children of Abraham.",
+            "zh": "所以你們要知道那以信為本的人、就是亞伯拉罕的子孫。",
+            "jp": "だから、信仰しんこうによる者ものこそアブラハムの子こであることを、知しるべきである。",
+            "kr": "그런즉 믿음으로 말미암은 자들은 아브라함의 자손인 줄 알지어다"
+          }
+        },
+        {
+          "key": "8",
+          "text": {
+            "fr": "Aussi l’Écriture, prévoyant que Dieu justifierait les païens par la foi, a d’avance annoncé cette bonne nouvelle à Abraham : Toutes les nations seront bénies en toi !",
+            "en": "And the scripture, foreseeing that God would justify the heathen through faith, preached before the gospel unto Abraham, saying, In thee shall all nations be blessed.",
+            "zh": "並且聖經既然預先看明、　神要叫外邦人因信稱義、就早已傳福音給亞伯拉罕、說、『萬國都必因你得福。』",
+            "jp": "聖書せいしょは、神かみが異邦人いほうじんを信仰しんこうによって義ぎとされることを、あらかじめ知しって、アブラハムに、「あなたによって、すべての国民こくみんは祝福しゅくふくされるであろう」との良よい知しらせを、予告よこくしたのである。",
+            "kr": "또 하나님이 이방을 믿음으로 말미암아 의로 정하실 것을 성경이 미리 알고 먼저 아브라함에게 복음을 전하되 모든 이방인이 너로 말미암아 복을 받으리라 하였느니라"
+          }
+        },
+        {
+          "key": "9",
+          "text": {
+            "fr": "de sorte que ceux qui croient sont bénis avec Abraham le croyant.",
+            "en": "So then they which be of faith are blessed with faithful Abraham.",
+            "zh": "可見那以信為本的人、和有信心的亞伯拉罕一同得福。",
+            "jp": "このように、信仰しんこうによる者ものは、信仰しんこうの人ひとアブラハムと共ともに、祝福しゅくふくを受うけるのである。",
+            "kr": "그러므로 믿음으로 말미암은 자는 믿음이 있는 아브라함과 함께 복을 받느니라"
+          }
+        },
+        {
+          "key": "10",
+          "text": {
+            "fr": "Car tous ceux qui s’attachent aux oeuvres de la loi sont sous la malédiction ; car il est écrit : Maudit est quiconque n’observe pas tout ce qui est écrit dans le livre de la loi, et ne le met pas en pratique.",
+            "en": "For as many as are of the works of the law are under the curse: for it is written, Cursed is every one that continueth not in all things which are written in the book of the law to do them.",
+            "zh": "凡以行律法為本的、都是被咒詛的．因為經上記著、『凡不常照律法書上所記一切之事去行的、就被咒詛。』",
+            "jp": "いったい、律法りっぽうの行おこないによる者ものは、皆みなのろいの下もとにある。「律法りっぽうの書しょに書かいてあるいっさいのことを守まもらず、これを行おこなわない者ものは、皆みなのろわれる」と書かいてあるからである。",
+            "kr": "무릇 율법 행위에 속한 자들은 저주 아래에 있나니 기록된 바 누구든지 율법 책에 기록된 대로 모든 일을 항상 행하지 아니하는 자는 저주 아래에 있는 자라 하였음이라"
+          }
+        },
+        {
+          "key": "11",
+          "text": {
+            "fr": "Et que nul ne soit justifié devant Dieu par la loi, cela est évident, puisqu’il est dit : Le juste vivra par la foi.",
+            "en": "But that no man is justified by the law in the sight of God, it is evident: for, The just shall live by faith.",
+            "zh": "沒有一個人靠著律法在　神面前稱義、這是明顯的．因為經上說、『義人必因信得生。』",
+            "jp": "そこで、律法りっぽうによっては、神かみのみまえに義ぎとされる者ものはひとりもないことが、明あきらかである。なぜなら、「信仰しんこうによる義人ぎじんは生いきる」からである。",
+            "kr": "또 하나님 앞에서 아무도 율법으로 말미암아 의롭게 되지 못할 것이 분명하니 이는 의인은 믿음으로 살리라 하였음이라"
+          }
+        },
+        {
+          "key": "12",
+          "text": {
+            "fr": "Or, la loi ne procède pas de la foi ; mais elle dit : Celui qui mettra ces choses en pratique vivra par elles.",
+            "en": "And the law is not of faith: but, The man that doeth them shall live in them.",
+            "zh": "律法原不本乎信、只說、『行這些事的、就必因此活著。』",
+            "jp": "律法りっぽうは信仰しんこうに基もとづいているものではない。かえって、「律法りっぽうを行おこなう者ものは律法りっぽうによって生いきる」のである。",
+            "kr": "율법은 믿음에서 난 것이 아니니 율법을 행하는 자는 그 가운데서 살리라 하였느니라"
+          }
+        },
+        {
+          "key": "13",
+          "text": {
+            "fr": "Christ nous a rachetés de la malédiction de la loi, étant devenu malédiction pour nous-car il est écrit : Maudit est quiconque est pendu au bois,—",
+            "en": "Christ hath redeemed us from the curse of the law, being made a curse for us: for it is written, Cursed is every one that hangeth on a tree:",
+            "zh": "基督既為我們受了咒詛、〔受原文作成〕就贖出我們脫離律法的咒詛．因為經上記著、『凡掛在木頭上都是被咒詛的。』",
+            "jp": "キリストは、わたしたちのためにのろいとなって、わたしたちを律法りっぽうののろいからあがない出だして下くださった。聖書せいしょに、「木きにかけられる者ものは、すべてのろわれる」と書かいてある。",
+            "kr": "그리스도께서 우리를 위하여 저주를 받은 바 되사 율법의 저주에서 우리를 속량하셨으니 기록된 바 나무에 달린 자마다 저주 아래에 있는 자라 하였음이라"
+          }
+        },
+        {
+          "key": "14",
+          "text": {
+            "fr": "afin que la bénédiction d’Abraham eût pour les païens son accomplissement en Jésus Christ, et que nous reçussions par la foi l’Esprit qui avait été promis.",
+            "en": "That the blessing of Abraham might come on the Gentiles through Jesus Christ; that we might receive the promise of the Spirit through faith.",
+            "zh": "這便叫亞伯拉罕的福、因基督耶穌可以臨到外邦人、使我們因信得著所應許的聖靈。",
+            "jp": "それは、アブラハムの受うけた祝福しゅくふくが、イエス・キリストにあって異邦人いほうじんに及およぶためであり、約束やくそくされた御霊みたまを、わたしたちが信仰しんこうによって受うけるためである。",
+            "kr": "이는 그리스도 예수 안에서 아브라함의 복이 이방인에게 미치게 하고 또 우리로 하여금 믿음으로 말미암아 성령의 약속을 받게 하려 함이라"
+          }
+        },
+        {
+          "key": "15",
+          "text": {
+            "fr": "Frères (je parle à la manière des hommes), une disposition en bonne forme, bien que faite par un homme, n’est annulée par personne, et personne n’y ajoute.",
+            "en": "Brethren, I speak after the manner of men; Though it be but a man’s covenant, yet if it be confirmed, no man disannulleth, or addeth thereto.",
+            "zh": "弟兄們、我且照著人的常話說、雖然是人的文約、若已經立定了、就沒有能廢棄或加增的。",
+            "jp": "兄弟きょうだいたちよ。世よのならわしを例れいにとって言いおう。人間にんげんの遺言ゆいごんでさえ、いったん作成さくせいされたら、これを無効むこうにしたり、これに付つけ加くわえたりすることは、だれにもできない。",
+            "kr": "형제들아 내가 사람의 예대로 말하노니 사람의 언약이라도 정한 후에는 아무도 폐하거나 더하거나 하지 못하느니라"
+          }
+        },
+        {
+          "key": "16",
+          "text": {
+            "fr": "Or les promesses ont été faites à Abraham et à sa postérité. Il n’est pas dit : et aux postérités, comme s’il s’agissait de plusieurs, mais en tant qu’il s’agit d’une seule : et à ta postérité, c’est-à-dire, à Christ.",
+            "en": "Now to Abraham and his seed were the promises made. He saith not, And to seeds, as of many; but as of one, And to thy seed, which is Christ.",
+            "zh": "所應許的原是向亞伯拉罕和他子孫說的．　神並不是說眾子孫、指著許多人、乃是說你那一個子孫、指著一個人、就是基督。",
+            "jp": "さて、約束やくそくは、アブラハムと彼かれの子孫しそんとに対たいしてなされたのである。それは、多数たすうをさして「子孫しそんたちとに」と言いわずに、ひとりをさして「あなたの子孫しそんとに」と言いっている。これは、キリストのことである。",
+            "kr": "이 약속들은 아브라함과 그 자손에게 말씀하신 것인데 여럿을 가리켜 그 자손들이라 하지 아니하시고 오직 한 사람을 가리켜 네 자손이라 하셨으니 곧 그리스도라"
+          }
+        },
+        {
+          "key": "17",
+          "text": {
+            "fr": "Voici ce que j’entends : une disposition, que Dieu a confirmée antérieurement, ne peut pas être annulée, et ainsi la promesse rendue vaine, par la loi survenue quatre cents trente ans plus tard.",
+            "en": "And this I say, that the covenant, that was confirmed before of God in Christ, the law, which was four hundred and thirty years after, cannot disannul, that it should make the promise of none effect.",
+            "zh": "我是這麼說、　神預先所立的約、不能被那四百三十年以後的律法廢掉、叫應許歸於虛空。",
+            "jp": "わたしの言いう意味いみは、こうである。神かみによってあらかじめ立たてられた契約けいやくが、四百三十年ねんの後のちにできた律法りっぽうによって破棄はきされて、その約束やくそくがむなしくなるようなことはない。",
+            "kr": "내가 이것을 말하노니 하나님께서 미리 정하신 언약을 사백삼십 년 후에 생긴 율법이 폐기하지 못하고 그 약속을 헛되게 하지 못하리라"
+          }
+        },
+        {
+          "key": "18",
+          "text": {
+            "fr": "Car si l’héritage venait de la loi, il ne viendrait plus de la promesse ; or, c’est par la promesse que Dieu a fait à Abraham ce don de sa grâce.",
+            "en": "For if the inheritance be of the law, it is no more of promise: but God gave it to Abraham by promise.",
+            "zh": "因為承受產業、若本乎律法、就不本乎應許．但　神是憑著應許、把產業賜給亞伯拉罕。",
+            "jp": "もし相続そうぞくが、律法りっぽうに基もとづいてなされるとすれば、もはや約束やくそくに基もとづいたものではない。ところが事実じじつ、神かみは約束やくそくによって、相続そうぞくの恵めぐみをアブラハムに賜たまわったのである。",
+            "kr": "만일 그 유업이 율법에서 난 것이면 약속에서 난 것이 아니리라 그러나 하나님이 약속으로 말미암아 아브라함에게 주신 것이라"
+          }
+        },
+        {
+          "key": "19",
+          "text": {
+            "fr": "Pourquoi donc la loi ? Elle a été donnée ensuite à cause des transgressions, jusqu’à ce que vînt la postérité à qui la promesse avait été faite ; elle a été promulguée par des anges, au moyen d’un médiateur.",
+            "en": "Wherefore then serveth the law? It was added because of transgressions, till the seed should come to whom the promise was made; and it was ordained by angels in the hand of a mediator.",
+            "zh": "這樣說來、律法是為甚麼有的呢．原是為過犯添上的、等候那蒙應許的子孫來到．並且是藉天使經中保之手設立的。",
+            "jp": "それでは、律法りっぽうはなんであるか。それは違反いはんを促うながすため、あとから加くわえられたのであって、約束やくそくされていた子孫しそんが来くるまで存続そんぞくするだけのものであり、かつ、天使てんしたちをとおし、仲介者ちゅうかいしゃの手てによって制定せいていされたものにすぎない。",
+            "kr": "그런즉 율법은 무엇이냐 범법하므로 더하여진 것이라 천사들을 통하여 한 중보자의 손으로 베푸신 것인데 약속하신 자손이 오시기까지 있을 것이라"
+          }
+        },
+        {
+          "key": "20",
+          "text": {
+            "fr": "Or, le médiateur n’est pas médiateur d’un seul, tandis que Dieu est un seul.",
+            "en": "Now a mediator is not a mediator of one, but God is one.",
+            "zh": "但中保本不是為一面作的．　神卻是一位。",
+            "jp": "仲介者ちゅうかいしゃなるものは、一方いっぽうだけに属ぞくする者ものではない。しかし、神かみはひとりである。",
+            "kr": "그 중보자는 한 편만 위한 자가 아니나 하나님은 한 분이시니라"
+          }
+        },
+        {
+          "key": "21",
+          "text": {
+            "fr": "La loi est-elle donc contre les promesses de Dieu ? Loin de là ! S’il eût été donné une loi qui pût procurer la vie, la justice viendrait réellement de la loi.",
+            "en": "Is the law then against the promises of God? God forbid: for if there had been a law given which could have given life, verily righteousness should have been by the law.",
+            "zh": "這樣、律法是與　神的應許反對麼．斷乎不是．若曾傳一個能叫人得生的律法、義就誠然本乎律法了。",
+            "jp": "では、律法りっぽうは神かみの約束やくそくと相あいいれないものか。断だんじてそうではない。もし人ひとを生いかす力ちからのある律法りっぽうが与あたえられていたとすれば、義ぎはたしかに律法りっぽうによって実現じつげんされたであろう。",
+            "kr": "그러면 율법이 하나님의 약속들과 반대되는 것이냐 결코 그럴 수 없느니라 만일 능히 살게 하는 율법을 주셨더라면 의가 반드시 율법으로 말미암았으리라"
+          }
+        },
+        {
+          "key": "22",
+          "text": {
+            "fr": "Mais l’Écriture a tout renfermé sous le péché, afin que ce qui avait été promis fût donné par la foi en Jésus Christ à ceux qui croient.",
+            "en": "But the scripture hath concluded all under sin, that the promise by faith of Jesus Christ might be given to them that believe.",
+            "zh": "但聖經把眾人都圈在罪裡、使所應許的福因信耶穌基督、歸給那信的人。",
+            "jp": "しかし、約束やくそくが、信しんじる人々ひとびとにイエス・キリストに対たいする信仰しんこうによって与あたえられるために、聖書せいしょはすべての人ひとを罪つみの下もとに閉とじ込こめたのである。",
+            "kr": "그러나 성경이 모든 것을 죄 아래에 가두었으니 이는 예수 그리스도를 믿음으로 말미암는 약속을 믿는 자들에게 주려 함이라"
+          }
+        },
+        {
+          "key": "23",
+          "text": {
+            "fr": "Avant que la foi vînt, nous étions enfermés sous la garde de la loi, en vue de la foi qui devait être révélée.",
+            "en": "But before faith came, we were kept under the law, shut up unto the faith which should afterwards be revealed.",
+            "zh": "但這因信得救的理、還未來以先、我們被看守在律法之下、直圈到那將來的真道顯明出來。",
+            "jp": "しかし、信仰しんこうが現あらわれる前まえには、わたしたちは律法りっぽうの下もとで監視かんしされており、やがて啓示けいじされる信仰しんこうの時ときまで閉とじ込こめられていた。",
+            "kr": "믿음이 오기 전에 우리는 율법 아래에 매인 바 되고 계시될 믿음의 때까지 갇혔느니라"
+          }
+        },
+        {
+          "key": "24",
+          "text": {
+            "fr": "Ainsi la loi a été comme un pédagogue pour nous conduire à Christ, afin que nous fussions justifiés par la foi.",
+            "en": "Wherefore the law was our schoolmaster to bring us unto Christ, that we might be justified by faith.",
+            "zh": "這樣、律法是我們訓蒙的師傅、引我們到基督那裡、使我們因信稱義。",
+            "jp": "このようにして律法りっぽうは、信仰しんこうによって義ぎとされるために、わたしたちをキリストに連つれて行ゆく養育掛よういくがかりとなったのである。",
+            "kr": "이같이 율법이 우리를 그리스도께로 인도하는 초등교사가 되어 우리로 하여금 믿음으로 말미암아 의롭다 함을 얻게 하려 함이라"
+          }
+        },
+        {
+          "key": "25",
+          "text": {
+            "fr": "La foi étant venue, nous ne sommes plus sous ce pédagogue.",
+            "en": "But after that faith is come, we are no longer under a schoolmaster.",
+            "zh": "但這因信得救的理、既然來到、我們從此就不在師傅的手下了。",
+            "jp": "しかし、いったん信仰しんこうが現あらわれた以上いじょう、わたしたちは、もはや養育掛よういくがかりのもとにはいない。",
+            "kr": "믿음이 온 후로는 우리가 초등교사 아래에 있지 아니하도다"
+          }
+        },
+        {
+          "key": "26",
+          "text": {
+            "fr": "Car vous êtes tous fils de Dieu par la foi en Jésus Christ ;",
+            "en": "For ye are all the children of God by faith in Christ Jesus.",
+            "zh": "所以你們因信基督耶穌、都是　神的兒子。",
+            "jp": "あなたがたはみな、キリスト・イエスにある信仰しんこうによって、神かみの子こなのである。",
+            "kr": "너희가 다 믿음으로 말미암아 그리스도 예수 안에서 하나님의 아들이 되었으니"
+          }
+        },
+        {
+          "key": "27",
+          "text": {
+            "fr": "vous tous, qui avez été baptisés en Christ, vous avez revêtu Christ.",
+            "en": "For as many of you as have been baptized into Christ have put on Christ.",
+            "zh": "你們受洗歸入基督的、都是披戴基督了。",
+            "jp": "キリストに合あうバプテスマを受うけたあなたがたは、皆みなキリストを着きたのである。",
+            "kr": "누구든지 그리스도와 합하기 위하여 침례를 받은 자는 그리스도로 옷 입었느니라"
+          }
+        },
+        {
+          "key": "28",
+          "text": {
+            "fr": "Il n’y a plus ni Juif ni Grec, il n’y a plus ni esclave ni libre, il n’y a plus ni homme ni femme ; car tous vous êtes un en Jésus Christ.",
+            "en": "There is neither Jew nor Greek, there is neither bond nor free, there is neither male nor female: for ye are all one in Christ Jesus.",
+            "zh": "並不分猶太人、希利尼人、自主的、為奴的、或男或女．因為你們在基督耶穌、裡都成為一了。",
+            "jp": "もはや、ユダヤ人じんもギリシヤ人じんもなく、奴隷どれいも自由人じゆうじんもなく、男おとこも女おんなもない。あなたがたは皆みな、キリスト・イエスにあって一つだからである。",
+            "kr": "너희는 유대인이나 헬라인이나 종이나 자유인이나 남자나 여자나 다 그리스도 예수 안에서 하나이니라"
+          }
+        },
+        {
+          "key": "29",
+          "text": {
+            "fr": "Et si vous êtes à Christ, vous êtes donc la postérité d’Abraham, héritiers selon la promesse.",
+            "en": "And if ye be Christ’s, then are ye Abraham’s seed, and heirs according to the promise.",
+            "zh": "你們既屬乎基督、就是亞伯拉罕的後裔、是照著應許承受產業的了。",
+            "jp": "もしキリストのものであるなら、あなたがたはアブラハムの子孫しそんであり、約束やくそくによる相続人そうぞくにんなのである。",
+            "kr": "너희가 그리스도의 것이면 곧 아브라함의 자손이요 약속대로 유업을 이을 자니라"
+          }
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "introduction": {
+        "fr": "The Saints are children of God by adoption—Paul calls the Galatians back to Christ—He compares the two covenants.",
+        "en": "The Saints are children of God by adoption—Paul calls the Galatians back to Christ—He compares the two covenants.",
+        "zh": "The Saints are children of God by adoption—Paul calls the Galatians back to Christ—He compares the two covenants.",
+        "jp": "The Saints are children of God by adoption—Paul calls the Galatians back to Christ—He compares the two covenants.",
+        "kr": "The Saints are children of God by adoption—Paul calls the Galatians back to Christ—He compares the two covenants."
+      },
+      "verses": [
+        {
+          "key": "1",
+          "text": {
+            "fr": "Or, aussi longtemps que l’héritier est enfant, je dis qu’il ne diffère en rien d’un esclave, quoiqu’il soit le maître de tout ;",
+            "en": "Now I say, That the heir, as long as he is a child, differeth nothing from a servant, though he be lord of all;",
+            "zh": "我說那承受產業的、雖然是全業的主人、但為孩童的時候、卻與奴僕毫無分別．",
+            "jp": "わたしの言いう意味いみは、こうである。相続人そうぞくにんが子供こどもである間あいだは、全ぜん財産ざいさんの持もち主ぬしでありながら、僕しもべとなんの差別さべつもなく、",
+            "kr": "내가 또 말하노니 유업을 이을 자가 모든 것의 주인이나 어렸을 동안에는 종과 다름이 없어서"
+          }
+        },
+        {
+          "key": "2",
+          "text": {
+            "fr": "mais il est sous des tuteurs et des administrateurs jusqu’au temps marqué par le père.",
+            "en": "But is under tutors and governors until the time appointed of the father.",
+            "zh": "乃在師傅和管家的手下、直等他父親預定的時候來到。",
+            "jp": "父親ちちおやの定さだめた時期じきまでは、管理人かんりにんや後見人こうけんにんの監督かんとくの下もとに置おかれているのである。",
+            "kr": "그 아버지가 정한 때까지 후견인과 청지기 아래에 있나니"
+          }
+        },
+        {
+          "key": "3",
+          "text": {
+            "fr": "Nous aussi, de la même manière, lorsque nous étions enfants, nous étions sous l’esclavage des rudiments du monde ;",
+            "en": "Even so we, when we were children, were in bondage under the elements of the world:",
+            "zh": "我們為孩童的時候、受管於世俗小學之下、也是如此。",
+            "jp": "それと同おなじく、わたしたちも子供こどもであった時ときには、いわゆるこの世よのもろもろの霊力れいりょくの下もとに、縛しばられていた者ものであった。",
+            "kr": "이와 같이 우리도 어렸을 때에 이 세상의 초등학문 아래에 있어서 종 노릇 하였더니"
+          }
+        },
+        {
+          "key": "4",
+          "text": {
+            "fr": "mais, lorsque les temps ont été accomplis, Dieu a envoyé son Fils, né d’une femme, né sous la loi,",
+            "en": "But when the fulness of the time was come, God sent forth his Son, made of a woman, made under the law,",
+            "zh": "及至時候滿足、　神就差遣他的兒子、為女子所生、且生在律法以下、",
+            "jp": "しかし、時ときの満みちるに及およんで、神かみは御子みこを女おんなから生うまれさせ、律法りっぽうの下もとに生うまれさせて、おつかわしになった。",
+            "kr": "때가 차매 하나님이 그 아들을 보내사 여자에게서 나게 하시고 율법 아래에 나게 하신 것은"
+          }
+        },
+        {
+          "key": "5",
+          "text": {
+            "fr": "afin qu’il rachetât ceux qui étaient sous la loi, afin que nous reçussions l’adoption.",
+            "en": "To redeem them that were under the law, that we might receive the adoption of sons.",
+            "zh": "要把律法以下的人贖出來、叫我們得著兒子的名分。",
+            "jp": "それは、律法りっぽうの下もとにある者ものをあがない出だすため、わたしたちに子こたる身分みぶんを授さづけるためであった。",
+            "kr": "율법 아래에 있는 자들을 속량하시고 우리로 아들의 명분을 얻게 하려 하심이라"
+          }
+        },
+        {
+          "key": "6",
+          "text": {
+            "fr": "Et parce que vous êtes fils, Dieu a envoyé dans nos coeurs l’Esprit de son Fils, lequel crie : Abba ! Père !",
+            "en": "And because ye are sons, God hath sent forth the Spirit of his Son into your hearts, crying, Abba, Father.",
+            "zh": "你們既為兒子、　神就差他兒子的靈、進入你們〔原文作我們〕的心、呼叫阿爸、父。",
+            "jp": "このように、あなたがたは子こであるのだから、神かみはわたしたちの心こころの中なかに、「アバ、父ちちよ」と呼よぶ御子みこの霊れいを送おくって下くださったのである。",
+            "kr": "너희가 아들이므로 하나님이 그 아들의 영을 우리 마음 가운데 보내사 아빠 아버지라 부르게 하셨느니라"
+          }
+        },
+        {
+          "key": "7",
+          "text": {
+            "fr": "Ainsi tu n’es plus esclave, mais fils ; et si tu es fils, tu es aussi héritier par la grâce de Dieu.",
+            "en": "Wherefore thou art no more a servant, but a son; and if a son, then an heir of God through Christ.",
+            "zh": "可見、從此以後、你不是奴僕、乃是兒子了．既是兒子、就靠著　神為後嗣。",
+            "jp": "したがって、あなたがたはもはや僕しもべではなく、子こである。子こである以上いじょう、また神かみによる相続人そうぞくにんである。",
+            "kr": "그러므로 네가 이 후로는 종이 아니요 아들이니 아들이면 하나님으로 말미암아 유업을 받을 자니라"
+          }
+        },
+        {
+          "key": "8",
+          "text": {
+            "fr": "Autrefois, ne connaissant pas Dieu, vous serviez des dieux qui ne le sont pas de leur nature ;",
+            "en": "Howbeit then, when ye knew not God, ye did service unto them which by nature are no gods.",
+            "zh": "但從前你們不認識　神的時候、是給那些本來不是　神的作奴僕。",
+            "jp": "神かみを知しらなかった当時とうじ、あなたがたは、本来ほんらい神かみならぬ神々かみがみの奴隷どれいになっていた。",
+            "kr": "그러나 너희가 그 때에는 하나님을 알지 못하여 본질상 하나님이 아닌 자들에게 종 노릇 하였더니"
+          }
+        },
+        {
+          "key": "9",
+          "text": {
+            "fr": "mais à présent que vous avez connu Dieu, ou plutôt que vous avez été connus de Dieu, comment retournez-vous à ces faibles et pauvres rudiments, auxquels de nouveau vous voulez vous asservir encore ?",
+            "en": "But now, after that ye have known God, or rather are known of God, how turn ye again to the weak and beggarly elements, whereunto ye desire again to be in bondage?",
+            "zh": "現在你們既然認識　神、更可說是被　神所認識的、怎麼還要歸回那懦弱無用的小學、情願再給他作奴僕呢。",
+            "jp": "しかし、今いまでは神かみを知しっているのに、否いな、むしろ神かみに知しられているのに、どうして、あの無力むりょくで貧弱ひんじゃくな、もろもろの霊力れいりょくに逆ぎゃくもどりして、またもや、新あらたにその奴隷どれいになろうとするのか。",
+            "kr": "이제는 너희가 하나님을 알 뿐 아니라 더욱이 하나님이 아신 바 되었거늘 어찌하여 다시 약하고 천박한 초등학문으로 돌아가서 다시 그들에게 종 노릇 하려 하느냐"
+          }
+        },
+        {
+          "key": "10",
+          "text": {
+            "fr": "Vous observez les jours, les mois, les temps et les années !",
+            "en": "Ye observe days, and months, and times, and years.",
+            "zh": "你們謹守日子、月分、節期、年分。",
+            "jp": "あなたがたは、日ひや月つきや季節きせつや年としなどを守まもっている。",
+            "kr": "너희가 날과 달과 절기와 해를 삼가 지키니"
+          }
+        },
+        {
+          "key": "11",
+          "text": {
+            "fr": "Je crains d’avoir inutilement travaillé pour vous.",
+            "en": "I am afraid of you, lest I have bestowed upon you labour in vain.",
+            "zh": "我為你們害怕．惟恐我在你們身上是枉費了工夫。",
+            "jp": "わたしは、あなたがたのために努力どりょくしてきたことが、あるいは、むだになったのではないかと、あなたがたのことが心配しんぱいでならない。",
+            "kr": "내가 너희를 위하여 수고한 것이 헛될까 두려워하노라"
+          }
+        },
+        {
+          "key": "12",
+          "text": {
+            "fr": "Soyez comme moi, car moi aussi je suis comme vous. Frères, je vous en supplie.",
+            "en": "Brethren, I beseech you, be as I am; for I am as ye are: ye have not injured me at all.",
+            "zh": "弟兄們、我勸你們要像我一樣、因為我也像你們一樣．你們一點沒有虧負我。",
+            "jp": "兄弟きょうだいたちよ。お願ねがいする。どうか、わたしのようになってほしい。わたしも、あなたがたのようになったのだから。あなたがたは、一度どもわたしに対たいして不都合ふつごうなことをしたことはない。",
+            "kr": "형제들아 내가 너희와 같이 되었은즉 너희도 나와 같이 되기를 구하노라 너희가 내게 해롭게 하지 아니하였느니라"
+          }
+        },
+        {
+          "key": "13",
+          "text": {
+            "fr": "Vous ne m’avez fait aucun tort. Vous savez que ce fut à cause d’une infirmité de la chair que je vous ai pour la première fois annoncé l’Évangile.",
+            "en": "Ye know how through infirmity of the flesh I preached the gospel unto you at the first.",
+            "zh": "你們知道我頭一次傳福音給你們、是因為身體有疾病。",
+            "jp": "あなたがたも知しっているとおり、最初さいしょわたしがあなたがたに福音ふくいんを伝つたえたのは、わたしの肉体にくたいが弱よわっていたためであった。",
+            "kr": "내가 처음에 육체의 약함으로 말미암아 너희에게 복음을 전한 것을 너희가 아는 바라"
+          }
+        },
+        {
+          "key": "14",
+          "text": {
+            "fr": "Et mis à l’épreuve par ma chair, vous n’avez témoigné ni mépris ni dégoût ; vous m’avez, au contraire, reçu comme un ange de Dieu, comme Jésus Christ.",
+            "en": "And my temptation which was in my flesh ye despised not, nor rejected; but received me as an angel of God, even as Christ Jesus.",
+            "zh": "你們為我身體的緣故受試煉、沒有輕看我、也沒有厭棄我．反倒接待我、如同　神的使者、如同基督耶穌。",
+            "jp": "そして、わたしの肉体にくたいにはあなたがたにとって試錬しれんとなるものがあったのに、それを卑いやしめもせず、またきらいもせず、かえってわたしを、神かみの使つかいかキリスト・イエスかでもあるように、迎むかえてくれた。",
+            "kr": "너희를 시험하는 것이 내 육체에 있으되 이것을 너희가 업신여기지도 아니하며 버리지도 아니하고 오직 나를 하나님의 천사와 같이 또는 그리스도 예수와 같이 영접하였도다"
+          }
+        },
+        {
+          "key": "15",
+          "text": {
+            "fr": "Où donc est l’expression de votre bonheur ? Car je vous atteste que, si cela eût été possible, vous vous seriez arraché les yeux pour me les donner.",
+            "en": "Where is then the blessedness ye spake of? for I bear you record, that, if it had been possible, ye would have plucked out your own eyes, and have given them to me.",
+            "zh": "你們當日所誇的福氣在哪裡呢．那時你們若能行、就是把自己的眼睛剜出來給我、也都情願．這是我可以給你們作見證的。",
+            "jp": "その時ときのあなたがたの感激かんげきは、今いまどこにあるのか。はっきり言いうが、あなたがたは、できることなら、自分じぶんの目めをえぐり出だしてでも、わたしにくれたかったのだ。",
+            "kr": "너희의 복이 지금 어디 있느냐 내가 너희에게 증언하노니 너희가 할 수만 있었더라면 너희의 눈이라도 빼어 나에게 주었으리라"
+          }
+        },
+        {
+          "key": "16",
+          "text": {
+            "fr": "Suis-je devenu votre ennemi en vous disant la vérité ?",
+            "en": "Am I therefore become your enemy, because I tell you the truth?",
+            "zh": "如今我將真理告訴你們、就成了你們的仇敵麼。",
+            "jp": "それだのに、真理しんりを語かたったために、わたしはあなたがたの敵てきになったのか。",
+            "kr": "그런즉 내가 너희에게 참된 말을 하므로 원수가 되었느냐"
+          }
+        },
+        {
+          "key": "17",
+          "text": {
+            "fr": "Le zèle qu’ils ont pour vous n’est pas pur, mais ils veulent vous détacher de nous, afin que vous soyez zélés pour eux.",
+            "en": "They zealously affect you, but not well; yea, they would exclude you, that ye might affect them.",
+            "zh": "那些人熱心待你們、卻不是好意、是要離間〔原文作把你們關在外面〕你們、叫你們熱心待他們。",
+            "jp": "彼かれらがあなたがたに対たいして熱心ねっしんなのは、善意ぜんいからではない。むしろ、自分じぶんらに熱心ねっしんにならせるために、あなたがたをわたしから引ひき離はなそうとしているのである。",
+            "kr": "그들이 너희에게 대하여 열심 내는 것은 좋은 뜻이 아니요 오직 너희를 이간시켜 너희로 그들에게 대하여 열심을 내게 하려 함이라"
+          }
+        },
+        {
+          "key": "18",
+          "text": {
+            "fr": "Il est beau d’avoir du zèle pour ce qui est bien et en tout temps, et non pas seulement quand je suis présent parmi vous.",
+            "en": "But it is good to be zealously affected always in a good thing, and not only when I am present with you.",
+            "zh": "在善事上、常用熱心待人、原是好的、卻不單我與你們同在的時候纔這樣。",
+            "jp": "わたしがあなたがたの所ところにいる時ときだけでなく、いつも、良よいことについて熱心ねっしんに慕したわれるのは、良よいことである。",
+            "kr": "좋은 일에 대하여 열심으로 사모함을 받음은 내가 너희를 대하였을 때뿐 아니라 언제든지 좋으니라"
+          }
+        },
+        {
+          "key": "19",
+          "text": {
+            "fr": "Mes enfants, pour qui j’éprouve de nouveau les douleurs de l’enfantement, jusqu’à ce que Christ soit formé en vous,",
+            "en": "My little children, of whom I travail in birth again until Christ be formed in you,",
+            "zh": "我小子阿、我為你們再受生產之苦、直等到基督成形在你們心裡．",
+            "jp": "ああ、わたしの幼おさな子ごたちよ。あなたがたの内うちにキリストの形かたちができるまでは、わたしは、またもや、あなたがたのために産うみの苦くるしみをする。",
+            "kr": "나의 자녀들아 너희 속에 그리스도의 형상을 이루기까지 다시 너희를 위하여 해산하는 수고를 하노니"
+          }
+        },
+        {
+          "key": "20",
+          "text": {
+            "fr": "je voudrais être maintenant auprès de vous, et changer de langage, car je suis dans l’inquiétude à votre sujet.",
+            "en": "I desire to be present with you now, and to change my voice; for I stand in doubt of you.",
+            "zh": "我巴不得現今在你們那裡、改換口氣、因我為你們心裡作難。",
+            "jp": "できることなら、わたしは今いまあなたがたの所ところにいて、語調ごちょうを変かえて話はなしてみたい。わたしは、あなたがたのことで、途方とほうにくれている。",
+            "kr": "내가 이제라도 너희와 함께 있어 내 언성을 높이려 함은 너희에 대하여 의혹이 있음이라"
+          }
+        },
+        {
+          "key": "21",
+          "text": {
+            "fr": "Dites-moi, vous qui voulez être sous la loi, n’entendez-vous point la loi ?",
+            "en": "Tell me, ye that desire to be under the law, do ye not hear the law?",
+            "zh": "你們這願意在律法以下的人、請告訴我、你們豈沒有聽見律法麼。",
+            "jp": "律法りっぽうの下もとにとどまっていたいと思おもう人ひとたちよ。わたしに答こたえなさい。あなたがたは律法りっぽうの言いうところを聞きかないのか。",
+            "kr": "내게 말하라 율법 아래에 있고자 하는 자들아 율법을 듣지 못하였느냐"
+          }
+        },
+        {
+          "key": "22",
+          "text": {
+            "fr": "Car il est écrit qu’Abraham eut deux fils, un de la femme esclave, et un de la femme libre.",
+            "en": "For it is written, that Abraham had two sons, the one by a bondmaid, the other by a freewoman.",
+            "zh": "因為律法上記著、亞伯拉罕有兩個兒子、一個是使女生的、一個是自主之婦人生的。",
+            "jp": "そのしるすところによると、アブラハムにふたりの子こがあったが、ひとりは女おんな奴隷どれいから、ひとりは自由じゆうの女おんなから生うまれた。",
+            "kr": "기록된 바 아브라함에게 두 아들이 있으니 하나는 여종에게서, 하나는 자유 있는 여자에게서 났다 하였으며"
+          }
+        },
+        {
+          "key": "23",
+          "text": {
+            "fr": "Mais celui de l’esclave naquit selon la chair, et celui de la femme libre naquit en vertu de la promesse.",
+            "en": "But he who was of the bondwoman was born after the flesh; but he of the freewoman was by promise.",
+            "zh": "然而那使女所生的、是按著血氣生的．那自主之婦人所生的、是憑著應許生的。",
+            "jp": "女おんな奴隷どれいの子こは肉にくによって生うまれたのであり、自由じゆうの女おんなの子こは約束やくそくによって生うまれたのであった。",
+            "kr": "여종에게서는 육체를 따라 났고 자유 있는 여자에게서는 약속으로 말미암았느니라"
+          }
+        },
+        {
+          "key": "24",
+          "text": {
+            "fr": "Ces choses sont allégoriques ; car ces femmes sont deux alliances. L’une du mont Sinaï, enfantant pour la servitude, c’est Agar,—",
+            "en": "Which things are an allegory: for these are the two covenants; the one from the mount Sinai, which gendereth to bondage, which is Agar.",
+            "zh": "這都是比方．那兩個婦人、就是兩約．一約是出於西乃山、生子為奴、乃是夏甲。",
+            "jp": "さて、この物語ものがたりは比喩ひゆとしてみられる。すなわち、この女おんなたちは二つの契約けいやくをさす。そのひとりはシナイ山ざんから出でて、奴隷どれいとなる者ものを産うむ。ハガルがそれである。",
+            "kr": "이것은 비유니 이 여자들은 두 언약이라 하나는 시내 산으로부터 종을 낳은 자니 곧 하갈이라"
+          }
+        },
+        {
+          "key": "25",
+          "text": {
+            "fr": "car Agar, c’est le mont Sinaï en Arabie,—et elle correspond à la Jérusalem actuelle, qui est dans la servitude avec ses enfants.",
+            "en": "For this Agar is mount Sinai in Arabia, and answereth to Jerusalem which now is, and is in bondage with her children.",
+            "zh": "這夏甲二字是指著亞拉伯的西乃山、與現在的耶路撒冷同類．因耶路撒冷和他的兒女都是為奴的。",
+            "jp": "ハガルといえば、アラビヤではシナイ山ざんのことで、今いまのエルサレムに当あたる。なぜなら、それは子こたちと共ともに、奴隷どれいとなっているからである。",
+            "kr": "이 하갈은 아라비아에 있는 시내 산으로서 지금 있는 예루살렘과 같은 곳이니 그가 그 자녀들과 더불어 종 노릇 하고"
+          }
+        },
+        {
+          "key": "26",
+          "text": {
+            "fr": "Mais la Jérusalem d’en haut est libre, c’est notre mère ;",
+            "en": "But Jerusalem which is above is free, which is the mother of us all.",
+            "zh": "但那在上的耶路撒冷是自主的、他是我們的母。",
+            "jp": "しかし、上うえなるエルサレムは、自由じゆうの女おんなであって、わたしたちの母ははをさす。",
+            "kr": "오직 위에 있는 예루살렘은 자유자니 곧 우리 어머니라"
+          }
+        },
+        {
+          "key": "27",
+          "text": {
+            "fr": "car il est écrit : Réjouis-toi, stérile, toi qui n’enfantes point ! Éclate et pousse des cris, toi qui n’as pas éprouvé les douleurs de l’enfantement ! Car les enfants de la délaissée seront plus nombreux Que les enfants de celle qui était mariée.",
+            "en": "For it is written, Rejoice, thou barren that bearest not; break forth and cry, thou that travailest not: for the desolate hath many more children than she which hath an husband.",
+            "zh": "因為經上記著、『不懷孕不生養的、你要歡樂．未曾經過產難的、你要高聲歡呼、因為沒有丈夫的、比有丈夫的兒女更多。』",
+            "jp": "すなわち、こう書かいてある、「喜よろこべ、不妊ふにんの女おんなよ。声こえをあげて喜よろこべ、産うみの苦くるしみを知しらない女おんなよ。ひとり者ものとなっている女おんなは多おおくの子こを産うみ、その数かずは、夫おっとある女おんなの子こらよりも多おおい」。",
+            "kr": "기록된 바 잉태하지 못한 자여 즐거워하라 산고를 모르는 자여 소리 질러 외치라 이는 홀로 사는 자의 자녀가 남편 있는 자의 자녀보다 많음이라 하였으니"
+          }
+        },
+        {
+          "key": "28",
+          "text": {
+            "fr": "Pour vous, frères, comme Isaac, vous êtes enfants de la promesse ;",
+            "en": "Now we, brethren, as Isaac was, are the children of promise.",
+            "zh": "弟兄們、我們是憑著應許作兒女、如同以撒一樣。",
+            "jp": "兄弟きょうだいたちよ。あなたがたは、イサクのように、約束やくそくの子こである。",
+            "kr": "형제들아 너희는 이삭과 같이 약속의 자녀라"
+          }
+        },
+        {
+          "key": "29",
+          "text": {
+            "fr": "et de même qu’alors celui qui était né selon la chair persécutait celui qui était né selon l’Esprit, ainsi en est-il encore maintenant.",
+            "en": "But as then he that was born after the flesh persecuted him that was born after the Spirit, even so it is now.",
+            "zh": "當時那按著血氣生的、逼迫了那按著聖靈生的．現在也是這樣。",
+            "jp": "しかし、その当時とうじ、肉にくによって生うまれた者ものが、霊れいによって生うまれた者ものを迫害はくがいしたように、今いまでも同様どうようである。",
+            "kr": "그러나 그 때에 육체를 따라 난 자가 성령을 따라 난 자를 박해한 것 같이 이제도 그러하도다"
+          }
+        },
+        {
+          "key": "30",
+          "text": {
+            "fr": "Mais que dit l’Écriture ? Chasse l’esclave et son fils, car le fils de l’esclave n’héritera pas avec le fils de la femme libre.",
+            "en": "Nevertheless what saith the scripture? Cast out the bondwoman and her son: for the son of the bondwoman shall not be heir with the son of the freewoman.",
+            "zh": "然而經上是怎麼說的呢．是說、『把使女和他兒子趕出去．因為使女的兒子、不可與自主婦人的兒子一同承受產業。』",
+            "jp": "しかし、聖書せいしょはなんと言いっているか。「女おんな奴隷どれいとその子ことを追おい出だせ。女おんな奴隷どれいの子こは、自由じゆうの女おんなの子こと共ともに相続そうぞくをしてはならない」とある。",
+            "kr": "그러나 성경이 무엇을 말하느냐 여종과 그 아들을 내쫓으라 여종의 아들이 자유 있는 여자의 아들과 더불어 유업을 얻지 못하리라 하였느니라"
+          }
+        },
+        {
+          "key": "31",
+          "text": {
+            "fr": "C’est pourquoi, frères, nous ne sommes pas enfants de l’esclave, mais de la femme libre.",
+            "en": "So then, brethren, we are not children of the bondwoman, but of the free.",
+            "zh": "弟兄們、這樣看來、我們不是使女的兒女、乃是自主婦人的兒女了。",
+            "jp": "だから、兄弟きょうだいたちよ。わたしたちは女おんな奴隷どれいの子こではなく、自由じゆうの女おんなの子こなのである。",
+            "kr": "그런즉 형제들아 우리는 여종의 자녀가 아니요 자유 있는 여자의 자녀니라"
+          }
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "introduction": {
+        "fr": "Stand fast in gospel liberty—Seek faith, love, Christ, and the Spirit—The works of the flesh and the fruits of the Spirit are named.",
+        "en": "Stand fast in gospel liberty—Seek faith, love, Christ, and the Spirit—The works of the flesh and the fruits of the Spirit are named.",
+        "zh": "Stand fast in gospel liberty—Seek faith, love, Christ, and the Spirit—The works of the flesh and the fruits of the Spirit are named.",
+        "jp": "Stand fast in gospel liberty—Seek faith, love, Christ, and the Spirit—The works of the flesh and the fruits of the Spirit are named.",
+        "kr": "Stand fast in gospel liberty—Seek faith, love, Christ, and the Spirit—The works of the flesh and the fruits of the Spirit are named."
+      },
+      "verses": [
+        {
+          "key": "1",
+          "text": {
+            "fr": "C’est pour la liberté que Christ nous a affranchis. Demeurez donc fermes, et ne vous laissez pas mettre de nouveau sous le joug de la servitude.",
+            "en": "Stand fast therefore in the liberty wherewith Christ hath made us free, and be not entangled again with the yoke of bondage.",
+            "zh": "基督釋放了我們、叫我們得以自由、所以要站立得穩、不要再被奴僕的軛挾制。",
+            "jp": "自由じゆうを得えさせるために、キリストはわたしたちを解放かいほうして下くださったのである。だから、堅かたく立たって、二度どと奴隷どれいのくびきにつながれてはならない。",
+            "kr": "그리스도께서 우리를 자유롭게 하려고 자유를 주셨으니 그러므로 굳건하게 서서 다시는 종의 멍에를 메지 말라"
+          }
+        },
+        {
+          "key": "2",
+          "text": {
+            "fr": "Voici, moi Paul, je vous dis que, si vous vous faites circoncire, Christ ne vous servira de rien.",
+            "en": "Behold, I Paul say unto you, that if ye be circumcised, Christ shall profit you nothing.",
+            "zh": "我保羅告訴你們、若受割禮、基督就與你們無益了。",
+            "jp": "見みよ、このパウロがあなたがたに言いう。もし割礼かつれいを受うけるなら、キリストはあなたがたに用ようのないものになろう。",
+            "kr": "보라 나 바울은 너희에게 말하노니 너희가 만일 할례를 받으면 그리스도께서 너희에게 아무 유익이 없으리라"
+          }
+        },
+        {
+          "key": "3",
+          "text": {
+            "fr": "Et je proteste encore une fois à tout homme qui se fait circoncire, qu’il est tenu de pratiquer la loi tout entière.",
+            "en": "For I testify again to every man that is circumcised, that he is a debtor to do the whole law.",
+            "zh": "我再指著凡受割禮的人確實的說、他是欠著行全律法的債。",
+            "jp": "割礼かつれいを受うけようとするすべての人ひとたちに、もう一度ど言いっておく。そういう人ひとたちは、律法りっぽうの全部ぜんぶを行おこなう義務ぎむがある。",
+            "kr": "내가 할례를 받는 각 사람에게 다시 증언하노니 그는 율법 전체를 행할 의무를 가진 자라"
+          }
+        },
+        {
+          "key": "4",
+          "text": {
+            "fr": "Vous êtes séparés de Christ, vous tous qui cherchez la justification dans la loi ; vous êtes déchus de la grâce.",
+            "en": "Christ is become of no effect unto you, whosoever of you are justified by the law; ye are fallen from grace.",
+            "zh": "你們這要靠律法稱義的、是與基督隔絕、從恩典中墜落了。",
+            "jp": "律法りっぽうによって義ぎとされようとするあなたがたは、キリストから離はなれてしまっている。恵めぐみから落おちている。",
+            "kr": "율법 안에서 의롭다 함을 얻으려 하는 너희는 그리스도에게서 끊어지고 은혜에서 떨어진 자로다"
+          }
+        },
+        {
+          "key": "5",
+          "text": {
+            "fr": "Pour nous, c’est de la foi que nous attendons, par l’Esprit, l’espérance de la justice.",
+            "en": "For we through the Spirit wait for the hope of righteousness by faith.",
+            "zh": "我們靠著聖靈、憑著信心、等候所盼望的義。",
+            "jp": "わたしたちは、御霊みたまの助たすけにより、信仰しんこうによって義ぎとされる望のぞみを強つよくいだいている。",
+            "kr": "우리가 성령으로 믿음을 따라 의의 소망을 기다리노니"
+          }
+        },
+        {
+          "key": "6",
+          "text": {
+            "fr": "Car, en Jésus Christ, ni la circoncision ni l’incirconcision n’a de valeur, mais la foi qui est agissante par la charité.",
+            "en": "For in Jesus Christ neither circumcision availeth any thing, nor uncircumcision; but faith which worketh by love.",
+            "zh": "原來在基督耶穌裡、受割禮不受割禮、全無功效．惟獨使人生發仁愛的信心、纔有功效。",
+            "jp": "キリスト・イエスにあっては、割礼かつれいがあってもなくても、問題もんだいではない。尊たっといのは、愛あいによって働はたらく信仰しんこうだけである。",
+            "kr": "그리스도 예수 안에서는 할례나 무할례나 효력이 없으되 사랑으로써 역사하는 믿음뿐이니라"
+          }
+        },
+        {
+          "key": "7",
+          "text": {
+            "fr": "Vous couriez bien : qui vous a arrêtés, pour vous empêcher d’obéir à la vérité ?",
+            "en": "Ye did run well; who did hinder you that ye should not obey the truth?",
+            "zh": "你們向來跑得好．有誰攔阻你們、叫你們不順從真理呢。",
+            "jp": "あなたがたはよく走はしり続つづけてきたのに、だれが邪魔じゃまをして、真理しんりにそむかせたのか。",
+            "kr": "너희가 달음질을 잘 하더니 누가 너희를 막아 진리를 순종하지 못하게 하더냐"
+          }
+        },
+        {
+          "key": "8",
+          "text": {
+            "fr": "Cette influence ne vient pas de celui qui vous appelle.",
+            "en": "This persuasion cometh not of him that calleth you.",
+            "zh": "這樣的勸導、不是出於那召你們的。",
+            "jp": "そのような勧誘かんゆうは、あなたがたを召めされたかたから出でたものではない。",
+            "kr": "그 권면은 너희를 부르신 이에게서 난 것이 아니니라"
+          }
+        },
+        {
+          "key": "9",
+          "text": {
+            "fr": "Un peu de levain fait lever toute la pâte.",
+            "en": "A little leaven leaveneth the whole lump.",
+            "zh": "一點麵酵能使全團都發起來。",
+            "jp": "少すこしのパン種たねでも、粉こなのかたまり全体ぜんたいをふくらませる。",
+            "kr": "적은 누룩이 온 덩이에 퍼지느니라"
+          }
+        },
+        {
+          "key": "10",
+          "text": {
+            "fr": "J’ai cette confiance en vous, dans le Seigneur, que vous ne penserez pas autrement. Mais celui qui vous trouble, quel qu’il soit, en portera la peine.",
+            "en": "I have confidence in you through the Lord, that ye will be none otherwise minded: but he that troubleth you shall bear his judgment, whosoever he be.",
+            "zh": "我在主裡很信你們必不懷別樣的心．但攪擾你們的、無論是誰、必擔當他的罪名。",
+            "jp": "あなたがたはいささかもわたしと違ちがった思おもいをいだくことはないと、主しゅにあって信頼しんらいしている。しかし、あなたがたを動揺どうようさせている者ものは、それがだれであろうと、さばきを受うけるであろう。",
+            "kr": "나는 너희가 아무 다른 마음을 품지 아니할 줄을 주 안에서 확신하노라 그러나 너희를 요동하게 하는 자는 누구든지 심판을 받으리라"
+          }
+        },
+        {
+          "key": "11",
+          "text": {
+            "fr": "Pour moi, frères, si je prêche encore la circoncision, pourquoi suis-je encore persécuté ? Le scandale de la croix a donc disparu !",
+            "en": "And I, brethren, if I yet preach circumcision, why do I yet suffer persecution? then is the offence of the cross ceased.",
+            "zh": "弟兄們、我若仍舊傳割禮、為甚麼還受逼迫呢．若是這樣、那十字架討厭的地方就沒有了。",
+            "jp": "兄弟きょうだいたちよ。わたしがもし今いまでも割礼かつれいを宣のべ伝つたえていたら、どうして、いまなお迫害はくがいされるはずがあろうか。そうしていたら、十字架じゅうじかのつまずきは、なくなっているであろう。",
+            "kr": "형제들아 내가 지금까지 할례를 전한다면 어찌하여 지금까지 박해를 받으리요 그리하였으면 십자가의 걸림돌이 제거되었으리니"
+          }
+        },
+        {
+          "key": "12",
+          "text": {
+            "fr": "Puissent-ils être retranchés, ceux qui mettent le trouble parmi vous !",
+            "en": "I would they were even cut off which trouble you.",
+            "zh": "恨不得那攪亂你們的人、把自己割絕了。",
+            "jp": "あなたがたの煽動せんどう者しゃどもは、自みずから不具ふぐになるがよかろう。",
+            "kr": "너희를 어지럽게 하는 자들은 스스로 베어 버리기를 원하노라"
+          }
+        },
+        {
+          "key": "13",
+          "text": {
+            "fr": "Frères, vous avez été appelés à la liberté, seulement ne faites pas de cette liberté un prétexte de vivre selon la chair ; mais rendez-vous, par la charité, serviteurs les uns des autres.",
+            "en": "For, brethren, ye have been called unto liberty; only use not liberty for an occasion to the flesh, but by love serve one another.",
+            "zh": "弟兄們、你們蒙召、是要得自由．只是不可將你們的自由當作放縱情慾的機會．總要用愛心互相服事。",
+            "jp": "兄弟きょうだいたちよ。あなたがたが召めされたのは、実じつに、自由じゆうを得えるためである。ただ、その自由じゆうを、肉にくの働はたらく機会きかいとしないで、愛あいをもって互たがいに仕つかえなさい。",
+            "kr": "형제들아 너희가 자유를 위하여 부르심을 입었으나 그러나 그 자유로 육체의 기회를 삼지 말고 오직 사랑으로 서로 종 노릇 하라"
+          }
+        },
+        {
+          "key": "14",
+          "text": {
+            "fr": "Car toute la loi est accomplie dans une seule parole, dans celle-ci : Tu aimeras ton prochain comme toi-même.",
+            "en": "For all the law is fulfilled in one word, even in this; Thou shalt love thy neighbour as thyself.",
+            "zh": "因為全律法都包在愛人如己這一句話之內了。",
+            "jp": "律法りっぽうの全体ぜんたいは、「自分じぶんを愛あいするように、あなたの隣となり人ひとを愛あいせよ」というこの一句いっくに尽つきるからである。",
+            "kr": "온 율법은 네 이웃 사랑하기를 네 자신 같이 하라 하신 한 말씀에서 이루어졌나니"
+          }
+        },
+        {
+          "key": "15",
+          "text": {
+            "fr": "Mais si vous vous mordez et vous dévorez les uns les autres, prenez garde que vous ne soyez détruits les uns par les autres.",
+            "en": "But if ye bite and devour one another, take heed that ye be not consumed one of another.",
+            "zh": "你們要謹慎．若相咬相吞、只怕要彼此消滅了。",
+            "jp": "気きをつけるがよい。もし互たがいにかみ合あい、食くい合あっているなら、あなたがたは互たがいに滅ほろぼされてしまうだろう。",
+            "kr": "만일 서로 물고 먹으면 피차 멸망할까 조심하라"
+          }
+        },
+        {
+          "key": "16",
+          "text": {
+            "fr": "Je dis donc : Marchez selon l’Esprit, et vous n’accomplirez pas les désirs de la chair.",
+            "en": "This I say then, Walk in the Spirit, and ye shall not fulfil the lust of the flesh.",
+            "zh": "我說、你們當順著聖靈而行、就不放縱肉體的情慾了。",
+            "jp": "わたしは命めいじる、御霊みたまによって歩あるきなさい。そうすれば、決けっして肉にくの欲よくを満みたすことはない。",
+            "kr": "내가 이르노니 너희는 성령을 따라 행하라 그리하면 육체의 욕심을 이루지 아니하리라"
+          }
+        },
+        {
+          "key": "17",
+          "text": {
+            "fr": "Car la chair a des désirs contraires à ceux de l’Esprit, et l’Esprit en a de contraires à ceux de la chair ; ils sont opposés entre eux, afin que vous ne fassiez point ce que vous voudriez.",
+            "en": "For the flesh lusteth against the Spirit, and the Spirit against the flesh: and these are contrary the one to the other: so that ye cannot do the things that ye would.",
+            "zh": "因為情慾和聖靈相爭、聖靈和情慾相爭．這兩個是彼此相敵、使你們不能作所願意作的。",
+            "jp": "なぜなら、肉にくの欲ほっするところは御霊みたまに反はんし、また御霊みたまの欲ほっするところは肉にくに反はんするからである。こうして、二つのものは互たがいに相あいさからい、その結果けっか、あなたがたは自分じぶんでしようと思おもうことを、することができないようになる。",
+            "kr": "육체의 소욕은 성령을 거스르고 성령은 육체를 거스르나니 이 둘이 서로 대적함으로 너희가 원하는 것을 하지 못하게 하려 함이니라"
+          }
+        },
+        {
+          "key": "18",
+          "text": {
+            "fr": "Si vous êtes conduits par l’Esprit, vous n’êtes point sous la loi.",
+            "en": "But if ye be led of the Spirit, ye are not under the law.",
+            "zh": "但你們若被聖靈引導、就不在律法以下。",
+            "jp": "もしあなたがたが御霊みたまに導みちびかれるなら、律法りっぽうの下もとにはいない。",
+            "kr": "너희가 만일 성령의 인도하시는 바가 되면 율법 아래에 있지 아니하리라"
+          }
+        },
+        {
+          "key": "19",
+          "text": {
+            "fr": "Or, les oeuvres de la chair sont manifestes, ce sont l’impudicité, l’impureté, la dissolution,",
+            "en": "Now the works of the flesh are manifest, which are these; Adultery, fornication, uncleanness, lasciviousness,",
+            "zh": "情慾的事、都是顯而易見的．就如姦淫、污穢、邪蕩、",
+            "jp": "肉にくの働はたらきは明白めいはくである。すなわち、不品行ふひんこう、汚けがれ、好色こうしょく、",
+            "kr": "육체의 일은 분명하니 곧 음행과 더러운 것과 호색과"
+          }
+        },
+        {
+          "key": "20",
+          "text": {
+            "fr": "l’idolâtrie, la magie, les inimitiés, les querelles, les jalousies, les animosités, les disputes, les divisions, les sectes,",
+            "en": "Idolatry, witchcraft, hatred, variance, emulations, wrath, strife, seditions, heresies,",
+            "zh": "拜偶像、邪術、仇恨、爭競、忌恨、惱怒、結黨、紛爭、異端、",
+            "jp": "偶像ぐうぞう礼拝れいはい、まじない、敵意てきい、争あらそい、そねみ、怒いかり、党派心とうはしん、分裂ぶんれつ、分派ぶんぱ、",
+            "kr": "우상 숭배와 주술과 원수 맺는 것과 분쟁과 시기와 분냄과 당 짓는 것과 분열함과 이단과"
+          }
+        },
+        {
+          "key": "21",
+          "text": {
+            "fr": "l’envie, l’ivrognerie, les excès de table, et les choses semblables. Je vous dis d’avance, comme je l’ai déjà dit, que ceux qui commettent de telles choses n’hériteront point le royaume de Dieu.",
+            "en": "Envyings, murders, drunkenness, revellings, and such like: of the which I tell you before, as I have also told you in time past, that they which do such things shall not inherit the kingdom of God.",
+            "zh": "嫉妒、〔有古卷在此有兇殺二字〕醉酒、荒宴等類、我從前告訴你們、現在又告訴你們、行這樣事的人、必不能承受　神的國",
+            "jp": "ねたみ、泥酔でいすい、宴楽えんらく、および、そのたぐいである。わたしは以前いぜんも言いったように、今いまも前まえもって言いっておく。このようなことを行おこなう者ものは、神かみの国くにをつぐことがない。",
+            "kr": "투기와 술 취함과 방탕함과 또 그와 같은 것들이라 전에 너희에게 경계한 것 같이 경계하노니 이런 일을 하는 자들은 하나님의 나라를 유업으로 받지 못할 것이요"
+          }
+        },
+        {
+          "key": "22",
+          "text": {
+            "fr": "Mais le fruit de l’Esprit, c’est l’amour, la joie, la paix, la patience, la bonté, la bénignité, la fidélité, la douceur, la tempérance ;",
+            "en": "But the fruit of the Spirit is love, joy, peace, longsuffering, gentleness, goodness, faith,",
+            "zh": "聖靈所結的果子、就是仁愛、喜樂、和平、忍耐、恩慈、良善、信實、",
+            "jp": "しかし、御霊みたまの実みは、愛あい、喜よろこび、平和へいわ、寛容かんよう、慈愛じあい、善意ぜんい、忠実ちゅうじつ、",
+            "kr": "오직 성령의 열매는 사랑과 희락과 화평과 오래 참음과 자비와 양선과 충성과"
+          }
+        },
+        {
+          "key": "23",
+          "text": {
+            "fr": "la loi n’est pas contre ces choses.",
+            "en": "Meekness, temperance: against such there is no law.",
+            "zh": "溫柔、節制．這樣的事、沒有律法禁止。",
+            "jp": "柔和にゅうわ、自制じせいであって、これらを否定ひていする律法りっぽうはない。",
+            "kr": "온유와 절제니 이같은 것을 금지할 법이 없느니라"
+          }
+        },
+        {
+          "key": "24",
+          "text": {
+            "fr": "Ceux qui sont à Jésus Christ ont crucifié la chair avec ses passions et ses désirs.",
+            "en": "And they that are Christ’s have crucified the flesh with the affections and lusts.",
+            "zh": "凡屬基督耶穌的人、是已經把肉體、連肉體的邪情私慾、同釘在十字架上了。",
+            "jp": "キリスト・イエスに属ぞくする者ものは、自分じぶんの肉にくを、その情じょうと欲よくと共ともに十字架じゅうじかにつけてしまったのである。",
+            "kr": "그리스도 예수의 사람들은 육체와 함께 그 정욕과 탐심을 십자가에 못 박았느니라"
+          }
+        },
+        {
+          "key": "25",
+          "text": {
+            "fr": "Si nous vivons par l’Esprit, marchons aussi selon l’Esprit.",
+            "en": "If we live in the Spirit, let us also walk in the Spirit.",
+            "zh": "我們若是靠聖靈得生、就當靠聖靈行事。",
+            "jp": "もしわたしたちが御霊みたまによって生いきるのなら、また御霊みたまによって進すすむもうではないか。",
+            "kr": "만일 우리가 성령으로 살면 또한 성령으로 행할지니"
+          }
+        },
+        {
+          "key": "26",
+          "text": {
+            "fr": "Ne cherchons pas une vaine gloire, en nous provoquant les uns les autres, en nous portant envie les uns aux autres.",
+            "en": "Let us not be desirous of vain glory, provoking one another, envying one another.",
+            "zh": "不要貪圖虛名、彼此惹氣、互相嫉妒。",
+            "jp": "互たがいにいどみ合あい、互たがいにねたみ合あって、虚栄きょえいに生いきてはならない。",
+            "kr": "헛된 영광을 구하여 서로 노엽게 하거나 서로 투기하지 말지니라"
+          }
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "introduction": {
+        "fr": "Bear one another’s burdens—As you sow, so shall you reap—Be not weary in well-doing.",
+        "en": "Bear one another’s burdens—As you sow, so shall you reap—Be not weary in well-doing.",
+        "zh": "Bear one another’s burdens—As you sow, so shall you reap—Be not weary in well-doing.",
+        "jp": "Bear one another’s burdens—As you sow, so shall you reap—Be not weary in well-doing.",
+        "kr": "Bear one another’s burdens—As you sow, so shall you reap—Be not weary in well-doing."
+      },
+      "verses": [
+        {
+          "key": "1",
+          "text": {
+            "fr": "Frères, si un homme vient à être surpris en quelque faute, vous qui êtes spirituels, redressez-le avec un esprit de douceur. Prends garde à toi-même, de peur que tu ne sois aussi tenté.",
+            "en": "Brethren, if a man be overtaken in a fault, ye which are spiritual, restore such an one in the spirit of meekness; considering thyself, lest thou also be tempted.",
+            "zh": "弟兄們、若有人偶然被過犯所勝、你們屬靈的人、就當用溫柔的心、把他挽回過來．又當自己小心、恐怕也被引誘。",
+            "jp": "兄弟きょうだいたちよ。もしもある人ひとが罪過ざいかに陥おちいっていることがわかったなら、霊れいの人ひとであるあなたがたは、柔和にゅうわな心こころをもって、その人ひとを正ただしなさい。それと同時どうじに、もしか自分じぶん自身じしんも誘惑ゆうわくに陥おちいることがありはしないかと、反省はんせいしなさい。",
+            "kr": "형제들아 사람이 만일 무슨 범죄한 일이 드러나거든 신령한 너희는 온유한 심령으로 그러한 자를 바로잡고 너 자신을 살펴보아 너도 시험을 받을까 두려워하라"
+          }
+        },
+        {
+          "key": "2",
+          "text": {
+            "fr": "Portez les fardeaux les uns des autres, et vous accomplirez ainsi la loi de Christ.",
+            "en": "Bear ye one another’s burdens, and so fulfil the law of Christ.",
+            "zh": "你們各人的重擔要互相擔當、如此、就完全了基督的律法。",
+            "jp": "互たがいに重荷おもにを負おい合あいなさい。そうすれば、あなたがたはキリストの律法りっぽうを全まっとうするであろう。",
+            "kr": "너희가 짐을 서로 지라 그리하여 그리스도의 법을 성취하라"
+          }
+        },
+        {
+          "key": "3",
+          "text": {
+            "fr": "Si quelqu’un pense être quelque chose, quoiqu’il ne soit rien, il s’abuse lui-même.",
+            "en": "For if a man think himself to be something, when he is nothing, he deceiveth himself.",
+            "zh": "人若無有、自己還以為有、就是自欺了。",
+            "jp": "もしある人ひとが、事実じじつそうでないのに、自分じぶんが何なにか偉えらい者ものであるように思おもっているとすれば、その人ひとは自分じぶんを欺あざむいているのである。",
+            "kr": "만일 누가 아무 것도 되지 못하고 된 줄로 생각하면 스스로 속임이라"
+          }
+        },
+        {
+          "key": "4",
+          "text": {
+            "fr": "Que chacun examine ses propres oeuvres, et alors il aura sujet de se glorifier pour lui seul, et non par rapport à autrui ;",
+            "en": "But let every man prove his own work, and then shall he have rejoicing in himself alone, and not in another.",
+            "zh": "各人應當察驗自己的行為、這樣、他所誇的就專在自己、不在別人了。",
+            "jp": "ひとりびとり、自分じぶんの行おこないを検討けんとうしてみるがよい。そうすれば、自分じぶんだけには誇ほこることができても、ほかの人ひとには誇ほこれなくなるであろう。",
+            "kr": "각각 자기의 일을 살피라 그리하면 자랑할 것이 자기에게는 있어도 남에게는 있지 아니하리니"
+          }
+        },
+        {
+          "key": "5",
+          "text": {
+            "fr": "car chacun portera son propre fardeau.",
+            "en": "For every man shall bear his own burden.",
+            "zh": "因為各人必擔當自己的擔子。",
+            "jp": "人ひとはそれぞれ、自分じぶん自身じしんの重荷おもにを負おうべきである。",
+            "kr": "각각 자기의 짐을 질 것이라"
+          }
+        },
+        {
+          "key": "6",
+          "text": {
+            "fr": "Que celui à qui l’on enseigne la parole fasse part de tous ses biens à celui qui l’enseigne.",
+            "en": "Let him that is taught in the word communicate unto him that teacheth in all good things.",
+            "zh": "在道理上受教的、當把一切需用的供給施教的人。",
+            "jp": "御言みことばを教おしえてもらう人ひとは、教おしえる人ひとと、すべて良よいものを分わけ合あいなさい。",
+            "kr": "가르침을 받는 자는 말씀을 가르치는 자와 모든 좋은 것을 함께 하라"
+          }
+        },
+        {
+          "key": "7",
+          "text": {
+            "fr": "Ne vous y trompez pas : on ne se moque pas de Dieu. Ce qu’un homme aura semé, il le moissonnera aussi.",
+            "en": "Be not deceived; God is not mocked: for whatsoever a man soweth, that shall he also reap.",
+            "zh": "不要自欺、　神是輕慢不得的．人種的是甚麼、收的也是甚麼。",
+            "jp": "まちがってはいけない、神かみは侮あなどられるようなかたではない。人ひとは自分じぶんのまいたものを、刈かり取とることになる。",
+            "kr": "스스로 속이지 말라 하나님은 업신여김을 받지 아니하시나니 사람이 무엇으로 심든지 그대로 거두리라"
+          }
+        },
+        {
+          "key": "8",
+          "text": {
+            "fr": "Celui qui sème pour sa chair moissonnera de la chair la corruption ; mais celui qui sème pour l’Esprit moissonnera de l’Esprit la vie éternelle.",
+            "en": "For he that soweth to his flesh shall of the flesh reap corruption; but he that soweth to the Spirit shall of the Spirit reap life everlasting.",
+            "zh": "順著情慾撒種的、必從情慾收敗壞．順著聖靈撒種的、必從聖靈收永生。",
+            "jp": "すなわち、自分じぶんの肉にくにまく者ものは、肉にくから滅ほろびを刈かり取とり、霊れいにまく者ものは、霊れいから永遠えいえんのいのちを刈かり取とるであろう。",
+            "kr": "자기의 육체를 위하여 심는 자는 육체로부터 썩어질 것을 거두고 성령을 위하여 심는 자는 성령으로부터 영생을 거두리라"
+          }
+        },
+        {
+          "key": "9",
+          "text": {
+            "fr": "Ne nous lassons pas de faire le bien ; car nous moissonnerons au temps convenable, si nous ne nous relâchons pas.",
+            "en": "And let us not be weary in well doing: for in due season we shall reap, if we faint not.",
+            "zh": "我們行善、不可喪志．若不灰心、到了時候、就要收成。",
+            "jp": "わたしたちは、善ぜんを行おこなうことに、うみ疲つかれてはならない。たゆまないでいると、時ときが来くれば刈かり取とるようになる。",
+            "kr": "우리가 선을 행하되 낙심하지 말지니 포기하지 아니하면 때가 이르매 거두리라"
+          }
+        },
+        {
+          "key": "10",
+          "text": {
+            "fr": "Ainsi donc, pendant que nous en avons l’occasion, pratiquons le bien envers tous, et surtout envers les frères en la foi.",
+            "en": "As we have therefore opportunity, let us do good unto all men, especially unto them who are of the household of faith.",
+            "zh": "所以有了機會、就當向眾人行善．向信徒一家的人更當這樣。",
+            "jp": "だから、機会きかいのあるごとに、だれに対たいしても、とくに信仰しんこうの仲間なかまに対たいして、善ぜんを行おこなおうではないか。",
+            "kr": "그러므로 우리는 기회 있는 대로 모든 이에게 착한 일을 하되 더욱 믿음의 가정들에게 할지니라"
+          }
+        },
+        {
+          "key": "11",
+          "text": {
+            "fr": "Voyez avec quelles grandes lettres je vous ai écrit de ma propre main.",
+            "en": "Ye see how large a letter I have written unto you with mine own hand.",
+            "zh": "請看我親手寫給你們的字、是何等的大呢。",
+            "jp": "ごらんなさい。わたし自身じしんいま筆ふでをとって、こんなに大おおきい字じで、あなたがたに書かいていることを。",
+            "kr": "내 손으로 너희에게 이렇게 큰 글자로 쓴 것을 보라"
+          }
+        },
+        {
+          "key": "12",
+          "text": {
+            "fr": "Tous ceux qui veulent se rendre agréables selon la chair vous contraignent à vous faire circoncire, uniquement afin de n’être pas persécutés pour la croix de Christ.",
+            "en": "As many as desire to make a fair shew in the flesh, they constrain you to be circumcised; only lest they should suffer persecution for the cross of Christ.",
+            "zh": "凡希圖外貌體面的人、都勉強你們受割禮．無非是怕自己為基督的十字架受逼迫。",
+            "jp": "いったい、肉にくにおいて見みえを飾かざろうとする者ものたちは、キリスト・イエスの十字架じゅうじかのゆえに、迫害はくがいを受うけたくないばかりに、あなたがたにしいて割礼かつれいを受うけさせようとする。",
+            "kr": "무릇 육체의 모양을 내려 하는 자들이 억지로 너희에게 할례를 받게 함은 그들이 그리스도의 십자가로 말미암아 박해를 면하려 함뿐이라"
+          }
+        },
+        {
+          "key": "13",
+          "text": {
+            "fr": "Car les circoncis eux-mêmes n’observent point la loi ; mais ils veulent que vous soyez circoncis, pour se glorifier dans votre chair.",
+            "en": "For neither they themselves who are circumcised keep the law; but desire to have you circumcised, that they may glory in your flesh.",
+            "zh": "他們那些受割禮的、連自己也不守律法．他們願意你們受割禮、不過要藉著你們的肉體誇口。",
+            "jp": "事実じじつ、割礼かつれいのあるもの自身じしんが律法りっぽうを守まもらず、ただ、あなたがたの肉にくについて誇ほこりたいために、割礼かつれいを受うけさせようとしているのである。",
+            "kr": "할례를 받은 그들이라도 스스로 율법은 지키지 아니하고 너희에게 할례를 받게 하려 하는 것은 그들이 너희의 육체로 자랑하려 함이라"
+          }
+        },
+        {
+          "key": "14",
+          "text": {
+            "fr": "Pour ce qui me concerne, loin de moi la pensée de me glorifier d’autre chose que de la croix de notre Seigneur Jésus Christ, par qui le monde est crucifié pour moi, comme je le suis pour le monde !",
+            "en": "But God forbid that I should glory, save in the cross of our Lord Jesus Christ, by whom the world is crucified unto me, and I unto the world.",
+            "zh": "但我斷不以別的誇口、只誇我們主耶穌基督的十字架．因這十字架、就我而論、世界已經釘在十字架上．就世界而論、我已經釘在十字架上。",
+            "jp": "しかし、わたし自身じしんには、わたしたちの主しゅイエス・キリストの十字架じゅうじか以外いがいに、誇ほこりとするものは、断だんじてあってはならない。この十字架じゅうじかにつけられて、この世よはわたしに対たいして死しに、わたしもこの世よに対たいして死しんでしまったのである。",
+            "kr": "그러나 내게는 우리 주 예수 그리스도의 십자가 외에 결코 자랑할 것이 없으니 그리스도로 말미암아 세상이 나를 대하여 십자가에 못 박히고 내가 또한 세상을 대하여 그러하니라"
+          }
+        },
+        {
+          "key": "15",
+          "text": {
+            "fr": "Car ce n’est rien que d’être circoncis ou incirconcis ; ce qui est quelque chose, c’est d’être une nouvelle créature.",
+            "en": "For in Christ Jesus neither circumcision availeth any thing, nor uncircumcision, but a new creature.",
+            "zh": "受割禮不受割禮、都無關緊要、要緊的就是作新造的人。",
+            "jp": "割礼かつれいのあるなしは問題もんだいではなく、ただ、新あたらしく造つくられることこそ、重要じゅうようなのである。",
+            "kr": "할례나 무할례가 아무 것도 아니로되 오직 새로 지으심을 받는 것만이 중요하니라"
+          }
+        },
+        {
+          "key": "16",
+          "text": {
+            "fr": "Paix et miséricorde sur tous ceux qui suivront cette règle, et sur l’Israël de Dieu !",
+            "en": "And as many as walk according to this rule, peace be on them, and mercy, and upon the Israel of God.",
+            "zh": "凡照此理而行的、願平安憐憫加給他們、和　神的以色列民。",
+            "jp": "この法則ほうそくに従したがって進すすむ人々ひとびとの上うえに、平和へいわとあわれみとがあるように。また、神かみのイスラエルの上うえにあるように。",
+            "kr": "무릇 이 규례를 행하는 자에게와 하나님의 이스라엘에게 평강과 긍휼이 있을지어다"
+          }
+        },
+        {
+          "key": "17",
+          "text": {
+            "fr": "Que personne désormais ne me fasse de la peine, car je porte sur mon corps les marques de Jésus.",
+            "en": "From henceforth let no man trouble me: for I bear in my body the marks of the Lord Jesus.",
+            "zh": "從今以後、人都不要攪擾我．因為我身上帶著耶穌的印記。",
+            "jp": "だれも今後こんごは、わたしに煩わずらいをかけないでほしい。わたしは、イエスの焼やき印いんを身みに帯おびているのだから。",
+            "kr": "이 후로는 누구든지 나를 괴롭게 하지 말라 내가 내 몸에 예수의 흔적을 지니고 있노라"
+          }
+        },
+        {
+          "key": "18",
+          "text": {
+            "fr": "Frères, que la grâce de notre Seigneur Jésus Christ soit avec votre esprit ! Amen !",
+            "en": "Brethren, the grace of our Lord Jesus Christ be with your spirit. Amen.",
+            "zh": "弟兄們、願我主耶穌基督的恩常在你們心裡。阿們。",
+            "jp": "兄弟きょうだいたちよ。わたしたちの主しゅイエス・キリストの恵めぐみが、あなたがたの霊れいと共ともにあるように、アァメン。",
+            "kr": "형제들아 우리 주 예수 그리스도의 은혜가 너희 심령에 있을지어다 아멘"
+          }
+        }
+      ]
+    }
+  ]
+}
